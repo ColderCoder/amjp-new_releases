@@ -1,0 +1,21 @@
+name = "amjp-updater"
+main = "src/index.ts"
+compatibility_date = "2026-05-23"
+workers_dev = false
+preview_urls = false
+
+[triggers]
+crons = ["0 * * * *", "5,10,15,20,25,30,35,40,45,50,55 * * * *"]
+
+[vars]
+SECTION_TITLE = "New This Week"
+TELEGRAM_CHANNEL_ID = "-1003991834153"
+TELEGRAM_MAX_PUSH_PER_RUN = "20"
+TELEGRAM_SEND_INTERVAL_MS = "3200"
+GITHUB_OWNER = "ColderCoder"
+GITHUB_REPO = "amjp-new_releases"
+GITHUB_BRANCH = "main"
+GITHUB_AUTHOR_NAME = "amjp-updater"
+GITHUB_AUTHOR_EMAIL = "ColderCoder@users.noreply.github.com"
+GITHUB_DATA_PATH = "data/jp.json"
+GITHUB_STATE_PATH = "data/amjp-state.json"
