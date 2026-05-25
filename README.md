@@ -1,1 +1,1 @@
-# amjp-new_releases
+# AMJP New Releases
