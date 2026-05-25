@@ -1,0 +1,492 @@
+:root {
+  --bg: #f2f4f3;
+  --panel: #ffffff;
+  --panel-strong: #141414;
+  --text: #181611;
+  --muted: #626d73;
+  --line: #d8dde0;
+  --accent: #f04747;
+  --accent-2: #0f766e;
+  --shadow: 0 18px 48px rgba(18, 24, 28, 0.13);
+}
+
+[data-theme="dark"] {
+  --bg: #11120f;
+  --panel: #1b1c18;
+  --panel-strong: #f6f0e7;
+  --text: #f5efe6;
+  --muted: #b5aa9b;
+  --line: #34352f;
+  --accent: #ff5b5b;
+  --accent-2: #4fd1c5;
+  --shadow: 0 18px 48px rgba(0, 0, 0, 0.38);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+html {
+  min-height: 100%;
+  background:
+    linear-gradient(90deg, rgba(20, 20, 20, 0.035) 1px, transparent 1px),
+    linear-gradient(0deg, rgba(20, 20, 20, 0.035) 1px, transparent 1px),
+    var(--bg);
+  background-size: 34px 34px;
+  color: var(--text);
+  font-family: "Iowan Old Style", Georgia, "Times New Roman", serif;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px clamp(16px, 4vw, 44px);
+  border-bottom: 1px solid var(--line);
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(18px);
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  text-decoration: none;
+}
+
+.brand-mark {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  border: 1px solid var(--panel-strong);
+  background: var(--panel-strong);
+  color: var(--bg);
+  font-family: "Avenir Next", "Trebuchet MS", sans-serif;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.brand strong,
+.brand small {
+  display: block;
+  line-height: 1.05;
+}
+
+.brand strong {
+  font-size: 20px;
+}
+
+.brand small {
+  margin-top: 3px;
+  color: var(--muted);
+  font-family: "Avenir Next", "Trebuchet MS", sans-serif;
+  font-size: 12px;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+
+.search-shell {
+  display: flex;
+  align-items: center;
+  width: min(320px, 46vw);
+  height: 42px;
+  gap: 8px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  padding: 0 12px;
+}
+
+.search-shell svg,
+.icon-button svg {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 auto;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.search-shell input {
+  width: 100%;
+  min-width: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--text);
+  font: 500 14px/1 "Avenir Next", "Trebuchet MS", sans-serif;
+}
+
+.search-shell input::placeholder {
+  color: var(--muted);
+}
+
+.icon-button {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.icon-button:hover,
+.icon-button:focus-visible,
+.search-action:hover,
+.search-action:focus-visible {
+  border-color: var(--accent);
+  color: var(--accent);
+  outline: none;
+}
+
+main {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 32px 0 56px;
+}
+
+.summary {
+  display: flex;
+  align-items: end;
+  justify-content: flex-end;
+  gap: 24px;
+  padding: 18px 0 24px;
+}
+
+.meta-strip {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+  color: var(--muted);
+  font: 700 12px/1 "Avenir Next", "Trebuchet MS", sans-serif;
+  text-transform: uppercase;
+}
+
+.meta-strip > * {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  padding: 9px 10px;
+  text-decoration: none;
+}
+
+.telegram-link {
+  display: grid;
+  width: 33px;
+  min-width: 33px;
+  height: 32px;
+  place-items: center;
+  padding: 0;
+}
+
+.telegram-link svg {
+  width: 15px;
+  height: 15px;
+  fill: currentColor;
+}
+
+.status {
+  margin: 14px 0 24px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  padding: 16px;
+  color: var(--muted);
+  font: 600 14px/1.45 "Avenir Next", "Trebuchet MS", sans-serif;
+}
+
+.status[data-tone="error"] {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.release-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 18px;
+}
+
+.release-card {
+  position: relative;
+  min-width: 0;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  box-shadow: var(--shadow);
+}
+
+.release-card::before {
+  position: absolute;
+  inset: 0;
+  border-top: 3px solid var(--accent);
+  content: "";
+  pointer-events: none;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 180ms ease;
+}
+
+.release-card:hover::before {
+  transform: scaleX(1);
+}
+
+.artwork-link {
+  position: relative;
+  display: block;
+  aspect-ratio: 1;
+  overflow: hidden;
+  background: var(--panel-strong);
+}
+
+.artwork {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 220ms ease;
+}
+
+.release-card:hover .artwork {
+  transform: scale(1.035);
+}
+
+.artwork-placeholder {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: var(--bg);
+  font: 900 26px/1 "Avenir Next", "Trebuchet MS", sans-serif;
+}
+
+.release-body {
+  display: grid;
+  min-height: 138px;
+  grid-template-rows: auto auto auto 1fr;
+  gap: 8px;
+  padding: 13px;
+}
+
+.release-title {
+  display: -webkit-box;
+  min-height: 2.5em;
+  overflow: hidden;
+  color: var(--text);
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.22;
+  text-decoration: none;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.release-title:hover,
+.release-title:focus-visible {
+  color: var(--accent);
+  outline: none;
+}
+
+.release-artist {
+  margin: 0;
+  overflow: hidden;
+  color: var(--muted);
+  font: 700 13px/1.35 "Avenir Next", "Trebuchet MS", sans-serif;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.release-date {
+  width: fit-content;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--panel) 70%, var(--bg));
+  color: var(--muted);
+  padding: 5px 7px;
+  font: 800 11px/1 "Avenir Next", "Trebuchet MS", sans-serif;
+  text-transform: uppercase;
+}
+
+.release-actions {
+  display: flex;
+  align-items: end;
+  gap: 7px;
+  padding-top: 8px;
+}
+
+.search-action {
+  display: grid;
+  width: 30px;
+  height: 30px;
+  place-items: center;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--panel) 70%, var(--bg));
+}
+
+.search-action img {
+  width: 17px;
+  height: 17px;
+  object-fit: contain;
+}
+
+[data-view="list"] .release-grid {
+  grid-template-columns: 1fr;
+}
+
+[data-view="list"] .release-card {
+  display: grid;
+  grid-template-columns: 104px minmax(0, 1fr);
+  height: 104px;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+[data-view="list"] .artwork-link {
+  height: 104px;
+  aspect-ratio: auto;
+}
+
+[data-view="list"] .release-body {
+  display: grid;
+  height: 104px;
+  min-height: 0;
+  grid-template-columns: minmax(0, 1fr) max-content;
+  grid-template-rows: auto auto auto;
+  align-content: start;
+  column-gap: 18px;
+  row-gap: 5px;
+  padding: 12px 14px;
+  overflow: hidden;
+}
+
+[data-view="list"] .release-title {
+  grid-column: 1;
+  grid-row: 1;
+  min-height: 0;
+  font-size: 18px;
+  line-height: 1.2;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 1;
+}
+
+[data-view="list"] .release-artist {
+  grid-column: 1;
+  grid-row: 2;
+  align-self: start;
+}
+
+[data-view="list"] .release-date {
+  grid-column: 1;
+  grid-row: 3;
+  align-self: start;
+}
+
+[data-view="list"] .release-actions {
+  display: grid;
+  grid-column: 2;
+  grid-row: 1 / 4;
+  grid-template-columns: repeat(4, 30px);
+  align-self: center;
+  justify-self: end;
+  gap: 7px;
+  padding-top: 0;
+}
+
+@media (max-width: 720px) {
+  .topbar,
+  .summary {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .toolbar {
+    width: 100%;
+  }
+
+  .search-shell {
+    width: 100%;
+  }
+
+  .summary {
+    gap: 16px;
+  }
+
+  h1 {
+    font-size: 46px;
+  }
+
+  .meta-strip {
+    justify-content: flex-start;
+  }
+
+  .release-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+
+  [data-view="list"] .release-card {
+    grid-template-columns: 88px minmax(0, 1fr);
+    height: 88px;
+  }
+
+  [data-view="list"] .artwork-link,
+  [data-view="list"] .release-body {
+    height: 88px;
+  }
+
+  [data-view="list"] .release-body {
+    grid-template-columns: minmax(0, 1fr) 56px;
+    row-gap: 4px;
+    column-gap: 10px;
+    padding: 9px 10px;
+  }
+
+  [data-view="list"] .release-title {
+    font-size: 15px;
+  }
+
+  [data-view="list"] .release-date {
+    padding: 4px 6px;
+    font-size: 10px;
+  }
+
+  [data-view="list"] .release-actions {
+    grid-template-columns: repeat(2, 26px);
+    grid-auto-rows: 26px;
+    gap: 4px;
+  }
+
+  [data-view="list"] .search-action {
+    width: 26px;
+    height: 26px;
+  }
+
+  [data-view="list"] .search-action img {
+    width: 15px;
+    height: 15px;
+  }
+}
