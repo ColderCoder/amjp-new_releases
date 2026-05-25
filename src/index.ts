@@ -323,7 +323,7 @@ export class TelegramDrain implements DurableObject {
 
 async function refreshCatalogAndScheduleTelegramDrain(env: Env): Promise<RefreshCatalogResult> {
   const result = await refreshCatalog(env, { pushTelegram: true });
-  if (result.telegram?.pendingCount && result.telegram.pendingCount > 0) {
+  if (result.telegram?.enabled && result.telegram.pendingCount > 0) {
     await scheduleTelegramDrain(env);
   } else {
     await clearTelegramDrain(env);
