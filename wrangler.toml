@@ -5,7 +5,15 @@ workers_dev = false
 preview_urls = false
 
 [triggers]
-crons = ["0 * * * *", "5,10,15,20,25,30,35,40,45,50,55 * * * *"]
+crons = ["0 * * * *"]
+
+[[durable_objects.bindings]]
+name = "TELEGRAM_DRAIN"
+class_name = "TelegramDrain"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["TelegramDrain"]
 
 [vars]
 SECTION_TITLE = "New This Week"

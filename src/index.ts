@@ -1,4 +1,5 @@
 export interface Env {
+  TELEGRAM_DRAIN: DurableObjectNamespace;
   SECTION_TITLE?: string;
   TELEGRAM_BOT_TOKEN?: string;
   TELEGRAM_CHANNEL_ID?: string;
@@ -256,7 +257,8 @@ const TELEGRAM_MAX_RETRY_AFTER_SECONDS = 30;
 const TELEGRAM_MAX_RETRY_ATTEMPTS = 2;
 const TELEGRAM_ITEM_MARKER_PREFIX = "AMJP:";
 const FULL_REFRESH_CRON = "0 * * * *";
-const TELEGRAM_DRAIN_CRON = "5,10,15,20,25,30,35,40,45,50,55 * * * *";
+const TELEGRAM_DRAIN_OBJECT_NAME = "telegram-drain";
+const TELEGRAM_DRAIN_ALARM_DELAY_MS = 5 * 60 * 1000;
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
   "(KHTML, like Gecko) Chrome/120.0 Safari/537.36";
@@ -265,19 +267,70 @@ let tokenCache: TokenCache | null = null;
 
 export default {
   async scheduled(controller, env, ctx) {
-    if (controller.cron === TELEGRAM_DRAIN_CRON) {
-      ctx.waitUntil(drainTelegramUpdates(env));
-      return;
-    }
-
     if (controller.cron === FULL_REFRESH_CRON) {
-      ctx.waitUntil(refreshCatalog(env, { pushTelegram: true }));
+      ctx.waitUntil(refreshCatalogAndScheduleTelegramDrain(env));
       return;
     }
 
-    ctx.waitUntil(refreshCatalog(env, { pushTelegram: true }));
+    ctx.waitUntil(refreshCatalogAndScheduleTelegramDrain(env));
   }
 } satisfies ExportedHandler<Env>;
+
+export class TelegramDrain implements DurableObject {
+  constructor(private readonly state: DurableObjectState, private readonly env: Env) {}
+
+  async fetch(request: Request): Promise<Response> {
+    const url = new URL(request.url);
+    if (request.method === "POST" && url.pathname === "/schedule") {
+      const scheduledAt = await this.scheduleNextDrain();
+      return jsonResponse({ scheduledAt });
+    }
+
+    if (request.method === "POST" && url.pathname === "/clear") {
+      await this.state.storage.deleteAlarm();
+      return jsonResponse({ cleared: true });
+    }
+
+    return new Response("Not found", { status: 404 });
+  }
+
+  async alarm(): Promise<void> {
+    try {
+      const result = await drainTelegramUpdates(this.env);
+      if (result && result.pendingCount > 0) {
+        await this.scheduleNextDrain();
+        return;
+      }
+
+      await this.state.storage.deleteAlarm();
+    } catch (error) {
+      await this.scheduleNextDrain();
+      throw error;
+    }
+  }
+
+  private async scheduleNextDrain(): Promise<string> {
+    const nextAlarm = Date.now() + TELEGRAM_DRAIN_ALARM_DELAY_MS;
+    const existingAlarm = await this.state.storage.getAlarm();
+    if (!existingAlarm || existingAlarm > nextAlarm) {
+      await this.state.storage.setAlarm(nextAlarm);
+      return new Date(nextAlarm).toISOString();
+    }
+
+    return new Date(existingAlarm).toISOString();
+  }
+}
+
+async function refreshCatalogAndScheduleTelegramDrain(env: Env): Promise<RefreshCatalogResult> {
+  const result = await refreshCatalog(env, { pushTelegram: true });
+  if (result.telegram?.pendingCount && result.telegram.pendingCount > 0) {
+    await scheduleTelegramDrain(env);
+  } else {
+    await clearTelegramDrain(env);
+  }
+
+  return result;
+}
 
 async function refreshCatalog(env: Env, options: RefreshCatalogOptions = {}): Promise<RefreshCatalogResult> {
   const snapshot = await readGithubSnapshot(env);
@@ -293,6 +346,19 @@ async function refreshCatalog(env: Env, options: RefreshCatalogOptions = {}): Pr
   return { payload, github: published.result, telegram };
 }
 
+async function scheduleTelegramDrain(env: Env): Promise<void> {
+  await telegramDrainStub(env).fetch("https://telegram-drain.local/schedule", { method: "POST" });
+}
+
+async function clearTelegramDrain(env: Env): Promise<void> {
+  await telegramDrainStub(env).fetch("https://telegram-drain.local/clear", { method: "POST" });
+}
+
+function telegramDrainStub(env: Env): DurableObjectStub {
+  const id = env.TELEGRAM_DRAIN.idFromName(TELEGRAM_DRAIN_OBJECT_NAME);
+  return env.TELEGRAM_DRAIN.get(id);
+}
+
 async function drainTelegramUpdates(env: Env): Promise<TelegramPushResult | null> {
   const snapshot = await readGithubSnapshot(env);
   if (!snapshot.state || snapshot.state.pendingTelegramItemIds.length === 0) {
@@ -306,6 +372,16 @@ async function drainTelegramUpdates(env: Env): Promise<TelegramPushResult | null
   }
 
   return pushTelegramUpdates(env, payload, snapshot.state);
+}
+
+function jsonResponse(body: unknown, status = 200): Response {
+  return new Response(`${JSON.stringify(body, null, 2)}\n`, {
+    status,
+    headers: {
+      "content-type": "application/json; charset=utf-8",
+      "cache-control": "no-store"
+    }
+  });
 }
 
 async function publishCatalog(

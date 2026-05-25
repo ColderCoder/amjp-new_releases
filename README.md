@@ -12,12 +12,13 @@ The Worker fetches the current Apple Music Japan "New This Week" room, writes th
   - Compute a stable content hash.
   - Commit `data/jp.json` and `data/amjp-state.json` to the configured GitHub Pages branch only when content changes.
   - Send up to `TELEGRAM_MAX_PUSH_PER_RUN` pending Telegram messages.
-- `5,10,15,20,25,30,35,40,45,50,55 * * * *`: Telegram drain.
-  - Read existing GitHub JSON/state only.
-  - If `pendingTelegramItemIds` is empty, exit without touching Apple Music.
-  - Otherwise continue sending pending Telegram messages in small batches.
+- Durable Object alarm: Telegram drain.
+  - Scheduled only when the full refresh leaves `pendingTelegramItemIds` non-empty.
+  - Reads existing GitHub JSON/state only.
+  - Sends the next small batch.
+  - If more pending messages remain, schedules itself again five minutes later.
 
-This avoids long sleeps inside one cron invocation. If a large Apple Music update produces more than the per-run Telegram limit, the remaining messages are drained every five minutes.
+This avoids long sleeps inside one cron invocation and avoids fixed polling when there is no Telegram backlog. If a large Apple Music update produces more than the per-run Telegram limit, the remaining messages are drained by one-shot alarms every five minutes.
 
 ## GitHub State
 
@@ -66,6 +67,7 @@ Configured in `wrangler.toml`:
 
 - `workers_dev = false`
 - `preview_urls = false`
+- `TELEGRAM_DRAIN`: Durable Object binding used for one-shot drain alarms.
 - `SECTION_TITLE`: Apple Music section title to resolve.
 - `TELEGRAM_CHANNEL_ID`: target Telegram channel.
 - `TELEGRAM_MAX_PUSH_PER_RUN`: maximum Telegram messages per cron invocation.
