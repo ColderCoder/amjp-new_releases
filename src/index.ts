@@ -552,7 +552,6 @@ async function telegramResponse<T>(response: Response): Promise<TelegramApiRespo
 function telegramMessage(item: AppleMusicItem): string {
   return [
     `<a href="${escapeHtmlAttribute(item.url)}">${escapeHtml(item.title)}</a>`,
-    escapeHtml(item.artist),
     `${escapeHtml(item.releaseDate ?? "Unknown date")} | ${escapeHtml(titleCase(item.kind))}`
   ].filter((line) => line.length > 0).join("\n");
 }

@@ -35,8 +35,7 @@ Telegram messages are sent oldest first from the pending queue.
 Each message contains:
 
 1. Release title as an Apple Music link.
-2. Artist name.
-3. Release date and release type.
+2. Release date and release type.
 
 The Worker reads recent channel updates before sending, then removes already-seen release IDs from pending. It sends at most `TELEGRAM_MAX_PUSH_PER_RUN` messages per cron invocation and waits `TELEGRAM_SEND_INTERVAL_MS` between messages.
 
