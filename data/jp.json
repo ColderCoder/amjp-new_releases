@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T14:12:01.424Z",
+  "generatedAt": "2026-05-25T07:00:48.492Z",
   "source": "https://music.apple.com/jp/room/6771982321?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6771982321?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -766,6 +766,107 @@
       "tagline": null
     },
     {
+      "id": "1883979515",
+      "title": "Melting, Sometimes Bleeding - EP",
+      "artist": "Night Swimming",
+      "url": "https://music.apple.com/jp/album/melting-sometimes-bleeding-ep/1883979515?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/ea/a0/4feaa0c5-6d73-23a2-746d-3347b237ebf3/16313.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Indie Rock",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": "New EP"
+    },
+    {
+      "id": "1870432670",
+      "title": "Where the South Winds Wail",
+      "artist": "Gitkin",
+      "url": "https://music.apple.com/jp/album/where-the-south-winds-wail/1870432670?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/b3/dc/18b3dc84-a240-f9b2-7946-fbfedcd9afec/123599.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Worldwide",
+        "Music",
+        "Rock"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "1888282964",
+      "title": "Quelques Notes sur la Liberté (Original Motion Picture Soundtrack)",
+      "artist": "Michel Portal",
+      "url": "https://music.apple.com/jp/album/quelques-notes-sur-la-libert%C3%A9-original-motion-picture/1888282964?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/8f/ff/538fff52-8e6b-b6f8-7d27-8d6ebc6cb021/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Contemporary Jazz",
+        "Music",
+        "Jazz"
+      ],
+      "tagline": "New Soundtrack"
+    },
+    {
+      "id": "6769364809",
+      "title": "Manuela",
+      "artist": "Manu Manzo",
+      "url": "https://music.apple.com/jp/album/manuela/6769364809?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/0a/99/730a99d1-57e5-3cc5-bece-dff45b47c14f/3283578.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-22",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6765714219",
+      "title": "JOYAS QUE BAILAN II",
+      "artist": "Ronald Borjas",
+      "url": "https://music.apple.com/jp/album/joyas-que-bailan-ii/6765714219?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/9d/61/6d9d613b-7b4a-7f6b-d53c-5c9d170144a2/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Música tropical",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Release"
+    },
+    {
+      "id": "1882198986",
+      "title": "Clavecin XX",
+      "artist": "Justin Taylor, Orchestre National de Lille & Chloé Dufresne",
+      "url": "https://music.apple.com/jp/album/clavecin-xx/1882198986?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/46/93/3c469349-442a-e01b-079c-af93ca6e14cc/3701624510414.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "1891849316",
       "title": "EXPERIMENTAL RAP",
       "artist": "JPEGMAFIA",
@@ -1457,6 +1558,22 @@
       "tagline": "New Release"
     },
     {
+      "id": "6765589657",
+      "title": "Desire Path",
+      "artist": "Scratching",
+      "url": "https://music.apple.com/jp/album/desire-path/6765589657?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/a1/3e/5ca13e3b-f7db-0216-1170-ff8ede33cd77/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-20",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1896008196",
       "title": "Gongbu",
       "artist": "Balming Tiger",
@@ -1522,122 +1639,6 @@
         "Pop"
       ],
       "tagline": null
-    },
-    {
-      "id": "1896036390",
-      "title": "Motto",
-      "artist": "ITZY",
-      "url": "https://music.apple.com/jp/album/motto/1896036390?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/a5/67/b1a5678a-b784-ea7c-2d46-bef62a86a90f/8809928957715.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-18",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Mini Album"
-    },
-    {
-      "id": "1896401578",
-      "title": "Ascend-",
-      "artist": "ZEROBASEONE",
-      "url": "https://music.apple.com/jp/album/ascend/1896401578?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/f4/0d/c1f40d9b-29db-9409-94fa-8418440054df/4547366825138.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-18",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Mini Album"
-    },
-    {
-      "id": "6768300596",
-      "title": "QUINTESSENCE",
-      "artist": "TAEYANG",
-      "url": "https://music.apple.com/jp/album/quintessence/6768300596?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/4a/f4/3c4af49f-2bc1-6144-229f-f81822956fcc/ANTCD-A0000020062.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-18",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1891308308",
-      "title": "QUARTET",
-      "artist": "IS:SUE",
-      "url": "https://music.apple.com/jp/album/quartet/1891308308?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/ba/68/b2ba6859-c298-189d-2803-af8a8a18968e/26UMGIM35200.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-18",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6766383986",
-      "title": "Od",
-      "artist": "JNKMN",
-      "url": "https://music.apple.com/jp/album/od/6766383986?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/8d/d0/2a8dd047-d336-187e-12f7-d6be7ffce38d/4550756174402_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-18",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1894988459",
-      "title": "After-school Compass - EP",
-      "artist": "Claire-sensei",
-      "url": "https://music.apple.com/jp/album/%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9-ep/1894988459?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/d6/5d/bad65d20-b046-2736-4cd9-fee04ed496f2/4571614697574.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-18",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769526101",
-      "title": "EXIT 2B",
-      "artist": "B0YG1RL & NOVAGANG",
-      "url": "https://music.apple.com/jp/album/exit-2b/6769526101?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/89/22/7a892272-1bfd-cdb7-7416-9f505260c96b/4520.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-18",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "1896447673",
