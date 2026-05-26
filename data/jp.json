@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T09:00:44.392Z",
+  "generatedAt": "2026-05-26T07:00:48.450Z",
   "source": "https://music.apple.com/jp/room/6771982321?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6771982321?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -867,6 +867,40 @@
       "tagline": "New Album"
     },
     {
+      "id": "6766996826",
+      "title": "Vices - EP",
+      "artist": "Irfana & AAKASH",
+      "url": "https://music.apple.com/jp/album/vices-ep/6766996826?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/9b/69/a99b6971-8b1c-b5f0-a9ba-93e34d9bbcb8/820233326612.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-22",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1885987660",
+      "title": "Lótus - EP",
+      "artist": "Hands Like Houses",
+      "url": "https://music.apple.com/jp/album/l%C3%B3tus-ep/1885987660?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/91/b1/9691b170-3671-7650-cdcf-e0ed28306d16/820200692818.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": "New EP"
+    },
+    {
       "id": "1891849316",
       "title": "EXPERIMENTAL RAP",
       "artist": "JPEGMAFIA",
@@ -999,6 +1033,41 @@
         "Music"
       ],
       "tagline": "New EP"
+    },
+    {
+      "id": "1895714337",
+      "title": "Stranger",
+      "artist": "Kady Zadora",
+      "url": "https://music.apple.com/jp/album/stranger/1895714337?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/94/ad/c994ad20-7730-1479-b31f-94cd34306d3a/cover_4062851285568.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-21",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6767581095",
+      "title": "Dealer Is Back - EP",
+      "artist": "Mankirt Aulakh",
+      "url": "https://music.apple.com/jp/album/dealer-is-back-ep/6767581095?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d3/6c/3dd36c13-9734-cde5-8777-a3f1e6ee0556/8447721426467.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-21",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Punjabi",
+        "Music",
+        "Indian",
+        "Regional Indian",
+        "Punjabi Pop"
+      ],
+      "tagline": null
     },
     {
       "id": "1896399036",
@@ -1570,73 +1639,6 @@
       "genres": [
         "Alternative",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1896008196",
-      "title": "Gongbu",
-      "artist": "Balming Tiger",
-      "url": "https://music.apple.com/jp/album/gongbu/1896008196?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/10/f3/0a10f3a9-74e6-c51c-94f2-682233889db1/PA00218317_0_245739_jacket.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-19",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Pop",
-        "K-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6770596717",
-      "title": "Music Room: Lola Young",
-      "artist": "Lola Young",
-      "url": "https://music.apple.com/jp/album/music-room-lola-young/6770596717?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/e1/f0/5ee1f07d-1201-4430-19b6-d69f8efbc2bd/26UMGIM63387.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-19",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "Exclusive Live Album"
-    },
-    {
-      "id": "6769484976",
-      "title": "Live at Apple Music Radio",
-      "artist": "Claire Rosinkranz",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6769484976?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/3c/49/e13c49df-add7-9892-a861-f96bbf1ba142/075679575951.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-19",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
-      "id": "6769328211",
-      "title": "I.O.I 3rd MINI ALBUM (I.O.I : LOOP) - EP",
-      "artist": "I.O.I",
-      "url": "https://music.apple.com/jp/album/i-o-i-3rd-mini-album-i-o-i-loop-ep/6769328211?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/f0/d9/4ef0d927-e14f-49c7-b273-e92ed3ce354b/888272181623_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-19",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
       ],
       "tagline": null
     },
