@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T07:00:50.356Z",
+  "generatedAt": "2026-05-28T07:00:45.129Z",
   "source": "https://music.apple.com/jp/room/6771982321?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6771982321?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -1411,69 +1411,211 @@
       "tagline": null
     },
     {
-      "id": "1891849316",
-      "title": "EXPERIMENTAL RAP",
-      "artist": "JPEGMAFIA",
-      "url": "https://music.apple.com/jp/album/experimental-rap/1891849316?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/3f/5e/413f5e07-067f-ed0d-f64c-5ce2cd39ac3c/199806992463.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-21",
-      "trackCount": 25,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6769130677",
-      "title": "En Vivo Desde La Arena Monterrey",
-      "artist": "Cornelio Vega y Su Dinastía",
-      "url": "https://music.apple.com/jp/album/en-vivo-desde-la-arena-monterrey/6769130677?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/25/cc/5425cc96-bffe-52e5-5b98-571eb542c7c8/114242.jpg/632x632bb.jpg",
+      "id": "1881772415",
+      "title": "TONTO Sessions",
+      "artist": "PANTōNE VU",
+      "url": "https://music.apple.com/jp/album/tonto-sessions/1881772415?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/3a/42/953a4236-f728-4a78-d0ec-282087e89934/067003261043.png/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-05-21",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Live Album"
-    },
-    {
-      "id": "1894011077",
-      "title": "Superclásico, Vol. 3",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/supercl%C3%A1sico-vol-3/1894011077?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/ce/7b/9ece7be0-ee12-3150-0f44-305b07634858/3663729440853_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-21",
-      "trackCount": 15,
+      "releaseDate": "2026-05-22",
+      "trackCount": 12,
       "kind": "album",
       "genres": [
         "Electronic",
         "Music"
       ],
+      "tagline": null
+    },
+    {
+      "id": "1893037189",
+      "title": "Solace",
+      "artist": "Josefine Cronholm & Norrbotten Big Band",
+      "url": "https://music.apple.com/jp/album/solace/1893037189?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/88/59/0288590e-f91a-6737-4824-618bdc9e878a/822359004351.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music",
+        "Crossover Jazz",
+        "Big Band"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1884285595",
+      "title": "Have I Lost My Magic?",
+      "artist": "To Athena",
+      "url": "https://music.apple.com/jp/album/have-i-lost-my-magic/1884285595?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/be/bd/14bebdaa-ed59-0128-06e4-692e55af0cc0/7640337190284.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1858578377",
+      "title": "Keep the Funk Alive",
+      "artist": "Soulounge",
+      "url": "https://music.apple.com/jp/album/keep-the-funk-alive/1858578377?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2d/17/212d17cc-d804-b80d-593e-f03eee8ec044/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Soul",
+        "Music",
+        "R&B/Soul",
+        "Funk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1892912451",
+      "title": "title.txt",
+      "artist": "Demuja",
+      "url": "https://music.apple.com/jp/album/title-txt/1892912451?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/bc/0a/29bc0a4a-79cf-9726-263c-1a2969d1d9f8/5050580873483.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1875408437",
+      "title": "Things Are Looking Up",
+      "artist": "Billy Lockett",
+      "url": "https://music.apple.com/jp/album/things-are-looking-up/1875408437?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/54/d7/8b54d7b3-86b5-977d-62dd-ee164f75fbe8/5037300562735.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-22",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music",
+        "Singer/Songwriter"
+      ],
       "tagline": "New Album"
     },
     {
-      "id": "1895965531",
-      "title": "Only Here For A Good Time - EP",
-      "artist": "Combichrist",
-      "url": "https://music.apple.com/jp/album/only-here-for-a-good-time-ep/1895965531?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/1a/9a/ca1a9a90-87ff-fd88-61fd-8c8a7250b516/cover.jpg/632x632bb.jpg",
+      "id": "1890296406",
+      "title": "Te Toca",
+      "artist": "Cimafunk & La Tribu",
+      "url": "https://music.apple.com/jp/album/te-toca/1890296406?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/eb/f1/6febf11a-9d4f-ca34-abc1-b782234e5771/820200804136.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-05-21",
+      "releaseDate": "2026-05-22",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1887325102",
+      "title": "Hold Fast to Dreams - Songs by Florence Price",
+      "artist": "Ted Black & Sascha el Mouissi",
+      "url": "https://music.apple.com/jp/album/hold-fast-to-dreams-songs-by-florence-price/1887325102?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/86/e6/e686e670-68bc-df65-9439-9aca10cc4ae7/26UMGIM20881.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 34,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Art Song",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1875295906",
+      "title": "Say & Kerschek: Trumpet Double Concertos",
+      "artist": "Matthias Höfs, Christian Schmitt, Christoph Altstaedt, Tillmann Höfs & Münchner Rundfunkorchester",
+      "url": "https://music.apple.com/jp/album/say-kerschek-trumpet-double-concertos/1875295906?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/21/50/89215041-92a3-3441-d3f8-06f32b9cb0c3/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Orchestral",
+        "Brass & Woodwinds",
+        "Contemporary Era"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895000282",
+      "title": "Berlioz: Symphonie fantastique, H. 48 (Live at Verbier Festival, 2007)",
+      "artist": "Verbier Festival Orchestra & Zubin Mehta",
+      "url": "https://music.apple.com/jp/album/berlioz-symphonie-fantastique-h-48-live-at-verbier/1895000282?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/6e/58/616e58f8-93eb-1193-c040-8d5ea7fcd5df/26UMGIM44835.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
       "trackCount": 5,
       "kind": "album",
       "genres": [
-        "Metal",
+        "Classical",
         "Music",
-        "Rock"
+        "Orchestral"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1876502958",
+      "title": "Cinematic - EP",
+      "artist": "Yuqiao",
+      "url": "https://music.apple.com/jp/album/cinematic-ep/1876502958?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/b3/63/64b363a6-8560-d051-62c6-82177bc02cc0/5059449431871.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical",
+        "Piano",
+        "Solo Instrumental"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1882977563",
+      "title": "Slowly - EP",
+      "artist": "hey!blondie",
+      "url": "https://music.apple.com/jp/album/slowly-ep/1882977563?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/24/cc/1f24cc13-9c14-9535-1300-142d7c4274b3/5059449256559.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-22",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Piano"
       ],
       "tagline": null
     },
@@ -1495,23 +1637,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "1895978154",
-      "title": "Cambio de Clima - EP",
-      "artist": "El Propio",
-      "url": "https://music.apple.com/jp/album/cambio-de-clima-ep/1895978154?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/5b/d8/775bd8f5-59ec-cdff-bbae-1ed35e26cc19/0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-21",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Música tropical",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New EP"
-    },
-    {
       "id": "6767338763",
       "title": "Beats In Space 207: Tim Sweeney (DJ Mix)",
       "artist": "Tim Sweeney",
@@ -1527,123 +1652,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "1891439309",
-      "title": "PRODIGY",
-      "artist": "Tkandz",
-      "url": "https://music.apple.com/jp/album/prodigy/1891439309?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/a9/d0/22a9d0ea-b425-1b50-9379-7e75c89dfee5/075679582874.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-21",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "1895714337",
-      "title": "Stranger",
-      "artist": "Kady Zadora",
-      "url": "https://music.apple.com/jp/album/stranger/1895714337?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/94/ad/c994ad20-7730-1479-b31f-94cd34306d3a/cover_4062851285568.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-21",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6767581095",
-      "title": "Dealer Is Back - EP",
-      "artist": "Mankirt Aulakh",
-      "url": "https://music.apple.com/jp/album/dealer-is-back-ep/6767581095?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/d3/6c/3dd36c13-9734-cde5-8777-a3f1e6ee0556/8447721426467.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-21",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Punjabi",
-        "Music",
-        "Indian",
-        "Regional Indian",
-        "Punjabi Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895752745",
-      "title": "KAMELEON (Bruno) - EP",
-      "artist": "Bruno X Spacc",
-      "url": "https://music.apple.com/jp/album/kameleon-bruno-ep/1895752745?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/a0/f0/b9a0f051-c4c0-d97f-0234-6d003c068407/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-21",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1878448269",
-      "title": "eeelluminagee",
-      "artist": "eee gee",
-      "url": "https://music.apple.com/jp/album/eeelluminagee/1878448269?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/00/25/e3002512-1262-c3e8-b288-2556bb1300c9/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-21",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895122945",
-      "title": "Danse Méditerranée - EP",
-      "artist": "Folamour & Léon Phal",
-      "url": "https://music.apple.com/jp/album/danse-m%C3%A9diterran%C3%A9e-ep/1895122945?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/bf/34/d9bf3435-be78-d9d8-e4f2-0bc8a4d4344a/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-21",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1886766597",
-      "title": "Monochrome - EP",
-      "artist": "Ash Forrest",
-      "url": "https://music.apple.com/jp/album/monochrome-ep/1886766597?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/c9/5f/bbc95fef-d1af-a0df-e304-08a70850845d/5059449256702.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-21",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Classical Crossover",
-        "Music",
-        "Classical"
-      ],
-      "tagline": null
     },
     {
       "id": "1896447673",
