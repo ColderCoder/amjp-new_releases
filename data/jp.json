@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T19:00:11.990Z",
+  "generatedAt": "2026-05-28T20:00:11.445Z",
   "source": "https://music.apple.com/jp/room/6771982321?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6771982321?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -15,7 +15,7 @@
       "title": "The Boys of Dungeon Lane",
       "artist": "Paul McCartney",
       "url": "https://music.apple.com/jp/album/the-boys-of-dungeon-lane/1887402919?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/4a/7f/414a7fbe-4719-48fc-5648-1be00e4ec0b1/26UMGIM32367.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/46/fd/ab46fd86-9b90-1375-c5e2-a0110b49d11f/ticket.rdkvzlmp.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-05-29",
       "trackCount": 14,
@@ -24,7 +24,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1894092339",
@@ -40,7 +40,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Release"
     },
     {
       "id": "1877229738",
@@ -56,7 +56,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1890015523",
@@ -137,7 +137,7 @@
         "Soundtrack",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Soundtrack"
     },
     {
       "id": "6769579992",
@@ -153,7 +153,7 @@
         "Latin",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Album"
     },
     {
       "id": "6770745662",
@@ -1410,7 +1410,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6773362108",
