@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T04:00:10.850Z",
+  "generatedAt": "2026-05-29T05:00:10.763Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 100,
   "items": [
+    {
+      "id": "6771242431",
+      "title": "LEMONADE - The 2nd Album",
+      "artist": "aespa",
+      "url": "https://music.apple.com/jp/album/lemonade-the-2nd-album/6771242431?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/b0/0c/1eb00ca6-7dfd-c92c-d47f-e2aebbbae438/827568005519.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-29",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "K-Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
     {
       "id": "6773834736",
       "title": "Long Live Loud",
@@ -174,6 +191,23 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6774372200",
+      "title": "Big Mama",
+      "artist": "Latto",
+      "url": "https://music.apple.com/jp/album/big-mama/6774372200?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/75/0f/78750f43-51a6-972d-b0e9-127fe0b00d85/196874450932.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-29",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "1894092339",
@@ -563,22 +597,6 @@
       "kind": "album",
       "genres": [
         "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1887317375",
-      "title": "Movement",
-      "artist": "Petit Biscuit",
-      "url": "https://music.apple.com/jp/album/movement/1887317375?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/5e/c0/7b5ec0c2-63ac-e98b-64ce-d48747affb5f/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-29",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Electronic",
         "Music"
       ],
       "tagline": null
@@ -1555,23 +1573,6 @@
         "K-Pop"
       ],
       "tagline": null
-    },
-    {
-      "id": "1892136714",
-      "title": "bitknot",
-      "artist": "feeble little horse",
-      "url": "https://music.apple.com/jp/album/bitknot/1892136714?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/c2/73/86c27309-6d66-2f09-06a7-5126fddddd56/463.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-26",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Indie Rock"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6768890746",
