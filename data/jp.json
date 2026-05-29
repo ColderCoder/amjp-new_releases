@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T23:00:10.978Z",
+  "generatedAt": "2026-05-29T00:00:11.004Z",
   "source": "https://music.apple.com/jp/room/6771982321?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6771982321?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -235,6 +235,23 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6770654729",
+      "title": "La Voz Favorita",
+      "artist": "Jay Wheeler",
+      "url": "https://music.apple.com/jp/album/la-voz-favorita/6770654729?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/98/7a/71987aa4-557e-61fd-66c8-a5536d21d31c/ticket.snrwquok.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-29",
+      "trackCount": 24,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music",
+        "Urbano latino"
+      ],
+      "tagline": " New Album"
     },
     {
       "id": "1875302904",
@@ -1347,39 +1364,6 @@
       "tagline": null
     },
     {
-      "id": "1882015152",
-      "title": "Obsidiana",
-      "artist": "J. Zunz",
-      "url": "https://music.apple.com/jp/album/obsidiana/1882015152?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/4f/b1/584fb1ed-a27f-2856-fa0c-16ff5b01ef7a/16257.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-29",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769712768",
-      "title": "Head Fuse - EP",
-      "artist": "Identified Patient",
-      "url": "https://music.apple.com/jp/album/head-fuse-ep/6769712768?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/94/f8/b894f85d-8d7d-beed-9c4f-28e07cb45f70/6154318467438.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-29",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6769567568",
       "title": "ACOMODO",
       "artist": "Tito Double P",
@@ -1395,6 +1379,23 @@
         "Latin"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6767367501",
+      "title": "Con dolor - EP",
+      "artist": "Grupo Frontera",
+      "url": "https://music.apple.com/jp/album/con-dolor-ep/6767367501?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/39/94/8a39941b-145a-171f-de75-cee77830df92/820233300926.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-28",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New EP"
     },
     {
       "id": "6769167054",
