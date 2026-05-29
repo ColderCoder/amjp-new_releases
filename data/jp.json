@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T09:00:11.723Z",
+  "generatedAt": "2026-05-29T17:00:52.615Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -405,22 +405,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6769259239",
-      "title": "U, Me & My Ego",
-      "artist": "Chxrry",
-      "url": "https://music.apple.com/jp/album/u-me-my-ego/6769259239?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/76/c1/9476c180-e179-a8df-df4b-f2a7e2173be6/26UMGIM63460.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-29",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
       "id": "6770654729",
       "title": "La Voz Favorita",
       "artist": "Jay Wheeler",
@@ -597,6 +581,22 @@
       "kind": "album",
       "genres": [
         "Country",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1887317375",
+      "title": "Movement",
+      "artist": "Petit Biscuit",
+      "url": "https://music.apple.com/jp/album/movement/1887317375?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/5e/c0/7b5ec0c2-63ac-e98b-64ce-d48747affb5f/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-29",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Electronic",
         "Music"
       ],
       "tagline": null
