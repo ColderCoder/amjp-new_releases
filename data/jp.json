@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T17:00:52.615Z",
+  "generatedAt": "2026-05-30T01:00:53.071Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -405,23 +405,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6770654729",
-      "title": "La Voz Favorita",
-      "artist": "Jay Wheeler",
-      "url": "https://music.apple.com/jp/album/la-voz-favorita/6770654729?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/98/7a/71987aa4-557e-61fd-66c8-a5536d21d31c/ticket.snrwquok.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-29",
-      "trackCount": 24,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music",
-        "Urbano latino"
-      ],
-      "tagline": " New Album"
-    },
-    {
       "id": "1875302904",
       "title": "ghosted - EP",
       "artist": "Saint Harison",
@@ -634,6 +617,23 @@
         "Latin"
       ],
       "tagline": "New EP"
+    },
+    {
+      "id": "6770654729",
+      "title": "La Voz Favorita",
+      "artist": "Jay Wheeler",
+      "url": "https://music.apple.com/jp/album/la-voz-favorita/6770654729?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/98/7a/71987aa4-557e-61fd-66c8-a5536d21d31c/ticket.snrwquok.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-28",
+      "trackCount": 24,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music",
+        "Urbano latino"
+      ],
+      "tagline": " New Album"
     },
     {
       "id": "6764289769",
