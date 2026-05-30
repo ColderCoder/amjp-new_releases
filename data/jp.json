@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T01:00:53.071Z",
+  "generatedAt": "2026-05-30T07:00:52.493Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -1575,6 +1575,23 @@
       "tagline": null
     },
     {
+      "id": "1892136714",
+      "title": "bitknot",
+      "artist": "feeble little horse",
+      "url": "https://music.apple.com/jp/album/bitknot/1892136714?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/c2/73/86c27309-6d66-2f09-06a7-5126fddddd56/463.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-26",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Indie Rock"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6768890746",
       "title": "Perfect Error 03 - EP",
       "artist": "Tokyo Young Vision",
@@ -1637,23 +1654,6 @@
       "genres": [
         "J-Pop",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768902033",
-      "title": "Street Story.",
-      "artist": "Neighbors Complain",
-      "url": "https://music.apple.com/jp/album/street-story/6768902033?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/c6/0d/68c60d92-a4ed-5c13-159c-b9f20af650d1/4550756467733_cover.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-23",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music",
-        "J-Pop"
       ],
       "tagline": null
     }
