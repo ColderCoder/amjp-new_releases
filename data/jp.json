@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-30T11:00:52.011Z",
-  "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
+  "generatedAt": "2026-05-31T07:01:00.496Z",
+  "source": "https://music.apple.com/jp/room/6774390485",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
   "roomId": "6774390485",
-  "roomDiscoverySource": "grouping-api",
-  "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
+  "roomDiscoverySource": "new-page-section",
+  "roomDiscoveryUrl": "https://music.apple.com/jp/new?l=en",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 100,
@@ -580,6 +580,39 @@
       "kind": "album",
       "genres": [
         "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1885981345",
+      "title": "My Nightmare Ends Where Yours Begin - EP",
+      "artist": "ARIADNE",
+      "url": "https://music.apple.com/jp/album/my-nightmare-ends-where-yours-begin-ep/1885981345?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/75/75/3775755c-4810-2c66-b7ee-2fff20321f36/artwork.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-29",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6766456688",
+      "title": "Live at The Gorge 2023",
+      "artist": "The Highwomen",
+      "url": "https://music.apple.com/jp/album/live-at-the-gorge-2023/6766456688?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/00/82/f200826e-cd83-6efd-d643-0c12e12580cf/8721466872599.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-29",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Country",
         "Music"
       ],
       "tagline": null
@@ -1621,39 +1654,6 @@
         "Hip-Hop/Rap",
         "Music",
         "New Age"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1896423293",
-      "title": "Arms",
-      "artist": "Nabewalks",
-      "url": "https://music.apple.com/jp/album/arms/1896423293?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/c5/bf/82c5bfa2-684f-7f62-9835-4c7cd4889e2d/4550756266091_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-24",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768168498",
-      "title": "KONISHI Special",
-      "artist": "Konishi So",
-      "url": "https://music.apple.com/jp/album/%E3%82%B3%E3%83%8B%E3%82%B7%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB/6768168498?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/8b/6a/f08b6a1b-642f-2206-ce77-d24449e96f7f/4500000078550.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-24",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
       ],
       "tagline": null
     }
