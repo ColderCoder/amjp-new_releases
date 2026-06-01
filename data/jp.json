@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T04:00:50.638Z",
+  "generatedAt": "2026-06-01T07:00:49.565Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&platform=web",
   "storefront": "jp",
@@ -613,6 +613,38 @@
       "kind": "album",
       "genres": [
         "Country",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1883176795",
+      "title": "Cut A Silhouette",
+      "artist": "Sparta",
+      "url": "https://music.apple.com/jp/album/cut-a-silhouette/1883176795?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/80/a5/a280a556-ecc6-f579-f011-cb7ad79aac81/794558054768.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-29",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773099600",
+      "title": "Mile End Kicks (Music Inspired by the Motion Picture)",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/mile-end-kicks-music-inspired-by-the-motion-picture/6773099600?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/9d/95/589d953d-9cac-4b84-5fa9-6cb1fc9ec41f/823375187745_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-29",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
         "Music"
       ],
       "tagline": null
@@ -1623,39 +1655,6 @@
         "Indie Rock"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6768890746",
-      "title": "Perfect Error 03 - EP",
-      "artist": "Tokyo Young Vision",
-      "url": "https://music.apple.com/jp/album/perfect-error-03-ep/6768890746?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/93/b3/7693b3a1-9a20-7deb-508d-a4b5671fbf89/4550756465937_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-25",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768650814",
-      "title": "Sedition",
-      "artist": "Young Coco",
-      "url": "https://music.apple.com/jp/album/sedition/6768650814?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/c7/10/2dc7106a-0109-74ef-98dd-f05599f8c156/4550756435213_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-25",
-      "trackCount": 28,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "New Age"
-      ],
-      "tagline": null
     }
   ]
 }
