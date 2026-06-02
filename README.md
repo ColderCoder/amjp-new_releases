@@ -25,9 +25,11 @@ This avoids long sleeps inside one cron invocation and avoids fixed polling when
 The Worker writes two files:
 
 - `data/jp.json`: public catalog data consumed by the static page.
-- `data/amjp-state.json`: operational state with the stable content hash, known item IDs, Telegram sent IDs, and Telegram pending IDs.
+- `data/amjp-state.json`: operational state with the stable content hash, catalog item limit, known item IDs, Telegram sent IDs, and Telegram pending IDs.
 
 The content hash excludes `generatedAt`, so hourly runs do not create commits unless the release content changes.
+
+When the catalog item limit increases, releases newly exposed below the previous limit are added to the known IDs without creating historical Telegram notifications.
 
 ## Telegram Behavior
 
@@ -36,9 +38,9 @@ Telegram messages are sent oldest first from the pending queue.
 Each message contains:
 
 1. Release title as an Apple Music link.
-2. Release date and release type.
+2. Release date.
 
-The Worker reads recent channel updates before sending, then removes already-seen release IDs from pending. It sends at most `TELEGRAM_MAX_PUSH_PER_RUN` messages per cron invocation and waits `TELEGRAM_SEND_INTERVAL_MS` between messages.
+The Worker reads up to 300 recent channel updates in three Telegram Bot API pages before sending, then removes already-seen release IDs from pending. It sends at most `TELEGRAM_MAX_PUSH_PER_RUN` messages per cron invocation and waits `TELEGRAM_SEND_INTERVAL_MS` between messages.
 
 Rate limiting is handled conservatively:
 

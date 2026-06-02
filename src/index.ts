@@ -178,6 +178,7 @@ type TelegramApiResponse<T> = {
 
 type PublishedState = {
   version: 1;
+  catalogItemLimit: number;
   contentHash: string;
   contentUpdatedAt: string;
   lastPublishedAt: string;
@@ -250,7 +251,10 @@ const NEW_PAGE_URL = `https://music.apple.com/${STOREFRONT}/new?l=en`;
 const NEW_RELEASES_ENTRY_URL = `https://music.apple.com/${STOREFRONT}/browse/new-releases?l=en-US`;
 const TOKEN_PAGE_URL = "https://music.apple.com/cn";
 const TOKEN_CACHE_SKEW_MS = 60 * 60 * 1000;
-const TELEGRAM_RECENT_MESSAGE_LIMIT = 100;
+const LEGACY_APPLE_MUSIC_ROOM_CONTENT_LIMIT = 100;
+const APPLE_MUSIC_ROOM_CONTENT_LIMIT = 300;
+const TELEGRAM_RECENT_UPDATE_LIMIT = 300;
+const TELEGRAM_GET_UPDATES_PAGE_LIMIT = 100;
 const DEFAULT_TELEGRAM_MAX_PUSH_PER_RUN = 20;
 const DEFAULT_TELEGRAM_SEND_INTERVAL_MS = 3200;
 const TELEGRAM_MAX_RETRY_AFTER_SECONDS = 30;
@@ -396,8 +400,11 @@ async function publishCatalog(
   const existingSentIds = previousState?.sentTelegramItemIds ?? payload.items.map((item) => item.id);
   const existingPendingIds = previousState?.pendingTelegramItemIds ?? [];
   const contentChanged = !previousState || previousState.contentHash !== contentHash;
+  const telegramCatalogItems = previousState
+    ? payload.items.slice(0, previousState.catalogItemLimit)
+    : payload.items;
   const newPendingIds = contentChanged && previousState
-    ? payload.items
+    ? telegramCatalogItems
         .slice()
         .reverse()
         .map((item) => item.id)
@@ -405,6 +412,7 @@ async function publishCatalog(
     : [];
   const state: PublishedState = {
     version: 1,
+    catalogItemLimit: APPLE_MUSIC_ROOM_CONTENT_LIMIT,
     contentHash,
     contentUpdatedAt: contentChanged ? payload.generatedAt : previousState.contentUpdatedAt,
     lastPublishedAt: contentChanged ? now : previousState.lastPublishedAt,
@@ -539,11 +547,7 @@ async function pushTelegramUpdates(
 
 async function readRecentTelegramItemIds(env: Env): Promise<{ itemIds: Set<string>; warning?: string }> {
   try {
-    const updates = await telegramApi<TelegramUpdate[]>(env, "getUpdates", {
-      offset: -TELEGRAM_RECENT_MESSAGE_LIMIT,
-      limit: TELEGRAM_RECENT_MESSAGE_LIMIT,
-      allowed_updates: ["channel_post"]
-    });
+    const updates = await readRecentTelegramUpdates(env);
     const channelId = telegramChannelId(env);
     const itemIds = new Set<string>();
 
@@ -568,6 +572,29 @@ async function readRecentTelegramItemIds(env: Env): Promise<{ itemIds: Set<strin
       warning: error instanceof Error ? error.message : String(error)
     };
   }
+}
+
+async function readRecentTelegramUpdates(env: Env): Promise<TelegramUpdate[]> {
+  const updates: TelegramUpdate[] = [];
+  let offset = -TELEGRAM_RECENT_UPDATE_LIMIT;
+
+  while (updates.length < TELEGRAM_RECENT_UPDATE_LIMIT) {
+    const limit = Math.min(TELEGRAM_GET_UPDATES_PAGE_LIMIT, TELEGRAM_RECENT_UPDATE_LIMIT - updates.length);
+    const page = await telegramApi<TelegramUpdate[]>(env, "getUpdates", {
+      offset,
+      limit,
+      allowed_updates: ["channel_post"]
+    });
+    updates.push(...page);
+
+    if (page.length < limit) {
+      break;
+    }
+
+    offset = Math.max(...page.map((update) => update.update_id)) + 1;
+  }
+
+  return updates;
 }
 
 async function sendTelegramRelease(env: Env, item: AppleMusicItem): Promise<number> {
@@ -628,7 +655,7 @@ async function telegramResponse<T>(response: Response): Promise<TelegramApiRespo
 function telegramMessage(item: AppleMusicItem): string {
   return [
     `<a href="${escapeHtmlAttribute(item.url)}">${escapeHtml(item.title)}</a>`,
-    `${escapeHtml(item.releaseDate ?? "Unknown date")} | ${escapeHtml(titleCase(item.kind))}`
+    escapeHtml(item.releaseDate ?? "Unknown date")
   ].filter((line) => line.length > 0).join("\n");
 }
 
@@ -777,6 +804,9 @@ function parsePublishedState(text: string): PublishedState | null {
 
     return {
       version: 1,
+      catalogItemLimit: Number.isInteger(state.catalogItemLimit) && state.catalogItemLimit > 0
+        ? state.catalogItemLimit
+        : LEGACY_APPLE_MUSIC_ROOM_CONTENT_LIMIT,
       contentHash: state.contentHash,
       contentUpdatedAt: state.contentUpdatedAt || "",
       lastPublishedAt: state.lastPublishedAt || "",
@@ -868,10 +898,6 @@ function parsePositiveInteger(value: string | null | undefined): number | undefi
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-function titleCase(value: string): string {
-  return `${value.slice(0, 1).toUpperCase()}${value.slice(1)}`;
 }
 
 function escapeHtml(value: string): string {
@@ -1144,6 +1170,7 @@ function appleMusicRoomApiUrl(roomId: string): string {
   url.searchParams.set("l", "en-US");
   url.searchParams.set("art[url]", "f");
   url.searchParams.set("format[resources]", "map");
+  url.searchParams.set("limit[contents]", String(APPLE_MUSIC_ROOM_CONTENT_LIMIT));
   url.searchParams.set("platform", "web");
   return url.toString();
 }
