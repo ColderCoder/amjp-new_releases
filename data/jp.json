@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T04:00:36.888Z",
+  "generatedAt": "2026-06-02T07:00:57.864Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3216,6 +3216,74 @@
       "tagline": null
     },
     {
+      "id": "1860443541",
+      "title": "Summer Nostalgia",
+      "artist": "Emily James",
+      "url": "https://music.apple.com/jp/album/summer-nostalgia/1860443541?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/29/ec/4329ecce-c200-6f18-b8ce-f3d4a85f44fb/067003187657.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-29",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771940464",
+      "title": "Rap Life: May 2026 (DJ Mix)",
+      "artist": "Vashtie",
+      "url": "https://music.apple.com/jp/album/rap-life-may-2026-dj-mix/6771940464?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/04/14/a204146e-b789-6008-1125-2942242a1077/201f2630-5deb-40d9-9c95-f4046478b0ab.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-29",
+      "trackCount": 29,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "R&B/Soul",
+        "Contemporary R&B"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "1877907409",
+      "title": "Inna Soul Steady Situation",
+      "artist": "Joey Quiñones",
+      "url": "https://music.apple.com/jp/album/inna-soul-steady-situation/1877907409?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/c3/14/b3c314c5-6bcc-0f6c-0153-0608c1443e74/63016.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-29",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1874978901",
+      "title": "Undead Melody",
+      "artist": "Dark Divine",
+      "url": "https://music.apple.com/jp/album/undead-melody/1874978901?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/84/ee/8684ee6c-c671-1d15-f428-889ec3dcecad/193436459914_DarkDivineUndeadMelody.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-29",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6769567568",
       "title": "ACOMODO",
       "artist": "Tito Double P",
@@ -4491,88 +4559,22 @@
       "tagline": null
     },
     {
-      "id": "6771346005",
-      "title": "Sequence 01: Curiosity - EP",
-      "artist": "AND2BLE",
-      "url": "https://music.apple.com/jp/album/sequence-01-curiosity-ep/6771346005?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/a5/8b/49a58bd6-38c7-ead7-0ba3-ca75a469428e/4547366825466.jpg/632x632bb.jpg",
+      "id": "6768720147",
+      "title": "EPM: Marcel Dettmann (DJ Mix)",
+      "artist": "Marcel Dettmann",
+      "url": "https://music.apple.com/jp/album/epm-marcel-dettmann-dj-mix/6768720147?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/9c/ed/a19cedfb-3872-35e0-94c8-4ab7e5919f6c/571b5a56-1db2-4a34-8e81-e1011a37b70c.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-05-26",
-      "trackCount": 5,
+      "releaseDate": "2026-05-27",
+      "trackCount": 23,
       "kind": "album",
       "genres": [
-        "K-Pop",
+        "Electronic",
         "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1892929584",
-      "title": "17.7 - EP",
-      "artist": "H//PE Princess",
-      "url": "https://music.apple.com/jp/album/17-7-ep/1892929584?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/0d/35/0b0d35c4-170b-b712-5e8e-36289a1e67c1/827568000828.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-26",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Pop",
-        "K-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1892136714",
-      "title": "bitknot",
-      "artist": "feeble little horse",
-      "url": "https://music.apple.com/jp/album/bitknot/1892136714?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/c2/73/86c27309-6d66-2f09-06a7-5126fddddd56/463.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-26",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Indie Rock"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6771658101",
-      "title": "BOYAGER 6 - EP",
-      "artist": "BOYFRIEND",
-      "url": "https://music.apple.com/jp/album/boyager-6-ep/6771658101?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/da/9e/41da9efe-9c12-24a2-587d-f8ace48c38f7/191953543697.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-26",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
         "Dance",
-        "Music"
+        "Techno"
       ],
-      "tagline": null
-    },
-    {
-      "id": "1866023235",
-      "title": "A Way In",
-      "artist": "Mitchum Yacoub",
-      "url": "https://music.apple.com/jp/album/a-way-in/1866023235?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/4b/da/c14bda63-2829-5329-5b5c-d76aaccaca4e/61227.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-26",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": "New Album"
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6772363451",
