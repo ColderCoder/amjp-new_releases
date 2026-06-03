@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T07:00:29.814Z",
+  "generatedAt": "2026-06-03T08:00:29.813Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -790,7 +790,7 @@
       "artist": "Matias Aguayo",
       "url": "https://music.apple.com/jp/album/anenoa/1868764781?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/85/a8/8885a80c-7edb-e1df-ce24-e8582fe32a7d/5059449384689.png/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-05-29",
       "trackCount": 11,
       "kind": "album",
