@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T21:00:25.116Z",
+  "generatedAt": "2026-06-04T22:00:24.031Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -186,7 +186,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1871227330",
@@ -283,7 +283,7 @@
         "Dance",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6774274214",
