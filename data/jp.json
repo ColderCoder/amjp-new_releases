@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T20:00:24.084Z",
+  "generatedAt": "2026-06-04T21:00:25.116Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -73,7 +73,7 @@
         "Soundtrack",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6776024723",
@@ -153,7 +153,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1884418567",
@@ -270,24 +270,6 @@
       "tagline": null
     },
     {
-      "id": "6772008450",
-      "title": "Pride 2026 (DJ Mix)",
-      "artist": "Scissor Sisters",
-      "url": "https://music.apple.com/jp/album/pride-2026-dj-mix/6772008450?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/07/f6/c307f6e7-886f-1188-33df-65df17b87888/04dd392a-3748-42b2-bdb2-bca14b94d358.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-05",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "R&B/Soul",
-        "Disco"
-      ],
-      "tagline": "Pride DJ Mix"
-    },
-    {
       "id": "1884730177",
       "title": "Free Your Mind",
       "artist": "Prospa",
@@ -318,24 +300,7 @@
         "Music",
         "Latin"
       ],
-      "tagline": null
-    },
-    {
-      "id": "6769867992",
-      "title": "Pride 2026 (DJ Mix)",
-      "artist": "Shaun Ross",
-      "url": "https://music.apple.com/jp/album/pride-2026-dj-mix/6769867992?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/e5/d5/22e5d58e-ca04-4226-7591-cca6160eda8a/b2ff85b7-c814-441c-a3c5-2c0eff4942c9.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-05",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": "Pride DJ Mix"
+      "tagline": "New Album"
     },
     {
       "id": "6773445783",
@@ -438,23 +403,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6773096202",
-      "title": "Pride 2026 (DJ Mix)",
-      "artist": "Juliana Huxtable",
-      "url": "https://music.apple.com/jp/album/pride-2026-dj-mix/6773096202?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/71/11/1871115f-c923-7fc3-e5ff-29941655b36f/6ce0df81-fb7d-4b9e-b343-b3ec531c6210.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-05",
-      "trackCount": 23,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Breakbeat"
-      ],
-      "tagline": "Pride DJ Mix"
-    },
-    {
       "id": "6767008094",
       "title": "No Hard Feelings (Deluxe)",
       "artist": "The Beaches",
@@ -484,23 +432,6 @@
         "Indie Pop",
         "Music",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773916852",
-      "title": "Pride 2026 (DJ Mix)",
-      "artist": "Shea Couleé",
-      "url": "https://music.apple.com/jp/album/pride-2026-dj-mix/6773916852?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/d1/d8/0ed1d8ca-dba4-6ebd-2b26-16841f31486b/72ad0b62-bd6a-4094-a43d-ecf3437bea7c.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-05",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
       ],
       "tagline": null
     },
@@ -1679,23 +1610,6 @@
       "tagline": null
     },
     {
-      "id": "6776022219",
-      "title": "DJ Meredith Marks: Disengage and Dance (The Pride Mix) [DJ Mix]",
-      "artist": "DJ Meredith Marks",
-      "url": "https://music.apple.com/jp/album/dj-meredith-marks-disengage-and-dance-the-pride-mix-dj-mix/6776022219?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/87/74/d38774a5-b74e-adb2-7c9c-675d55ae7057/36b18815-4d5c-4255-af92-8d538744ca18.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-05",
-      "trackCount": 23,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6774792837",
       "title": "Experts Only 054: Jackie Hollander Takeover (DJ Mix)",
       "artist": "Jackie Hollander",
@@ -2860,22 +2774,6 @@
       "tagline": null
     },
     {
-      "id": "6774370408",
-      "title": "PRIDE ANTHEMS, Vol. 1 (DJ Mix)",
-      "artist": "Las Bibas From Vizcaya",
-      "url": "https://music.apple.com/jp/album/pride-anthems-vol-1-dj-mix/6774370408?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/f9/b8/2af9b8c5-72ce-cf95-0903-9f15ce30d0a5/86a48fa2-e598-4a6c-8233-37266fb1bd51.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-05",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6769915839",
       "title": "Dèjá Vu",
       "artist": "Polo González",
@@ -3762,6 +3660,73 @@
       "tagline": null
     },
     {
+      "id": "1894421965",
+      "title": "Além da Pele",
+      "artist": "Mari Romano",
+      "url": "https://music.apple.com/jp/album/al%C3%A9m-da-pele/1894421965?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/7c/91/467c9141-fddd-3079-b4aa-0fc3abd70ad5/0631685068131.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "MPB",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6772544445",
+      "title": "Pianos e Canções",
+      "artist": "Julie Wein",
+      "url": "https://music.apple.com/jp/album/pianos-e-can%C3%A7%C3%B5es/6772544445?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/2d/06/e22d0612-85c8-5f98-08d9-db98827b9190/7908730002864.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "MPB",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1884662434",
+      "title": "VISA",
+      "artist": "Polarbæren & La Nefera",
+      "url": "https://music.apple.com/jp/album/visa/1884662434?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/22/84/df228419-4bfe-ce2b-5eed-5bf1864afbdd/4062548139570.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Folk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1872357070",
+      "title": "Alles nur geliehen",
+      "artist": "Florian Künstler",
+      "url": "https://music.apple.com/jp/album/alles-nur-geliehen/1872357070?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/fa/c1/23fac1e1-b997-55fe-2c9f-681de9b8fa20/25UM2IM06190.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-05",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1889633000",
       "title": "Lontano - EP",
       "artist": "Andrea Viscardi",
@@ -3944,23 +3909,6 @@
         "Death Metal/Black Metal",
         "Music",
         "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773444183",
-      "title": "Mad Decent Presents: swedm® (DJ Mix)",
-      "artist": "swedm®",
-      "url": "https://music.apple.com/jp/album/mad-decent-presents-swedm-dj-mix/6773444183?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/52/0a/cd520a86-5adb-effa-0be9-df7530a0b8e5/13c5c9f6-d9a3-44af-8bfb-594a9739b15b.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic"
       ],
       "tagline": null
     },
@@ -4216,6 +4164,22 @@
         "Sertanejo",
         "Music",
         "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6770591489",
+      "title": "PUBLIC ENEMY - EP",
+      "artist": "Hamza",
+      "url": "https://music.apple.com/jp/album/public-enemy-ep/6770591489?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/48/56/ea4856e8-410e-14de-42e2-71da2c5d567f/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-03",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
       ],
       "tagline": null
     },
@@ -4558,6 +4522,22 @@
       "tagline": null
     },
     {
+      "id": "1896384034",
+      "title": "Mácula",
+      "artist": "Clau Aniz",
+      "url": "https://music.apple.com/jp/album/m%C3%A1cula/1896384034?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/c6/4d/4bc64d49-c5c8-e7f8-64a1-e0f8c35d0f21/0631685069541.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-01",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1895632814",
       "title": "LIVEZELLE / Love Like That",
       "artist": "Beatsteaks",
@@ -4570,6 +4550,23 @@
       "genres": [
         "Rock",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6774090882",
+      "title": "Destinée Supremacy",
+      "artist": "Aya Nakamura",
+      "url": "https://music.apple.com/jp/album/destin%C3%A9e-supremacy/6774090882?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/55/81/8b558128-12e6-18bb-117a-13e46c59a0c5/1200214235055.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-05-30",
+      "trackCount": 26,
+      "kind": "album",
+      "genres": [
+        "Afro-Pop",
+        "Music",
+        "African"
       ],
       "tagline": null
     },
