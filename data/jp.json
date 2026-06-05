@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-05T20:00:11.753Z",
-  "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
+  "generatedAt": "2026-06-05T21:00:11.293Z",
+  "source": "https://music.apple.com/jp/room/6776866870",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
   "roomId": "6776866870",
-  "roomDiscoverySource": "grouping-api",
-  "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
+  "roomDiscoverySource": "new-page-section",
+  "roomDiscoveryUrl": "https://music.apple.com/jp/new?l=en",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
@@ -3414,7 +3414,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6770897370",
@@ -3481,7 +3481,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "1895215398",
