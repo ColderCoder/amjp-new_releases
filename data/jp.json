@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-05T05:00:24.725Z",
-  "source": "https://music.apple.com/jp/room/6776866870",
+  "generatedAt": "2026-06-05T07:00:25.040Z",
+  "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
   "roomId": "6776866870",
-  "roomDiscoverySource": "new-page-section",
-  "roomDiscoveryUrl": "https://music.apple.com/jp/new?l=en",
+  "roomDiscoverySource": "grouping-api",
+  "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
@@ -1628,7 +1628,7 @@
       "title": "Elsewhere, Always",
       "artist": "overpass",
       "url": "https://music.apple.com/jp/album/elsewhere-always/1855496566?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/0e/c6/2e0ec676-723b-677e-fb8d-adcfc091deda/199538859300.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/18/e1/4518e120-dcad-e4e7-8812-6019a60784ff/199538859300.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-06-05",
       "trackCount": 10,
@@ -3230,6 +3230,23 @@
       "tagline": null
     },
     {
+      "id": "1882092485",
+      "title": "Hermetic Transmutation",
+      "artist": "Xenosis",
+      "url": "https://music.apple.com/jp/album/hermetic-transmutation/1882092485?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/f4/a2/52f4a28d-60bf-89a3-d542-3acb8e0e1e49/612789666416.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6774824350",
       "title": "RENACER",
       "artist": "Armenta",
@@ -4759,42 +4776,6 @@
       "tagline": null
     },
     {
-      "id": "1871416872",
-      "title": "SMILE",
-      "artist": "Madsen",
-      "url": "https://music.apple.com/jp/album/smile/1871416872?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/71/48/b071487f-e8f4-d8b5-8101-e8df17c5f892/820200138286.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-29",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Indie Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6774531876",
-      "title": "POP IS CRYIN'",
-      "artist": "Bewhy",
-      "url": "https://music.apple.com/jp/album/pop-is-cryin/6774531876?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/fe/30/6ffe3085-4aa1-478a-7d70-b27032be72aa/cover_KM0024612_1.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-29",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop",
-        "Hip-Hop/Rap",
-        "Korean Hip-Hop"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6773913777",
       "title": "Bouncy Breaks and Bass in New York City: ODDWORLD b2b OGD (DJ Mix)",
       "artist": "Oddworld & OGD",
@@ -4897,6 +4878,23 @@
         "Dance"
       ],
       "tagline": null
+    },
+    {
+      "id": "6774811697",
+      "title": "Live at Hï Ibiza: Ewan McVicar, Apr 25, 2026 (DJ Mix)",
+      "artist": "Ewan McVicar",
+      "url": "https://music.apple.com/jp/album/live-at-h%C3%AF-ibiza-ewan-mcvicar-apr-25-2026-dj-mix/6774811697?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/2b/8a/5f2b8a07-fba4-d370-7667-a91ab195b297/91eb6f0a-3be2-4b48-882b-f5b61e1bdbef.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-04-25",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": "New DJ Mix"
     },
     {
       "id": "1896361149",
