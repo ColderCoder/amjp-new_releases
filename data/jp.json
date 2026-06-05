@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T02:00:24.148Z",
+  "generatedAt": "2026-06-05T04:00:25.424Z",
   "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -387,6 +387,23 @@
       "tagline": null
     },
     {
+      "id": "6771854517",
+      "title": "TEOFANIA",
+      "artist": "LENCHO",
+      "url": "https://music.apple.com/jp/album/teofania/6771854517?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/61/48/056148a7-7d78-17fb-8825-1349d733331b/196874412923.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-05",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1884730177",
       "title": "Free Your Mind",
       "artist": "Prospa",
@@ -621,7 +638,7 @@
       "title": "Season of Surrender",
       "artist": "August Burns Red",
       "url": "https://music.apple.com/jp/album/season-of-surrender/1879684119?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/88/08/e38808a4-8f71-74a8-2a97-436284df6e12/26CRGIM53673.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/2a/73/942a7308-44f4-fed8-42ea-6ff5fb02991d/26CRGIM53673.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-06-05",
       "trackCount": 11,
@@ -1034,7 +1051,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "1878495025",
@@ -3210,22 +3227,6 @@
         "Death Metal/Black Metal",
         "Music",
         "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1893346203",
-      "title": "Hysteron - Proteron (Stripped)",
-      "artist": "Nostromo",
-      "url": "https://music.apple.com/jp/album/hysteron-proteron-stripped/1893346203?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/8b/38/258b3864-f220-ceb1-b170-e8409c95f300/7640235130122.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-05",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
       ],
       "tagline": null
     },
