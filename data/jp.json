@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-05T04:00:25.424Z",
-  "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
+  "generatedAt": "2026-06-05T05:00:24.725Z",
+  "source": "https://music.apple.com/jp/room/6776866870",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
   "roomId": "6776866870",
-  "roomDiscoverySource": "grouping-api",
-  "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
+  "roomDiscoverySource": "new-page-section",
+  "roomDiscoveryUrl": "https://music.apple.com/jp/new?l=en",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
@@ -353,6 +353,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "1894977282",
+      "title": "Destined For Greatness",
+      "artist": "Luh Tyler",
+      "url": "https://music.apple.com/jp/album/destined-for-greatness/1894977282?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f8/8c/d4f88cdc-7143-7f5b-9185-c0503e0b13d1/075679580184.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-05",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "1880478479",
@@ -3214,21 +3230,21 @@
       "tagline": null
     },
     {
-      "id": "1882092485",
-      "title": "Hermetic Transmutation",
-      "artist": "Xenosis",
-      "url": "https://music.apple.com/jp/album/hermetic-transmutation/1882092485?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/f4/a2/52f4a28d-60bf-89a3-d542-3acb8e0e1e49/612789666416.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-05",
-      "trackCount": 8,
+      "id": "6774824350",
+      "title": "RENACER",
+      "artist": "Armenta",
+      "url": "https://music.apple.com/jp/album/renacer/6774824350?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/f9/e4/0af9e4b2-b81b-e8cb-23d5-98a002c526a5/1200214253578.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-04",
+      "trackCount": 12,
       "kind": "album",
       "genres": [
-        "Death Metal/Black Metal",
+        "Música Mexicana",
         "Music",
-        "Rock"
+        "Latin"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1896047013",
@@ -4881,23 +4897,6 @@
         "Dance"
       ],
       "tagline": null
-    },
-    {
-      "id": "6774811697",
-      "title": "Live at Hï Ibiza: Ewan McVicar, Apr 25, 2026 (DJ Mix)",
-      "artist": "Ewan McVicar",
-      "url": "https://music.apple.com/jp/album/live-at-h%C3%AF-ibiza-ewan-mcvicar-apr-25-2026-dj-mix/6774811697?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/2b/8a/5f2b8a07-fba4-d370-7667-a91ab195b297/91eb6f0a-3be2-4b48-882b-f5b61e1bdbef.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-04-25",
-      "trackCount": 23,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance"
-      ],
-      "tagline": "New DJ Mix"
     },
     {
       "id": "1896361149",
