@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T23:00:23.936Z",
+  "generatedAt": "2026-06-05T00:00:24.347Z",
   "source": "https://music.apple.com/jp/room/6774390485?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6774390485?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3694,37 +3694,21 @@
       "tagline": null
     },
     {
-      "id": "1884662434",
-      "title": "VISA",
-      "artist": "Polarbæren & La Nefera",
-      "url": "https://music.apple.com/jp/album/visa/1884662434?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/22/84/df228419-4bfe-ce2b-5eed-5bf1864afbdd/4062548139570.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-05",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Folk"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1872357070",
-      "title": "Alles nur geliehen",
-      "artist": "Florian Künstler",
-      "url": "https://music.apple.com/jp/album/alles-nur-geliehen/1872357070?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/fa/c1/23fac1e1-b997-55fe-2c9f-681de9b8fa20/25UM2IM06190.rgb.jpg/632x632bb.jpg",
+      "id": "1896047013",
+      "title": "DE QUIÉN ES LA CULPA?",
+      "artist": "Rowma",
+      "url": "https://music.apple.com/jp/album/de-qui%C3%A9n-es-la-culpa/1896047013?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/6d/8d/e46d8dd8-26dc-93c0-717e-59e1cf2c2517/827568017505.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-06-05",
-      "trackCount": 13,
+      "releaseDate": "2026-06-04",
+      "trackCount": 8,
       "kind": "album",
       "genres": [
-        "Pop",
-        "Music"
+        "Urbano latino",
+        "Music",
+        "Latin"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1889633000",
@@ -4819,6 +4803,24 @@
         "Dance",
         "Music",
         "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775612984",
+      "title": "Mary Droppinz at EDC Las Vegas 2026: Basspod Stage (DJ Mix)",
+      "artist": "Mary Droppinz",
+      "url": "https://music.apple.com/jp/album/mary-droppinz-at-edc-las-vegas-2026-basspod-stage-dj-mix/6775612984?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/c0/d3/d4c0d3f5-122e-d7e7-2b36-80e84b7beb31/3d7649ab-4291-42bc-a0e3-f88c59665ba9.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-17",
+      "trackCount": 39,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic",
+        "Bass"
       ],
       "tagline": null
     },
