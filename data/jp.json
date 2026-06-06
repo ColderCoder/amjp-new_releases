@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T23:00:10.773Z",
+  "generatedAt": "2026-06-06T07:00:11.576Z",
   "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3247,6 +3247,39 @@
       "tagline": null
     },
     {
+      "id": "1893346203",
+      "title": "Hysteron - Proteron (Stripped)",
+      "artist": "Nostromo",
+      "url": "https://music.apple.com/jp/album/hysteron-proteron-stripped/1893346203?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/8b/38/258b3864-f220-ceb1-b170-e8409c95f300/7640235130122.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773465221",
+      "title": "Dancehall Summertime (DJ Mix)",
+      "artist": "DJ RAHPHA",
+      "url": "https://music.apple.com/jp/album/dancehall-summertime-dj-mix/6773465221?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/35/f8/d135f82e-1191-4a44-7df1-1c4ae0770b6e/67a06761-0c3d-4b0d-a1e6-13a9784a5d59.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-05",
+      "trackCount": 45,
+      "kind": "album",
+      "genres": [
+        "Modern Dancehall",
+        "Music",
+        "Reggae"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6774824350",
       "title": "RENACER",
       "artist": "Armenta",
@@ -4728,54 +4761,6 @@
       "tagline": null
     },
     {
-      "id": "6771804268",
-      "title": "Show Must Go On - EP",
-      "artist": "Yellow Pato",
-      "url": "https://music.apple.com/jp/album/show-must-go-on-ep/6771804268?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/91/b1/b991b1ee-ba96-a8a8-0edf-d5cdf62ba214/4550756780047_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-30",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768555655",
-      "title": "SUPERNOVA - EP",
-      "artist": "Funaki Takeru",
-      "url": "https://music.apple.com/jp/album/supernova-ep/6768555655?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/6c/3f/e46c3f09-e1ff-7c95-0f69-af019bbbaadb/820233405676.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-30",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6770796889",
-      "title": "Heartful Dulcimer",
-      "artist": "Nobuko♪",
-      "url": "https://music.apple.com/jp/album/heartful-dulcimer/6770796889?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/99/77/b59977af-9ef5-99e1-8757-557d15759aad/PA00218767_0_246317_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-05-30",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Worldwide",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6773913777",
       "title": "Bouncy Breaks and Bass in New York City: ODDWORLD b2b OGD (DJ Mix)",
       "artist": "Oddworld & OGD",
@@ -5033,6 +5018,23 @@
         "Dance",
         "Music",
         "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6774710236",
+      "title": "Lunchbox 36 (DJ Mix)",
+      "artist": "Gregg Nyce",
+      "url": "https://music.apple.com/jp/album/lunchbox-36-dj-mix/6774710236?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/1f/7a/2f1f7a55-aeb6-004a-4566-67f793a2c0a8/f198241a-2a94-458c-831e-f5626e5a9d87.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2012-05-01",
+      "trackCount": 35,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "East Coast Rap"
       ],
       "tagline": null
     }
