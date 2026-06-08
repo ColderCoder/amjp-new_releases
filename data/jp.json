@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T03:00:10.634Z",
+  "generatedAt": "2026-06-08T07:00:16.644Z",
   "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3923,6 +3923,104 @@
       "tagline": null
     },
     {
+      "id": "1872357070",
+      "title": "Alles nur geliehen",
+      "artist": "Florian Künstler",
+      "url": "https://music.apple.com/jp/album/alles-nur-geliehen/1872357070?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/fa/c1/23fac1e1-b997-55fe-2c9f-681de9b8fa20/25UM2IM06190.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-05",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6772285898",
+      "title": "tá calor e a culpa é tua",
+      "artist": "Van Zee",
+      "url": "https://music.apple.com/jp/album/t%C3%A1-calor-e-a-culpa-%C3%A9-tua/6772285898?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/ae/dd/1baeddb1-7a88-1963-0fb6-84d4fff706b6/26UMGIM67320.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773858605",
+      "title": "Mediterraneo (Dopo il Mare)",
+      "artist": "Bresh",
+      "url": "https://music.apple.com/jp/album/mediterraneo-dopo-il-mare/6773858605?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/32/e5/0d32e55c-3632-93db-b919-86322c234cc1/196874455210.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-05",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771737354",
+      "title": "BRIANZOLA ISSUES 2.0",
+      "artist": "cmqmartina",
+      "url": "https://music.apple.com/jp/album/brianzola-issues-2-0/6771737354?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/7f/90/2e7f905b-0d80-1fff-1f7d-ea1f813bcde3/196874433768.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6769174683",
+      "title": "Ansia d’amare",
+      "artist": "Disco Club Paradiso",
+      "url": "https://music.apple.com/jp/album/ansia-damare/6769174683?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/cc/c1/5bccc1be-4ea9-6f74-90e8-7e1509349570/8057715134225.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1887617828",
+      "title": "Small Chops",
+      "artist": "Mannywellz",
+      "url": "https://music.apple.com/jp/album/small-chops/1887617828?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/8d/8d/748d8ddc-f8d3-0598-b701-e6dd00b34dfd/656465129444_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music",
+        "African",
+        "Afro Soul"
+      ],
+      "tagline": "New EP"
+    },
+    {
       "id": "6774824350",
       "title": "RENACER",
       "artist": "Armenta",
@@ -4245,6 +4343,22 @@
       "tagline": null
     },
     {
+      "id": "6773301897",
+      "title": "STABLE MUSIC",
+      "artist": "IvanBi",
+      "url": "https://music.apple.com/jp/album/stable-music/6773301897?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/b7/1b/2fb71b41-2a1a-6764-491f-7e1cf4f55b68/1200214179946.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-04",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1895674530",
       "title": "8 AM Swim",
       "artist": "INVT",
@@ -4529,73 +4643,6 @@
       "tagline": null
     },
     {
-      "id": "6770401101",
-      "title": "Imperfect-I'mperfect - EP",
-      "artist": "FIFTY FIFTY",
-      "url": "https://music.apple.com/jp/album/imperfect-imperfect-ep/6770401101?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/05/0d/0e050d49-be6e-376f-000a-3fc94a411424/196874397442.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-01",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6771279129",
-      "title": "Atmos - The 6th Mini Album - EP",
-      "artist": "SHINee",
-      "url": "https://music.apple.com/jp/album/atmos-the-6th-mini-album-ep/6771279129?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/22/85/fb228532-3378-5147-2c29-c8ce0d5f7e54/888735955570.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-01",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Mini Album"
-    },
-    {
-      "id": "6768195393",
-      "title": "BITE NOW - EP",
-      "artist": "MEOVV",
-      "url": "https://music.apple.com/jp/album/bite-now-ep/6768195393?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/1b/b6/1f1bb6d4-8082-6c43-29b8-af29938aaa0b/ticket.ptomjxbh.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-01",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6774268047",
-      "title": "Live at Apple Music Radio",
-      "artist": "Gabriel Jacoby",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6774268047?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ee/e5/cfeee5d8-b254-77b0-da88-230b8485c9bb/26CRGIM55317.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-01",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
       "id": "6773522382",
       "title": "FURTHER Resident Mix 005: Azucy (DJ Mix)",
       "artist": "Azucy",
@@ -4626,24 +4673,6 @@
         "Dance",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895869227",
-      "title": "cloud study - EP",
-      "artist": "Found Space",
-      "url": "https://music.apple.com/jp/album/cloud-study-ep/1895869227?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/77/58/9f775838-645b-b661-fd37-2900af2ce804/984.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-01",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Electronic",
-        "Electronica"
       ],
       "tagline": null
     },
@@ -4731,39 +4760,6 @@
         "Dance",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6767454374",
-      "title": "<LOVE&POP> pt.1",
-      "artist": "tripleS",
-      "url": "https://music.apple.com/jp/album/love-pop-pt-1/6767454374?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/19/80/431980a5-fa01-bcc9-6bad-5bfe79ceb915/8804775403248.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-01",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1896384034",
-      "title": "Mácula",
-      "artist": "Clau Aniz",
-      "url": "https://music.apple.com/jp/album/m%C3%A1cula/1896384034?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/c6/4d/4bc64d49-c5c8-e7f8-64a1-e0f8c35d0f21/0631685069541.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-01",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
       ],
       "tagline": null
     },
