@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T11:00:20.586Z",
+  "generatedAt": "2026-06-09T04:00:15.244Z",
   "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2108,6 +2108,23 @@
         "Music",
         "Dance",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6776311334",
+      "title": "J.PERIOD Presents: The Marauders Mixtape (DJ Mix)",
+      "artist": "J.PERIOD",
+      "url": "https://music.apple.com/jp/album/j-period-presents-the-marauders-mixtape-dj-mix/6776311334?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/be/ce/5abeced4-c9d4-6a81-5a94-276cb1537003/d984897e-3ce4-4366-8161-fba47f3992a4.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-05",
+      "trackCount": 46,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
@@ -4932,23 +4949,6 @@
         "House",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776311334",
-      "title": "J.PERIOD Presents: The Marauders Mixtape (DJ Mix)",
-      "artist": "J.PERIOD",
-      "url": "https://music.apple.com/jp/album/j-period-presents-the-marauders-mixtape-dj-mix/6776311334?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/80/fd/f680fd31-94eb-1b0b-1c44-24734f9fd8e6/d25896ca-2137-40bf-93f6-7bfb68342391.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2025-11-19",
-      "trackCount": 46,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
