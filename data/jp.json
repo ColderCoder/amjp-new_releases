@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T07:00:20.625Z",
+  "generatedAt": "2026-06-10T11:00:14.362Z",
   "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4145,7 +4145,7 @@
     {
       "id": "6769003272",
       "title": "Así pues...",
-      "artist": "Elif Sanchez",
+      "artist": "Elif Sanchez & O Kwarteto",
       "url": "https://music.apple.com/jp/album/as%C3%AD-pues/6769003272?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/55/2a/8f552a90-bb63-562f-197d-1558da075be3/820233365000.jpg/632x632bb.jpg",
       "explicit": false,
