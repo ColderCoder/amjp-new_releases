@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T20:00:27.854Z",
+  "generatedAt": "2026-06-11T07:00:22.399Z",
   "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4260,47 +4260,139 @@
       "tagline": null
     },
     {
-      "id": "6774824350",
-      "title": "RENACER",
-      "artist": "Armenta",
-      "url": "https://music.apple.com/jp/album/renacer/6774824350?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/f9/e4/0af9e4b2-b81b-e8cb-23d5-98a002c526a5/1200214253578.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
+      "id": "1884321457",
+      "title": "Wishing Tree",
+      "artist": "The Gesualdo Six & Owain Park",
+      "url": "https://music.apple.com/jp/album/wishing-tree/1884321457?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/12/27/ec12279f-983d-28d7-6eb4-14c89cd603a4/26UMGIM01193.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895139137",
+      "title": "Heiner Goebbels: Walden",
+      "artist": "Bob Rutman, Ensemble Modern & Péter Eötvös",
+      "url": "https://music.apple.com/jp/album/heiner-goebbels-walden/1895139137?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/05/7e/e8057e46-e429-ccf7-fd3f-9fb94bee7509/25UM1IM65557.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Orchestral",
+        "Contemporary Era"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1889110077",
+      "title": "Dialogue",
+      "artist": "Benedict Kloeckner & Yu Kosuge",
+      "url": "https://music.apple.com/jp/album/dialogue/1889110077?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/02/4c/e1024c84-6e94-abfc-04c8-a18f90cf9cfa/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music",
+        "Cello"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1890141112",
+      "title": "Brahms: The Three Violin Sonatas",
+      "artist": "Andrew Wan & Charles Richard-Hamelin",
+      "url": "https://music.apple.com/jp/album/brahms-the-three-violin-sonatas/1890141112?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/6f/28/e56f28b8-dbd9-aa63-f513-c212bfabb078/774204902728.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Romantic Era",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1888509963",
+      "title": "Deep River",
+      "artist": "Miclen Laipang & Nigel Yandell",
+      "url": "https://music.apple.com/jp/album/deep-river/1888509963?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/de/69/e6de69ae-38f5-4c4d-fdd1-1b7f478149b4/013491362120.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
       "trackCount": 12,
       "kind": "album",
       "genres": [
-        "Música Mexicana",
+        "Classical",
         "Music",
-        "Latin"
+        "Chamber Music",
+        "Violin",
+        "Piano"
       ],
-      "tagline": "New Album"
+      "tagline": null
     },
     {
-      "id": "1896047013",
-      "title": "DE QUIÉN ES LA CULPA?",
-      "artist": "Rowma",
-      "url": "https://music.apple.com/jp/album/de-qui%C3%A9n-es-la-culpa/1896047013?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/6d/8d/e46d8dd8-26dc-93c0-717e-59e1cf2c2517/827568017505.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
-      "trackCount": 8,
+      "id": "1886582113",
+      "title": "Erbarme dich!",
+      "artist": "Ayres Extemporae",
+      "url": "https://music.apple.com/jp/album/erbarme-dich/1886582113?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/e1/0b/c9e10b54-6fa8-1f1a-375a-d494b4c59981/691062079624.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 19,
       "kind": "album",
       "genres": [
-        "Urbano latino",
+        "Classical",
         "Music",
-        "Latin"
+        "Chamber Music",
+        "Baroque Era"
       ],
-      "tagline": "New Album"
+      "tagline": null
     },
     {
-      "id": "1889633000",
-      "title": "Lontano - EP",
-      "artist": "Andrea Viscardi",
-      "url": "https://music.apple.com/jp/album/lontano-ep/1889633000?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/78/d4/3978d49e-6737-8598-8d61-651a848ce1a9/5059449288598.png/632x632bb.jpg",
+      "id": "1893110087",
+      "title": "Poetry & Prayer",
+      "artist": "Caritas Chamber Choir & Benedict Preece",
+      "url": "https://music.apple.com/jp/album/poetry-prayer/1893110087?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/e7/46/43e74679-5e1c-b93c-df69-d4daf4411be4/0608028068868.png/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-04",
+      "releaseDate": "2026-06-05",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Contemporary Era",
+        "Choral"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1888255504",
+      "title": "Spring Flowers - EP",
+      "artist": "John Lenehan",
+      "url": "https://music.apple.com/jp/album/spring-flowers-ep/1888255504?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/71/1d/8e711de2-c7b4-4d11-0f32-b5c0bd092213/5059449288550.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
       "trackCount": 4,
       "kind": "album",
       "genres": [
@@ -4312,103 +4404,203 @@
       "tagline": null
     },
     {
-      "id": "1867029236",
-      "title": "Where The Waves Break",
-      "artist": "TENDER",
-      "url": "https://music.apple.com/jp/album/where-the-waves-break/1867029236?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/be/47/5dbe47c6-4077-724e-6251-c1f8f2007475/067003185851.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Indie Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6772936301",
-      "title": "Four",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/four/6772936301?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/43/11/ef431178-e07d-650d-272c-f75d47b61cf1/8718723321327.jpg/632x632bb.jpg",
+      "id": "1892509675",
+      "title": "Fjer - EP",
+      "artist": "Arvid Holst",
+      "url": "https://music.apple.com/jp/album/fjer-ep/1892509675?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/0f/58/9e0f587d-731d-0989-c648-c18cc50155a6/3663729437570_cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-04",
-      "trackCount": 16,
+      "releaseDate": "2026-06-05",
+      "trackCount": 6,
       "kind": "album",
       "genres": [
-        "Dance",
+        "Classical Crossover",
         "Music",
-        "House"
+        "Classical",
+        "Solo Instrumental",
+        "Piano"
       ],
       "tagline": null
     },
     {
-      "id": "1884990471",
-      "title": "Misery - EP",
-      "artist": "My Own Will",
-      "url": "https://music.apple.com/jp/album/misery-ep/1884990471?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/65/e5/5365e53f-827c-c1fa-ef03-db6cbb096595/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
+      "id": "1873257706",
+      "title": "Liminal",
+      "artist": "Poppy Ackroyd",
+      "url": "https://music.apple.com/jp/album/liminal/1873257706?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/53/3d/fa533dcd-e453-5ad3-1be1-fe8453da929b/5016958110369.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1887163192",
+      "title": "Great 20th-Century Spanish Pianists (Live)",
+      "artist": "Joaquin Soriano, Manuel Carra, Cristina Bruno, Esteban Sánchez & Pedro Espinosa",
+      "url": "https://music.apple.com/jp/album/great-20th-century-spanish-pianists-live/1887163192?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/db/b1/57dbb1d7-0f0e-54a5-f881-9820e3749554/8435725606466.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Piano",
+        "Solo Instrumental"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6768640996",
+      "title": "ONE - EP",
+      "artist": "Aifric",
+      "url": "https://music.apple.com/jp/album/one-ep/6768640996?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/67/c4/3f67c419-8e49-d9cd-b544-aa7e9984bcc3/823375105923_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
       "trackCount": 4,
       "kind": "album",
       "genres": [
-        "Death Metal/Black Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6770660108",
-      "title": "Hecho En Casa",
-      "artist": "Efecto Elegante",
-      "url": "https://music.apple.com/jp/album/hecho-en-casa/6770660108?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/c1/55/eac15501-2abc-75e7-6e0d-ca3328e5f1d1/3295717.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Latin",
+        "Alternative",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6764539947",
-      "title": "Back 2 Earth - EP",
-      "artist": "BAILE & NUAGE",
-      "url": "https://music.apple.com/jp/album/back-2-earth-ep/6764539947?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/5f/7c/515f7c5e-43a1-5c36-3e5c-15ff5a6b5512/5063817011169_cover.jpg/632x632bb.jpg",
+      "id": "6773681260",
+      "title": "Saveur cœur abîmé : cicatrices",
+      "artist": "Colt",
+      "url": "https://music.apple.com/jp/album/saveur-c%C5%93ur-ab%C3%AEm%C3%A9-cicatrices/6773681260?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/d7/c4/85d7c43d-4888-cad8-76a2-6f6428d18c31/196874442517.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-04",
-      "trackCount": 4,
+      "releaseDate": "2026-06-05",
+      "trackCount": 17,
       "kind": "album",
       "genres": [
-        "Electronica",
-        "Music",
-        "Electronic"
+        "French Pop",
+        "Music"
       ],
       "tagline": null
     },
     {
-      "id": "1884508308",
-      "title": "Chaos Exordium",
-      "artist": "Nights of Malice",
-      "url": "https://music.apple.com/jp/album/chaos-exordium/1884508308?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/59/b7/6159b72c-6529-69d3-802f-c5f32914d9a6/cover.jpg/632x632bb.jpg",
+      "id": "1893752831",
+      "title": "Ça m'aurait fait chier d'exploser",
+      "artist": "Sexy Sushi",
+      "url": "https://music.apple.com/jp/album/%C3%A7a-maurait-fait-chier-dexploser/1893752831?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/f4/d7/71f4d73c-92ac-572e-6e0e-bbe28e376469/cover.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-06-04",
-      "trackCount": 9,
+      "releaseDate": "2026-06-05",
+      "trackCount": 11,
       "kind": "album",
       "genres": [
-        "Death Metal/Black Metal",
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1875299485",
+      "title": "Paradis terrestre",
+      "artist": "Gabriel Auguste",
+      "url": "https://music.apple.com/jp/album/paradis-terrestre/1875299485?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/3c/12/133c1261-368c-b2d2-eac7-8b33e0810966/3760434483035_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Folk",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6766538260",
+      "title": "CAUCHEMARS",
+      "artist": "La Bourse",
+      "url": "https://music.apple.com/jp/album/cauchemars/6766538260?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/74/d9/3074d9eb-2d77-bec5-531a-fffe814353c2/5056556181897_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-05",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6774312025",
+      "title": "RECOMMENCE-MOI (Live à Bruxelles 2026)",
+      "artist": "SANTA",
+      "url": "https://music.apple.com/jp/album/recommence-moi-live-%C3%A0-bruxelles-2026/6774312025?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/9b/7f/109b7f34-34b2-2ea4-c041-4cdd7eb73e4d/827568015372.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "French Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6769914561",
+      "title": "It's A Crystal: A Labyrinth Tribute - EP",
+      "artist": "Violet Sands",
+      "url": "https://music.apple.com/jp/album/its-a-crystal-a-labyrinth-tribute-ep/6769914561?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/15/3d/0c153d53-3c0f-73d1-13b6-0f8071c48f87/3663729445698_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
         "Music",
-        "Rock"
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6770579275",
+      "title": "eyes closed, heart open",
+      "artist": "20:02",
+      "url": "https://music.apple.com/jp/album/eyes-closed-heart-open/6770579275?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/d9/b3/84d9b34c-2f7b-cb5c-e879-da5080021b16/3663729449979_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-05",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1891706673",
+      "title": "Perles, coraux & requins",
+      "artist": "Julien Gasc",
+      "url": "https://music.apple.com/jp/album/perles-coraux-requins/1891706673?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/98/7a/ca987ab4-247e-2866-94b4-20c70de40512/823375102458_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-05",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Singer/Songwriter",
+        "Music"
       ],
       "tagline": null
     },
@@ -4430,56 +4622,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6770897370",
-      "title": "Discordia - EP",
-      "artist": "Tatyana Jane",
-      "url": "https://music.apple.com/jp/album/discordia-ep/6770897370?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/5b/24/b35b24c3-ad9c-7ca0-2967-857c3cbcbd9a/5056556182405_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768378225",
-      "title": "Kunuku - EP",
-      "artist": "Candy Coup",
-      "url": "https://music.apple.com/jp/album/kunuku-ep/6768378225?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/0a/6b/5c0a6b9d-e1ca-5585-d5f0-25ad9fd11889/840200578554_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-04",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1892009896",
-      "title": "Supernatural Anthems",
-      "artist": "Revolting",
-      "url": "https://music.apple.com/jp/album/supernatural-anthems/1892009896?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/33/0d/69330d6e-7d51-9521-258f-b747ab322e82/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-04",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Death Metal/Black Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6773925336",
       "title": "Beats In Space 209: Tim Sweeney (DJ Mix)",
       "artist": "Tim Sweeney",
@@ -4495,140 +4637,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6767850056",
-      "title": "Garden of Edie - EP",
-      "artist": "EDIE",
-      "url": "https://music.apple.com/jp/album/garden-of-edie-ep/6767850056?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/a4/5d/f1a45d4e-e462-03b1-7e9d-c7af61c2e415/444066.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-04",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769111873",
-      "title": "Cerita Penuh Cahaya",
-      "artist": "Naura Ayu",
-      "url": "https://music.apple.com/jp/album/cerita-penuh-cahaya/6769111873?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/49/a5/f149a557-1cae-62f7-edda-c1f4dbda304e/26UMGIM62429.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-04",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771123334",
-      "title": "MARIA BOA",
-      "artist": "Kaya Conky",
-      "url": "https://music.apple.com/jp/album/maria-boa/6771123334?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/d3/c6/26d3c6f2-b82a-dfec-0384-b89ae7469f26/0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6774178502",
-      "title": "Forró Tem Que Ser Desse Jeito",
-      "artist": "Túlio Duarte",
-      "url": "https://music.apple.com/jp/album/forr%C3%B3-tem-que-ser-desse-jeito/6774178502?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/3a/4b/d53a4b1d-cee4-98c4-fe85-762c0827af0e/8721555259317.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-04",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Forró",
-        "Music",
-        "Brazilian",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773124786",
-      "title": "Explodiuu BB - Vol.2 (Ao Vivo)",
-      "artist": "Lucas & Higor",
-      "url": "https://music.apple.com/jp/album/explodiuu-bb-vol-2-ao-vivo/6773124786?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/fd/68/39fd685b-1e5d-738c-dd12-10847bcbc27b/8721555121539.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-04",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Sertanejo",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773301897",
-      "title": "STABLE MUSIC",
-      "artist": "IvanBi",
-      "url": "https://music.apple.com/jp/album/stable-music/6773301897?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/b7/1b/2fb71b41-2a1a-6764-491f-7e1cf4f55b68/1200214179946.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6772271213",
-      "title": "TÖVBE",
-      "artist": "No.1",
-      "url": "https://music.apple.com/jp/album/t%C3%B6vbe/6772271213?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/15/3e/0d153ec1-b275-3ccc-14b3-835fcd594fd9/823375195351_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-04",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769705375",
-      "title": "Forever",
-      "artist": "Solah",
-      "url": "https://music.apple.com/jp/album/forever/6769705375?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/1a/51/d81a518b-5ec8-99c7-e10c-d73885dc4196/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-04",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Jungle/Drum'n'bass",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
     },
     {
       "id": "6766698955",
