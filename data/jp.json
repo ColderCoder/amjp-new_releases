@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T15:00:28.684Z",
+  "generatedAt": "2026-06-12T18:00:24.081Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -535,7 +535,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1880482913",
@@ -3294,6 +3294,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "1873223923",
+      "title": "Forward - EP",
+      "artist": "Julia Wallace",
+      "url": "https://music.apple.com/jp/album/forward-ep/1873223923?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/30/10/14301048-3620-753b-23f6-b6260cc7c23f/820200081315.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6768224475",
       "title": "Magazine",
       "artist": "YHWH Nailgun",
@@ -4814,24 +4830,6 @@
         "Dance",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6766972624",
-      "title": "Kaiharubro at 214 Mulberry (DJ Mix)",
-      "artist": "Kaiharubro",
-      "url": "https://music.apple.com/jp/album/kaiharubro-at-214-mulberry-dj-mix/6766972624?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/91/83/f791832d-988c-9d38-fff8-cb83c065e431/e3f68d30-ff05-477e-9355-5bd1efef66e4.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-04-20",
-      "trackCount": 26,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap",
-        "R&B/Soul"
       ],
       "tagline": null
     },
