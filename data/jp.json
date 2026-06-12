@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T03:00:28.737Z",
+  "generatedAt": "2026-06-12T04:00:26.799Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -206,7 +206,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": "Pre-Add Now"
+      "tagline": "New Album"
     },
     {
       "id": "6774511029",
@@ -1692,6 +1692,23 @@
       "genres": [
         "Christian",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6768428082",
+      "title": "Ernxst, Or The Importance Of Being (Studio Cast Recording)",
+      "artist": "Kait Kerrigan & Bree Lowdermilk",
+      "url": "https://music.apple.com/jp/album/ernxst-or-the-importance-of-being-studio-cast-recording/6768428082?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/77/70/fa77702b-6beb-cdf5-2ad1-071a4bbbdccf/26CRGIM54891.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Musicals",
+        "Music",
+        "Soundtrack"
       ],
       "tagline": null
     },
@@ -3277,23 +3294,6 @@
         "Music"
       ],
       "tagline": null
-    },
-    {
-      "id": "1852001618",
-      "title": "Stormy Weather - EP",
-      "artist": "Dami Im",
-      "url": "https://music.apple.com/jp/album/stormy-weather-ep/1852001618?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/29/e2/4729e284-acce-cba0-d8b9-dcec69f017c4/401109.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music",
-        "Singer/Songwriter"
-      ],
-      "tagline": "New EP"
     },
     {
       "id": "6768224475",
