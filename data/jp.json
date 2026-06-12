@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T02:00:26.401Z",
+  "generatedAt": "2026-06-12T03:00:28.737Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1142,7 +1142,7 @@
       "title": "Still Blank (Deluxe)",
       "artist": "Still Blank",
       "url": "https://music.apple.com/jp/album/still-blank-deluxe/6769614759?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/67/f2/7367f255-6319-c8fb-fe4c-36882ca4ca56/26UMGIM34102.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/55/93/7355933c-8fa3-5058-a034-1ae2c6a0a71c/26UMGIM34102.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-06-12",
       "trackCount": 12,
