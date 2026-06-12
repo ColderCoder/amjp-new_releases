@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-12T06:00:28.456Z",
-  "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
+  "generatedAt": "2026-06-12T07:00:28.435Z",
+  "source": "https://music.apple.com/jp/room/6779429627",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
   "roomId": "6779429627",
-  "roomDiscoverySource": "grouping-api",
-  "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
+  "roomDiscoverySource": "new-page-section",
+  "roomDiscoveryUrl": "https://music.apple.com/jp/new?l=en",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
@@ -1298,24 +1298,6 @@
         "Hard Rock",
         "Music",
         "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6772236243",
-      "title": "Winter Warmers: Matias Aguayo (DJ Mix)",
-      "artist": "Matias Aguayo",
-      "url": "https://music.apple.com/jp/album/winter-warmers-matias-aguayo-dj-mix/6772236243?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/21/e9/1821e93b-5f0e-df54-bf6d-5e341d5ea96d/b9380c02-1bd6-4194-af63-d2fd7e06040c.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Downtempo",
-        "Music",
-        "Electronic",
-        "Latin"
       ],
       "tagline": null
     },
@@ -3294,6 +3276,24 @@
       "tagline": "New EP"
     },
     {
+      "id": "1874812782",
+      "title": "Kingdom Within",
+      "artist": "Josh Pyke",
+      "url": "https://music.apple.com/jp/album/kingdom-within/1874812782?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/77/e8/c177e8a8-3830-6391-38cb-1a18766aff21/5026854607269.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Adult Contemporary",
+        "Music",
+        "Pop",
+        "Folk"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6768224475",
       "title": "Magazine",
       "artist": "YHWH Nailgun",
@@ -3498,7 +3498,7 @@
       "artist": "Mall Boyz",
       "url": "https://music.apple.com/jp/album/mall-tape-3/6777449871?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/46/2d/25462dee-a756-9b6d-86a6-6e1bc9ec8837/4550757390047_cover.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-06-10",
       "trackCount": 19,
       "kind": "album",
