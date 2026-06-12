@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-11T23:00:25.385Z",
-  "source": "https://music.apple.com/jp/room/6776866870?l=en-US",
+  "generatedAt": "2026-06-12T00:00:30.168Z",
+  "source": "https://music.apple.com/jp/room/6776866870",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6776866870?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
   "roomId": "6776866870",
-  "roomDiscoverySource": "grouping-api",
-  "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
+  "roomDiscoverySource": "new-page-section",
+  "roomDiscoveryUrl": "https://music.apple.com/jp/new?l=en",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
@@ -241,6 +241,23 @@
       "tagline": null
     },
     {
+      "id": "6778175636",
+      "title": "Pride 2026 (DJ Mix)",
+      "artist": "Tinashe",
+      "url": "https://music.apple.com/jp/album/pride-2026-dj-mix/6778175636?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/24/a1/2024a170-daec-cd11-7ed6-45b776163216/d7bc5a71-96e7-4c50-afda-9acd20b4c04c.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-12",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1890528931",
       "title": "An Ending In Itself",
       "artist": "Sleeping With Sirens",
@@ -402,7 +419,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1895889099",
@@ -736,7 +753,7 @@
         "Music",
         "Latin"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1885856096",
@@ -3510,42 +3527,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6770867043",
-      "title": "Piquer un cheveu",
-      "artist": "Leo Leonard",
-      "url": "https://music.apple.com/jp/album/piquer-un-cheveu/6770867043?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/05/e3/2305e33e-fd5f-d1d7-217a-05d3fbb452be/17609.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "French Pop",
-        "Music",
-        "Alternative",
-        "Indie Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6772128290",
-      "title": "tracé par d'autres mains - EP",
-      "artist": "nash",
-      "url": "https://music.apple.com/jp/album/trac%C3%A9-par-dautres-mains-ep/6772128290?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/81/c4/2381c4d5-857b-c465-ca7b-aacf67dece3c/17541.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-12",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Pop",
-        "Pop/Rock"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6768224475",
       "title": "Magazine",
       "artist": "YHWH Nailgun",
@@ -4550,6 +4531,23 @@
         "Music",
         "Electronic",
         "Bass"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778971603",
+      "title": "The Chainsmokers at EDC Las Vegas 2026: Kinetic Field Stage (DJ Mix)",
+      "artist": "The Chainsmokers",
+      "url": "https://music.apple.com/jp/album/the-chainsmokers-at-edc-las-vegas-2026-kinetic-field/6778971603?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/d4/fe/7ad4fec9-8401-dda7-8a71-742c74bbd4ea/95026096-be0d-41b6-bc03-f312f14150b5.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-17",
+      "trackCount": 35,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
       ],
       "tagline": null
     },
