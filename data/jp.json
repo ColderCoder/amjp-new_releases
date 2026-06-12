@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T04:00:26.799Z",
+  "generatedAt": "2026-06-12T05:00:25.809Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,22 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "1893704396",
+      "title": "girls like girls the album",
+      "artist": "Hayley Kiyoko",
+      "url": "https://music.apple.com/jp/album/girls-like-girls-the-album/1893704396?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/9f/cb/379fcb0f-90fa-f290-26e5-85dfff0fdb49/823375122722_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-13",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
     {
       "id": "6775427480",
       "title": "sorry si soy GRRRIS",
@@ -2337,7 +2353,7 @@
       "title": "Breakfield",
       "artist": "Breakfield",
       "url": "https://music.apple.com/jp/album/breakfield/1867345622?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/05/c4/db05c4f1-1438-adf4-4dc0-96b3d9b2c048/25CRGIM52135.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/18/e5/b018e5b6-dbb7-64f0-dce6-5acb57ca957a/25CRGIM52135.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-06-12",
       "trackCount": 11,
@@ -2703,6 +2719,22 @@
         "Reggae"
       ],
       "tagline": null
+    },
+    {
+      "id": "1883133136",
+      "title": "BIG MODERN!",
+      "artist": "Goose",
+      "url": "https://music.apple.com/jp/album/big-modern/1883133136?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/26/38/f6263881-1f48-b0d1-1737-cee137b9b4ec/63790.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6768441807",
@@ -3260,40 +3292,6 @@
         "Music"
       ],
       "tagline": "New EP"
-    },
-    {
-      "id": "1874812782",
-      "title": "Kingdom Within",
-      "artist": "Josh Pyke",
-      "url": "https://music.apple.com/jp/album/kingdom-within/1874812782?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/77/e8/c177e8a8-3830-6391-38cb-1a18766aff21/5026854607269.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Adult Contemporary",
-        "Music",
-        "Pop",
-        "Folk"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "1873223923",
-      "title": "Forward - EP",
-      "artist": "Julia Wallace",
-      "url": "https://music.apple.com/jp/album/forward-ep/1873223923?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/30/10/14301048-3620-753b-23f6-b6260cc7c23f/820200081315.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6768224475",
