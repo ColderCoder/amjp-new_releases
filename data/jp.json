@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T22:00:24.655Z",
+  "generatedAt": "2026-06-12T23:00:24.116Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -229,7 +229,7 @@
       "title": "Lil Herb: Lil Heroin Edition",
       "artist": "G Herbo",
       "url": "https://music.apple.com/jp/album/lil-herb-lil-heroin-edition/6774511029?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/0e/4f/5d0e4fcb-1b86-fb67-a045-acd48ed9acc1/26UMGIM57090.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/8b/c9/638bc914-9ae7-0578-ad5c-3f48b9d554fa/26UMGIM57090.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-06-12",
       "trackCount": 35,
