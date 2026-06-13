@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T23:00:24.116Z",
+  "generatedAt": "2026-06-13T00:01:35.487Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -42,6 +42,40 @@
         "Latin"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6768442301",
+      "title": "Half Moon: Vugzy (DJ Mix)",
+      "artist": "Vugzy",
+      "url": "https://music.apple.com/jp/album/half-moon-vugzy-dj-mix/6768442301?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/8c/6a/a58c6aab-f3e7-3672-7daa-cd1fe85a9c79/45d58833-26a7-48a1-b7f3-833cd6123baf.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-13",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6767692248",
+      "title": "Half Moon: RAF W. The 6 (DJ Mix)",
+      "artist": "RAF W. The 6",
+      "url": "https://music.apple.com/jp/album/half-moon-raf-w-the-6-dj-mix/6767692248?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/c0/3d/3bc03d84-9f6d-d3d2-ec59-212cbe8421d6/def56b1e-fd61-44bc-9f83-045614dcdb29.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-13",
+      "trackCount": 31,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
     },
     {
       "id": "6777043682",
@@ -3274,40 +3308,6 @@
         "Music"
       ],
       "tagline": null
-    },
-    {
-      "id": "1893042028",
-      "title": "HEART - EP",
-      "artist": "Jay Santilli",
-      "url": "https://music.apple.com/jp/album/heart-ep/1893042028?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/97/08/789708b1-523d-6ab7-fe2d-004131a23970/8721466510378.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "1874812782",
-      "title": "Kingdom Within",
-      "artist": "Josh Pyke",
-      "url": "https://music.apple.com/jp/album/kingdom-within/1874812782?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/77/e8/c177e8a8-3830-6391-38cb-1a18766aff21/5026854607269.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Adult Contemporary",
-        "Music",
-        "Pop",
-        "Folk"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6768224475",
