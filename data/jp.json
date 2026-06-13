@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T00:01:35.487Z",
+  "generatedAt": "2026-06-13T07:00:25.484Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3310,6 +3310,73 @@
       "tagline": null
     },
     {
+      "id": "1893042028",
+      "title": "HEART - EP",
+      "artist": "Jay Santilli",
+      "url": "https://music.apple.com/jp/album/heart-ep/1893042028?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/97/08/789708b1-523d-6ab7-fe2d-004131a23970/8721466510378.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music"
+      ],
+      "tagline": "New EP"
+    },
+    {
+      "id": "1874812782",
+      "title": "Kingdom Within",
+      "artist": "Josh Pyke",
+      "url": "https://music.apple.com/jp/album/kingdom-within/1874812782?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/77/e8/c177e8a8-3830-6391-38cb-1a18766aff21/5026854607269.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Adult Contemporary",
+        "Music",
+        "Pop",
+        "Folk"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "1873223923",
+      "title": "Forward - EP",
+      "artist": "Julia Wallace",
+      "url": "https://music.apple.com/jp/album/forward-ep/1873223923?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/30/10/14301048-3620-753b-23f6-b6260cc7c23f/820200081315.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1852001618",
+      "title": "Stormy Weather - EP",
+      "artist": "Dami Im",
+      "url": "https://music.apple.com/jp/album/stormy-weather-ep/1852001618?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/29/e2/4729e284-acce-cba0-d8b9-dcec69f017c4/401109.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music",
+        "Singer/Songwriter"
+      ],
+      "tagline": "New EP"
+    },
+    {
       "id": "6768224475",
       "title": "Magazine",
       "artist": "YHWH Nailgun",
@@ -4398,72 +4465,6 @@
         "Soundtrack",
         "Music",
         "Instrumental"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769619347",
-      "title": "URBAN SAVAGE - EP",
-      "artist": "EXILE AKIRA",
-      "url": "https://music.apple.com/jp/album/urban-savage-ep/6769619347?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/02/aa/c502aaac-cac8-ac7a-f55e-9af1ba0a5ae5/ANTCD-A0000020037.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-06",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6770816470",
-      "title": "Kekechama's Kekeke Radio (Even When It's Raining, the World Is Filled with Rainbows)",
-      "artist": "Okaasan to Issho & Kekechama \"Okaasan to Issho\"",
-      "url": "https://music.apple.com/jp/album/%E3%81%91%E3%81%91%E3%81%A1%E3%82%83%E3%81%BE%E3%81%AE%E3%81%91%E3%81%91%E3%81%91%E3%83%A9%E3%82%B8%E3%82%AA-%E9%9B%A8%E3%81%A7%E3%82%82%E3%82%BB%E3%82%AB%E3%82%A4%E3%81%AF%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC/6770816470?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/34/d7/0034d7f0-a558-af8e-e06e-f4e82baef9f6/27108.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-06",
-      "trackCount": 23,
-      "kind": "album",
-      "genres": [
-        "Children's Music",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771018918",
-      "title": "Tatsuki: Too Kind for School (Tatsukisenseiwa Amasugiru!) Original Soundtrack",
-      "artist": "Masahiro Tokuda",
-      "url": "https://music.apple.com/jp/album/tatsuki-too-kind-for-school-tatsukisenseiwa-amasugiru/6771018918?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/63/d2/5063d27a-4ed4-e34a-1941-c5988bb95292/4988021873352.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-06",
-      "trackCount": 22,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6770808969",
-      "title": "M1 - EP",
-      "artist": "MUEYA BOY",
-      "url": "https://music.apple.com/jp/album/m1-ep/6770808969?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/27/5e/d7275e60-fb7d-90ae-038f-a8d8933d6271/bigup14430759.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-06",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
