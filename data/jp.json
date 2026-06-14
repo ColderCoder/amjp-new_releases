@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T07:00:25.484Z",
+  "generatedAt": "2026-06-14T07:00:23.994Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3377,6 +3377,23 @@
       "tagline": "New EP"
     },
     {
+      "id": "6771588962",
+      "title": "I Give Up - EP",
+      "artist": "Juniper Care",
+      "url": "https://music.apple.com/jp/album/i-give-up-ep/6771588962?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/06/18/8806189b-0862-562d-3328-0b234a7465ad/5063961459305_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-12",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6768224475",
       "title": "Magazine",
       "artist": "YHWH Nailgun",
@@ -3507,6 +3524,23 @@
         "Hard Rock",
         "Music",
         "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895842474",
+      "title": "paper elephants",
+      "artist": "Clovr",
+      "url": "https://music.apple.com/jp/album/paper-elephants/1895842474?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/94/33/0f943337-c7b6-d615-097e-2e18f8e1cd65/443982.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-11",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Electronica",
+        "Music",
+        "Electronic"
       ],
       "tagline": null
     },
@@ -4419,52 +4453,18 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6771202508",
-      "title": "Ten Strokes to You (10kai Kitte Taorenai Kiwa Nai) Original Soundtrack",
-      "artist": "Hara Knako",
-      "url": "https://music.apple.com/jp/album/ten-strokes-to-you-10kai-kitte-taorenai-kiwa-nai-original/6771202508?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/d2/9e/26d29e91-092a-2b2e-3b20-afd5084bee0b/4988021078054.png/632x632bb.jpg",
+      "id": "6772126794",
+      "title": "Black Diamond Versions",
+      "artist": "Jaakko Eino Kalevi",
+      "url": "https://music.apple.com/jp/album/black-diamond-versions/6772126794?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/0a/e5/c40ae537-bf25-4369-9d99-cd3ffebdabea/887829018306.png/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-07",
-      "trackCount": 31,
+      "releaseDate": "2026-06-08",
+      "trackCount": 5,
       "kind": "album",
       "genres": [
-        "Soundtrack",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771682673",
-      "title": "Soma Saito Live 2025 \"Nuance Colors\" in Yokohama",
-      "artist": "Soma Saito",
-      "url": "https://music.apple.com/jp/album/%E6%96%89%E8%97%A4%E5%A3%AE%E9%A6%AC-live-2025-nuance-colors-in-yokohama/6771682673?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/dc/6b/a6dc6bc0-f0ed-4df0-7aac-b8b32c2f6d2a/4547366827392.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-07",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Alternative",
+        "Electronic",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773428821",
-      "title": "This Is How the World Ends (Original Soundtrack)",
-      "artist": "Edward George King",
-      "url": "https://music.apple.com/jp/album/this-is-how-the-world-ends-original-soundtrack/6773428821?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/f7/a9/62f7a981-c751-4def-9ad8-7d74f9989216/859739044157_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-07",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Instrumental"
       ],
       "tagline": null
     },
