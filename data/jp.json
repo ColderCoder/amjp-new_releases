@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T07:00:23.994Z",
+  "generatedAt": "2026-06-15T07:00:06.371Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3394,6 +3394,56 @@
       "tagline": null
     },
     {
+      "id": "6771016447",
+      "title": "OUT OF SIGHT - OUT OF MIND: VOLUME 1",
+      "artist": "Ycee",
+      "url": "https://music.apple.com/jp/album/out-of-sight-out-of-mind-volume-1/6771016447?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/e5/9a/25e59a46-df53-0b13-ab51-3ba49eb42b64/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-12",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6766615121",
+      "title": "Salem Alaikum - EP",
+      "artist": "Godfrey Gad & Sound Of Salem",
+      "url": "https://music.apple.com/jp/album/salem-alaikum-ep/6766615121?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/cf/03/ffcf03c6-32bc-0112-ce16-1a092bf0c223/601527482999.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Gospel",
+        "Music",
+        "Christian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775937700",
+      "title": "Playlist de Motel, Pt. 2",
+      "artist": "Simone Morena",
+      "url": "https://music.apple.com/jp/album/playlist-de-motel-pt-2/6775937700?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/db/98/2edb988b-e92d-dd2d-b283-0ba004d5f397/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Forró",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6768224475",
       "title": "Magazine",
       "artist": "YHWH Nailgun",
@@ -4235,6 +4285,23 @@
       "tagline": null
     },
     {
+      "id": "6773706585",
+      "title": "Sexy Highlife",
+      "artist": "Joey B",
+      "url": "https://music.apple.com/jp/album/sexy-highlife/6773706585?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/74/e0/6374e010-c15d-7dd7-64ac-fc74567461c7/823375198994_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-10",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6769529005",
       "title": "Puberty 2 (10th Anniversary Deluxe Edition)",
       "artist": "Mitski",
@@ -4318,53 +4385,22 @@
       "tagline": null
     },
     {
-      "id": "6769686221",
-      "title": "Tokyo - EP",
-      "artist": "Jinto Yoshida",
-      "url": "https://music.apple.com/jp/album/tokyo-ep/6769686221?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/97/d6/5d97d677-6df3-4345-36dc-2fe4fffd787b/NCS-11215.jpg/632x632bb.jpg",
+      "id": "6775989819",
+      "title": "Carta Aberta",
+      "artist": "Tuany",
+      "url": "https://music.apple.com/jp/album/carta-aberta/6775989819?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/ad/c9/7badc9aa-94ea-7c62-0e66-310fdb070b16/0.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-08",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773256270",
-      "title": "HOME",
-      "artist": "BOYNEXTDOOR",
-      "url": "https://music.apple.com/jp/album/home/6773256270?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/95/c6/be95c64b-17a2-a00c-b1ea-1ab8e8c52a8a/26UMGIM64455.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-08",
+      "releaseDate": "2026-06-09",
       "trackCount": 8,
       "kind": "album",
       "genres": [
-        "K-Pop",
+        "Rock",
         "Music",
-        "Pop"
+        "Brazilian",
+        "MPB"
       ],
       "tagline": null
-    },
-    {
-      "id": "6767688274",
-      "title": "Mutiny After Midnight (Extended Edition)",
-      "artist": "Johnny Blue Skies",
-      "url": "https://music.apple.com/jp/album/mutiny-after-midnight-extended-edition/6767688274?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/82/e8/1d82e855-19cf-e869-ae05-a79b6c95989e/075679576415.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-08",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": "New Release"
     },
     {
       "id": "6774284125",
@@ -4397,23 +4433,6 @@
         "Dance",
         "Music",
         "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6766914963",
-      "title": "Rupture - EP",
-      "artist": "Uncertain",
-      "url": "https://music.apple.com/jp/album/rupture-ep/6766914963?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/ad/c9/44adc9a8-13d2-1fc9-98ef-7b9af3b088d0/8721466924120.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-08",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Dance"
       ],
       "tagline": null
     },
@@ -4451,22 +4470,6 @@
         "Disco"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6772126794",
-      "title": "Black Diamond Versions",
-      "artist": "Jaakko Eino Kalevi",
-      "url": "https://music.apple.com/jp/album/black-diamond-versions/6772126794?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/0a/e5/c40ae537-bf25-4369-9d99-cd3ffebdabea/887829018306.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-08",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6776037963",
