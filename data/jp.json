@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T06:00:05.591Z",
+  "generatedAt": "2026-06-16T07:00:05.755Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3443,6 +3443,39 @@
       "tagline": null
     },
     {
+      "id": "6776333868",
+      "title": "Vem pro Nosso Forrozão, Ep 01",
+      "artist": "Forrozão Tropykalia",
+      "url": "https://music.apple.com/jp/album/vem-pro-nosso-forroz%C3%A3o-ep-01/6776333868?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/c8/ad/6ac8ad96-fcf0-a935-1cfe-11accc45868a/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Forró",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775646295",
+      "title": "Como Se Fosse a Primeira Vez",
+      "artist": "Derxan",
+      "url": "https://music.apple.com/jp/album/como-se-fosse-a-primeira-vez/6775646295?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/13/0b/7f130bfe-fbbc-0fe0-b591-21151ab991c0/6dcb2906-a97c-4b94-8a3e-03272718c724.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6768224475",
       "title": "Magazine",
       "artist": "YHWH Nailgun",
@@ -3590,6 +3623,55 @@
         "Electronica",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771931522",
+      "title": "NO TEMPO CERTO",
+      "artist": "Bia Frazzo",
+      "url": "https://music.apple.com/jp/album/no-tempo-certo/6771931522?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/dc/56/d1dc56d9-310e-5072-1db5-fe2e3aef8551/fbbbc6ff-b898-4147-af19-7f2255768c62.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-11",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Sertanejo",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6768370944",
+      "title": "Visto por Último",
+      "artist": "Juyè & Scarp",
+      "url": "https://music.apple.com/jp/album/visto-por-%C3%BAltimo/6768370944?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/f3/b7/1cf3b7a1-1dac-a504-ee3b-616d5339cf2f/820233339230.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-11",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6772276694",
+      "title": "SANDRA ELETRÔNICA - EP",
+      "artist": "Katy da Voz e as abusadas",
+      "url": "https://music.apple.com/jp/album/sandra-eletr%C3%B4nica-ep/6772276694?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/ee/9a/50ee9a68-9285-9db3-cd01-3f592e367fe3/7900279799847_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-11",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
       ],
       "tagline": null
     },
@@ -4302,103 +4384,18 @@
       "tagline": "New Album"
     },
     {
-      "id": "6769529005",
-      "title": "Puberty 2 (10th Anniversary Deluxe Edition)",
-      "artist": "Mitski",
-      "url": "https://music.apple.com/jp/album/puberty-2-10th-anniversary-deluxe-edition/6769529005?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/86/ed/9a86ed4e-fcd6-2c89-3229-2062173e120d/66100.jpg/632x632bb.jpg",
+      "id": "6776023381",
+      "title": "Inimaginável (Acústico)",
+      "artist": "Rod Melim",
+      "url": "https://music.apple.com/jp/album/inimagin%C3%A1vel-ac%C3%BAstico/6776023381?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/40/c3/0e40c344-d7be-9c84-0062-1ff8457648e5/26UMGIM69630.rgb.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-09",
-      "trackCount": 13,
+      "releaseDate": "2026-06-10",
+      "trackCount": 17,
       "kind": "album",
       "genres": [
-        "Alternative",
+        "Pop",
         "Music"
-      ],
-      "tagline": "New Deluxe Album"
-    },
-    {
-      "id": "6770424465",
-      "title": "REACH YOU - EP",
-      "artist": "Yerin",
-      "url": "https://music.apple.com/jp/album/reach-you-ep/6770424465?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/3c/fc/143cfc1d-8083-f9db-00bd-283dbaf84ad4/823375183952_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-09",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778168505",
-      "title": "Destiny 2: Monument of Triumph (Original Soundtrack)",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/destiny-2-monument-of-triumph-original-soundtrack/6778168505?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/b8/90/e4b89074-fbb0-9af6-5870-f26346cee97c/196874419724.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-09",
-      "trackCount": 46,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773783767",
-      "title": "DEMONETIZATION - EP",
-      "artist": "Iron Reagan",
-      "url": "https://music.apple.com/jp/album/demonetization-ep/6773783767?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/a9/9f/f2a99fa4-c219-d66b-5c7d-e6082ddf86d4/781676572717.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-09",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773389994",
-      "title": "Artificial Sentiment is no Replicant for Human Emotions",
-      "artist": "Duellist",
-      "url": "https://music.apple.com/jp/album/artificial-sentiment-is-no-replicant-for-human-emotions/6773389994?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/08/e3/2108e317-315d-1de6-57de-6a0bbd8296bd/5063817011909_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-09",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Techno",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775989819",
-      "title": "Carta Aberta",
-      "artist": "Tuany",
-      "url": "https://music.apple.com/jp/album/carta-aberta/6775989819?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/ad/c9/7badc9aa-94ea-7c62-0e66-310fdb070b16/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-09",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Brazilian",
-        "MPB"
       ],
       "tagline": null
     },
