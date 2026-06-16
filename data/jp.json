@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T18:00:05.531Z",
+  "generatedAt": "2026-06-16T06:00:05.591Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3838,9 +3838,9 @@
     },
     {
       "id": "6773707805",
-      "title": "Fagott Trio Salzburg Vol.2",
-      "artist": "Philipp Tutzer, Riccardo Terzo & Ayako Kuroki",
-      "url": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%82%B4%E3%83%83%E3%83%88-%E3%83%88%E3%83%AA%E3%82%AA-%E3%82%B6%E3%83%AB%E3%83%84%E3%83%96%E3%83%AB%E3%82%AF-%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A02/6773707805?l=en-US",
+      "title": "Fagott Trio Salzburg Vol. 2",
+      "artist": "Riccardo Terzo, Ayako Kuroki & Philipp Tutzer",
+      "url": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%82%B4%E3%83%83%E3%83%88-%E3%83%88%E3%83%AA%E3%82%AA-%E3%82%B6%E3%83%AB%E3%83%84%E3%83%96%E3%83%AB%E3%82%AF-%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0-2/6773707805?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/50/59/ad505970-51a1-d56b-623d-b20f9653936b/65d35d80-3d87-40c0-bd4c-30418be967bb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-06-10",
@@ -3848,7 +3848,8 @@
       "kind": "album",
       "genres": [
         "Classical",
-        "Music"
+        "Music",
+        "Chamber Music"
       ],
       "tagline": null
     },
