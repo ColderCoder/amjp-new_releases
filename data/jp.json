@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T08:00:05.528Z",
+  "generatedAt": "2026-06-16T09:00:05.422Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4220,7 +4220,7 @@
     },
     {
       "id": "6773219446",
-      "title": "Tokyo Kosei Wind Orchestra Live: All Japan Band Competition Required Pieces 2026 - EP",
+      "title": "Tokyo Kosei Wind Orchestra Live - All Japan Band Competition Required Pieces 2026 - EP",
       "artist": "Takeshi Ooi & Tokyo Kosei Wind Orchestra",
       "url": "https://music.apple.com/jp/album/tokyo-kosei-wind-orchestra-live-all-japan-band-competition/6773219446?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/66/bb/e866bb09-a7e3-f34a-3349-c47fa7d4122b/COKM-46567.jpg/632x632bb.jpg",
@@ -4229,8 +4229,10 @@
       "trackCount": 4,
       "kind": "album",
       "genres": [
+        "Classical Crossover",
+        "Music",
         "Classical",
-        "Music"
+        "Brass & Woodwinds"
       ],
       "tagline": null
     },
