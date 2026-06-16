@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T09:00:05.422Z",
+  "generatedAt": "2026-06-16T15:00:06.028Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3662,22 +3662,6 @@
       "tagline": null
     },
     {
-      "id": "6772276694",
-      "title": "SANDRA ELETRÔNICA - EP",
-      "artist": "Katy da Voz e as abusadas",
-      "url": "https://music.apple.com/jp/album/sandra-eletr%C3%B4nica-ep/6772276694?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/ee/9a/50ee9a68-9285-9db3-cd01-3f592e367fe3/7900279799847_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-11",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6769606156",
       "title": "CLASSIC WAVE",
       "artist": "ROIROM",
@@ -4835,6 +4819,24 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6766972624",
+      "title": "Kaiharubro at 214 Mulberry (DJ Mix)",
+      "artist": "Kaiharubro",
+      "url": "https://music.apple.com/jp/album/kaiharubro-at-214-mulberry-dj-mix/6766972624?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/86/c0/f286c050-3244-394d-a95c-64145acba362/30d158a5-902d-485f-ab4d-d4aecefbc758.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-04-20",
+      "trackCount": 26,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap",
+        "R&B/Soul"
       ],
       "tagline": null
     },
