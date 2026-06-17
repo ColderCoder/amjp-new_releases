@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T07:00:12.343Z",
+  "generatedAt": "2026-06-17T11:00:09.344Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2010,23 +2010,6 @@
         "Music",
         "Dance",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1887557791",
-      "title": "Gargoyle of the Garden State",
-      "artist": "Rachel Bolan",
-      "url": "https://music.apple.com/jp/album/gargoyle-of-the-garden-state/1887557791?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/6d/4c/2d6d4c26-36fa-ad40-676c-00df31c95e1f/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-12",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
       ],
       "tagline": null
     },
@@ -4069,6 +4052,22 @@
       "explicit": true,
       "releaseDate": "2026-06-12",
       "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773657938",
+      "title": "Leumund - EP",
+      "artist": "Knackeboul",
+      "url": "https://music.apple.com/jp/album/leumund-ep/6773657938?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/3d/05/363d05bc-8124-ed4d-7b82-8ec810956b09/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-12",
+      "trackCount": 5,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
