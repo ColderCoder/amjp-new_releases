@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T07:00:09.608Z",
+  "generatedAt": "2026-06-18T15:00:11.295Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4174,172 +4174,6 @@
       "tagline": null
     },
     {
-      "id": "6771849980",
-      "title": "Canzoni a sdraio (Live in Studio)",
-      "artist": "Daniele Silvestri",
-      "url": "https://music.apple.com/jp/album/canzoni-a-sdraio-live-in-studio/6771849980?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/44/37/8e443710-89d8-8f6f-5e07-cdbb6d027494/196874322505.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773767740",
-      "title": "Dio ti protegga",
-      "artist": "sigarettewest",
-      "url": "https://music.apple.com/jp/album/dio-ti-protegga/6773767740?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/eb/65/e1eb6565-48f6-59ca-05c1-6f8196e7beaa/8057715134645.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-12",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769348820",
-      "title": "SENZA FIATO",
-      "artist": "Birthh",
-      "url": "https://music.apple.com/jp/album/senza-fiato/6769348820?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/f1/09/3ff109ba-6c7d-4c94-f6b4-f9c763436bd8/8053307096506.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771991968",
-      "title": "AISUPOP",
-      "artist": "aisu",
-      "url": "https://music.apple.com/jp/album/aisupop/6771991968?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/cc/91/1dcc91b5-87de-2747-0f62-ac41730f92d3/26UMGIM57805.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6770259408",
-      "title": "Withness",
-      "artist": "ANOTR",
-      "url": "https://music.apple.com/jp/album/withness/6770259408?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/0d/da/130ddaa7-e337-e3d6-5404-71958d60c8ba/10641.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6773248775",
-      "title": "HARMAN - EP",
-      "artist": "Ohash, Cairo & AsyA",
-      "url": "https://music.apple.com/jp/album/harman-ep/6773248775?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/33/eb/4033eb5f-7942-70c6-137c-8ceece427a2e/0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-12",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Turkish Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6772207762",
-      "title": "6 PATLAR - EP",
-      "artist": "Cash Flow",
-      "url": "https://music.apple.com/jp/album/6-patlar-ep/6772207762?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/f0/43/f3f04341-65e7-dce3-b3a1-956280e16201/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-12",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Turkish Hip-Hop/Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771468771",
-      "title": "VAKKO (feat. BAKAN)",
-      "artist": "KAVAK",
-      "url": "https://music.apple.com/jp/album/vakko-feat-bakan/6771468771?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/26/f2/dd26f230-7f68-7686-beef-5a681a4d2c14/820233520812.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-12",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895915556",
-      "title": "İKİNCİ ŞANS",
-      "artist": "VAYT",
-      "url": "https://music.apple.com/jp/album/i-ki-nci-%C5%9Fans/1895915556?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/4b/29/0f4b29af-faeb-a8e3-b9d8-7192e3e531ed/823375153702_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768844601",
-      "title": "PAGAN BY RELIGION",
-      "artist": "Archura",
-      "url": "https://music.apple.com/jp/album/pagan-by-religion/6768844601?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/41/e5/6d41e58a-a44e-a95d-5b07-6bf5879e6a56/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6778080302",
       "title": "Beats In Space 210: Tim Sweeney (DJ Mix)",
       "artist": "Tim Sweeney",
@@ -4926,6 +4760,175 @@
         "Music",
         "R&B/Soul",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773493335",
+      "title": "SOUNDSTORM: Armin van Buuren, Dec 13, 2025 (DJ Mix)",
+      "artist": "Armin van Buuren",
+      "url": "https://music.apple.com/jp/album/soundstorm-armin-van-buuren-dec-13-2025-dj-mix/6773493335?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/47/e8/5347e860-a4e3-ade4-ccb2-d75ceb8c29a5/ef5631e8-22cc-4316-b7e8-fa75604c1362.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2025-12-13",
+      "trackCount": 24,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Trance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773960898",
+      "title": "SOUNDSTORM: Sidney Samson, Dec 13, 2025 (DJ Mix)",
+      "artist": "Sidney Samson",
+      "url": "https://music.apple.com/jp/album/soundstorm-sidney-samson-dec-13-2025-dj-mix/6773960898?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/93/a1/ae93a117-f706-7f62-a157-b0e4ef730a10/592de3c3-c65f-4c7d-a039-d0c94d82c00b.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2025-12-13",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773146835",
+      "title": "SOUNDSTORM: DJ Viva, Dec 13, 2025 (DJ Mix)",
+      "artist": "DJ Viva",
+      "url": "https://music.apple.com/jp/album/soundstorm-dj-viva-dec-13-2025-dj-mix/6773146835?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/56/8b/8a568b69-92be-f67d-08d3-dd0819acbf4a/e714eb64-3f04-4a49-ab5a-c3016d19ffcf.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2025-12-13",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6774381455",
+      "title": "SOUNDSTORM: Alok, Dec 13, 2025 (DJ Mix)",
+      "artist": "Alok",
+      "url": "https://music.apple.com/jp/album/soundstorm-alok-dec-13-2025-dj-mix/6774381455?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/35/dc/ee35dcef-4298-06c6-1c11-91a7986fa223/c99bc38c-a333-44e2-8ba1-b4524679fb7e.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-12-13",
+      "trackCount": 33,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6772309155",
+      "title": "SOUNDSTORM: The Engineers, Dec 13, 2025 (DJ Mix)",
+      "artist": "The Engineers",
+      "url": "https://music.apple.com/jp/album/soundstorm-the-engineers-dec-13-2025-dj-mix/6772309155?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/d8/c9/7cd8c9b8-c056-40db-9685-894a04bf3541/927dcff2-9d6b-4ac6-ae43-b1e7cee3d160.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2025-12-13",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773480329",
+      "title": "SOUNDSTORM: Gino & Enzo Ingrosso, Dec 12, 2025 (DJ Mix)",
+      "artist": "Gino Ingrosso & Enzo Ingrosso",
+      "url": "https://music.apple.com/jp/album/soundstorm-gino-enzo-ingrosso-dec-12-2025-dj-mix/6773480329?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/22/ff/d122ff20-583a-a66d-e52f-6824767ff1bf/91f26c50-c4df-4349-803d-d94423416c09.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-12-12",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6772347395",
+      "title": "SOUNDSTORM: Omar Basaad, Dec 12, 2025 (DJ Mix)",
+      "artist": "Omar Basaad",
+      "url": "https://music.apple.com/jp/album/soundstorm-omar-basaad-dec-12-2025-dj-mix/6772347395?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/48/1c/77481c17-ff46-c44a-368d-aedb3e1005c4/abc8c557-705e-4b10-8cdc-67edf7a2188b.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-12-12",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6774770929",
+      "title": "SOUNDSTORM: Nikaya, Dec 12, 2025 (DJ Mix)",
+      "artist": "Nikaya",
+      "url": "https://music.apple.com/jp/album/soundstorm-nikaya-dec-12-2025-dj-mix/6774770929?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/40/69/7a40693a-8e22-a812-d66d-03e6825a12de/f141c72a-da06-40ee-82bd-0dc68deb2eb1.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-12-12",
+      "trackCount": 33,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6774677670",
+      "title": "SOUNDSTORM: Elfuego, Dec 11, 2025 (DJ Mix)",
+      "artist": "Elfuego",
+      "url": "https://music.apple.com/jp/album/soundstorm-elfuego-dec-11-2025-dj-mix/6774677670?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/8b/25/a38b255c-85f0-a296-0cf7-bd4c7e7b897e/10f8658d-9d4b-4ace-b073-adc2ab687408.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-12-11",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773453818",
+      "title": "SOUNDSTORM: N.A.H, Dec 11, 2025 (DJ Mix)",
+      "artist": "N.A.H",
+      "url": "https://music.apple.com/jp/album/soundstorm-n-a-h-dec-11-2025-dj-mix/6773453818?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/a2/9d/31a29d0d-5f2d-fe72-f98b-72b17a60fbb9/667c5a5a-99f4-4316-86e4-74e5c5a1cfff.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-12-11",
+      "trackCount": 35,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
       ],
       "tagline": null
     },
