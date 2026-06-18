@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T23:00:08.025Z",
+  "generatedAt": "2026-06-18T07:00:09.608Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4076,37 +4076,268 @@
       "tagline": null
     },
     {
-      "id": "6768224475",
-      "title": "Magazine",
-      "artist": "YHWH Nailgun",
-      "url": "https://music.apple.com/jp/album/magazine/6768224475?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/05/f1/d805f16b-7b05-e45d-1dca-d0272303f1aa/191400093775.png/632x632bb.jpg",
+      "id": "1895014427",
+      "title": "Trilogue + 15 (A Tribute to Albert Mangelsdorff) [Live at German Jazzfestival 2018]",
+      "artist": "Nils Wogram",
+      "url": "https://music.apple.com/jp/album/trilogue-15-a-tribute-to-albert-mangelsdorff-live/1895014427?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/4a/7d/504a7d14-4253-ce0a-ac23-5eee6aabff96/4051972159490_3000.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-11",
+      "releaseDate": "2026-06-12",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6769537228",
+      "title": "Mascara - EP",
+      "artist": "Laolu",
+      "url": "https://music.apple.com/jp/album/mascara-ep/6769537228?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/5d/ec/545dec27-d9c6-42c1-65de-08eb0e43a12c/820233481571.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775487731",
+      "title": "Big City Blues",
+      "artist": "KEZA",
+      "url": "https://music.apple.com/jp/album/big-city-blues/6775487731?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/40/ef/5640ef2b-a3f3-29da-e3f9-ed4c14d7cfaa/1115170.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Alternative",
+        "Indie Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773429471",
+      "title": "DENTRO DILUVIA",
+      "artist": "Riccardo Stimolo",
+      "url": "https://music.apple.com/jp/album/dentro-diluvia/6773429471?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/82/3a/7b823a55-ee20-1f83-6447-701e0bf4e421/1200214195991.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771692760",
+      "title": "Magia Bianca",
+      "artist": "Francesca Michielin",
+      "url": "https://music.apple.com/jp/album/magia-bianca/6771692760?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/1f/73/ce1f73c4-def2-564b-17f7-a5bbc6413bc8/196874399422.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771795209",
+      "title": "FRUTTA E VERDURA - EP",
+      "artist": "Golden Years",
+      "url": "https://music.apple.com/jp/album/frutta-e-verdura-ep/6771795209?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/51/ab/3d51ab0c-3b71-8d4b-3be9-d93eb75a9554/196874400142.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771849980",
+      "title": "Canzoni a sdraio (Live in Studio)",
+      "artist": "Daniele Silvestri",
+      "url": "https://music.apple.com/jp/album/canzoni-a-sdraio-live-in-studio/6771849980?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/44/37/8e443710-89d8-8f6f-5e07-cdbb6d027494/196874322505.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773767740",
+      "title": "Dio ti protegga",
+      "artist": "sigarettewest",
+      "url": "https://music.apple.com/jp/album/dio-ti-protegga/6773767740?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/eb/65/e1eb6565-48f6-59ca-05c1-6f8196e7beaa/8057715134645.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-12",
       "trackCount": 10,
       "kind": "album",
       "genres": [
-        "Alternative",
-        "Music"
+        "Indie Pop",
+        "Music",
+        "Alternative"
       ],
-      "tagline": "New Release"
+      "tagline": null
     },
     {
-      "id": "6776224718",
-      "title": "MILLITO",
-      "artist": "iZaak",
-      "url": "https://music.apple.com/jp/album/millito/6776224718?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/ac/fc/90acfc51-e63d-4b5f-8f05-a4b0aaff4100/1200214276591.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-11",
-      "trackCount": 19,
+      "id": "6769348820",
+      "title": "SENZA FIATO",
+      "artist": "Birthh",
+      "url": "https://music.apple.com/jp/album/senza-fiato/6769348820?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/f1/09/3ff109ba-6c7d-4c94-f6b4-f9c763436bd8/8053307096506.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 11,
       "kind": "album",
       "genres": [
-        "Urbano latino",
+        "Indie Pop",
         "Music",
-        "Latin"
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771991968",
+      "title": "AISUPOP",
+      "artist": "aisu",
+      "url": "https://music.apple.com/jp/album/aisupop/6771991968?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/cc/91/1dcc91b5-87de-2747-0f62-ac41730f92d3/26UMGIM57805.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6770259408",
+      "title": "Withness",
+      "artist": "ANOTR",
+      "url": "https://music.apple.com/jp/album/withness/6770259408?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/0d/da/130ddaa7-e337-e3d6-5404-71958d60c8ba/10641.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6773248775",
+      "title": "HARMAN - EP",
+      "artist": "Ohash, Cairo & AsyA",
+      "url": "https://music.apple.com/jp/album/harman-ep/6773248775?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/33/eb/4033eb5f-7942-70c6-137c-8ceece427a2e/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-12",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Turkish Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6772207762",
+      "title": "6 PATLAR - EP",
+      "artist": "Cash Flow",
+      "url": "https://music.apple.com/jp/album/6-patlar-ep/6772207762?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/f0/43/f3f04341-65e7-dce3-b3a1-956280e16201/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-12",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Turkish Hip-Hop/Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771468771",
+      "title": "VAKKO (feat. BAKAN)",
+      "artist": "KAVAK",
+      "url": "https://music.apple.com/jp/album/vakko-feat-bakan/6771468771?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/26/f2/dd26f230-7f68-7686-beef-5a681a4d2c14/820233520812.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-12",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895915556",
+      "title": "İKİNCİ ŞANS",
+      "artist": "VAYT",
+      "url": "https://music.apple.com/jp/album/i-ki-nci-%C5%9Fans/1895915556?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/4b/29/0f4b29af-faeb-a8e3-b9d8-7192e3e531ed/823375153702_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6768844601",
+      "title": "PAGAN BY RELIGION",
+      "artist": "Archura",
+      "url": "https://music.apple.com/jp/album/pagan-by-religion/6768844601?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/41/e5/6d41e58a-a44e-a95d-5b07-6bf5879e6a56/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
     },
     {
       "id": "6778080302",
@@ -4126,39 +4357,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6771838178",
-      "title": "喧嘩独学 (Soundtrack from the Netflix Series)",
-      "artist": "Face 2 fAKE",
-      "url": "https://music.apple.com/jp/album/%E5%96%A7%E5%98%A9%E7%8B%AC%E5%AD%A6-soundtrack-from-the-netflix-series/6771838178?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/70/21/d770218f-5791-2b5a-ac5c-8f4e94babd7c/810123169245.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-11",
-      "trackCount": 34,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1875999816",
-      "title": "III",
-      "artist": "Without The Sun",
-      "url": "https://music.apple.com/jp/album/iii/1875999816?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/bb/cb/eebbcbee-cb23-aecd-f081-46c74dec5e46/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-11",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6776028044",
       "title": "Beats in Space 210: Massimiliano Pagliara (DJ Mix)",
       "artist": "Massimiliano Pagliara",
@@ -4174,206 +4372,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "1895674697",
-      "title": "AMAR A MI NIVEL",
-      "artist": "Hijos De Barrón",
-      "url": "https://music.apple.com/jp/album/amar-a-mi-nivel/1895674697?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/18/af/d818afad-4023-fcff-52df-e933f7a2b8c5/196873910062.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-11",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1876865861",
-      "title": "Grey Hound",
-      "artist": "The Hardkiss",
-      "url": "https://music.apple.com/jp/album/grey-hound/1876865861?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/05/73/3c05737a-0445-7b50-907f-a9277efb3a91/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-11",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Hard Rock",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895842474",
-      "title": "paper elephants",
-      "artist": "Clovr",
-      "url": "https://music.apple.com/jp/album/paper-elephants/1895842474?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/94/33/0f943337-c7b6-d615-097e-2e18f8e1cd65/443982.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-11",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Electronica",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771931522",
-      "title": "NO TEMPO CERTO",
-      "artist": "Bia Frazzo",
-      "url": "https://music.apple.com/jp/album/no-tempo-certo/6771931522?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/dc/56/d1dc56d9-310e-5072-1db5-fe2e3aef8551/fbbbc6ff-b898-4147-af19-7f2255768c62.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-11",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Sertanejo",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768370944",
-      "title": "Visto por Último",
-      "artist": "Juyè & Scarp",
-      "url": "https://music.apple.com/jp/album/visto-por-%C3%BAltimo/6768370944?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/f3/b7/1cf3b7a1-1dac-a504-ee3b-616d5339cf2f/820233339230.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-11",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6772276694",
-      "title": "SANDRA ELETRÔNICA - EP",
-      "artist": "Katy da Voz e as abusadas",
-      "url": "https://music.apple.com/jp/album/sandra-eletr%C3%B4nica-ep/6772276694?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/50/ee/9a/50ee9a68-9285-9db3-cd01-3f592e367fe3/7900279799847_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-11",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773856268",
-      "title": "A Beleza do Erro",
-      "artist": "Tayob J.",
-      "url": "https://music.apple.com/jp/album/a-beleza-do-erro/6773856268?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/69/3c/a0693cb4-3e0d-6a56-2251-f7ae184fde4a/820233526524.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-11",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768783339",
-      "title": "Portal",
-      "artist": "Paz Quintana",
-      "url": "https://music.apple.com/jp/album/portal/6768783339?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/54/2e/87542ed4-9a2c-3e24-d248-5b7802ef73bc/820200882318.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-11",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768379637",
-      "title": "5822 - EP",
-      "artist": "Teeam Revolver & Zavalah",
-      "url": "https://music.apple.com/jp/album/5822-ep/6768379637?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/87/e3/5887e398-4a95-d49a-c75c-ec764d9b1c17/0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-11",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768681399",
-      "title": "EL NENE, VOL 2",
-      "artist": "La Cruz",
-      "url": "https://music.apple.com/jp/album/el-nene-vol-2/6768681399?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/24/fd/5124fd21-685f-5888-3ba4-deffadb36013/827568016942.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-11",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775787572",
-      "title": "Blue Hour",
-      "artist": "Roots Raid & Tamilla",
-      "url": "https://music.apple.com/jp/album/blue-hour/6775787572?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/cf/71/2ecf7179-036f-b7ea-1530-88d94b17ec3b/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-11",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771913930",
-      "title": "Jeanne (Bonus Version)",
-      "artist": "Jeanne Cherhal",
-      "url": "https://music.apple.com/jp/album/jeanne-bonus-version/6771913930?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/80/f7/5d80f712-dc87-3aa0-6b0e-e158380ed224/5051083239493_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-11",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "French Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
     },
     {
       "id": "6775604062",
