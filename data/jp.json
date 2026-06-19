@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T05:00:08.381Z",
+  "generatedAt": "2026-06-19T06:00:09.381Z",
   "source": "https://music.apple.com/jp/room/6781885674?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6781885674?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2944,7 +2944,7 @@
       "title": "babylona blue",
       "artist": "Danny Ocean",
       "url": "https://music.apple.com/jp/album/babylona-blue/6778974685?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/62/5b/d7625b56-f4d3-1be5-1374-0ba20a7bd852/1200214337384.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/47/75/514775f7-c0a4-183d-3c69-7189f22bd1ab/1200214337384.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-06-18",
       "trackCount": 8,
