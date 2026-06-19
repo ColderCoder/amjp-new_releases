@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T01:00:09.740Z",
+  "generatedAt": "2026-06-19T02:00:08.677Z",
   "source": "https://music.apple.com/jp/room/6781885674?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6781885674?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -196,7 +196,7 @@
       "title": "Act I: Summer Nights - EP",
       "artist": "Kashus Culpepper",
       "url": "https://music.apple.com/jp/album/act-i-summer-nights-ep/6776836583?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/9e/c4/d39ec4e0-9066-3eec-d0e4-ab7a34d9ca5b/26UMGIM71524.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/e3/db/4de3db1c-acc1-84e9-f332-4e5548bde2c7/26UMGIM71524.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-06-19",
       "trackCount": 5,
