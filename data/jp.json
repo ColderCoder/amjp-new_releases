@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T14:00:10.414Z",
+  "generatedAt": "2026-06-19T15:00:10.399Z",
   "source": "https://music.apple.com/jp/room/6781885674?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6781885674?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2759,7 +2759,7 @@
       "title": "THIS IS SUMMER PART.1",
       "artist": "DJ Hamida",
       "url": "https://music.apple.com/jp/album/this-is-summer-part-1/6777140836?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/76/63/0876633e-d037-7bfc-c1cd-1a64b5e7a441/cover.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/c4/e6/06c4e63f-7cf0-a3b0-9a59-00448ee15941/cover.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-06-19",
       "trackCount": 24,
@@ -2796,6 +2796,22 @@
       "explicit": true,
       "releaseDate": "2026-06-19",
       "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778109743",
+      "title": "Winter (Part. 1)",
+      "artist": "Kultur",
+      "url": "https://music.apple.com/jp/album/winter-part-1/6778109743?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/70/a7/a170a764-96ce-1318-f233-b8ea31478931/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 10,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
@@ -2902,23 +2918,6 @@
         "Electronic",
         "Alternative",
         "Indie Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768163790",
-      "title": "Bound States - EP",
-      "artist": "François X",
-      "url": "https://music.apple.com/jp/album/bound-states-ep/6768163790?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/d5/a4/62d5a475-da62-ae5e-ec28-445df3d4cf37/823375166924_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-19",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Techno",
-        "Music",
-        "Dance"
       ],
       "tagline": null
     },
