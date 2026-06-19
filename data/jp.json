@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T23:00:08.517Z",
+  "generatedAt": "2026-06-19T00:00:10.715Z",
   "source": "https://music.apple.com/jp/room/6779429627?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6779429627?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -88,7 +88,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Album"
     },
     {
       "id": "1896255575",
@@ -105,7 +105,7 @@
         "Music",
         "Indie Pop"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1886186090",
@@ -272,7 +272,7 @@
         "Music",
         "Jazz"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1887819961",
@@ -320,7 +320,7 @@
         "Electronic",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6773986679",
@@ -452,6 +452,23 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6779004375",
+      "title": "Chemistry Radio with Chris Lake, Ep. 5 (DJ Mix)",
+      "artist": "Chris Lake",
+      "url": "https://music.apple.com/jp/album/chemistry-radio-with-chris-lake-ep-5-dj-mix/6779004375?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/22/d8/cf22d856-0a47-23b1-38ca-57c90ed0c33f/344b23ac-2500-4329-9d2f-39e649159f3d.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 28,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
     },
     {
       "id": "1887900749",
@@ -588,7 +605,7 @@
         "Music",
         "Dance"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "1895234970",
@@ -2478,6 +2495,38 @@
       "tagline": "New Album"
     },
     {
+      "id": "6778773450",
+      "title": "Mentre Los Angeles Brucia (Deluxe)",
+      "artist": "Fabri Fibra",
+      "url": "https://music.apple.com/jp/album/mentre-los-angeles-brucia-deluxe/6778773450?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/ad/ea/26adea17-4a15-1810-af8c-b8b995a5c5bb/196874509517.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778885511",
+      "title": "Nuovo Amore Passato parte II",
+      "artist": "Anna and Vulkan",
+      "url": "https://music.apple.com/jp/album/nuovo-amore-passato-parte-ii/6778885511?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/b8/2c/dab82cc2-bc11-ab6e-cdf8-7aa1f50b621a/196874509807.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6776690259",
       "title": "Socialmente utile",
       "artist": "Vybes",
@@ -2489,6 +2538,22 @@
       "kind": "album",
       "genres": [
         "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6776606091",
+      "title": "The Spring Breaker - EP",
+      "artist": "DrefGold",
+      "url": "https://music.apple.com/jp/album/the-spring-breaker-ep/6776606091?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/b0/cb/44b0cb64-de74-1fd5-d827-964fad11f40f/196874497548.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
         "Music"
       ],
       "tagline": null
@@ -3141,91 +3206,6 @@
       "tagline": null
     },
     {
-      "id": "6775515867",
-      "title": "Cicatrizes em Beijos",
-      "artist": "Anderson Mário",
-      "url": "https://music.apple.com/jp/album/cicatrizes-em-beijos/6775515867?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/18/f6/a918f619-38cb-ffdd-4cc9-f1149c2bf059/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-19",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Kizomba",
-        "Music",
-        "African",
-        "Afro-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778003941",
-      "title": "Éxitos España",
-      "artist": "Rvfv",
-      "url": "https://music.apple.com/jp/album/%C3%A9xitos-espa%C3%B1a/6778003941?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/af/0a/21af0a8e-d334-49e7-d026-5b36c3647814/c4f1a321-8770-43d6-96f5-24ef052545ab.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-19",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778116659",
-      "title": "Camisa de Fuerza",
-      "artist": "Kase.O",
-      "url": "https://music.apple.com/jp/album/camisa-de-fuerza/6778116659?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/0b/49/bf0b492f-5838-c9e9-03dc-53d26e2f3dc2/820233608930.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-19",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Hardcore Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778423880",
-      "title": "riviera nascosta - EP",
-      "artist": "greatwaterpressure",
-      "url": "https://music.apple.com/jp/album/riviera-nascosta-ep/6778423880?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/fd/95/5bfd95c1-d8bf-7598-63be-c2a45c598f89/820233588263.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-19",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Funk",
-        "Music",
-        "R&B/Soul"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776695036",
-      "title": "Amore Amore Amore - EP",
-      "artist": "LAYANA",
-      "url": "https://music.apple.com/jp/album/amore-amore-amore-ep/6776695036?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/92/1a/17921a6f-c1bf-50d3-b060-a1947336e554/26UMGIM72332.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-19",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6769211038",
       "title": "Cancionero - EP",
       "artist": "st. Pedro",
@@ -3305,6 +3285,23 @@
       "genres": [
         "Reggae",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778895287",
+      "title": "As Vozes, Vol. 1 (Ao Vivo)",
+      "artist": "Péricles & Ferrugem",
+      "url": "https://music.apple.com/jp/album/as-vozes-vol-1-ao-vivo/6778895287?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/82/87/17828723-4dbd-321c-3527-ecff064bcedd/820233279604.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-18",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Pagode",
+        "Music",
+        "Brazilian"
       ],
       "tagline": null
     },
@@ -3641,38 +3638,6 @@
       "tagline": null
     },
     {
-      "id": "6776791573",
-      "title": "DÉJATE QUERER - EP",
-      "artist": "NORTE",
-      "url": "https://music.apple.com/jp/album/d%C3%A9jate-querer-ep/6776791573?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/58/89/cd588934-fdfb-658c-ec5d-a9e678d4ec7a/820233590310.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-17",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778581230",
-      "title": "STONE BOY EUROPA - EP",
-      "artist": "La Pantera",
-      "url": "https://music.apple.com/jp/album/stone-boy-europa-ep/6778581230?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/69/23/556923c0-2c08-3be7-2f81-48c5bc974ddf/1200214328740.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-17",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6770763862",
       "title": "Live at Apple Music Radio (En Vivo) - EP",
       "artist": "PALOMAZO NORTEÑO",
@@ -3817,23 +3782,6 @@
       "kind": "album",
       "genres": [
         "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771088085",
-      "title": "A Prenda 4 - EP",
-      "artist": "Força Suprema",
-      "url": "https://music.apple.com/jp/album/a-prenda-4-ep/6771088085?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/1f/80/471f80d8-4c70-24b0-cb86-420915a93dce/820233404808.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-16",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Rap",
         "Music",
         "Hip-Hop/Rap"
       ],
@@ -4488,6 +4436,24 @@
       "tagline": null
     },
     {
+      "id": "6779800576",
+      "title": "HOL! at EDC Las Vegas 2026: Basspod Stage (DJ Mix)",
+      "artist": "HOL!",
+      "url": "https://music.apple.com/jp/album/hol-at-edc-las-vegas-2026-basspod-stage-dj-mix/6779800576?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/8a/e6/788ae6fd-bf57-d04f-419c-1395c9a0989d/e699dac0-7499-4259-8614-914309c1fbdc.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-16",
+      "trackCount": 61,
+      "kind": "album",
+      "genres": [
+        "Dubstep",
+        "Music",
+        "Electronic",
+        "Bass"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6778891602",
       "title": "BOLO at EDC Las Vegas 2026: Stereo Bloom Stage (DJ Mix)",
       "artist": "BOLO THE DJ",
@@ -4570,6 +4536,24 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780552866",
+      "title": "GorillaT at EDC Las Vegas 2026: Basspod Stage (DJ Mix)",
+      "artist": "GorillaT",
+      "url": "https://music.apple.com/jp/album/gorillat-at-edc-las-vegas-2026-basspod-stage-dj-mix/6780552866?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/8e/01/f88e01b9-ba38-8725-ef52-acc35733d0a2/c3179fc2-085e-48b1-95d3-b1a468b1f0ea.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-15",
+      "trackCount": 48,
+      "kind": "album",
+      "genres": [
+        "Dubstep",
+        "Music",
+        "Electronic",
+        "Bass"
       ],
       "tagline": null
     },
@@ -4946,6 +4930,23 @@
         "House",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778582192",
+      "title": "Thugli at Bastid’s BBQ, Toronto, 2025 (DJ Mix)",
+      "artist": "Thugli",
+      "url": "https://music.apple.com/jp/album/thugli-at-bastids-bbq-toronto-2025-dj-mix/6778582192?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/e3/78/dbe3787a-8f06-71fb-c02f-e9ef1cee372d/801182bc-74c3-4b47-b343-7c6e36b8ccd2.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-07-27",
+      "trackCount": 37,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
