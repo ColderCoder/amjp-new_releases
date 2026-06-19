@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T06:00:09.381Z",
+  "generatedAt": "2026-06-19T09:00:08.530Z",
   "source": "https://music.apple.com/jp/room/6781885674?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6781885674?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2443,6 +2443,22 @@
       "tagline": null
     },
     {
+      "id": "6778878152",
+      "title": "ENERGY",
+      "artist": "Franglish & KeBlack",
+      "url": "https://music.apple.com/jp/album/energy/6778878152?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/8c/ba/0d8cba40-8c78-b2b6-4d33-8dad8ef244f4/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6768966775",
       "title": "Unfold - EP",
       "artist": "Sensu",
@@ -2903,23 +2919,6 @@
         "Techno",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1876332698",
-      "title": "Cry With Us",
-      "artist": "JANIS",
-      "url": "https://music.apple.com/jp/album/cry-with-us/1876332698?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/52/8a/ab528a75-0867-500c-8f7d-d724d13b1e5e/198704994630_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-19",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Adult Contemporary",
-        "Music",
-        "Pop"
       ],
       "tagline": null
     },
