@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T02:00:08.677Z",
+  "generatedAt": "2026-06-19T03:00:08.240Z",
   "source": "https://music.apple.com/jp/room/6781885674?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6781885674?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -757,6 +757,23 @@
         "Solo Instrumental"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6779406421",
+      "title": "Vãs Paixões",
+      "artist": "José Wellington",
+      "url": "https://music.apple.com/jp/album/v%C3%A3s-paix%C3%B5es/6779406421?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/65/1f/32651f32-bca6-f9d5-4554-0812af29cdaa/26UMGIM67795.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Gospel",
+        "Music",
+        "Christian"
+      ],
+      "tagline": null
     },
     {
       "id": "6776845928",
@@ -2594,6 +2611,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "6771559383",
+      "title": "IL GIORNO CHE ASPETTAVO",
+      "artist": "Ultimo",
+      "url": "https://music.apple.com/jp/album/il-giorno-che-aspettavo/6771559383?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/29/2f/f6292f3c-cf76-92fd-9b9c-269c50b50840/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6778773450",
       "title": "Mentre Los Angeles Brucia (Deluxe)",
       "artist": "Fabri Fibra",
@@ -2711,7 +2744,7 @@
       "title": "428 - EP",
       "artist": "DJA",
       "url": "https://music.apple.com/jp/album/428-ep/6778110628?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/1f/69/cd1f698e-0760-1cb3-440d-19301331b1e2/26SYMIM31675.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/39/26/763926be-f4f7-8b23-4140-901ab217773d/26SYMIM31675.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-06-19",
       "trackCount": 5,
@@ -2888,39 +2921,6 @@
         "House",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1883968172",
-      "title": "Hello Magpie",
-      "artist": "Inflatable Dead Horse",
-      "url": "https://music.apple.com/jp/album/hello-magpie/1883968172?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/a3/f9/a1a3f9a3-dd66-ea2c-028f-0e3d29d83bb3/3770026616147_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-19",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Grunge",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1878140793",
-      "title": "Live at Beaubourg",
-      "artist": "The Limiñanas",
-      "url": "https://music.apple.com/jp/album/live-at-beaubourg/1878140793?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/ef/cb/74efcb04-9250-a554-7cd2-c30542515548/5056556176961_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-19",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
       ],
       "tagline": null
     },
