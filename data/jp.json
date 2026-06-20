@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T18:00:08.454Z",
+  "generatedAt": "2026-06-20T00:00:08.063Z",
   "source": "https://music.apple.com/jp/room/6781885674?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6781885674?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,24 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6766606736",
+      "title": "NO VISA: Gurafiku (DJ Mix)",
+      "artist": "Gurafiku",
+      "url": "https://music.apple.com/jp/album/no-visa-gurafiku-dj-mix/6766606736?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/62/e0/1062e055-913a-983c-ca2c-b4283a8652d8/59a4d1cd-a834-4ab1-86c7-e38dfa9433fa.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-20",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "African",
+        "Afrobeats"
+      ],
+      "tagline": null
+    },
     {
       "id": "6780674000",
       "title": "Toy Story 5 (Original Motion Picture Soundtrack)",
@@ -2899,25 +2917,6 @@
       "genres": [
         "Electronic",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768254472",
-      "title": "Collection of Goodbyes: Escapades III",
-      "artist": "Brennt Vanneste",
-      "url": "https://music.apple.com/jp/album/collection-of-goodbyes-escapades-iii/6768254472?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/da/ea/ffdaea51-9ad6-738d-4d1c-a3469052c61e/3663729443069_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-19",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Ambient",
-        "Music",
-        "Electronic",
-        "Alternative",
-        "Indie Rock"
       ],
       "tagline": null
     },
