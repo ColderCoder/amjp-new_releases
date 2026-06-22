@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T07:00:07.464Z",
+  "generatedAt": "2026-06-22T07:00:07.796Z",
   "source": "https://music.apple.com/jp/room/6781885674?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6781885674?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2957,6 +2957,137 @@
       "tagline": null
     },
     {
+      "id": "1876332698",
+      "title": "Cry With Us",
+      "artist": "JANIS",
+      "url": "https://music.apple.com/jp/album/cry-with-us/1876332698?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/52/8a/ab528a75-0867-500c-8f7d-d724d13b1e5e/198704994630_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Adult Contemporary",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771743865",
+      "title": "Animal Byzarre",
+      "artist": "Les Sans Pattes",
+      "url": "https://music.apple.com/jp/album/animal-byzarre/6771743865?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/a2/1e/09a21ec8-59d7-c54e-e26d-df7ed0d3419a/823375192510_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6774108506",
+      "title": "Keep Rockin / Dancin - EP",
+      "artist": "Sam In Space",
+      "url": "https://music.apple.com/jp/album/keep-rockin-dancin-ep/6774108506?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/b5/86/62b586fa-76a3-257d-2941-b6327152286e/823375205029_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1883968172",
+      "title": "Hello Magpie",
+      "artist": "Inflatable Dead Horse",
+      "url": "https://music.apple.com/jp/album/hello-magpie/1883968172?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/a3/f9/a1a3f9a3-dd66-ea2c-028f-0e3d29d83bb3/3770026616147_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Grunge",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778819022",
+      "title": "En Croix",
+      "artist": "Lagui",
+      "url": "https://music.apple.com/jp/album/en-croix/6778819022?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/d2/06/d8d206fa-fb2c-4e9f-24e5-92dce45cd84d/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1878140793",
+      "title": "Live at Beaubourg",
+      "artist": "The Limiñanas",
+      "url": "https://music.apple.com/jp/album/live-at-beaubourg/1878140793?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/ef/cb/74efcb04-9250-a554-7cd2-c30542515548/5056556176961_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6776241794",
+      "title": "CAPTAIN FREEZA",
+      "artist": "SAKI225",
+      "url": "https://music.apple.com/jp/album/captain-freeza/6776241794?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/6f/8f/e66f8ff8-b524-5347-a184-e86c3d4ab86a/17634.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6766264878",
+      "title": "Chapter 3",
+      "artist": "gts",
+      "url": "https://music.apple.com/jp/album/chapter-3/6766264878?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/47/3b/15473bd2-4389-6f34-ddee-486bdf6684f5/17370.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6776178404",
       "title": "Haibara's Teenage New Game+ - EP",
       "artist": "mishmash leftovers, Natsuki Haibara(CV.Yuto Uemura) & Serika Hondo(CV.Aimi)",
@@ -3929,107 +4060,6 @@
       "tagline": null
     },
     {
-      "id": "6776080128",
-      "title": "II - The 2nd Mini Album - EP",
-      "artist": "RIIZE",
-      "url": "https://music.apple.com/jp/album/ii-the-2nd-mini-album-ep/6776080128?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/77/94/5377940a-d6de-d0f9-3dcf-b659abf454d7/26UMGIM70404.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-15",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779471058",
-      "title": "Bling 2 Tape",
-      "artist": "Bark",
-      "url": "https://music.apple.com/jp/album/bling-2-tape/6779471058?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/0b/9c/630b9c89-07d0-8e38-3fc0-1e7698120687/4550757600474_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-15",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779424412",
-      "title": "Live at Apple Music Radio",
-      "artist": "Failure",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6779424412?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/7c/5d/7e7c5da4-c645-bb70-e26b-409ca3d2a3e3/823375234647_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-15",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
-      "id": "6778821213",
-      "title": "Among Us Story: On Guard (Original Soundtrack) [Demo]",
-      "artist": "A Shell In The Pit & Innersloth",
-      "url": "https://music.apple.com/jp/album/among-us-story-on-guard-original-soundtrack-demo/6778821213?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/e3/be/b7e3bece-003f-0094-2da0-64f0d890446e/8721555341234.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-15",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Video Game",
-        "Music",
-        "Soundtrack"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1884959926",
-      "title": "Safe To Be _",
-      "artist": "noxz",
-      "url": "https://music.apple.com/jp/album/safe-to-be/1884959926?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/2c/81/3c2c814c-907c-5678-b9be-c6eefc716f0b/5059449268569.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-15",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Contemporary R&B",
-        "Music",
-        "R&B/Soul",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1896446447",
-      "title": "From Resuscitation to Reincarnation - The Early Years - EP",
-      "artist": "Convulse",
-      "url": "https://music.apple.com/jp/album/from-resuscitation-to-reincarnation-the-early-years-ep/1896446447?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/b3/f6/41b3f6cf-40db-75b7-6d1e-8e13c11f7301/781676555819.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-15",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Death Metal/Black Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6774797370",
       "title": "NOW IS THE TIME 009: Blackloud (DJ Mix)",
       "artist": "Blackloud",
@@ -4043,38 +4073,6 @@
         "Dance",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769012331",
-      "title": "The First Wave",
-      "artist": "Alpha",
-      "url": "https://music.apple.com/jp/album/the-first-wave/6769012331?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/06/20/b00620f3-31d2-9454-3b99-ec0f83448d87/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-15",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778434604",
-      "title": "ADHD POP",
-      "artist": "Ewa Farna",
-      "url": "https://music.apple.com/jp/album/adhd-pop/6778434604?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/21/e9/5221e9c7-6ccd-fdca-1d58-c74cb907fd04/26UMGIM74304.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-15",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
       ],
       "tagline": null
     },
