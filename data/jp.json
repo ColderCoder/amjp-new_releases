@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T01:00:07.644Z",
+  "generatedAt": "2026-06-23T03:00:07.740Z",
   "source": "https://music.apple.com/jp/room/6783124813?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6783124813?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -115,7 +115,7 @@
       "title": "THE GENTLEMEN'S CLUB",
       "artist": "YG",
       "url": "https://music.apple.com/jp/album/the-gentlemens-club/6772383681?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/77/82/11778209-5e3a-9672-7ff3-0feee0c86f47/075679573582.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/cf/51/f8cf516a-bf98-3242-afa9-008b74653db7/075679573582.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-06-19",
       "trackCount": 15,
