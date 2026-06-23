@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T16:00:07.904Z",
+  "generatedAt": "2026-06-23T18:00:08.470Z",
   "source": "https://music.apple.com/jp/room/6783124813?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6783124813?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2651,7 +2651,7 @@
       "title": "THE WIZARD",
       "artist": "M Huncho",
       "url": "https://music.apple.com/jp/album/the-wizard/1896361010?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/11/47/da1147c0-d087-b32a-3764-fc968602582a/075679576897.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/ca/01/85ca0194-8041-89f3-da2a-afa7ed5e94f4/075679578341.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-06-19",
       "trackCount": 15,
