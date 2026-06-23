@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T03:00:07.740Z",
+  "generatedAt": "2026-06-23T07:00:07.962Z",
   "source": "https://music.apple.com/jp/room/6783124813?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6783124813?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3088,6 +3088,120 @@
       "tagline": null
     },
     {
+      "id": "1895154805",
+      "title": "Can't Kill Bill",
+      "artist": "French The Kid",
+      "url": "https://music.apple.com/jp/album/cant-kill-bill/1895154805?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/cc/30/c6cc30c1-1bf9-b873-e5a8-99f7bd922e59/26SYMIM29700.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6776501328",
+      "title": "LE GRAND JARDIN",
+      "artist": "Campesino",
+      "url": "https://music.apple.com/jp/album/le-grand-jardin/6776501328?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/ac/95/05ac9547-ba62-e233-ac3b-7b68b35e88a8/5400863214005_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778559840",
+      "title": "Des Radl draht se weida - EP",
+      "artist": "BRIADA",
+      "url": "https://music.apple.com/jp/album/des-radl-draht-se-weida-ep/6778559840?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/b1/b2/a1b1b235-18cb-faca-7618-5aeaa61373dd/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "German Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6776703809",
+      "title": "MAGNOLIA 4/1",
+      "artist": "AGAB",
+      "url": "https://music.apple.com/jp/album/magnolia-4-1/6776703809?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/9e/06/ce9e06f3-3d61-40c8-12ed-8e4e3598ee95/823375219002_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6776723267",
+      "title": "Bir Artı Bir - EP",
+      "artist": "Sena Gül",
+      "url": "https://music.apple.com/jp/album/bir-art%C4%B1-bir-ep/6776723267?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/53/c0/ef53c069-a464-d6e5-67d3-67d9f2530e9c/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music",
+        "Singer/Songwriter"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780285515",
+      "title": "PASAJ",
+      "artist": "Motive",
+      "url": "https://music.apple.com/jp/album/pasaj/6780285515?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/94/04/e794040b-4a02-03d1-4022-c34c633916d3/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6770486987",
+      "title": "RAHAT MUSIC",
+      "artist": "ALIZADE",
+      "url": "https://music.apple.com/jp/album/rahat-music/6770486987?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/b6/88/78b68815-d666-5c45-f2f8-e832939be794/823375184553_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6776178404",
       "title": "Haibara's Teenage New Game+ - EP",
       "artist": "mishmash leftovers, Natsuki Haibara(CV.Yuto Uemura) & Serika Hondo(CV.Aimi)",
@@ -3366,6 +3480,23 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775551444",
+      "title": "RAW Summer Hits 7",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/raw-summer-hits-7/6775551444?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/4c/0c/8f4c0c4e-6016-09f7-f71d-2aa49ea5683c/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-18",
+      "trackCount": 28,
+      "kind": "album",
+      "genres": [
+        "Techno",
+        "Music",
+        "Dance"
       ],
       "tagline": null
     },
@@ -3911,103 +4042,6 @@
       "tagline": null
     },
     {
-      "id": "6775682547",
-      "title": "Culdcept Begins Music Selection (Soundtrack) - EP",
-      "artist": "Ryusuke Fujioka",
-      "url": "https://music.apple.com/jp/album/culdcept-begins-music-selection-soundtrack-ep/6775682547?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/92/14/c5921480-dc88-a3a8-34bc-39508323fc15/PA00219493_1_247403_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-16",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6770763862",
-      "title": "Live at Apple Music Radio (En Vivo) - EP",
-      "artist": "PALOMAZO NORTEÑO",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio-en-vivo-ep/6770763862?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/15/c9/8f15c9e7-793b-663d-2b99-ccb3bcf104b5/823375188131_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-16",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6777869906",
-      "title": "2:LOVE - EP",
-      "artist": "STAYC",
-      "url": "https://music.apple.com/jp/album/2-love-ep/6777869906?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/65/c1/6d65c12a-7a43-afc1-bbb8-746d244db363/cover_KM0024725_1.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-16",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Release"
-    },
-    {
-      "id": "6771047693",
-      "title": "The Hill",
-      "artist": "Billy Ray Cyrus",
-      "url": "https://music.apple.com/jp/album/the-hill/6771047693?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/6d/b9/4c6db9c0-98cc-3bef-5b90-2ae48e39c85b/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-16",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779816488",
-      "title": "Ao Vivo da Sereiona",
-      "artist": "Rachel Reis & Macaco Gordo",
-      "url": "https://music.apple.com/jp/album/ao-vivo-da-sereiona/6779816488?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/68/7e/6c687e74-e15b-468b-eb31-41e6964a59b7/820233757911.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-16",
-      "trackCount": 21,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776333038",
-      "title": "LAGUM - Ao Vivo no Bondinho (RJ) - EP",
-      "artist": "Lagum",
-      "url": "https://music.apple.com/jp/album/lagum-ao-vivo-no-bondinho-rj-ep/6776333038?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/d5/63/1ed563c0-1bc8-1988-d6aa-9a77a51cebd7/820233573641.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-16",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6776438424",
       "title": "GuduMix 074: Big Miz (DJ Mix)",
       "artist": "Big Miz",
@@ -4022,40 +4056,6 @@
         "Music",
         "Dance",
         "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769700890",
-      "title": "Parasite Dream",
-      "artist": "Prompts",
-      "url": "https://music.apple.com/jp/album/parasite-dream/6769700890?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/21/77/872177ee-bf9b-1fc0-be93-f0726a1779b8/4550756550220_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-16",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776193364",
-      "title": "SUMMER TRAP 2 - EP",
-      "artist": "AK",
-      "url": "https://music.apple.com/jp/album/summer-trap-2-ep/6776193364?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/c5/fe/7ec5fec2-6bf9-221f-910f-a010f9ee2b2b/820233556217.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-16",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
