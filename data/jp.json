@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T15:00:41.960Z",
+  "generatedAt": "2026-06-24T17:00:35.387Z",
   "source": "https://music.apple.com/jp/room/6783124813?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6783124813?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2828,7 +2828,7 @@
       "title": "Winter (Part. 1)",
       "artist": "Kultur",
       "url": "https://music.apple.com/jp/album/winter-part-1/6778109743?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/70/a7/a170a764-96ce-1318-f233-b8ea31478931/cover.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/09/42/430942b8-2beb-dd86-ed2b-d181295db6e5/cover.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-06-19",
       "trackCount": 10,
