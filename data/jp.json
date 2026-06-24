@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T07:00:40.707Z",
+  "generatedAt": "2026-06-24T13:00:31.117Z",
   "source": "https://music.apple.com/jp/room/6783124813?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6783124813?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3440,9 +3440,9 @@
     },
     {
       "id": "6777002642",
-      "title": "En Vivo Desde Almanza Fresians Ranch, Vol. 1",
+      "title": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
       "artist": "Los Hijos De Garcia",
-      "url": "https://music.apple.com/jp/album/en-vivo-desde-almanza-fresians-ranch-vol-1/6777002642?l=en-US",
+      "url": "https://music.apple.com/jp/album/en-vivo-desde-almanza-friesians-ranch-vol-1/6777002642?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/24/8a/1a248a44-cd71-8ee3-11b1-464e1a113b0f/820233433228.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-06-19",
