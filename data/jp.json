@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T14:00:34.081Z",
+  "generatedAt": "2026-06-25T15:00:32.689Z",
   "source": "https://music.apple.com/jp/room/6783124813?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6783124813?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,24 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6776417646",
+      "title": "NAINA Presents: Karen Nyame KG, Vol. 63 (DJ Mix)",
+      "artist": "Karen Nyame KG",
+      "url": "https://music.apple.com/jp/album/naina-presents-karen-nyame-kg-vol-63-dj-mix/6776417646?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/2b/03/8b2b03bc-9f79-d96d-e112-26007e2d0e24/c5be7cf6-8364-414a-9664-de9a4deabde6.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "Afro House",
+        "Music",
+        "African",
+        "Gqom"
+      ],
+      "tagline": "Apple Music Club DJ Mix"
+    },
     {
       "id": "6766606736",
       "title": "NO VISA: Gurafiku (DJ Mix)",
@@ -3881,22 +3899,6 @@
       "kind": "album",
       "genres": [
         "R&B/Soul",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776318986",
-      "title": "BLÆST FOREVER",
-      "artist": "Blæst",
-      "url": "https://music.apple.com/jp/album/bl%C3%A6st-forever/6776318986?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/df/56/b0df56c2-9d44-8e48-00a3-aa63628d8175/26UMGIM71921.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-19",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Pop",
         "Music"
       ],
       "tagline": null
