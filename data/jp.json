@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T22:00:30.669Z",
+  "generatedAt": "2026-06-25T07:00:32.131Z",
   "source": "https://music.apple.com/jp/room/6783124813?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6783124813?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3643,119 +3643,260 @@
       "tagline": null
     },
     {
-      "id": "6776178404",
-      "title": "Haibara's Teenage New Game+ - EP",
-      "artist": "mishmash leftovers, Natsuki Haibara(CV.Yuto Uemura) & Serika Hondo(CV.Aimi)",
-      "url": "https://music.apple.com/jp/album/haibaras-teenage-new-game-ep/6776178404?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/1f/99/591f9987-ccf5-7b84-599f-9888767490e5/NOPA-8378.jpg/632x632bb.jpg",
+      "id": "6773860918",
+      "title": "Sullivan: Songs for Tenor",
+      "artist": "David Webb, Academy of Ancient Music & John Andrews",
+      "url": "https://music.apple.com/jp/album/sullivan-songs-for-tenor/6773860918?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/12/c0/1f12c0f8-4aed-0b3b-fbe3-b461075c8c02/5060262794241.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-18",
+      "releaseDate": "2026-06-19",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Vocal",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1885847062",
+      "title": "Conversations à trois",
+      "artist": "Trio Boccherini",
+      "url": "https://music.apple.com/jp/album/conversations-%C3%A0-trois/1885847062?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/57/dc/0057dc3e-a838-9a47-6484-857fb05e9b42/7318599927084.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6775928988",
+      "title": "Valse",
+      "artist": "Liat Cohen",
+      "url": "https://music.apple.com/jp/album/valse/6775928988?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/1d/da/011dda3d-93d8-a38d-c312-a55aba622318/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Guitar",
+        "Solo Instrumental"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6772544599",
+      "title": "João Marcondes: Latin American Suite No. 1 for String Quintet",
+      "artist": "Quarteto Topázio & Gabriela Negri",
+      "url": "https://music.apple.com/jp/album/jo%C3%A3o-marcondes-latin-american-suite-no-1-for-string-quintet/6772544599?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/b4/d5/56b4d591-4b53-b4a6-1161-4e60a5564e4a/7892695823841.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music",
+        "Contemporary Era"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1894998426",
+      "title": "Aaron Helgeson: The Book of Never",
+      "artist": "The Crossing & Donald Nally",
+      "url": "https://music.apple.com/jp/album/aaron-helgeson-the-book-of-never/1894998426?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/8b/b3/948bb3d5-6bf2-e874-deb5-c71d53163d69/808857368898.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Choral",
+        "Contemporary Era"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1888269373",
+      "title": "ordinary moments",
+      "artist": "Ola Gjeilo",
+      "url": "https://music.apple.com/jp/album/ordinary-moments/1888269373?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/24/49/0d2449fb-fc83-8138-e211-beffdb4c560f/25UM2IM04981.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1887743043",
+      "title": "Schubert/Liszt: Wanderer Fantasy - Tchaikovsky: Concert Fantasy",
+      "artist": "Lukas Geniušas, Sinfonieorchester St. Gallen & Modestas Pitrenas",
+      "url": "https://music.apple.com/jp/album/schubert-liszt-wanderer-fantasy-tchaikovsky-concert/1887743043?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/a3/bf/2fa3bff2-2c86-455d-96c2-3960fe63b358/3701624512258.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Orchestral",
+        "Romantic Era",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895233822",
+      "title": "Vivaldi: La costanza trionfante degl'amori e de gl'odii, RV 706-A",
+      "artist": "Ann Hallenberg, Romina Basso & Diego Fasolis",
+      "url": "https://music.apple.com/jp/album/vivaldi-la-costanza-trionfante-deglamori-e-de-glodii/1895233822?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/ec/87/72ec877f-6de9-d670-82e2-a8898c4ccc92/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Baroque Era",
+        "Opera"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771032760",
+      "title": "Louise Farrenc: Flute Trios",
+      "artist": "Trio Laflamme",
+      "url": "https://music.apple.com/jp/album/louise-farrenc-flute-trios/6771032760?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/c2/d7/97c2d725-62a6-1d19-8afd-48bcbb50b52c/5051083239028_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1891745128",
+      "title": "Elgar & Dvořák: Cello Concertos",
+      "artist": "Alban Gerhardt, WDR Sinfonieorchester Köln & Andrew Manze",
+      "url": "https://music.apple.com/jp/album/elgar-dvo%C5%99%C3%A1k-cello-concertos/1891745128?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/6b/5b/6e6b5bbb-3dcf-9c5b-8b7d-73c2637479cf/26UMGIM25343.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Cello",
+        "Orchestral"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775787753",
+      "title": "Best In The Game Mixtape",
+      "artist": "Roll Deep",
+      "url": "https://music.apple.com/jp/album/best-in-the-game-mixtape/6775787753?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/57/4d/b1574d42-373b-fce6-4980-2f0577756530/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Mixtape"
+    },
+    {
+      "id": "1895031572",
+      "title": "FISH FOOD - EP",
+      "artist": "charlieeeee",
+      "url": "https://music.apple.com/jp/album/fish-food-ep/1895031572?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/9b/70/4c9b704f-4527-25ea-66bb-feec6cd31eb4/196874322895.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-19",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": "New EP"
+    },
+    {
+      "id": "6773732760",
+      "title": "Eit skot i blinde - EP",
+      "artist": "Byting",
+      "url": "https://music.apple.com/jp/album/eit-skot-i-blinde-ep/6773732760?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/24/c7/ee24c7dc-2d00-8140-49a0-96307b5a8685/820233541725.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-19",
       "trackCount": 4,
       "kind": "album",
       "genres": [
-        "Anime",
+        "Country",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6778974685",
-      "title": "babylona blue",
-      "artist": "Danny Ocean",
-      "url": "https://music.apple.com/jp/album/babylona-blue/6778974685?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/47/75/514775f7-c0a4-183d-3c69-7189f22bd1ab/1200214337384.jpg/632x632bb.jpg",
+      "id": "1895093195",
+      "title": "DARK BLUE AND SILVER - EP",
+      "artist": "SAVY STONE",
+      "url": "https://music.apple.com/jp/album/dark-blue-and-silver-ep/1895093195?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/05/9b/a2059bcd-bc94-ed44-654d-b59a29b0f70c/cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-18",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Pop in Spanish",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6769211038",
-      "title": "Cancionero - EP",
-      "artist": "st. Pedro",
-      "url": "https://music.apple.com/jp/album/cancionero-ep/6769211038?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/59/4c/b2594c70-881f-8087-ebcc-f8b61fb23ba5/823375181071_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-18",
+      "releaseDate": "2026-06-19",
       "trackCount": 6,
       "kind": "album",
       "genres": [
-        "Música tropical",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6779825180",
-      "title": "EL PEOR HOMBRE DEL MUNDO",
-      "artist": "Blessd",
-      "url": "https://music.apple.com/jp/album/el-peor-hombre-del-mundo/6779825180?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/a1/e5/33a1e588-73c9-9bf1-54eb-91275332dde2/1200214359645.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-18",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Latin",
+        "R&B/Soul",
         "Music"
       ],
-      "tagline": "New Album"
+      "tagline": null
     },
     {
-      "id": "1878710677",
-      "title": "Exuberance - EP",
-      "artist": "Beren",
-      "url": "https://music.apple.com/jp/album/exuberance-ep/1878710677?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/81/49/1c814982-2b0b-8bf2-a212-9887118a9771/820200339621.jpg/632x632bb.jpg",
+      "id": "6776318986",
+      "title": "BLÆST FOREVER",
+      "artist": "Blæst",
+      "url": "https://music.apple.com/jp/album/bl%C3%A6st-forever/6776318986?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/df/56/b0df56c2-9d44-8e48-00a3-aa63628d8175/26UMGIM71921.rgb.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-06-18",
-      "trackCount": 6,
+      "releaseDate": "2026-06-19",
+      "trackCount": 7,
       "kind": "album",
       "genres": [
         "Pop",
         "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6768439009",
-      "title": "Tolerancia Zero",
-      "artist": "Aldo Trujillo",
-      "url": "https://music.apple.com/jp/album/tolerancia-zero/6768439009?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/9a/0e/249a0ec8-42fd-f885-79be-c3836d5f6782/1963624586338_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-18",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6771869547",
-      "title": "FARMANDO AURA",
-      "artist": "Mc GP",
-      "url": "https://music.apple.com/jp/album/farmando-aura/6771869547?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/5e/29/415e2975-dfdd-a171-d9d9-54c4c491b2b0/1200214095512.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-18",
-      "trackCount": 21,
-      "kind": "album",
-      "genres": [
-        "Brazilian",
-        "Music",
-        "R&B/Soul",
-        "Funk"
       ],
       "tagline": null
     },
@@ -3775,55 +3916,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6775963220",
-      "title": "Reggae Sua Fé - EP",
-      "artist": "Maneva",
-      "url": "https://music.apple.com/jp/album/reggae-sua-f%C3%A9-ep/6775963220?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/5f/3a/7c5f3a9f-afe7-d589-4b8c-6d6808a342d9/26UMGIM70722.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-18",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Reggae",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778895287",
-      "title": "As Vozes, Vol. 1 (Ao Vivo)",
-      "artist": "Péricles & Ferrugem",
-      "url": "https://music.apple.com/jp/album/as-vozes-vol-1-ao-vivo/6778895287?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/82/87/17828723-4dbd-321c-3527-ecff064bcedd/820233279604.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-18",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Pagode",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1880475088",
-      "title": "Toothpaste Horse / I Don't Have A Bib",
-      "artist": "Half-handed Cloud",
-      "url": "https://music.apple.com/jp/album/toothpaste-horse-i-dont-have-a-bib/1880475088?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/6d/3d/9b6d3d1c-a72d-80c1-f27f-c7df54dcde1c/63387.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-18",
-      "trackCount": 53,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6777290524",
@@ -3858,105 +3950,6 @@
         "Music"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6766317253",
-      "title": "Krieg - EP",
-      "artist": "Consvmer",
-      "url": "https://music.apple.com/jp/album/krieg-ep/6766317253?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/44/b3/4044b3c1-a90d-b660-78c6-3aeec512a2ff/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-18",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775426209",
-      "title": "Live at Cully",
-      "artist": "Lea Maria Fries",
-      "url": "https://music.apple.com/jp/album/live-at-cully/6775426209?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/af/d5/b3afd591-e104-42ee-3df3-24297da3be57/3663729452924_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-18",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771646042",
-      "title": "Mach Platz Campus",
-      "artist": "Die P",
-      "url": "https://music.apple.com/jp/album/mach-platz-campus/6771646042?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/da/d4/badad48b-c2f5-afdb-e726-8589f655bc72/cover_4068992732091.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-18",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771794538",
-      "title": "AKC Misi (Live at Akvárium) - EP",
-      "artist": "AKC Misi",
-      "url": "https://music.apple.com/jp/album/akc-misi-live-at-akv%C3%A1rium-ep/6771794538?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/ca/32/83ca3239-82db-5702-4ac1-e6c6e95e442e/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-18",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775551444",
-      "title": "RAW Summer Hits 7",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/raw-summer-hits-7/6775551444?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/4c/0c/8f4c0c4e-6016-09f7-f71d-2aa49ea5683c/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-18",
-      "trackCount": 28,
-      "kind": "album",
-      "genres": [
-        "Techno",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778245879",
-      "title": "95.5 - EP",
-      "artist": "Gündoğarken",
-      "url": "https://music.apple.com/jp/album/95-5-ep/6778245879?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/7c/ef/d17cefef-493a-b2cd-7396-5e5b079d3948/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-18",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Turkish Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
     },
     {
       "id": "6779445239",
@@ -4094,6 +4087,23 @@
         "Electronic"
       ],
       "tagline": null
+    },
+    {
+      "id": "6775990525",
+      "title": "HYPERHOUSE 088: Anna Lunoe (DJ Mix)",
+      "artist": "Anna Lunoe",
+      "url": "https://music.apple.com/jp/album/hyperhouse-088-anna-lunoe-dj-mix/6775990525?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/11/73/65117397-5cbc-6331-dddd-d9bdee6e298b/ddfa7fd4-d2f7-4da9-b234-55269f4a2062.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-13",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6779749305",
