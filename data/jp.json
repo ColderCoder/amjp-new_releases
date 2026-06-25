@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T17:00:34.009Z",
+  "generatedAt": "2026-06-25T18:00:31.777Z",
   "source": "https://music.apple.com/jp/room/6783124813?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6783124813?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1906,7 +1906,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album + Interview"
     },
     {
       "id": "1884987638",
@@ -2004,7 +2004,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1875071512",
@@ -4194,22 +4194,6 @@
       "tagline": null
     },
     {
-      "id": "1889626031",
-      "title": "For Me, This Time",
-      "artist": "Africaine",
-      "url": "https://music.apple.com/jp/album/for-me-this-time/1889626031?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/91/48/e7914833-28a6-03c8-d689-9b283f583e53/656465141231_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-26",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6774194256",
       "title": "Time by Time - EP",
       "artist": "Blame Me!",
@@ -4519,6 +4503,23 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779784553",
+      "title": "Marília 2.0 - Vol. 2 (Ao Vivo)",
+      "artist": "Marília Tavares",
+      "url": "https://music.apple.com/jp/album/mar%C3%ADlia-2-0-vol-2-ao-vivo/6779784553?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/4f/7a/aa4f7a15-64c2-256d-6939-63551ea62f46/1200214357573.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-24",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Brazilian",
+        "Music",
+        "Sertanejo"
       ],
       "tagline": null
     },
