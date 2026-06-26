@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T03:00:35.267Z",
+  "generatedAt": "2026-06-26T04:00:32.363Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6782834208",
+      "title": "NOCTURNO",
+      "artist": "Eslabon Armado",
+      "url": "https://music.apple.com/jp/album/nocturno/6782834208?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/fe/7c/f0fe7c6b-c04c-139b-3767-c732d0e6afd9/823375252115_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-27",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Album"
+    },
     {
       "id": "6775750598",
       "title": "THE BOOK for,",
@@ -23,6 +40,23 @@
       "genres": [
         "J-Pop",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778272101",
+      "title": "GOLDEN HOUR : Part.5 - EP",
+      "artist": "ATEEZ",
+      "url": "https://music.apple.com/jp/album/golden-hour-part-5-ep/6778272101?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/c3/58/02c358c4-8378-42d9-33ac-2a55d17442cc/26UMGIM64142.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "K-Pop",
+        "Music",
+        "Pop"
       ],
       "tagline": null
     },
@@ -4494,23 +4528,6 @@
       "tagline": null
     },
     {
-      "id": "6781030367",
-      "title": "Club Resident 001: The Martinez Brothers (DJ Mix)",
-      "artist": "The Martinez Brothers",
-      "url": "https://music.apple.com/jp/album/club-resident-001-the-martinez-brothers-dj-mix/6781030367?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/28/f1/3728f190-6be9-7a9e-eb41-b4a8d8ed718f/132840f4-7a2b-4f3a-81e7-3037143b1ea2.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-24",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance"
-      ],
-      "tagline": "Exclusive DJ Mix"
-    },
-    {
       "id": "6782865889",
       "title": "Live at Apple Music Radio",
       "artist": "Fujii Kaze",
@@ -4641,22 +4658,6 @@
         "Dance",
         "Music",
         "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778463781",
-      "title": "The Midnight Signal: A New Musical",
-      "artist": "The Cast Of The Midnight Signal",
-      "url": "https://music.apple.com/jp/album/the-midnight-signal-a-new-musical/6778463781?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/ef/e0/32efe0b8-9f9b-b073-8dc3-7fba83167838/7321170951606.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-22",
-      "trackCount": 24,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
       ],
       "tagline": null
     },
