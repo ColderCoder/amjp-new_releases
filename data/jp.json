@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T06:00:34.684Z",
+  "generatedAt": "2026-06-26T09:00:32.219Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -310,10 +310,10 @@
     },
     {
       "id": "6783430401",
-      "title": "SWAG (LIVE FROM COACHELLA (Weekend I))",
+      "title": "SWAG LIVE FROM COACHELLA (Weekend I)",
       "artist": "Justin Bieber",
       "url": "https://music.apple.com/jp/album/swag-live-from-coachella-weekend-i/6783430401?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/ca/da/a9cada6d-cecb-94da-94bc-2bf1a3847a08/26UMGIM75983.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/1c/73/061c7321-52c9-5532-4fb5-5d704e43e7a9/ticket.efkjkgmd.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-06-26",
       "trackCount": 22,
@@ -1543,6 +1543,22 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6773891524",
+      "title": "Too Much Maybe",
+      "artist": "Emma Andersen",
+      "url": "https://music.apple.com/jp/album/too-much-maybe/6773891524?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/ef/bf/49efbf70-5c3a-7979-dc88-3b0a23e00359/196874140208.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-26",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "1896140385",
@@ -4786,23 +4802,6 @@
         "Hip-Hop/Rap",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781430414",
-      "title": "World On A Wire With Shir Khan: Jun 12, 2026 (DJ Mix)",
-      "artist": "Shir Khan",
-      "url": "https://music.apple.com/jp/album/world-on-a-wire-with-shir-khan-jun-12-2026-dj-mix/6781430414?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/18/fe/ed18fe2c-195b-c8f4-d52a-df4601996763/489e3bc5-566f-4607-9798-5ecd11ea21e5.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic"
       ],
       "tagline": null
     },
