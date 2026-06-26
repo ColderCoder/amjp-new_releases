@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T23:00:32.029Z",
+  "generatedAt": "2026-06-26T00:00:32.440Z",
   "source": "https://music.apple.com/jp/room/6783124813?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6783124813?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -413,6 +413,23 @@
         "Afro-Pop",
         "Music",
         "African"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "1895564522",
+      "title": "Harmony",
+      "artist": "Brutalismus 3000",
+      "url": "https://music.apple.com/jp/album/harmony/1895564522?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/79/a3/4579a34b-430b-53b3-e849-bceb3f3ef1ac/196874330043.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-26",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Techno",
+        "Music",
+        "Dance"
       ],
       "tagline": "New Album"
     },
@@ -2717,6 +2734,24 @@
       "tagline": null
     },
     {
+      "id": "6783002817",
+      "title": "A COLORS MIX 011 (DJ Mix)",
+      "artist": "Shaka Lion",
+      "url": "https://music.apple.com/jp/album/a-colors-mix-011-dj-mix/6783002817?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/12/06/04120697-c7ab-ff00-83da-74ea535921ef/766da5b0-f7a8-41bb-a908-1a35d3f2960b.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-26",
+      "trackCount": 29,
+      "kind": "album",
+      "genres": [
+        "Downtempo",
+        "Music",
+        "Electronic",
+        "R&B/Soul"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6773519155",
       "title": "Body Me",
       "artist": "FaltyDL",
@@ -3951,40 +3986,6 @@
       "genres": [
         "Electronic",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769510710",
-      "title": "Talk To Me",
-      "artist": "Molly Johnson",
-      "url": "https://music.apple.com/jp/album/talk-to-me/6769510710?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/28/da/4f28da7e-05c5-1539-621d-8f1562afac70/26UMGIM63520.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Adult Contemporary",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1896425352",
-      "title": "A Timeless Place",
-      "artist": "Norma Winstone",
-      "url": "https://music.apple.com/jp/album/a-timeless-place/1896425352?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/6f/de/b86fde43-9641-0eaf-bd28-9cc702858248/8721466875101.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Vocal Jazz",
-        "Music",
-        "Jazz"
       ],
       "tagline": null
     },
