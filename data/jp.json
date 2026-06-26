@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T16:00:36.426Z",
+  "generatedAt": "2026-06-26T17:00:31.066Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -58,7 +58,7 @@
         "Music",
         "Pop"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6778509776",
@@ -2213,6 +2213,23 @@
         "Soul",
         "Music",
         "R&B/Soul"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1891274126",
+      "title": "Madness Reigns from the Gutter (1990) [Live]",
+      "artist": "Savatage",
+      "url": "https://music.apple.com/jp/album/madness-reigns-from-the-gutter-1990-live/1891274126?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/2b/bc/812bbc8d-6d44-2eb6-9712-ea0004ab4925/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
       ],
       "tagline": null
     },
@@ -4785,23 +4802,6 @@
         "Hip-Hop/Rap",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781430414",
-      "title": "World On A Wire With Shir Khan: Jun 12, 2026 (DJ Mix)",
-      "artist": "Shir Khan",
-      "url": "https://music.apple.com/jp/album/world-on-a-wire-with-shir-khan-jun-12-2026-dj-mix/6781430414?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/18/fe/ed18fe2c-195b-c8f4-d52a-df4601996763/489e3bc5-566f-4607-9798-5ecd11ea21e5.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-12",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic"
       ],
       "tagline": null
     },
