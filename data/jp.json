@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T04:00:32.363Z",
+  "generatedAt": "2026-06-26T05:00:31.971Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -309,6 +309,22 @@
       "tagline": null
     },
     {
+      "id": "6783430401",
+      "title": "SWAG (LIVE FROM COACHELLA (Weekend I))",
+      "artist": "Justin Bieber",
+      "url": "https://music.apple.com/jp/album/swag-live-from-coachella-weekend-i/6783430401?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/ca/da/a9cada6d-cecb-94da-94bc-2bf1a3847a08/26UMGIM75983.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-26",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": "New Live Album"
+    },
+    {
       "id": "1892465981",
       "title": "Banks Of The Trinity",
       "artist": "Cody Johnson",
@@ -371,6 +387,23 @@
         "Music"
       ],
       "tagline": "New Album + Interview"
+    },
+    {
+      "id": "6773927812",
+      "title": "HERO: A Second Wind",
+      "artist": "Maren Morris",
+      "url": "https://music.apple.com/jp/album/hero-a-second-wind/6773927812?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/1c/ba/e21cbac1-2198-4e8d-91be-0db8bff127ac/196874291702.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music",
+        "Pop"
+      ],
+      "tagline": "New Anniversary Edition"
     },
     {
       "id": "6774766224",
@@ -536,6 +569,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "6781069761",
+      "title": "KILL THE KING",
+      "artist": "T.I.",
+      "url": "https://music.apple.com/jp/album/kill-the-king/6781069761?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/0d/ea/5c0dea57-cd58-7609-aac3-78b722f0f4ba/199316547092_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-26",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6783495255",
       "title": "Live At Apple Music Radio",
       "artist": "Luísa Sonza",
@@ -563,6 +612,22 @@
       "kind": "album",
       "genres": [
         "Electronic",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "1895871261",
+      "title": "FANTASYLAND",
+      "artist": "MR. FANTASY",
+      "url": "https://music.apple.com/jp/album/fantasyland/1895871261?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/0c/a6/060ca67f-145e-69c0-597f-7e4b64788178/075679578716.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Pop",
         "Music"
       ],
       "tagline": "New Album"
@@ -1066,6 +1131,22 @@
         "Rock"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6779796161",
+      "title": "Diary Of A Young Lit B*tch",
+      "artist": "PLUTO",
+      "url": "https://music.apple.com/jp/album/diary-of-a-young-lit-b-tch/6779796161?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/c9/38/eec938d2-3541-b0d2-36f5-bf391eebe466/26UMGIM75563.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-26",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6778164569",
@@ -2936,74 +3017,6 @@
       "tagline": null
     },
     {
-      "id": "6768531816",
-      "title": "True Faith (Remastered)",
-      "artist": "Carl Taylor",
-      "url": "https://music.apple.com/jp/album/true-faith-remastered/6768531816?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/d5/f9/83d5f945-168c-2caf-bcc2-4a0b60f97693/8718723319942.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781403144",
-      "title": "iMullar 052: DJ Loft, Afro Cruise (Maximum Heat) [DJ Mix]",
-      "artist": "DJ Loft",
-      "url": "https://music.apple.com/jp/album/imullar-052-dj-loft-afro-cruise-maximum-heat-dj-mix/6781403144?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/7e/fa/287efa63-7c48-558b-ba89-fe0352b3c6d3/e1036bab-993a-48f3-a770-c95719a1b688.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-26",
-      "trackCount": 85,
-      "kind": "album",
-      "genres": [
-        "Afrobeats",
-        "Music",
-        "African",
-        "Amapiano"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1891903227",
-      "title": "Deluxe Notre-Dame",
-      "artist": "Morrissey",
-      "url": "https://music.apple.com/jp/album/deluxe-notre-dame/1891903227?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/8d/98/3d8d9808-92a2-0218-f48c-ce2a358bafca/093624819974.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781475533",
-      "title": "Koffein Club Radio 009: Hyper Summer Live (DJ Mix)",
-      "artist": "YELEN",
-      "url": "https://music.apple.com/jp/album/koffein-club-radio-009-hyper-summer-live-dj-mix/6781475533?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/47/3b/37473b7c-a60e-3ca3-e683-83160a53339d/fb36845b-ba76-4053-b9bd-51c385560bc7.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
       "id": "1892181981",
       "title": "autogratis",
       "artist": "Chanpan",
@@ -4790,23 +4803,6 @@
         "Dance",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781493795",
-      "title": "IDRIS DJs a House Party (DJ Mix)",
-      "artist": "IDRIS",
-      "url": "https://music.apple.com/jp/album/idris-djs-a-house-party-dj-mix/6781493795?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/22/d1/c322d111-f1a4-6d13-cee2-e44fc32198df/e8cc0736-d4e0-4861-aa38-538051320769.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-29",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance"
       ],
       "tagline": null
     },
