@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T21:00:32.823Z",
+  "generatedAt": "2026-06-27T07:00:32.823Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4773,22 +4773,6 @@
       "tagline": null
     },
     {
-      "id": "6769719106",
-      "title": "Far End of the Sea (Original Motion Picture Soundtrack)",
-      "artist": "Ronnie Minder",
-      "url": "https://music.apple.com/jp/album/far-end-of-the-sea-original-motion-picture-soundtrack/6769719106?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/52/d3/9b52d369-d9cb-fb3d-e20e-aae4a199d8a4/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-20",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6767725749",
       "title": "Minimal Fanfare 007: Paint the Pavement (DJ Mix)",
       "artist": "emeraldvvs",
@@ -4802,6 +4786,23 @@
         "Hip-Hop/Rap",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781430414",
+      "title": "World On A Wire With Shir Khan: Jun 12, 2026 (DJ Mix)",
+      "artist": "Shir Khan",
+      "url": "https://music.apple.com/jp/album/world-on-a-wire-with-shir-khan-jun-12-2026-dj-mix/6781430414?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/18/fe/ed18fe2c-195b-c8f4-d52a-df4601996763/489e3bc5-566f-4607-9798-5ecd11ea21e5.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-12",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
       ],
       "tagline": null
     },
