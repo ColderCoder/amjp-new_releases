@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T07:00:32.823Z",
+  "generatedAt": "2026-06-28T07:00:31.126Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3033,6 +3033,57 @@
       "tagline": null
     },
     {
+      "id": "6768531816",
+      "title": "True Faith (Remastered)",
+      "artist": "Carl Taylor",
+      "url": "https://music.apple.com/jp/album/true-faith-remastered/6768531816?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/d5/f9/83d5f945-168c-2caf-bcc2-4a0b60f97693/8718723319942.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Techno"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781403144",
+      "title": "iMullar 052: DJ Loft, Afro Cruise (Maximum Heat) [DJ Mix]",
+      "artist": "DJ Loft",
+      "url": "https://music.apple.com/jp/album/imullar-052-dj-loft-afro-cruise-maximum-heat-dj-mix/6781403144?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/7e/fa/287efa63-7c48-558b-ba89-fe0352b3c6d3/e1036bab-993a-48f3-a770-c95719a1b688.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-26",
+      "trackCount": 85,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African",
+        "Amapiano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1891903227",
+      "title": "Deluxe Notre-Dame",
+      "artist": "Morrissey",
+      "url": "https://music.apple.com/jp/album/deluxe-notre-dame/1891903227?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/8d/98/3d8d9808-92a2-0218-f48c-ce2a358bafca/093624819974.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1892181981",
       "title": "autogratis",
       "artist": "Chanpan",
@@ -4691,71 +4742,6 @@
       "tagline": null
     },
     {
-      "id": "6779098211",
-      "title": "Revisited!",
-      "artist": "akiko",
-      "url": "https://music.apple.com/jp/album/revisited/6779098211?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/3b/0d/973b0d9d-f8ee-8fd9-6f74-8d51e92ec3fc/1200214315504.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-21",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773640278",
-      "title": "Wink Wind Window - EP",
-      "artist": "Masato Kanai",
-      "url": "https://music.apple.com/jp/album/wink-wind-window-ep/6773640278?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/53/cf/6353cfcf-7615-f761-db5d-32b77b7b3951/UKCD1269.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-21",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776685037",
-      "title": "DAEMONS OF THE SHADOW REALM Original Soundtrack Selected Edition - EP",
-      "artist": "Kenichirou Suehiro",
-      "url": "https://music.apple.com/jp/album/%E9%BB%84%E6%B3%89%E3%81%AE%E3%83%84%E3%82%AC%E3%82%A4-original-soundtrack-selected-edition-ep/6776685037?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/76/6b/5f766b6e-bd02-b57c-b0e6-676f28024e3e/4534530165183.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-21",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773595809",
-      "title": "Anime'Cosmic Princess Kaguya!'Original Soundtrack",
-      "artist": "Kevin Penkin",
-      "url": "https://music.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9C%8B-original-soundtrack/6773595809?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/ad/72/e9ad72e3-3a91-b1c6-cf90-33e35c7b8d42/nihon.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-21",
-      "trackCount": 39,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6781452810",
       "title": "Bambounou at Nike House of Innovation NYC: France at Full Volume (DJ Mix)",
       "artist": "Bambounou",
@@ -4803,6 +4789,23 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781493795",
+      "title": "IDRIS DJs a House Party (DJ Mix)",
+      "artist": "IDRIS",
+      "url": "https://music.apple.com/jp/album/idris-djs-a-house-party-dj-mix/6781493795?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/22/d1/c322d111-f1a4-6d13-cee2-e44fc32198df/e8cc0736-d4e0-4861-aa38-538051320769.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-29",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
       ],
       "tagline": null
     },
