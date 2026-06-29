@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T07:00:31.126Z",
+  "generatedAt": "2026-06-29T07:00:45.126Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -26,6 +26,24 @@
         "Latin"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6781438156",
+      "title": "HYPERHOUSE 089: Anna Lunoe (DJ Mix)",
+      "artist": "Anna Lunoe",
+      "url": "https://music.apple.com/jp/album/hyperhouse-089-anna-lunoe-dj-mix/6781438156?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/07/de/a107deff-1347-fce8-48d6-938c74c8d4e2/6e193706-41fe-4b08-a86a-c48427f4a485.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-27",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance",
+        "Garage"
+      ],
+      "tagline": null
     },
     {
       "id": "6775750598",
@@ -3084,6 +3102,56 @@
       "tagline": null
     },
     {
+      "id": "6781475533",
+      "title": "Koffein Club Radio 009: Hyper Summer Live (DJ Mix)",
+      "artist": "YELEN",
+      "url": "https://music.apple.com/jp/album/koffein-club-radio-009-hyper-summer-live-dj-mix/6781475533?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/47/3b/37473b7c-a60e-3ca3-e683-83160a53339d/fb36845b-ba76-4053-b9bd-51c385560bc7.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1890195995",
+      "title": "Catarsi",
+      "artist": "Duir",
+      "url": "https://music.apple.com/jp/album/catarsi/1890195995?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/aa/03/3baa039e-6484-2754-c6ed-bb4deb0c3e19/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1890192995",
+      "title": "Memento Ludi",
+      "artist": "Arpy Brown & Kapote",
+      "url": "https://music.apple.com/jp/album/memento-ludi/1890192995?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/a6/e2/99a6e2ab-0666-111d-257b-4f8655445768/0880655519689.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1892181981",
       "title": "autogratis",
       "artist": "Chanpan",
@@ -4608,6 +4676,23 @@
       "tagline": null
     },
     {
+      "id": "6781030367",
+      "title": "Club Resident 001: The Martinez Brothers (DJ Mix)",
+      "artist": "The Martinez Brothers",
+      "url": "https://music.apple.com/jp/album/club-resident-001-the-martinez-brothers-dj-mix/6781030367?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/28/f1/3728f190-6be9-7a9e-eb41-b4a8d8ed718f/132840f4-7a2b-4f3a-81e7-3037143b1ea2.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-24",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": "Exclusive DJ Mix"
+    },
+    {
       "id": "6782865889",
       "title": "Live at Apple Music Radio",
       "artist": "Fujii Kaze",
@@ -4656,88 +4741,6 @@
         "Music",
         "Pop",
         "K-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779665958",
-      "title": "Lemon Tang - The 2nd Mini Album - EP",
-      "artist": "Hearts2Hearts",
-      "url": "https://music.apple.com/jp/album/lemon-tang-the-2nd-mini-album-ep/6779665958?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/e2/c6/b3e2c631-9b22-9c65-274d-17c894f6524a/26UMGIM76751.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-22",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Mini Album"
-    },
-    {
-      "id": "6778699925",
-      "title": "Hone no Zui",
-      "artist": "SymaG",
-      "url": "https://music.apple.com/jp/album/%E9%AA%A8%E3%83%8E%E9%AB%84/6778699925?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/fa/aa/0dfaaae8-93b2-b390-fe6b-eb894c416a56/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-22",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771610383",
-      "title": "ZIPANGRIMM",
-      "artist": "ZIPANG OPERA",
-      "url": "https://music.apple.com/jp/album/zipangrimm/6771610383?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/71/45/ba714595-bbc9-76e8-019b-223b31e9e806/820233460897.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-22",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1893614570",
-      "title": "Changing Rules (Acid Pauli Relabs) - EP",
-      "artist": "AFAR & Acid Pauli",
-      "url": "https://music.apple.com/jp/album/changing-rules-acid-pauli-relabs-ep/1893614570?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/53/b8/b253b89c-2182-4748-85d7-f74d070f76bf/4250101499364_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-22",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895370560",
-      "title": "Attention Span Guillotine - EP",
-      "artist": "DJ Lily",
-      "url": "https://music.apple.com/jp/album/attention-span-guillotine-ep/1895370560?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/08/28/0c082871-119e-9e66-33eb-1ecbc16d4cfc/8718723318457.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-22",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
       ],
       "tagline": null
     },
