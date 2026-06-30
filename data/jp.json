@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T06:00:22.528Z",
+  "generatedAt": "2026-06-30T07:00:21.519Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3152,6 +3152,39 @@
       "tagline": null
     },
     {
+      "id": "1890192995",
+      "title": "Memento Ludi",
+      "artist": "Arpy Brown & Kapote",
+      "url": "https://music.apple.com/jp/album/memento-ludi/1890192995?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/a6/e2/99a6e2ab-0666-111d-257b-4f8655445768/0880655519689.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781812688",
+      "title": "Sunrise Deep House (DJ Mix)",
+      "artist": "DJ Boas",
+      "url": "https://music.apple.com/jp/album/sunrise-deep-house-dj-mix/6781812688?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/2d/49/b52d499c-f0b4-e87a-8277-006ef2be96b5/a7f2bda6-c7b3-41c3-a072-d4a8e75917bd.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 104,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1892181981",
       "title": "autogratis",
       "artist": "Chanpan",
@@ -4693,54 +4726,21 @@
       "tagline": "Exclusive DJ Mix"
     },
     {
-      "id": "6782865889",
-      "title": "Live at Apple Music Radio",
-      "artist": "Fujii Kaze",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6782865889?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/f1/6a/78f16a4c-324b-0213-00a3-aa11dad09c09/26UMGIM71658.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-23",
-      "trackCount": 4,
+      "id": "6777239451",
+      "title": "EPM: DJ Godfather (DJ Mix)",
+      "artist": "DJ Godfather",
+      "url": "https://music.apple.com/jp/album/epm-dj-godfather-dj-mix/6777239451?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/96/9f/5c969f53-19aa-816b-4c93-66ba5551e9bf/ba93b151-b487-4be0-b42c-3244a3e84a95.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-24",
+      "trackCount": 41,
       "kind": "album",
       "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
-      "id": "6781222533",
-      "title": "See You At Work Tomorrow! (Original Television Soundtrack), Pt. 1",
-      "artist": "FIFTY FIFTY",
-      "url": "https://music.apple.com/jp/album/see-you-at-work-tomorrow-original-television-soundtrack/6781222533?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/a1/5a/f6a15aaa-b895-35e1-07f8-900dc895aa1d/cover_KM0024780_1.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-23",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
+        "Techno",
         "Music",
-        "Pop",
-        "R&B/Soul"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781202608",
-      "title": "My Century - EP",
-      "artist": "THORNAPPLE",
-      "url": "https://music.apple.com/jp/album/my-century-ep/6781202608?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/e8/12/a5e812f0-0eca-5866-556d-8954d4d215e6/887928034399.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-23",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Pop",
-        "K-Pop"
+        "Dance",
+        "Electronic",
+        "Bass"
       ],
       "tagline": null
     },
