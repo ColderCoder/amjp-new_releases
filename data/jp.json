@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T04:00:20.775Z",
+  "generatedAt": "2026-06-30T06:00:22.528Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -12,10 +12,10 @@
   "items": [
     {
       "id": "6784384094",
-      "title": "So Sick (Live from Apple Music Studios) - Single",
+      "title": "So Sick (Live from Apple Music Studios)",
       "artist": "Ne-Yo",
-      "url": "https://music.apple.com/jp/album/so-sick-live-from-apple-music-studios-single/6784384094?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/2c/45/162c45cd-4b44-e2d1-af55-9c82cee7bb81/26UMGIM41116.rgb.jpg/632x632bb.jpg",
+      "url": "https://music.apple.com/jp/album/so-sick-live-from-apple-music-studios/6784384094?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/75/08/fc7508fa-68a3-1d7e-46ca-25149de33495/26UMGIM41116.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-06-30",
       "trackCount": 2,
