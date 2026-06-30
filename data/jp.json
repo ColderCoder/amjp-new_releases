@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T17:00:45.173Z",
+  "generatedAt": "2026-06-30T04:00:20.775Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,22 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6784384094",
+      "title": "So Sick (Live from Apple Music Studios) - Single",
+      "artist": "Ne-Yo",
+      "url": "https://music.apple.com/jp/album/so-sick-live-from-apple-music-studios-single/6784384094?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/2c/45/162c45cd-4b44-e2d1-af55-9c82cee7bb81/26UMGIM41116.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-30",
+      "trackCount": 2,
+      "kind": "single",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": null
+    },
     {
       "id": "6782834208",
       "title": "NOCTURNO",
@@ -3132,22 +3148,6 @@
         "Metal",
         "Music",
         "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1890192995",
-      "title": "Memento Ludi",
-      "artist": "Arpy Brown & Kapote",
-      "url": "https://music.apple.com/jp/album/memento-ludi/1890192995?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/a6/e2/99a6e2ab-0666-111d-257b-4f8655445768/0880655519689.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
       ],
       "tagline": null
     },
