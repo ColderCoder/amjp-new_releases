@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T20:00:20.415Z",
+  "generatedAt": "2026-07-02T21:00:20.117Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -73,7 +73,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6772134164",
@@ -124,7 +124,7 @@
         "Music",
         "Pop"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6779459598",
@@ -140,7 +140,7 @@
         "Singer/Songwriter",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6783917811",
@@ -158,7 +158,7 @@
         "Soundtrack",
         "Classical"
       ],
-      "tagline": null
+      "tagline": "New Soundtrack"
     },
     {
       "id": "6769174240",
@@ -1954,7 +1954,7 @@
         "African",
         "Afro-Pop"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1895864784",
@@ -2265,7 +2265,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6776672985",
@@ -2397,23 +2397,6 @@
         "Electronica",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784385282",
-      "title": "Queridos Amigos",
-      "artist": "Los Alegres Del Barranco, Edgardo Nuñez & Los Farmerz",
-      "url": "https://music.apple.com/jp/album/queridos-amigos/6784385282?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/bc/21/f5bc21b4-9c1f-1422-a35c-cd322267f638/1200214435653.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-03",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music",
-        "Música Mexicana"
       ],
       "tagline": null
     },
@@ -3009,6 +2992,23 @@
       "genres": [
         "Children's Music",
         "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6781356795",
+      "title": "Tüm Şehir Duydu",
+      "artist": "Funda Arar",
+      "url": "https://music.apple.com/jp/album/t%C3%BCm-%C5%9Fehir-duydu/6781356795?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/84/04/6684048d-8639-4140-3cef-55a0685fe158/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Turkish Pop",
+        "Music",
+        "Pop"
       ],
       "tagline": null
     },
@@ -3966,7 +3966,7 @@
         "Electronic",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6784384094",
@@ -3999,7 +3999,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6784435994",
@@ -4033,7 +4033,7 @@
         "Music",
         "Metal"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6784437774",
@@ -4667,7 +4667,7 @@
         "Dance",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6782953416",
