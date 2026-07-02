@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T22:00:20.577Z",
+  "generatedAt": "2026-07-02T23:00:21.691Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2384,6 +2384,22 @@
       "tagline": null
     },
     {
+      "id": "6779299300",
+      "title": "OASI",
+      "artist": "Fiore Akamono",
+      "url": "https://music.apple.com/jp/album/oasi/6779299300?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/62/24/dc6224f0-76f6-9ecd-8062-92a1668474bf/196874399132.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-03",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6768888122",
       "title": "No Queda Nada, Todo Resuena - EP",
       "artist": "Concepción Huerta",
@@ -2996,23 +3012,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6781356795",
-      "title": "Tüm Şehir Duydu",
-      "artist": "Funda Arar",
-      "url": "https://music.apple.com/jp/album/t%C3%BCm-%C5%9Fehir-duydu/6781356795?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/84/04/6684048d-8639-4140-3cef-55a0685fe158/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-03",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Turkish Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6772850762",
       "title": "X Years VA",
       "artist": "Various Artists",
@@ -3174,6 +3173,22 @@
       "kind": "album",
       "genres": [
         "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779593748",
+      "title": "SICILIA BEDDA",
+      "artist": "DELIA",
+      "url": "https://music.apple.com/jp/album/sicilia-bedda/6779593748?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/39/f6/9339f652-5942-8a61-09d8-72841d0f9c0d/1200214346621.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-02",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Pop",
         "Music"
       ],
       "tagline": null
@@ -4299,24 +4314,6 @@
         "Asia",
         "Music",
         "Worldwide"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784145719",
-      "title": "蕭景鴻 首張同名專輯",
-      "artist": "Edy Hsiao",
-      "url": "https://music.apple.com/jp/album/%E8%95%AD%E6%99%AF%E9%B4%BB-%E9%A6%96%E5%BC%B5%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/6784145719?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/13/51/96135167-89e5-f3fc-5a8d-a58711dd309c/3000.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-29",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Mandopop",
-        "Music",
-        "Pop",
-        "Chinese"
       ],
       "tagline": null
     },
