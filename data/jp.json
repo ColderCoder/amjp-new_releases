@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T07:00:21.720Z",
+  "generatedAt": "2026-07-02T07:00:22.712Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4369,69 +4369,187 @@
       "tagline": null
     },
     {
-      "id": "1892181981",
-      "title": "autogratis",
-      "artist": "Chanpan",
-      "url": "https://music.apple.com/jp/album/autogratis/1892181981?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/44/bc/ec44bc1b-1c4e-f73a-3f6d-1cd00d95f306/820200983541.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-25",
+      "id": "6780982388",
+      "title": "Resenha na Fazenda .01 (Ao Vivo)",
+      "artist": "Cleber & Cauan",
+      "url": "https://music.apple.com/jp/album/resenha-na-fazenda-01-ao-vivo/6780982388?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/95/c5/e195c510-f50e-6c47-bdd8-4617bbd55117/8721555499058.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
       "trackCount": 7,
       "kind": "album",
       "genres": [
+        "Sertanejo",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6776332552",
+      "title": "Afrossinfonicidade, Vol. 2 (Ao Vivo em Salvador)",
+      "artist": "Carlinhos Brown & Orquestra Ouro Preto",
+      "url": "https://music.apple.com/jp/album/afrossinfonicidade-vol-2-ao-vivo-em-salvador/6776332552?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/ee/09/19ee09f9-bda0-100f-43bc-0f9795657d78/823375215189_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "MPB",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771524214",
+      "title": "FİYAKALI",
+      "artist": "Emir Can İğrek",
+      "url": "https://music.apple.com/jp/album/fi-yakali/6771524214?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/52/28/8e5228e2-cfc5-5906-9b0a-d1cd4c62f5e9/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6770489020",
+      "title": "25.Yıl Özel Hit VS Hit The Remix's Vol II",
+      "artist": "Işın Karaca",
+      "url": "https://music.apple.com/jp/album/25-y%C4%B1l-%C3%B6zel-hit-vs-hit-the-remixs-vol-ii/6770489020?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/c5/4f/2ac54f50-5152-66db-50d7-649a66f61c0d/820233424974.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779181347",
+      "title": "birdenbire",
+      "artist": "Tesadüfen Karşılaştık",
+      "url": "https://music.apple.com/jp/album/birdenbire/6779181347?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/05/15/3d0515df-f57f-5839-9d19-f66941c29893/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
         "Alternative",
-        "Music"
+        "Turkish Alternative"
       ],
       "tagline": null
     },
     {
-      "id": "6778324502",
-      "title": "Shinigami",
-      "artist": "Tim Pepperoni",
-      "url": "https://music.apple.com/jp/album/shinigami/6778324502?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/e6/5b/1ce65bd5-ddd4-3e9b-92d1-c66920a4e8d6/4550757508527_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-25",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6777887911",
-      "title": "Tatoe Cake Wo Kirenakutemo",
-      "artist": "robounoishi",
-      "url": "https://music.apple.com/jp/album/%E4%BE%8B%E3%81%88%E3%82%B1%E3%83%BC%E3%82%AD%E3%82%92%E5%88%87%E3%82%8C%E3%81%AA%E3%81%8F%E3%81%A6%E3%82%82/6777887911?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/f3/30/eef330a3-08ea-1835-cd37-a771886b851b/bigup14448945.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-25",
+      "id": "6780562022",
+      "title": "Live at Babylon",
+      "artist": "Kolektif İstanbul",
+      "url": "https://music.apple.com/jp/album/live-at-babylon/6780562022?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/cc/9b/aecc9be7-6ef7-686c-c834-4d64ee96c673/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
       "trackCount": 9,
       "kind": "album",
       "genres": [
-        "Alternative",
+        "Worldwide",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6779759739",
-      "title": "Loko Soñador",
-      "artist": "Kane Rodriguez",
-      "url": "https://music.apple.com/jp/album/loko-so%C3%B1ador/6779759739?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/c6/15/c5c615e3-8eef-2d33-fd4c-551aa077fdda/1200214338916.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-25",
-      "trackCount": 12,
+      "id": "6776419073",
+      "title": "MONOTON",
+      "artist": "Kinyas Oz",
+      "url": "https://music.apple.com/jp/album/monoton/6776419073?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/ec/8e/4cec8e69-51cf-e2f8-b79b-c946694096ed/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 11,
       "kind": "album",
       "genres": [
-        "Latin",
+        "Pop/Rock",
         "Music",
-        "Música Mexicana"
+        "Pop"
       ],
-      "tagline": "New Album"
+      "tagline": null
+    },
+    {
+      "id": "6781636493",
+      "title": "Paralel Evren (Vol,1)",
+      "artist": "Touche",
+      "url": "https://music.apple.com/jp/album/paralel-evren-vol-1/6781636493?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/5f/7c/995f7cc0-1ada-f286-5ceb-168b6aa68b2a/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Pop/Rock",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781391890",
+      "title": "Selim Işık Project - RE MIX - 1",
+      "artist": "Selim Işık",
+      "url": "https://music.apple.com/jp/album/selim-i%C5%9F%C4%B1k-project-re-mix-1/6781391890?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1f/47/1d1f475a-0668-818a-dcca-96e726c04fcd/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6770777008",
+      "title": "captivation",
+      "artist": "LONOWN",
+      "url": "https://music.apple.com/jp/album/captivation/6770777008?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/7b/06/e27b06cb-2c8b-2ec7-0429-fc5e2674c471/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781347514",
+      "title": "Serotonin - EP",
+      "artist": "Karm6",
+      "url": "https://music.apple.com/jp/album/serotonin-ep/6781347514?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/2c/41/dc2c4112-ff44-ced3-029f-a17055714471/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-26",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Turkish Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
     },
     {
       "id": "6782123702",
@@ -4451,22 +4569,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6779709163",
-      "title": "Avatar: The Last Airbender: Season 2 (Soundtrack from the Netflix Series)",
-      "artist": "Takeshi Furukawa",
-      "url": "https://music.apple.com/jp/album/avatar-the-last-airbender-season-2-soundtrack-from/6779709163?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/24/53/35245366-1107-f6af-be9f-2d7351dc763e/810123169191.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-25",
-      "trackCount": 26,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6783093730",
       "title": "Beats In Space 212: Olof Dreijer (DJ Mix)",
       "artist": "Olof Dreijer",
@@ -4482,57 +4584,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6780599974",
-      "title": "CPF (Ao Vivo)",
-      "artist": "Farias",
-      "url": "https://music.apple.com/jp/album/cpf-ao-vivo/6780599974?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/7c/8f/577c8f7a-41c7-9c0f-1fc7-37b283e81b27/1200214369514.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-25",
-      "trackCount": 34,
-      "kind": "album",
-      "genres": [
-        "Brazilian",
-        "Music",
-        "Pagode"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780674721",
-      "title": "Eu e Kevin, DENNIS e Eu Vol. 3",
-      "artist": "DENNIS & MC Kevin O Chris",
-      "url": "https://music.apple.com/jp/album/eu-e-kevin-dennis-e-eu-vol-3/6780674721?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/bf/e3/2bbfe3db-73b4-8226-b66c-41cc0302947d/196874527566.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-25",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Baile Funk",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1887798328",
-      "title": "Sixth Sense",
-      "artist": "Hooligan Hefs",
-      "url": "https://music.apple.com/jp/album/sixth-sense/1887798328?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/dc/2a/12dc2afd-517a-91cc-57d1-998c2ca67e2d/823375081081_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-25",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6779827284",
@@ -4552,22 +4603,6 @@
       "tagline": null
     },
     {
-      "id": "6774194256",
-      "title": "Time by Time - EP",
-      "artist": "Blame Me!",
-      "url": "https://music.apple.com/jp/album/time-by-time-ep/6774194256?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/46/da/9446da62-430a-3f81-f9bb-6f79c173b3df/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-25",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6781843403",
       "title": "Trippy Acid and Progressive Euphoria Mix in Brooklyn: Rose Kourts (DJ Mix)",
       "artist": "Rose Kourts",
@@ -4582,39 +4617,6 @@
         "Music",
         "Dance",
         "Trance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1892199876",
-      "title": "Borderline",
-      "artist": "Borderline",
-      "url": "https://music.apple.com/jp/album/borderline/1892199876?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/97/07/c9970753-e50e-15c6-74e9-8d1010b5a20e/199316578461_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-25",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6778450319",
-      "title": "SENSORIUM",
-      "artist": "Marie Hellstein",
-      "url": "https://music.apple.com/jp/album/sensorium/6778450319?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/0f/ed/dd0fed9d-d8a9-aabb-db4a-3efaf1365928/820233666770.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-25",
-      "trackCount": 41,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
