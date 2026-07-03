@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T02:00:20.608Z",
+  "generatedAt": "2026-07-03T05:00:20.709Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -58,6 +58,22 @@
         "Music"
       ],
       "tagline": "New Album and Interview"
+    },
+    {
+      "id": "6781478597",
+      "title": "xperiment",
+      "artist": "Ken Carson",
+      "url": "https://music.apple.com/jp/album/xperiment/6781478597?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/46/25/f746256d-c827-eb0d-32fe-de246f5553ec/26UMGIM78337.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-03",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "1894977483",
@@ -4435,23 +4451,6 @@
         "Mandopop",
         "Music",
         "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781384423",
-      "title": "Um Corpo Preto",
-      "artist": "Rincon Sapiência",
-      "url": "https://music.apple.com/jp/album/um-corpo-preto/6781384423?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ef/e9/a1efe95f-d30e-5dff-3931-7f56e8e357e1/820233793223.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-30",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
