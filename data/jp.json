@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T01:00:20.263Z",
+  "generatedAt": "2026-07-03T02:00:20.608Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -147,7 +147,7 @@
       "title": "This Is How You See Me Now - EP",
       "artist": "Dolder",
       "url": "https://music.apple.com/jp/album/this-is-how-you-see-me-now-ep/6779459598?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/68/77/016877fb-25d6-6fbb-6332-7391d331d78e/26UMGIM41069.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/d5/b2/7fd5b27c-14ae-9687-ab28-44f9f5c0241d/26UMGIM41069.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-03",
       "trackCount": 5,
@@ -197,7 +197,7 @@
       "title": "Days Of Unrest",
       "artist": "Margo Price",
       "url": "https://music.apple.com/jp/album/days-of-unrest/6778522169?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/0d/c3/9b0dc3ae-3213-87a3-f807-f98c43089124/26CRGIM55461.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/07/f4/7807f454-978b-b7e5-b290-1899af614178/26CRGIM55461.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-03",
       "trackCount": 9,
@@ -1764,7 +1764,7 @@
       "title": "NOTES FROM LATAM",
       "artist": "JEREMIAS",
       "url": "https://music.apple.com/jp/album/notes-from-latam/6783396312?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/b3/f0/0db3f00c-e0e8-5d4a-c8fb-6641b9651619/26UMGIM44615.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/1c/b2/e61cb2eb-0cf3-e6f0-e790-f94105a10e2b/26UMGIM44615.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-03",
       "trackCount": 7,
@@ -3167,24 +3167,6 @@
       "tagline": null
     },
     {
-      "id": "6773193437",
-      "title": "Vol.1 'Remixes'",
-      "artist": "Filipe Shock",
-      "url": "https://music.apple.com/jp/album/vol-1-remixes/6773193437?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/5c/f6/055cf609-2f4f-41f0-5944-1bf28188efdc/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-03",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6778662127",
       "title": "We are POLARIS",
       "artist": "WAKAZO & chirp×chirp",
@@ -3214,6 +3196,23 @@
         "Jungle/Drum'n'bass",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780570291",
+      "title": "Eres Mi Nada / Tu Pasado y Tú - Single",
+      "artist": "Yuridia",
+      "url": "https://music.apple.com/jp/album/eres-mi-nada-tu-pasado-y-t%C3%BA-single/6780570291?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/b9/3c/2bb93cb5-ffd2-cfe6-9704-f959c8851309/196874505557.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-02",
+      "trackCount": 2,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
