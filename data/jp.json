@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T23:00:21.691Z",
+  "generatedAt": "2026-07-03T00:00:20.846Z",
   "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -485,6 +485,23 @@
       "tagline": null
     },
     {
+      "id": "6783979632",
+      "title": "Elevator Music: Tromac (DJ Mix)",
+      "artist": "Tromac",
+      "url": "https://music.apple.com/jp/album/elevator-music-tromac-dj-mix/6783979632?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/fc/e7/99fce7f3-7a8d-8678-b4d7-92889e7e1f60/53bbf4bc-484a-4efc-832b-9ba8d25dfe13.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-03",
+      "trackCount": 43,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Breakbeat"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6783427512",
       "title": "HELIX 010: Burt Cope (DJ Mix)",
       "artist": "Burt Cope",
@@ -499,6 +516,23 @@
         "Music",
         "Dance",
         "Jungle/Drum'n'bass"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6777239044",
+      "title": "Living In My Headphones: DEF MIX 05 (DJ Mix)",
+      "artist": "James Lavelle",
+      "url": "https://music.apple.com/jp/album/living-in-my-headphones-def-mix-05-dj-mix/6777239044?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/03/4b/81034b0e-a56c-439e-ee68-ee86615b923b/9cd2027f-674b-48e9-b7fe-31325ae0e853.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Dance"
       ],
       "tagline": null
     },
@@ -569,6 +603,24 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6777280473",
+      "title": "Isgubhu July 2026 (DJ Mix)",
+      "artist": "Aniko",
+      "url": "https://music.apple.com/jp/album/isgubhu-july-2026-dj-mix/6777280473?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/83/13/26831337-417d-bc22-6d21-d11a1bd5f561/716776d7-be37-4a14-b9df-4ac312b9bc1d.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African",
+        "Gqom"
+      ],
+      "tagline": "New DJ Mix"
     },
     {
       "id": "1891361521",
@@ -737,6 +789,24 @@
         "Classical"
       ],
       "tagline": "New Soundtrack"
+    },
+    {
+      "id": "6780575650",
+      "title": "NAINA Presents: ZAINAB, Vol. 64 (DJ Mix)",
+      "artist": "ZAINAB",
+      "url": "https://music.apple.com/jp/album/naina-presents-zainab-vol-64-dj-mix/6780575650?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/0b/38/7f0b3818-37b2-aaba-e882-8edcada5faad/70b6302e-c8bc-4f8c-819c-28bb2164ff80.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-03",
+      "trackCount": 25,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Brazilian",
+        "Baile Funk"
+      ],
+      "tagline": "Apple Music Club DJ Mix"
     },
     {
       "id": "1880165413",
@@ -2996,22 +3066,6 @@
       "tagline": null
     },
     {
-      "id": "1895635127",
-      "title": "One Pig Happy Family",
-      "artist": "Peppa Pig",
-      "url": "https://music.apple.com/jp/album/one-pig-happy-family/1895635127?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/31/14/22311472-95cc-e6a7-cb1e-d2633d859369/820200799708.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-03",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Children's Music",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
       "id": "6772850762",
       "title": "X Years VA",
       "artist": "Various Artists",
@@ -3222,22 +3276,6 @@
       "kind": "album",
       "genres": [
         "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778662127",
-      "title": "We are POLARIS",
-      "artist": "WAKAZO & chirp×chirp",
-      "url": "https://music.apple.com/jp/album/we-are-polaris/6778662127?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/a3/e7/c8a3e7d6-cd99-fe8d-2627-eedcfec32643/820233624329.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
         "Music"
       ],
       "tagline": null
@@ -3869,56 +3907,6 @@
       "tagline": null
     },
     {
-      "id": "6775688809",
-      "title": "Hasu no Sora Jogakuin School Idol Club -Full Bloom Memories- Hinoshita Kaho",
-      "artist": "Kaho Hinoshita (CV: Nozomi Nirei)",
-      "url": "https://music.apple.com/jp/album/%E8%93%AE%E3%83%8E%E7%A9%BA%E5%A5%B3%E5%AD%A6%E9%99%A2%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%96-full-bloom-memories-hinoshita-kaho/6775688809?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/a8/2b/2fa82b6d-a048-19ee-816b-dcb591026369/4540774191765.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779156252",
-      "title": "KAIJU GIRL E.P.",
-      "artist": "METANICK",
-      "url": "https://music.apple.com/jp/album/%E4%B9%99%E5%A5%B3%E6%80%AA%E7%8D%A3e-p/6779156252?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/e5/a4/02e5a4f8-83b2-5544-21bf-236e218d063b/27404.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783673748",
-      "title": "The Weight",
-      "artist": "R.fu",
-      "url": "https://music.apple.com/jp/album/%E6%89%9B/6783673748?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/5d/82/e35d82bc-3d65-db9b-ccae-c73e86529e7b/193017208801.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Chinese Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6783526042",
       "title": "Return to the Return (of the Spectrum of Intergalactic Happiness)",
       "artist": "Zeds Dead",
@@ -4234,23 +4222,6 @@
       "tagline": null
     },
     {
-      "id": "6781168826",
-      "title": "Reborn",
-      "artist": "林佩薇 AGG",
-      "url": "https://music.apple.com/jp/album/%E6%89%AD%E8%AA%95/6781168826?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/8a/9b/7a8a9b9d-95fc-0450-03ec-53a8baa4afbd/4711720311432.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-30",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Mandopop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6778416959",
       "title": "PAREIDOLIA",
       "artist": "Erin LeCount",
@@ -4281,39 +4252,6 @@
         "K-Pop",
         "Music",
         "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6777959168",
-      "title": "Take Another Moment",
-      "artist": "Song Dongye",
-      "url": "https://music.apple.com/jp/album/%E5%86%8D%E6%83%B3%E6%83%B3/6777959168?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/c9/fe/45c9febc-d55c-62ef-c168-9cb013b9db65/26UMGIM69223.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-29",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Folk",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783646259",
-      "title": "Zang Loiˇ Liau",
-      "artist": "Chiu Shu",
-      "url": "https://music.apple.com/jp/album/%E6%AD%A3%E4%BE%86%E5%B0%9E/6783646259?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/8e/19/908e19f9-1c5f-5b1d-7bd3-8204e0c47d5e/193017209006.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-29",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Asia",
-        "Music",
-        "Worldwide"
       ],
       "tagline": null
     },
@@ -4804,6 +4742,23 @@
       "tagline": null
     },
     {
+      "id": "6771868204",
+      "title": "Club 77 Live: Dean Chew (DJ Mix)",
+      "artist": "Dean Chew",
+      "url": "https://music.apple.com/jp/album/club-77-live-dean-chew-dj-mix/6771868204?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/bf/ca/a8bfca5f-0842-9b35-65a3-712c5a999342/59ee0e9d-3f47-4837-8051-a2db37fe83ba.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-04-02",
+      "trackCount": 65,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6782127466",
       "title": "Tomorrowland Winter 2026: Alok at Mainstage (DJ Mix)",
       "artist": "Alok",
@@ -4855,6 +4810,23 @@
       "tagline": null
     },
     {
+      "id": "6778555944",
+      "title": "Tomorrowland Winter 2026: Agents Of Time at Mainstage (DJ Mix)",
+      "artist": "Agents Of Time",
+      "url": "https://music.apple.com/jp/album/tomorrowland-winter-2026-agents-of-time-at-mainstage-dj-mix/6778555944?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/c4/5d/eac45d2c-8e1a-7448-291c-51b0c9ac2419/b730fda1-7e97-4cfc-a3ec-e8a51108f9ec.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-03-26",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6784792269",
       "title": "Tomorrowland Winter 2026: Axwell at Mainstage (DJ Mix)",
       "artist": "Axwell",
@@ -4901,6 +4873,23 @@
       "genres": [
         "Dance",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779768283",
+      "title": "Tomorrowland Winter 2026: Dombresky at Mainstage (DJ Mix)",
+      "artist": "Dombresky",
+      "url": "https://music.apple.com/jp/album/tomorrowland-winter-2026-dombresky-at-mainstage-dj-mix/6779768283?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/77/5a/c1775a7e-0da5-3bbf-7164-b57b60200df9/25fcbca5-ab8d-470e-b543-340a9d4d0241.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-03-25",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
       ],
       "tagline": null
     },
@@ -5039,6 +5028,23 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783550397",
+      "title": "Even Further Adventures In Technosoul, Vol. 4: Harvest 1997 (DJ Mix)",
+      "artist": "Mike Shannon",
+      "url": "https://music.apple.com/jp/album/even-further-adventures-in-technosoul-vol-4-harvest/6783550397?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/7c/fd/167cfd94-fbdb-d5bb-bd41-5f8b086181db/f191e832-64f1-408c-b2cd-69be5a670c5e.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "1997-06-14",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Techno"
       ],
       "tagline": null
     }
