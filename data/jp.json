@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T11:00:12.126Z",
+  "generatedAt": "2026-07-03T15:00:12.203Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1927,6 +1927,22 @@
       "tagline": null
     },
     {
+      "id": "6781445609",
+      "title": "Remontada",
+      "artist": "MówMent",
+      "url": "https://music.apple.com/jp/album/remontada/6781445609?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/14/3d/e3143d2a-9fee-b5a3-1a9c-50b879983a91/0001142150400.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-03",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6776318062",
       "title": "Czary EP",
       "artist": "Okoliczny Element",
@@ -1938,6 +1954,22 @@
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781445837",
+      "title": "Bez zakłóceń",
+      "artist": "Leo Pik",
+      "url": "https://music.apple.com/jp/album/bez-zak%C5%82%C3%B3ce%C5%84/6781445837?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/4a/1b/844a1b0e-fd21-e407-9632-9f15378f474e/0001142332325.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop",
         "Music"
       ],
       "tagline": null
@@ -3167,22 +3199,6 @@
       "tagline": null
     },
     {
-      "id": "6779695637",
-      "title": "Ma Ve Xêr Di (Live) - EP",
-      "artist": "Mehmet Çapan",
-      "url": "https://music.apple.com/jp/album/ma-ve-x%C3%AAr-di-live-ep/6779695637?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/2e/2e/712e2e4b-82c0-ccb7-7e43-6e0af4acae39/820200429377.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-03",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Folk",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6778662127",
       "title": "We are POLARIS",
       "artist": "WAKAZO & chirp×chirp",
@@ -3332,22 +3348,6 @@
         "Music"
       ],
       "tagline": null
-    },
-    {
-      "id": "6769553652",
-      "title": "Visitor",
-      "artist": "SIENNA SPIRO",
-      "url": "https://music.apple.com/jp/album/visitor/6769553652?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "New Album and Interview"
     },
     {
       "id": "6781898275",
