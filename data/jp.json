@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T20:00:12.556Z",
+  "generatedAt": "2026-07-03T23:00:12.728Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4593,10 +4593,10 @@
     },
     {
       "id": "6782244667",
-      "title": "Lane 8 Summer 2026 Mixtape (Live from the Mishawaka, Bellvue, CO) [DJ Mix]",
+      "title": "Lane 8 Summer 2026 Mixtape (Live from the Mishawaka, Bellvue CO) [DJ Mix]",
       "artist": "Lane 8",
       "url": "https://music.apple.com/jp/album/lane-8-summer-2026-mixtape-live-from-the-mishawaka/6782244667?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/bb/d8/72bbd868-686e-d270-98da-58c27f068e63/09c36e42-4702-496d-92a2-d7285d2efb81.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/4b/66/854b6687-aea9-0c77-1ebb-4c2fbc5f4b35/fbed8630-bde5-49a5-9c2e-20f768018277.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-06-14",
       "trackCount": 62,
