@@ -1,15 +1,31 @@
 {
-  "generatedAt": "2026-07-03T00:00:20.846Z",
-  "source": "https://music.apple.com/jp/room/6784461116?l=en-US",
-  "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6784461116?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
+  "generatedAt": "2026-07-03T01:00:20.263Z",
+  "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
+  "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
-  "roomId": "6784461116",
+  "roomId": "6786914864",
   "roomDiscoverySource": "grouping-api",
   "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6776625254",
+      "title": "BASIN TECHNO",
+      "artist": "okazakitaiiku",
+      "url": "https://music.apple.com/jp/album/%E7%9B%86%E5%9C%B0%E3%83%86%E3%82%AF%E3%83%8E/6776625254?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/fa/fe/19fafe1e-1fdc-bbb6-c4f7-5d462e82431e/4547366829693.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 24,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
     {
       "id": "1892545087",
       "title": "CONFESSIONS II",
@@ -57,7 +73,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6784374364",
@@ -3050,14 +3066,133 @@
       "tagline": null
     },
     {
-      "id": "6776625254",
-      "title": "BASIN TECHNO",
-      "artist": "okazakitaiiku",
-      "url": "https://music.apple.com/jp/album/%E7%9B%86%E5%9C%B0%E3%83%86%E3%82%AF%E3%83%8E/6776625254?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/fa/fe/19fafe1e-1fdc-bbb6-c4f7-5d462e82431e/4547366829693.jpg/632x632bb.jpg",
+      "id": "1895635127",
+      "title": "One Pig Happy Family",
+      "artist": "Peppa Pig",
+      "url": "https://music.apple.com/jp/album/one-pig-happy-family/1895635127?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/31/14/22311472-95cc-e6a7-cb1e-d2633d859369/820200799708.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-03",
-      "trackCount": 24,
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Children's Music",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6781356795",
+      "title": "Tüm Şehir Duydu",
+      "artist": "Funda Arar",
+      "url": "https://music.apple.com/jp/album/t%C3%BCm-%C5%9Fehir-duydu/6781356795?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/84/04/6684048d-8639-4140-3cef-55a0685fe158/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Turkish Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779301080",
+      "title": "ATLAS",
+      "artist": "Tuğçe Şenoğul",
+      "url": "https://music.apple.com/jp/album/atlas/6779301080?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/1e/9b/e31e9b5f-44d6-3ca8-c3d9-11c520d2c516/820233684873.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782906863",
+      "title": "Yok Artık (Summer Nights)",
+      "artist": "SAYK",
+      "url": "https://music.apple.com/jp/album/yok-art%C4%B1k-summer-nights/6782906863?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/8f/eb/c88feba8-66e1-9d1c-4087-aec9ad34c7d2/artwork.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Afro-Pop",
+        "Music",
+        "African",
+        "Dance",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781298579",
+      "title": "Entropi - EP",
+      "artist": "Şehinşah",
+      "url": "https://music.apple.com/jp/album/entropi-ep/6781298579?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/86/f4/d586f460-2e55-ecb2-89df-536a00d819af/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-03",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Turkish Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779695637",
+      "title": "Ma Ve Xêr Di (Live) - EP",
+      "artist": "Mehmet Çapan",
+      "url": "https://music.apple.com/jp/album/ma-ve-x%C3%AAr-di-live-ep/6779695637?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/2e/2e/712e2e4b-82c0-ccb7-7e43-6e0af4acae39/820200429377.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Folk",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773193437",
+      "title": "Vol.1 'Remixes'",
+      "artist": "Filipe Shock",
+      "url": "https://music.apple.com/jp/album/vol-1-remixes/6773193437?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/5c/f6/055cf609-2f4f-41f0-5944-1bf28188efdc/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778662127",
+      "title": "We are POLARIS",
+      "artist": "WAKAZO & chirp×chirp",
+      "url": "https://music.apple.com/jp/album/we-are-polaris/6778662127?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/a3/e7/c8a3e7d6-cd99-fe8d-2627-eedcfec32643/820233624329.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-02",
+      "trackCount": 10,
       "kind": "album",
       "genres": [
         "J-Pop",
@@ -3281,6 +3416,382 @@
       "tagline": null
     },
     {
+      "id": "6784583451",
+      "title": "Grow This Summer",
+      "artist": "eyden",
+      "url": "https://music.apple.com/jp/album/grow-this-summer/6784583451?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/81/d0/8d81d07c-0f2d-fc80-d261-9f6d55f6a072/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-01",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780773945",
+      "title": "2000%Hiphop",
+      "artist": "Hannya",
+      "url": "https://music.apple.com/jp/album/2000-hiphop/6780773945?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/fc/6b/2bfc6b0d-853f-747f-14d1-af0bebd75029/2000_HIPHOP_JK.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-01",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781964030",
+      "title": "Who's Next / RISE NOW - EP",
+      "artist": "GAN",
+      "url": "https://music.apple.com/jp/album/whos-next-rise-now-ep/6781964030?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/83/25/358325cb-540f-beb5-fc76-ef878da3a377/26UMGIM67558.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781963308",
+      "title": "Im A Singer Vol.4",
+      "artist": "Toshl",
+      "url": "https://music.apple.com/jp/album/im-a-singer-vol-4/6781963308?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/da/64/2cda64cb-d682-c9e6-da71-aaa7e215c0e5/26UMGIM65148.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6774021089",
+      "title": "LIMITLESS",
+      "artist": "Shouta Aoi",
+      "url": "https://music.apple.com/jp/album/limitless/6774021089?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/fb/b1/fcfbb16d-eb76-0c25-91ac-c126cf7c1222/NOPA-8599.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782013501",
+      "title": "TA13OO",
+      "artist": "URASHIMASAKATASEN",
+      "url": "https://music.apple.com/jp/album/ta13oo/6782013501?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/69/6d/3c696d7d-2e5c-b09d-de1d-0e865b579b02/1200214385484.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781692610",
+      "title": "CLIMAX",
+      "artist": "lynch.",
+      "url": "https://music.apple.com/jp/album/climax/6781692610?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/61/cb/4961cbb8-f7d5-9ec1-fba4-33be74a16e0a/NOPA-8831.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775770972",
+      "title": "INNER SYNC",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/inner-sync/6775770972?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/08/2a/9f082af1-9080-615b-4b72-6eb53eba7d60/4526180737780.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780739752",
+      "title": "Missing",
+      "artist": "Moto Kawabe",
+      "url": "https://music.apple.com/jp/album/missing/6780739752?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/96/fc/4796fc71-c795-7c59-e869-bfaf4ddd7c4c/4550757714386_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "J-Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1892930370",
+      "title": "I'm Busy",
+      "artist": "CheChe",
+      "url": "https://music.apple.com/jp/album/im-busy/1892930370?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/07/22/02072248-b6d8-0459-3b0f-a67e3105526b/VEATP-45516.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-01",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "J-Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1884483615",
+      "title": "Seasons of Love",
+      "artist": "Riddim Saunter",
+      "url": "https://music.apple.com/jp/album/seasons-of-love/1884483615?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/25/2c/4b252c5c-b3c7-8a8c-8615-2196d26a75ad/4988044136946.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775716862",
+      "title": "life - EP",
+      "artist": "Broken my toybox",
+      "url": "https://music.apple.com/jp/album/life-ep/6775716862?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/e0/4e/25e04e4e-30c9-4783-4e14-3a8f2283e418/bigup14444271.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781168276",
+      "title": "sing to the sink - EP",
+      "artist": "cyan",
+      "url": "https://music.apple.com/jp/album/sing-to-the-sink-ep/6781168276?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/b8/51/f6b851b8-b7db-ffbb-5a77-81d09fbc0fd8/4525853845999.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775361969",
+      "title": "Underrated",
+      "artist": "Lotus Guitar",
+      "url": "https://music.apple.com/jp/album/underrated/6775361969?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/87/b7/0787b7d6-1071-ab81-1342-866b5078affd/bigup14443149.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779501990",
+      "title": "greenery steps - Single",
+      "artist": "Orihusay",
+      "url": "https://music.apple.com/jp/album/greenery-steps-single/6779501990?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/47/b4/2447b41f-48e9-963a-793f-414ee3a50667/greenery_steps_JKT.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780346927",
+      "title": "FRESH!!",
+      "artist": "ICEx",
+      "url": "https://music.apple.com/jp/album/fresh/6780346927?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/fe/84/a2fe84ad-1df6-a872-af03-52fa9d57048a/VICL-66157.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780803197",
+      "title": "A Journey of Countermelodies",
+      "artist": "Sean Oshima",
+      "url": "https://music.apple.com/jp/album/a-journey-of-countermelodies/6780803197?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/48/ca/8d48ca71-bfa5-8ae1-7b48-49c0e75cefd2/4580278271099_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music",
+        "R&B/Soul"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781204538",
+      "title": "Slide",
+      "artist": "PARK YUCHUN",
+      "url": "https://music.apple.com/jp/album/slide/6781204538?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/99/05/40990596-6898-435c-cb18-58fd84042fc5/3000jkt_slide.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "K-Pop",
+        "Music",
+        "Pop",
+        "J-Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775688961",
+      "title": "Hasu no Sora Jogakuin School Idol Club -Full Bloom Memories- Osawa Rurino",
+      "artist": "Rurino Osawa (CV: Kanna Kan)",
+      "url": "https://music.apple.com/jp/album/%E8%93%AE%E3%83%8E%E7%A9%BA%E5%A5%B3%E5%AD%A6%E9%99%A2%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%96-full-bloom-memories-osawa-rurino/6775688961?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/cd/4e/b4cd4eab-3676-05fb-9e3a-84acd76e2dfc/4540774191802.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Anime",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775689609",
+      "title": "Hasu no Sora Jogakuin School Idol Club -Full Bloom Memories- Murano Sayaka",
+      "artist": "Sayaka Murano (CV: Kokona Nonaka)",
+      "url": "https://music.apple.com/jp/album/%E8%93%AE%E3%83%8E%E7%A9%BA%E5%A5%B3%E5%AD%A6%E9%99%A2%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%96-full-bloom-memories-murano-sayaka/6775689609?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/5e/05/f75e05c4-90d1-67b2-71ff-82da6d6d7f4a/4540774191789.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Anime",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775439370",
+      "title": "THE IDOLM@STER SHINY COLORS Song for Prism Tokyo Jiyukei*Girl / My time - EP",
+      "artist": "No 1 feel alone",
+      "url": "https://music.apple.com/jp/album/the-idolm-ster-shiny-colors-song-for-prism-tokyo%E8%87%AA%E7%94%B1%E7%B3%BB/6775439370?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/56/2f/d3562f8d-abf4-8630-524f-c3004395c9e1/4540774749577.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Anime",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775688809",
+      "title": "Hasu no Sora Jogakuin School Idol Club -Full Bloom Memories- Hinoshita Kaho",
+      "artist": "Kaho Hinoshita (CV: Nozomi Nirei)",
+      "url": "https://music.apple.com/jp/album/%E8%93%AE%E3%83%8E%E7%A9%BA%E5%A5%B3%E5%AD%A6%E9%99%A2%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%96-full-bloom-memories-hinoshita-kaho/6775688809?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/a8/2b/2fa82b6d-a048-19ee-816b-dcb591026369/4540774191765.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Anime",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779156252",
+      "title": "KAIJU GIRL E.P.",
+      "artist": "METANICK",
+      "url": "https://music.apple.com/jp/album/%E4%B9%99%E5%A5%B3%E6%80%AA%E7%8D%A3e-p/6779156252?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/e5/a4/02e5a4f8-83b2-5544-21bf-236e218d063b/27404.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-01",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Anime",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6778607412",
       "title": "In My Room (10 Year Anniversary Edition)",
       "artist": "Jacob Collier",
@@ -3447,22 +3958,6 @@
       "tagline": null
     },
     {
-      "id": "6781692610",
-      "title": "CLIMAX",
-      "artist": "lynch.",
-      "url": "https://music.apple.com/jp/album/climax/6781692610?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/61/cb/4961cbb8-f7d5-9ec1-fba4-33be74a16e0a/NOPA-8831.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6784421595",
       "title": "Club Mix 005: J. Worra (DJ Mix)",
       "artist": "J. Worra",
@@ -3596,312 +4091,34 @@
       "tagline": null
     },
     {
-      "id": "6784583451",
-      "title": "Grow This Summer",
-      "artist": "eyden",
-      "url": "https://music.apple.com/jp/album/grow-this-summer/6784583451?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/81/d0/8d81d07c-0f2d-fc80-d261-9f6d55f6a072/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-01",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780773945",
-      "title": "2000%Hiphop",
-      "artist": "Hannya",
-      "url": "https://music.apple.com/jp/album/2000-hiphop/6780773945?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/fc/6b/2bfc6b0d-853f-747f-14d1-af0bebd75029/2000_HIPHOP_JK.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-01",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781964030",
-      "title": "Who's Next / RISE NOW - EP",
-      "artist": "GAN",
-      "url": "https://music.apple.com/jp/album/whos-next-rise-now-ep/6781964030?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/83/25/358325cb-540f-beb5-fc76-ef878da3a377/26UMGIM67558.rgb.jpg/632x632bb.jpg",
+      "id": "6783673748",
+      "title": "The Weight",
+      "artist": "R.fu",
+      "url": "https://music.apple.com/jp/album/%E6%89%9B/6783673748?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/5d/82/e35d82bc-3d65-db9b-ccae-c73e86529e7b/193017208801.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-01",
-      "trackCount": 4,
+      "trackCount": 8,
       "kind": "album",
       "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781963308",
-      "title": "Im A Singer Vol.4",
-      "artist": "Toshl",
-      "url": "https://music.apple.com/jp/album/im-a-singer-vol-4/6781963308?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/da/64/2cda64cb-d682-c9e6-da71-aaa7e215c0e5/26UMGIM65148.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6774021089",
-      "title": "LIMITLESS",
-      "artist": "Shouta Aoi",
-      "url": "https://music.apple.com/jp/album/limitless/6774021089?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/fb/b1/fcfbb16d-eb76-0c25-91ac-c126cf7c1222/NOPA-8599.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6782013501",
-      "title": "TA13OO",
-      "artist": "URASHIMASAKATASEN",
-      "url": "https://music.apple.com/jp/album/ta13oo/6782013501?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/69/6d/3c696d7d-2e5c-b09d-de1d-0e865b579b02/1200214385484.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775770972",
-      "title": "INNER SYNC",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/inner-sync/6775770972?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/08/2a/9f082af1-9080-615b-4b72-6eb53eba7d60/4526180737780.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780739752",
-      "title": "Missing",
-      "artist": "Moto Kawabe",
-      "url": "https://music.apple.com/jp/album/missing/6780739752?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/96/fc/4796fc71-c795-7c59-e869-bfaf4ddd7c4c/4550757714386_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Rock",
+        "Chinese Hip-Hop",
         "Music",
-        "J-Pop"
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
     {
-      "id": "1892930370",
-      "title": "I'm Busy",
-      "artist": "CheChe",
-      "url": "https://music.apple.com/jp/album/im-busy/1892930370?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/07/22/02072248-b6d8-0459-3b0f-a67e3105526b/VEATP-45516.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-01",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1884483615",
-      "title": "Seasons of Love",
-      "artist": "Riddim Saunter",
-      "url": "https://music.apple.com/jp/album/seasons-of-love/1884483615?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/25/2c/4b252c5c-b3c7-8a8c-8615-2196d26a75ad/4988044136946.png/632x632bb.jpg",
+      "id": "6781496609",
+      "title": "JUST ONE - EP",
+      "artist": "Tsuyoshi Nagabuchi",
+      "url": "https://music.apple.com/jp/album/just-one-ep/6781496609?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/4c/f8/944cf85e-868f-3689-f826-5683e46a7399/bigup14472344.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775716862",
-      "title": "life - EP",
-      "artist": "Broken my toybox",
-      "url": "https://music.apple.com/jp/album/life-ep/6775716862?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/e0/4e/25e04e4e-30c9-4783-4e14-3a8f2283e418/bigup14444271.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
+      "releaseDate": "2026-06-30",
       "trackCount": 6,
       "kind": "album",
       "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781168276",
-      "title": "sing to the sink - EP",
-      "artist": "cyan",
-      "url": "https://music.apple.com/jp/album/sing-to-the-sink-ep/6781168276?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/b8/51/f6b851b8-b7db-ffbb-5a77-81d09fbc0fd8/4525853845999.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775361969",
-      "title": "Underrated",
-      "artist": "Lotus Guitar",
-      "url": "https://music.apple.com/jp/album/underrated/6775361969?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/87/b7/0787b7d6-1071-ab81-1342-866b5078affd/bigup14443149.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780346927",
-      "title": "FRESH!!",
-      "artist": "ICEx",
-      "url": "https://music.apple.com/jp/album/fresh/6780346927?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/fe/84/a2fe84ad-1df6-a872-af03-52fa9d57048a/VICL-66157.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
         "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780803197",
-      "title": "A Journey of Countermelodies",
-      "artist": "Sean Oshima",
-      "url": "https://music.apple.com/jp/album/a-journey-of-countermelodies/6780803197?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/48/ca/8d48ca71-bfa5-8ae1-7b48-49c0e75cefd2/4580278271099_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "R&B/Soul"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781204538",
-      "title": "Slide",
-      "artist": "PARK YUCHUN",
-      "url": "https://music.apple.com/jp/album/slide/6781204538?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/99/05/40990596-6898-435c-cb18-58fd84042fc5/3000jkt_slide.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775688961",
-      "title": "Hasu no Sora Jogakuin School Idol Club -Full Bloom Memories- Osawa Rurino",
-      "artist": "Rurino Osawa (CV: Kanna Kan)",
-      "url": "https://music.apple.com/jp/album/%E8%93%AE%E3%83%8E%E7%A9%BA%E5%A5%B3%E5%AD%A6%E9%99%A2%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%96-full-bloom-memories-osawa-rurino/6775688961?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/cd/4e/b4cd4eab-3676-05fb-9e3a-84acd76e2dfc/4540774191802.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775689609",
-      "title": "Hasu no Sora Jogakuin School Idol Club -Full Bloom Memories- Murano Sayaka",
-      "artist": "Sayaka Murano (CV: Kokona Nonaka)",
-      "url": "https://music.apple.com/jp/album/%E8%93%AE%E3%83%8E%E7%A9%BA%E5%A5%B3%E5%AD%A6%E9%99%A2%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%AF%E3%83%A9%E3%83%96-full-bloom-memories-murano-sayaka/6775689609?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/5e/05/f75e05c4-90d1-67b2-71ff-82da6d6d7f4a/4540774191789.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775439370",
-      "title": "THE IDOLM@STER SHINY COLORS Song for Prism Tokyo Jiyukei*Girl / My time - EP",
-      "artist": "No 1 feel alone",
-      "url": "https://music.apple.com/jp/album/the-idolm-ster-shiny-colors-song-for-prism-tokyo%E8%87%AA%E7%94%B1%E7%B3%BB/6775439370?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/56/2f/d3562f8d-abf4-8630-524f-c3004395c9e1/4540774749577.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-01",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Anime",
         "Music"
       ],
       "tagline": null
@@ -4206,35 +4423,36 @@
       "tagline": null
     },
     {
-      "id": "6781496609",
-      "title": "JUST ONE - EP",
-      "artist": "Tsuyoshi Nagabuchi",
-      "url": "https://music.apple.com/jp/album/just-one-ep/6781496609?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/4c/f8/944cf85e-868f-3689-f826-5683e46a7399/bigup14472344.jpg/632x632bb.jpg",
-      "explicit": false,
+      "id": "6781168826",
+      "title": "Reborn",
+      "artist": "林佩薇 AGG",
+      "url": "https://music.apple.com/jp/album/%E6%89%AD%E8%AA%95/6781168826?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/8a/9b/7a8a9b9d-95fc-0450-03ec-53a8baa4afbd/4711720311432.jpg/632x632bb.jpg",
+      "explicit": true,
       "releaseDate": "2026-06-30",
-      "trackCount": 6,
+      "trackCount": 8,
       "kind": "album",
       "genres": [
-        "J-Pop",
-        "Music"
+        "Mandopop",
+        "Music",
+        "Pop"
       ],
       "tagline": null
     },
     {
-      "id": "6778416959",
-      "title": "PAREIDOLIA",
-      "artist": "Erin LeCount",
-      "url": "https://music.apple.com/jp/album/pareidolia/6778416959?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/33/58/b5335824-4131-288d-0784-023898e63f35/1200214280987.jpg/632x632bb.jpg",
+      "id": "6781384423",
+      "title": "Um Corpo Preto",
+      "artist": "Rincon Sapiência",
+      "url": "https://music.apple.com/jp/album/um-corpo-preto/6781384423?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ef/e9/a1efe95f-d30e-5dff-3931-7f56e8e357e1/820233793223.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-06-29",
-      "trackCount": 7,
+      "releaseDate": "2026-06-30",
+      "trackCount": 17,
       "kind": "album",
       "genres": [
-        "Alternative",
+        "Rap",
         "Music",
-        "Pop"
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
@@ -4256,6 +4474,74 @@
       "tagline": null
     },
     {
+      "id": "6778416959",
+      "title": "PAREIDOLIA",
+      "artist": "Erin LeCount",
+      "url": "https://music.apple.com/jp/album/pareidolia/6778416959?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/33/58/b5335824-4131-288d-0784-023898e63f35/1200214280987.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-29",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6777959168",
+      "title": "Take Another Moment",
+      "artist": "Song Dongye",
+      "url": "https://music.apple.com/jp/album/%E5%86%8D%E6%83%B3%E6%83%B3/6777959168?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/c9/fe/45c9febc-d55c-62ef-c168-9cb013b9db65/26UMGIM69223.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-29",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Folk",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783646259",
+      "title": "Zang Loiˇ Liau",
+      "artist": "Chiu Shu",
+      "url": "https://music.apple.com/jp/album/%E6%AD%A3%E4%BE%86%E5%B0%9E/6783646259?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/8e/19/908e19f9-1c5f-5b1d-7bd3-8204e0c47d5e/193017209006.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-29",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Asia",
+        "Music",
+        "Worldwide"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784145719",
+      "title": "蕭景鴻 首張同名專輯",
+      "artist": "Edy Hsiao",
+      "url": "https://music.apple.com/jp/album/%E8%95%AD%E6%99%AF%E9%B4%BB-%E9%A6%96%E5%BC%B5%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/6784145719?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/13/51/96135167-89e5-f3fc-5a8d-a58711dd309c/3000.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-06-29",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Mandopop",
+        "Music",
+        "Pop",
+        "Chinese"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6781438156",
       "title": "HYPERHOUSE 089: Anna Lunoe (DJ Mix)",
       "artist": "Anna Lunoe",
@@ -4270,287 +4556,6 @@
         "Music",
         "Dance",
         "Garage"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6775750598",
-      "title": "THE BOOK for,",
-      "artist": "YOASOBI",
-      "url": "https://music.apple.com/jp/album/the-book-for/6775750598?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/8e/41/a38e4173-a495-1c1f-aa2f-c7831c9c01a9/820233543187.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778272101",
-      "title": "GOLDEN HOUR : Part.5 - EP",
-      "artist": "ATEEZ",
-      "url": "https://music.apple.com/jp/album/golden-hour-part-5-ep/6778272101?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/f5/fb/84f5fb23-0194-b302-15f7-e768c9029a28/26UMGIM64142.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6778509776",
-      "title": "Bayside Tape - EP",
-      "artist": "SWEE",
-      "url": "https://music.apple.com/jp/album/bayside-tape-ep/6778509776?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/1e/bd/dc1ebd20-8632-11c6-f42d-21c060728b72/4550757528358_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-26",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6772225642",
-      "title": "Shostakovich: Violin Concerto No. 1",
-      "artist": "Esa-Pekka Salonen, San Francisco Symphony & Sayaka Shoji",
-      "url": "https://music.apple.com/jp/album/shostakovich-violin-concerto-no-1/6772225642?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/84/78/ca847886-3180-6adf-b19b-d4ec0da64ce8/821936012321.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Orchestral",
-        "Modern Era",
-        "Violin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6776808195",
-      "title": "Clef Notes - Quantum Leap, Vol. 1",
-      "artist": "Wyclef Jean",
-      "url": "https://music.apple.com/jp/album/clef-notes-quantum-leap-vol-1/6776808195?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/0c/c3/e40cc39b-2fda-6d1f-601a-3abceecafcbc/820233607650.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-26",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "1885607338",
-      "title": "The Wow! Signal",
-      "artist": "Muse",
-      "url": "https://music.apple.com/jp/album/the-wow-signal/1885607338?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/8f/4b/5f8f4b32-9d11-b416-a6f9-3fb23e045dd0/5026854898216.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6779424259",
-      "title": "Moana (Original Motion Picture Soundtrack)",
-      "artist": "Lin-Manuel Miranda, Catherine Laga'aia & Dwayne Johnson",
-      "url": "https://music.apple.com/jp/album/moana-original-motion-picture-soundtrack/6779424259?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/f1/28/12f12884-0b87-6bb4-f650-1c8dc99ae2e1/26UMGIM72150.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": "New Soundtrack"
-    },
-    {
-      "id": "1892928459",
-      "title": "From Japan With Love",
-      "artist": "Minyo Crusaders",
-      "url": "https://music.apple.com/jp/album/from-japan-with-love/1892928459?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/1d/04/521d0452-6c2c-dd22-eb8c-29d41054d1ce/26UMGIM32968.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Worldwide",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780370112",
-      "title": "WHERE IS MY BOOK? (Drama\"The Flowers of Evil\" Original Soundtrack)",
-      "artist": "honoka takahashi",
-      "url": "https://music.apple.com/jp/album/where-is-my-book-%E3%83%89%E3%83%A9%E3%83%9E-%E6%83%A1%E3%81%AE%E8%8F%AF-original-soundtrack/6780370112?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/89/92/f4899292-a699-b243-dd88-f11d00e5bf90/4547366833089.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 27,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778626196",
-      "title": "Pulse - EP",
-      "artist": "Fuma no KTR",
-      "url": "https://music.apple.com/jp/album/pulse-ep/6778626196?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/cb/13/f2cb1392-96ff-1bca-e400-faee8d8b47e5/4550757529966_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-26",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1887405172",
-      "title": "The Myth We Choose",
-      "artist": "Nduduzo Makhathini",
-      "url": "https://music.apple.com/jp/album/the-myth-we-choose/1887405172?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/14/96/4f149606-0db9-f968-e740-7d2b75903eff/26UMGIM21589.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6777362698",
-      "title": "Supermarket Daydreams",
-      "artist": "Magnolian",
-      "url": "https://music.apple.com/jp/album/supermarket-daydreams/6777362698?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/05/16/8f0516fa-e794-3063-9720-201a70ad8a3b/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Indie Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779156640",
-      "title": "AOI SHOUTA LIVE Orchestra 2026 Moments",
-      "artist": "Shouta Aoi",
-      "url": "https://music.apple.com/jp/album/aoi-shouta-live-orchestra-2026-moments/6779156640?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/67/02/f06702c1-c1b1-84ae-cbca-a3f9b214832b/NOPA-8428.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1893182476",
-      "title": "Dylan Mattingly: The Wild Heart (Complete)",
-      "artist": "David Bloom, Iarla Ó Lionáird & Contemporaneous",
-      "url": "https://music.apple.com/jp/album/dylan-mattingly-the-wild-heart-complete/1893182476?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/74/7f/fb747ffe-f125-6b63-20cc-12880e7f736c/075597894684.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Contemporary Era"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779665406",
-      "title": "Free to Love: Hot Star Remixes (feat. Nile Rodgers)",
-      "artist": "Duran Duran",
-      "url": "https://music.apple.com/jp/album/free-to-love-hot-star-remixes-feat-nile-rodgers/6779665406?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/a2/9c/dfa29c1a-4bf3-b0ad-ccd1-f0cf55ea8a8d/820233431972.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1887809912",
-      "title": "Wildest Dreams (30th Anniversary Edition)",
-      "artist": "Tina Turner",
-      "url": "https://music.apple.com/jp/album/wildest-dreams-30th-anniversary-edition/1887809912?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/9c/1a/b09c1a19-8f92-8074-9891-9862fb1d8a6b/5021732842268.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 42,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895643305",
-      "title": "Holding Back the Years: 40 Years of Simply Red, Live in Santiago",
-      "artist": "Simply Red",
-      "url": "https://music.apple.com/jp/album/holding-back-the-years-40-years-of-simply-red-live/1895643305?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/b5/39/bfb5397a-bd99-d57c-62f9-6707c036c338/820233052351.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-26",
-      "trackCount": 22,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
       ],
       "tagline": null
     },
