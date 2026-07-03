@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T15:00:12.203Z",
+  "generatedAt": "2026-07-03T20:00:12.556Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -570,10 +570,10 @@
     },
     {
       "id": "6783543411",
-      "title": "VIBE5 (DJ Mix)",
+      "title": "TABLE5 (DJ Mix)",
       "artist": "Dj D Sharp",
-      "url": "https://music.apple.com/jp/album/vibe5-dj-mix/6783543411?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/69/a3/ae69a3d4-2e54-d270-f68e-a9a15e37f6ad/964a6c67-812a-4ded-a4a6-2a5bcada6919.jpg/632x632bb.jpg",
+      "url": "https://music.apple.com/jp/album/table5-dj-mix/6783543411?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/49/5c/49495c41-8761-2ba9-e456-2bf095a31ab7/ea36f34b-be4d-41ff-9048-08d0ea4504d0.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-07-03",
       "trackCount": 28,
