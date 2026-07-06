@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T16:00:31.306Z",
+  "generatedAt": "2026-07-06T19:00:30.619Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1878,9 +1878,9 @@
     },
     {
       "id": "6766499883",
-      "title": "waterflesh - EP",
+      "title": "waterflesh - Single",
       "artist": "Mervin Wong",
-      "url": "https://music.apple.com/jp/album/waterflesh-ep/6766499883?l=en-US",
+      "url": "https://music.apple.com/jp/album/waterflesh-single/6766499883?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/a1/98/c7a198d1-2ac4-18ef-30cb-6328df11eb1a/8721466893419.png/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-03",
