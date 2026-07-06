@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-06T07:00:31.164Z",
-  "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
+  "generatedAt": "2026-07-06T11:00:31.841Z",
+  "source": "https://music.apple.com/jp/room/6786914864",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
   "roomId": "6786914864",
-  "roomDiscoverySource": "grouping-api",
-  "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
+  "roomDiscoverySource": "new-page-section",
+  "roomDiscoveryUrl": "https://music.apple.com/jp/new?l=en",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
@@ -2921,22 +2921,6 @@
       "tagline": null
     },
     {
-      "id": "6783373138",
-      "title": "La part des anges - partie 2 - EP",
-      "artist": "rob",
-      "url": "https://music.apple.com/jp/album/la-part-des-anges-partie-2-ep/6783373138?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/de/97/3fde97d5-c249-b0e0-0787-26970bd9f561/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-03",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6781288547",
       "title": "TALAL",
       "artist": "1D1R",
@@ -2981,7 +2965,9 @@
       "genres": [
         "Classical Crossover",
         "Music",
-        "Classical"
+        "Classical",
+        "Vocal Music",
+        "Piano"
       ],
       "tagline": null
     },
@@ -3246,6 +3232,23 @@
         "Hip-Hop/Rap",
         "Music",
         "Hip-Hop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783170335",
+      "title": "Do Meu Jeito (Ao Vivo)",
+      "artist": "Thais Macedo",
+      "url": "https://music.apple.com/jp/album/do-meu-jeito-ao-vivo/6783170335?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/ef/05/33ef0546-cbd8-aae6-2660-2f5b8cce8974/196873095837.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Pagode",
+        "Music",
+        "Brazilian"
       ],
       "tagline": null
     },
