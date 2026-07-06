@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-06T11:00:31.841Z",
-  "source": "https://music.apple.com/jp/room/6786914864",
+  "generatedAt": "2026-07-06T16:00:31.306Z",
+  "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
   "roomId": "6786914864",
-  "roomDiscoverySource": "new-page-section",
-  "roomDiscoveryUrl": "https://music.apple.com/jp/new?l=en",
+  "roomDiscoverySource": "grouping-api",
+  "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
@@ -2402,6 +2402,23 @@
       "tagline": "New EP"
     },
     {
+      "id": "6775977261",
+      "title": "Baby Thug",
+      "artist": "Balloranking",
+      "url": "https://music.apple.com/jp/album/baby-thug/6775977261?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/5f/37/815f37f7-05d6-622d-270d-f051631fffb7/823375214434_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-03",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African"
+      ],
+      "tagline": "New EP"
+    },
+    {
       "id": "6776672985",
       "title": "UP TIL 5 - EP",
       "artist": "kosi.",
@@ -3232,23 +3249,6 @@
         "Hip-Hop/Rap",
         "Music",
         "Hip-Hop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783170335",
-      "title": "Do Meu Jeito (Ao Vivo)",
-      "artist": "Thais Macedo",
-      "url": "https://music.apple.com/jp/album/do-meu-jeito-ao-vivo/6783170335?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/ef/05/33ef0546-cbd8-aae6-2660-2f5b8cce8974/196873095837.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-03",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Pagode",
-        "Music",
-        "Brazilian"
       ],
       "tagline": null
     },
