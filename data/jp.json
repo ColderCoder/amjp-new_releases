@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T23:00:12.728Z",
+  "generatedAt": "2026-07-06T07:00:31.164Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3199,6 +3199,57 @@
       "tagline": null
     },
     {
+      "id": "6779695637",
+      "title": "Ma Ve Xêr Di (Live) - EP",
+      "artist": "Mehmet Çapan",
+      "url": "https://music.apple.com/jp/album/ma-ve-x%C3%AAr-di-live-ep/6779695637?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/2e/2e/712e2e4b-82c0-ccb7-7e43-6e0af4acae39/820200429377.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Folk",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773193437",
+      "title": "Vol.1 'Remixes'",
+      "artist": "Filipe Shock",
+      "url": "https://music.apple.com/jp/album/vol-1-remixes/6773193437?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/5c/f6/055cf609-2f4f-41f0-5944-1bf28188efdc/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782192224",
+      "title": "SONHOS SÃO À PROVA DE BALAS",
+      "artist": "Anezzi",
+      "url": "https://music.apple.com/jp/album/sonhos-s%C3%A3o-%C3%A0-prova-de-balas/6782192224?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/a5/e2/9ba5e2aa-495b-87f7-76c0-fc65bd89ac63/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-03",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Hip-Hop"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6778662127",
       "title": "We are POLARIS",
       "artist": "WAKAZO & chirp×chirp",
@@ -3426,6 +3477,22 @@
       "kind": "album",
       "genres": [
         "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784785944",
+      "title": "Cria do Sol Quente",
+      "artist": "Luana Flores",
+      "url": "https://music.apple.com/jp/album/cria-do-sol-quente/6784785944?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/6f/17/966f17ab-abb9-800f-ec9e-3a5d744f29c7/7891162351696.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-02",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Worldwide",
         "Music"
       ],
       "tagline": null
@@ -4455,87 +4522,19 @@
       "tagline": null
     },
     {
-      "id": "6784110188",
-      "title": "V8",
-      "artist": "THE 8 & VERNON",
-      "url": "https://music.apple.com/jp/album/v8/6784110188?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/f1/f6/5af1f621-2236-cd2c-bf5e-f024c2c3e235/26UMGIM80544.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-29",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778416959",
-      "title": "PAREIDOLIA",
-      "artist": "Erin LeCount",
-      "url": "https://music.apple.com/jp/album/pareidolia/6778416959?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/33/58/b5335824-4131-288d-0784-023898e63f35/1200214280987.jpg/632x632bb.jpg",
+      "id": "6781384423",
+      "title": "Um Corpo Preto",
+      "artist": "Rincon Sapiência",
+      "url": "https://music.apple.com/jp/album/um-corpo-preto/6781384423?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ef/e9/a1efe95f-d30e-5dff-3931-7f56e8e357e1/820233793223.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-06-29",
-      "trackCount": 7,
+      "releaseDate": "2026-06-30",
+      "trackCount": 17,
       "kind": "album",
       "genres": [
-        "Alternative",
+        "Rap",
         "Music",
-        "Pop"
-      ],
-      "tagline": "New Release"
-    },
-    {
-      "id": "6777959168",
-      "title": "Take Another Moment",
-      "artist": "Song Dongye",
-      "url": "https://music.apple.com/jp/album/%E5%86%8D%E6%83%B3%E6%83%B3/6777959168?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/c9/fe/45c9febc-d55c-62ef-c168-9cb013b9db65/26UMGIM69223.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-29",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Folk",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783646259",
-      "title": "Zang Loiˇ Liau",
-      "artist": "Chiu Shu",
-      "url": "https://music.apple.com/jp/album/%E6%AD%A3%E4%BE%86%E5%B0%9E/6783646259?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/8e/19/908e19f9-1c5f-5b1d-7bd3-8204e0c47d5e/193017209006.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-29",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Asia",
-        "Music",
-        "Worldwide"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784145719",
-      "title": "蕭景鴻 首張同名專輯",
-      "artist": "Edy Hsiao",
-      "url": "https://music.apple.com/jp/album/%E8%95%AD%E6%99%AF%E9%B4%BB-%E9%A6%96%E5%BC%B5%E5%90%8C%E5%90%8D%E5%B0%88%E8%BC%AF/6784145719?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/13/51/96135167-89e5-f3fc-5a8d-a58711dd309c/3000.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-29",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Mandopop",
-        "Music",
-        "Pop",
-        "Chinese"
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
