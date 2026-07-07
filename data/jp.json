@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T07:00:31.194Z",
+  "generatedAt": "2026-07-07T15:00:31.738Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -8,7 +8,7 @@
   "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
-  "itemCount": 287,
+  "itemCount": 288,
   "items": [
     {
       "id": "6776625254",
@@ -223,6 +223,22 @@
         "Music"
       ],
       "tagline": "New Release"
+    },
+    {
+      "id": "1895413395",
+      "title": "Somewhere over the Rainbow",
+      "artist": "Sun Ra",
+      "url": "https://music.apple.com/jp/album/somewhere-over-the-rainbow/1895413395?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/57/af/bd57af77-41b9-a12d-6cfa-42be0feaad69/4062548140125.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 26,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "1895280155",

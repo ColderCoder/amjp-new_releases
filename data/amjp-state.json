@@ -1,12 +1,11 @@
 {
   "version": 1,
   "catalogItemLimit": 300,
-  "contentHash": "8c0336ed3e2a136dd6a1786c8f99cd87fb58eb80420812988be41e041b013e7c",
-  "contentUpdatedAt": "2026-07-07T07:00:31.194Z",
-  "lastPublishedAt": "2026-07-07T07:00:31.194Z",
+  "contentHash": "92e58de88f9cb67220aeef225a1fd4499b9c09516ead4d9ccb21a5903b0e58b3",
+  "contentUpdatedAt": "2026-07-07T15:00:31.738Z",
+  "lastPublishedAt": "2026-07-07T15:00:31.738Z",
   "channelId": "-1003991834153",
   "knownItemIds": [
-    "6780047585",
     "1889887298",
     "1871011034",
     "1891274126",
@@ -232,6 +231,7 @@
     "6783917811",
     "6769174240",
     "6778522169",
+    "1895413395",
     "1895280155",
     "6783554421",
     "1895602930",
@@ -1009,5 +1009,7 @@
     "6782818157",
     "1895611627"
   ],
-  "pendingTelegramItemIds": []
+  "pendingTelegramItemIds": [
+    "1895413395"
+  ]
 }
