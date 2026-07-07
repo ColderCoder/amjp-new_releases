@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T15:00:31.738Z",
+  "generatedAt": "2026-07-07T20:00:31.509Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1321,7 +1321,7 @@
     {
       "id": "6781400052",
       "title": "Evil Dead Burn (Original Motion Picture Soundtrack)",
-      "artist": "Double Danger",
+      "artist": "Double Danger & Chilla",
       "url": "https://music.apple.com/jp/album/evil-dead-burn-original-motion-picture-soundtrack/6781400052?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/7e/39/6a7e3996-24ed-9e9b-76b3-df74bc021fb9/794043227820.jpg/632x632bb.jpg",
       "explicit": false,
