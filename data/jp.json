@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T19:00:30.619Z",
+  "generatedAt": "2026-07-07T07:00:31.194Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -8,7 +8,7 @@
   "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
-  "itemCount": 300,
+  "itemCount": 287,
   "items": [
     {
       "id": "6776625254",
@@ -3253,6 +3253,107 @@
       "tagline": null
     },
     {
+      "id": "6783170335",
+      "title": "Do Meu Jeito (Ao Vivo)",
+      "artist": "Thais Macedo",
+      "url": "https://music.apple.com/jp/album/do-meu-jeito-ao-vivo/6783170335?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/ef/05/33ef0546-cbd8-aae6-2660-2f5b8cce8974/196873095837.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Pagode",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895611627",
+      "title": "Ao Vivo Em Quarteto (feat. Vinícius Mendes, Bê Moura & Carol Ramalho)",
+      "artist": "Haroldo Bontempo",
+      "url": "https://music.apple.com/jp/album/ao-vivo-em-quarteto-feat-vin%C3%ADcius-mendes-b%C3%AA-moura-carol/1895611627?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/57/11/1857116c-2da6-7b9c-fd7d-be3256be815a/5056868110219.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Bossa Nova",
+        "Music",
+        "Brazilian",
+        "Worldwide"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782818157",
+      "title": "The Void lures with Feathers coated in Honey - Single",
+      "artist": "CUPID",
+      "url": "https://music.apple.com/jp/album/the-void-lures-with-feathers-coated-in-honey-single/6782818157?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/68/f9/9a68f941-dad8-e246-d5c5-7daf1b417449/cover_4062851317573.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 3,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6776295458",
+      "title": "Whitacre: Sleep - Single",
+      "artist": "Lavinia Meijer",
+      "url": "https://music.apple.com/jp/album/whitacre-sleep-single/6776295458?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/eb/e6/61ebe6b2-79f8-b035-b40a-6088639e3648/196874346105.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 3,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Solo Instrumental"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1844889862",
+      "title": "Both Sides Now (feat. Rasmus Sørensen & Matthias Petri) - Single",
+      "artist": "Ari Bragi Kárason, Karl-Martin Almqvist & Anders Mogensen",
+      "url": "https://music.apple.com/jp/album/both-sides-now-feat-rasmus-s%C3%B8rensen-matthias-petri-single/1844889862?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/46/cd/de46cdcb-1b53-9f98-5a04-2912eb8ecf7c/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Smooth Jazz",
+        "Music",
+        "Jazz"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1885894896",
+      "title": "Never Say Never - Single",
+      "artist": "Britt Hein",
+      "url": "https://music.apple.com/jp/album/never-say-never-single/1885894896?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/3f/d9/723fd98b-c1c7-ea23-ad9f-816a277c6277/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-03",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6778662127",
       "title": "We are POLARIS",
       "artist": "WAKAZO & chirp×chirp",
@@ -3497,6 +3598,23 @@
       "genres": [
         "Worldwide",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782819730",
+      "title": "BIOFONOGRAMA",
+      "artist": "Pericles Cavalcanti",
+      "url": "https://music.apple.com/jp/album/biofonograma/6782819730?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/bd/39/70bd39c3-a355-4a9c-c369-fb943b58baaa/0631685082618.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-02",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "MPB",
+        "Music",
+        "Brazilian"
       ],
       "tagline": null
     },
@@ -4193,171 +4311,6 @@
       "tagline": null
     },
     {
-      "id": "6781496609",
-      "title": "JUST ONE - EP",
-      "artist": "Tsuyoshi Nagabuchi",
-      "url": "https://music.apple.com/jp/album/just-one-ep/6781496609?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/4c/f8/944cf85e-868f-3689-f826-5683e46a7399/bigup14472344.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783526042",
-      "title": "Return to the Return (of the Spectrum of Intergalactic Happiness)",
-      "artist": "Zeds Dead",
-      "url": "https://music.apple.com/jp/album/return-to-the-return-of-the/6783526042?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/99/c7/dc99c759-b6bd-29e8-7429-ed766ef37146/26SYMIM32199.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-30",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6785080015",
-      "title": "The Devil's Road - EP",
-      "artist": "The Vampire Lestat",
-      "url": "https://music.apple.com/jp/album/the-devils-road-ep/6785080015?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/b5/18/efb518dd-dec0-d420-dfed-cfaa54dfc35e/780163694727.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-30",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778301721",
-      "title": "STAUBSAUGER 01 - EP",
-      "artist": "Irakli",
-      "url": "https://music.apple.com/jp/album/staubsauger-01-ep/6778301721?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/ce/77/5ace77d8-e7c6-c1ce-675d-ddcc3684135e/8718723322645.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1890240215",
-      "title": "Exhale",
-      "artist": "Batu & Donato Dozzy",
-      "url": "https://music.apple.com/jp/album/exhale/1890240215?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/81/fd/ce81fdf8-c9e2-e6e7-74ea-ba07cf134273/4062548141948.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6784384094",
-      "title": "So Sick (Live from Apple Music Studios)",
-      "artist": "Ne-Yo",
-      "url": "https://music.apple.com/jp/album/so-sick-live-from-apple-music-studios/6784384094?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/75/08/fc7508fa-68a3-1d7e-46ca-25149de33495/26UMGIM41116.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 2,
-      "kind": "single",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1886219410",
-      "title": "Mana",
-      "artist": "Kalia Vandever",
-      "url": "https://music.apple.com/jp/album/mana/1886219410?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/f3/24/12f32460-c6ee-6449-7861-050100e5c36d/760944511252.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6784435994",
-      "title": "College Football: Fight Songs, Vol. 3 (Original Soundtrack)",
-      "artist": "EA SPORTS College Football Marching Band",
-      "url": "https://music.apple.com/jp/album/college-football-fight-songs-vol-3-original-soundtrack/6784435994?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/ff/c7/4affc7e8-bc33-3dd4-78aa-1fbcb2ffeb74/780163695120.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 26,
-      "kind": "album",
-      "genres": [
-        "Video Game",
-        "Music",
-        "Soundtrack"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771376630",
-      "title": "Annihilation of Samsara",
-      "artist": "Attila Csihar, Balázs Pándi & John Wiese",
-      "url": "https://music.apple.com/jp/album/annihilation-of-samsara/6771376630?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/c4/0c/16c40c50-ea31-9ecc-7603-9a9619bf0842/769152438597.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Rock",
-        "Music",
-        "Metal"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6784437774",
-      "title": "EA SPORTS College Football 27: Halftime (Original Soundtrack)",
-      "artist": "EA SPORTS College Football Marching Band",
-      "url": "https://music.apple.com/jp/album/ea-sports-college-football-27-halftime-original-soundtrack/6784437774?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/61/05/a361058e-8fcb-3871-d5ba-b03d911d6324/780163695229.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Video Game",
-        "Music",
-        "Soundtrack"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6781091071",
       "title": "GuduMix 075: Airwolf Paradise (DJ Mix)",
       "artist": "Airwolf Paradise",
@@ -4371,173 +4324,6 @@
         "Dance",
         "Music",
         "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771799487",
-      "title": "Cobb Valley Time-Slip - EP",
-      "artist": "Void State",
-      "url": "https://music.apple.com/jp/album/cobb-valley-time-slip-ep/6771799487?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/b0/2d/19b02d8e-ad54-a172-76a2-98bbed0762c8/5063817011879_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Techno",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895630626",
-      "title": "kind of LIVES",
-      "artist": "Paolo Fresu",
-      "url": "https://music.apple.com/jp/album/kind-of-lives/1895630626?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/cc/cb/1ccccbe3-82b4-5abc-3ae2-fe8b2971168d/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Contemporary Jazz",
-        "Music",
-        "Jazz"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784444401",
-      "title": "Unhinged (Soundtrack from the Netflix Game)",
-      "artist": "Jason Hill",
-      "url": "https://music.apple.com/jp/album/unhinged-soundtrack-from-the-netflix-game/6784444401?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/09/d7/a309d777-49d2-8da1-205f-08a3b8926b1f/810123169399.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778086066",
-      "title": "Super Rock Band",
-      "artist": "Andrew Nicolaides",
-      "url": "https://music.apple.com/jp/album/super-rock-band/6778086066?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/8d/ab/3f8dabdc-384f-f41f-4094-3faf3519f640/127846.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780521568",
-      "title": "THE GOOD SIDE OF THINGS",
-      "artist": "Kelissa",
-      "url": "https://music.apple.com/jp/album/the-good-side-of-things/6780521568?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/11/e6/7311e60c-62db-dc34-53e0-b6c4accf7765/840200575614_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Reggae",
-        "Music",
-        "R&B/Soul"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6772145081",
-      "title": "iKati Elimhlophe",
-      "artist": "CowBoii",
-      "url": "https://music.apple.com/jp/album/ikati-elimhlophe/6772145081?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/d7/27/b0d7278f-847c-1ef0-567c-ceb9dfadb32d/199316628692_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6777009993",
-      "title": "Place 779",
-      "artist": "MargauxRZ",
-      "url": "https://music.apple.com/jp/album/place-779/6777009993?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/71/62/de716209-b14e-9929-2258-b346f229c410/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-06-30",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776299947",
-      "title": "Nuova Scena 3 Mixtape (From the Netflix Rap Show)",
-      "artist": "Nuova Scena",
-      "url": "https://music.apple.com/jp/album/nuova-scena-3-mixtape-from-the-netflix-rap-show/6776299947?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/21/fa/2421fa4c-c298-f913-244e-5693e9ffebb8/810123169252.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-30",
-      "trackCount": 27,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781168826",
-      "title": "Reborn",
-      "artist": "林佩薇 AGG",
-      "url": "https://music.apple.com/jp/album/%E6%89%AD%E8%AA%95/6781168826?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/8a/9b/7a8a9b9d-95fc-0450-03ec-53a8baa4afbd/4711720311432.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-30",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Mandopop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781384423",
-      "title": "Um Corpo Preto",
-      "artist": "Rincon Sapiência",
-      "url": "https://music.apple.com/jp/album/um-corpo-preto/6781384423?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ef/e9/a1efe95f-d30e-5dff-3931-7f56e8e357e1/820233793223.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-30",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
