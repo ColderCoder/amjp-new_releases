@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:00:23.452Z",
+  "generatedAt": "2026-07-08T15:00:23.159Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -8,8 +8,25 @@
   "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
-  "itemCount": 250,
+  "itemCount": 251,
   "items": [
+    {
+      "id": "6783890525",
+      "title": "Riding Through My Disco (DJ Mix)",
+      "artist": "Holly North",
+      "url": "https://music.apple.com/jp/album/riding-through-my-disco-dj-mix/6783890525?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/14/d3/4314d31c-6f9c-f885-28e9-0ee8664109bc/d41aba3a-6e72-499f-a6e3-c40aac7518ee.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-09",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
     {
       "id": "6776625254",
       "title": "BASIN TECHNO",
