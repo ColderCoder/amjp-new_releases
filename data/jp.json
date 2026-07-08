@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T07:00:25.478Z",
+  "generatedAt": "2026-07-08T11:00:23.452Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1691,9 +1691,9 @@
     },
     {
       "id": "6776586541",
-      "title": "Music Inspired by Philippe Garrel’s Le Révélateur",
+      "title": "Le Révélateur",
       "artist": "Réka Csiszér & Radwan Ghazi Moumneh",
-      "url": "https://music.apple.com/jp/album/music-inspired-by-philippe-garrels-le-r%C3%A9v%C3%A9lateur/6776586541?l=en-US",
+      "url": "https://music.apple.com/jp/album/le-r%C3%A9v%C3%A9lateur/6776586541?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/29/dd/8029dd66-60f3-0e03-5f5c-7427ca700149/16831.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-03",
