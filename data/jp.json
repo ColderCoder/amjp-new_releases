@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T15:00:23.159Z",
+  "generatedAt": "2026-07-08T16:00:23.390Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3774,7 +3774,7 @@
     {
       "id": "6784455722",
       "title": "No Phone Zone: Rad Cat Live at Brownies & Lemonade in Los Angeles, Jun 18, 2026 (DJ Mix)",
-      "artist": "Rad Cat",
+      "artist": "rad cat",
       "url": "https://music.apple.com/jp/album/no-phone-zone-rad-cat-live-at-brownies-lemonade-in/6784455722?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/0d/ae/5f0dae68-3938-0480-73ec-724798d232fa/91d3f29d-0253-4ae3-ac14-973b47b33eee.jpg/632x632bb.jpg",
       "explicit": true,
