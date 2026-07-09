@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T18:00:30.500Z",
+  "generatedAt": "2026-07-09T19:00:29.105Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -58,7 +58,7 @@
         "Music",
         "R&B/Soul"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6778238107",
@@ -90,7 +90,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1894103117",
@@ -123,7 +123,7 @@
         "Music",
         "Reggae"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6777159639",
@@ -302,7 +302,7 @@
         "Electronic",
         "Ambient"
       ],
-      "tagline": null
+      "tagline": "New Fitness DJ Mix"
     },
     {
       "id": "6764899702",
@@ -352,7 +352,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1895093797",
@@ -384,7 +384,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1884392861",
@@ -532,7 +532,7 @@
         "Music",
         "Rock y Alternativo"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "1878457741",
@@ -984,7 +984,7 @@
         "African",
         "Afro House"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6777897693",
@@ -1715,7 +1715,7 @@
       "title": "Tita Lau: Ibiza Sweat (DJ Mix)",
       "artist": "Tita Lau",
       "url": "https://music.apple.com/jp/album/tita-lau-ibiza-sweat-dj-mix/6786085741?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/9c/c6/709cc6ec-d28f-958c-9d1f-87f6cae763d8/0eca76f5-1ac2-4826-a91f-1ef5f47bc85c.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/92/a3/1292a36d-5811-a1eb-0131-0995aff9c538/89209a5b-b3be-45aa-82fd-744fb4dc925c.png/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-10",
       "trackCount": 18,
@@ -1780,7 +1780,7 @@
         "R&B/Soul",
         "Funk"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6768348168",
@@ -2373,7 +2373,7 @@
     },
     {
       "id": "6764186359",
-      "title": "The Wild, the Innocent & the Raging (Deluxe)",
+      "title": "the wild, the innocent & the raging (Deluxe)",
       "artist": "ILUKA",
       "url": "https://music.apple.com/jp/album/the-wild-the-innocent-the-raging-deluxe/6764186359?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/5d/e9/375de9f1-3b7d-5a98-fe9e-653abb0a526b/067003011495.png/632x632bb.jpg",
@@ -4333,7 +4333,7 @@
         "Music",
         "Urbano latino"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6780929557",
