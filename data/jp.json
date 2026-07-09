@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T02:00:23.496Z",
+  "generatedAt": "2026-07-09T07:00:30.809Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -8,7 +8,7 @@
   "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
-  "itemCount": 251,
+  "itemCount": 238,
   "items": [
     {
       "id": "6783890525",
@@ -3387,56 +3387,6 @@
       "tagline": null
     },
     {
-      "id": "6778662127",
-      "title": "We are POLARIS",
-      "artist": "WAKAZO & chirp×chirp",
-      "url": "https://music.apple.com/jp/album/we-are-polaris/6778662127?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/a3/e7/c8a3e7d6-cd99-fe8d-2627-eedcfec32643/820233624329.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6772850762",
-      "title": "X Years VA",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/x-years-va/6772850762?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/57/25/a55725c2-69f8-49ee-9b46-00d49719e874/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-02",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Jungle/Drum'n'bass",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780570291",
-      "title": "Eres Mi Nada / Tu Pasado y Tú - Single",
-      "artist": "Yuridia",
-      "url": "https://music.apple.com/jp/album/eres-mi-nada-tu-pasado-y-t%C3%BA-single/6780570291?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/b9/3c/2bb93cb5-ffd2-cfe6-9704-f959c8851309/196874505557.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 2,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6784397295",
       "title": "Beats In Space 213: Tim Sweeney (DJ Mix)",
       "artist": "Tim Sweeney",
@@ -3485,169 +3435,6 @@
         "Dance",
         "Music",
         "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781571566",
-      "title": "Love On Tenderhooks - EP",
-      "artist": "Cromby",
-      "url": "https://music.apple.com/jp/album/love-on-tenderhooks-ep/6781571566?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/74/c3/9774c3e5-c393-23f0-722f-5daad484fb31/8718723323277.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783436445",
-      "title": "Survival of the Thickest: The Final Season (Soundtrack from the Netflix Series)",
-      "artist": "Transcenders",
-      "url": "https://music.apple.com/jp/album/survival-of-the-thickest-the-final-season/6783436445?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/0e/6f/f10e6fa8-f69c-f562-6a42-3fa2a6aa00e8/810123169313.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768954805",
-      "title": "And You Who Drowned in the Grief of a Golden Thing (The Director's Cut)",
-      "artist": "KiNG MALA",
-      "url": "https://music.apple.com/jp/album/and-you-who-drowned-in-the-grief-of-a/6768954805?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/31/95/3f319518-0019-c69d-22cc-37f0792043f5/632665345839_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-02",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781898275",
-      "title": "Make Up - EP",
-      "artist": "Matilda Mann",
-      "url": "https://music.apple.com/jp/album/make-up-ep/6781898275?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/f9/c6/d8f9c636-7e1b-c085-0492-7268d0f04d56/3548205.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6780809928",
-      "title": "Acid Jazz Revenge",
-      "artist": "Galliano",
-      "url": "https://music.apple.com/jp/album/acid-jazz-revenge/6780809928?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/b1/5b/7ab15bdc-04cf-c99c-be20-6b67b7dcb463/PCD-25544.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779593748",
-      "title": "SICILIA BEDDA",
-      "artist": "DELIA",
-      "url": "https://music.apple.com/jp/album/sicilia-bedda/6779593748?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/39/f6/9339f652-5942-8a61-09d8-72841d0f9c0d/1200214346621.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1891990725",
-      "title": "forever gone - EP",
-      "artist": "Loucent",
-      "url": "https://music.apple.com/jp/album/forever-gone-ep/1891990725?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/3f/68/693f6804-c1f9-70fb-2c7a-3bf1bf2c4fcc/3663729440464_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Ambient",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780833259",
-      "title": "Echoes in My Head - EP",
-      "artist": "Johnnypump",
-      "url": "https://music.apple.com/jp/album/echoes-in-my-head-ep/6780833259?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/b0/4b/22b04be2-9c6e-96fe-8748-3afabd88da62/7321170954454.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784785944",
-      "title": "Cria do Sol Quente",
-      "artist": "Luana Flores",
-      "url": "https://music.apple.com/jp/album/cria-do-sol-quente/6784785944?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/6f/17/966f17ab-abb9-800f-ec9e-3a5d744f29c7/7891162351696.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Worldwide",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6782819730",
-      "title": "BIOFONOGRAMA",
-      "artist": "Pericles Cavalcanti",
-      "url": "https://music.apple.com/jp/album/biofonograma/6782819730?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/bd/39/70bd39c3-a355-4a9c-c369-fb943b58baaa/0631685082618.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-02",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "MPB",
-        "Music",
-        "Brazilian"
       ],
       "tagline": null
     },
