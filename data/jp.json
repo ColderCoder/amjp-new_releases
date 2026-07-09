@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T21:00:28.778Z",
+  "generatedAt": "2026-07-09T22:00:28.735Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -155,7 +155,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1891811086",
@@ -172,7 +172,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Release"
     },
     {
       "id": "6779502137",
@@ -617,7 +617,7 @@
         "Singer/Songwriter",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1885601262",
@@ -682,7 +682,7 @@
         "Music",
         "Singer/Songwriter"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1893438889",
@@ -3725,22 +3725,6 @@
       "tagline": null
     },
     {
-      "id": "6784716606",
-      "title": "WIN",
-      "artist": "Windiane",
-      "url": "https://music.apple.com/jp/album/win/6784716606?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/83/af/c183af7b-701b-d7fe-7c4d-620994c5aa78/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-10",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "French Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6785954310",
       "title": "Sanity Evaded",
       "artist": "YFG FATSO",
@@ -3806,7 +3790,7 @@
         "Music",
         "Latin"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "1895263795",
@@ -3974,6 +3958,24 @@
         "Music",
         "Dance",
         "Jazz"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771980080",
+      "title": "DAGEGEN - EP",
+      "artist": "Ronny Platte",
+      "url": "https://music.apple.com/jp/album/dagegen-ep/6771980080?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/12/fd/ab12fd21-d27f-3ade-0f91-8cf279547001/4255671726018.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-09",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Alternative",
+        "Punk"
       ],
       "tagline": null
     },
