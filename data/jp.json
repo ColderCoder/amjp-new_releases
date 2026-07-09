@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T07:00:30.809Z",
+  "generatedAt": "2026-07-09T15:00:30.534Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -8,7 +8,7 @@
   "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
-  "itemCount": 238,
+  "itemCount": 246,
   "items": [
     {
       "id": "6783890525",
@@ -4015,6 +4015,141 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784338056",
+      "title": "Nike After Dark LA 2025: Zoe Gitter (DJ Mix)",
+      "artist": "Zoe Gitter",
+      "url": "https://music.apple.com/jp/album/nike-after-dark-la-2025-zoe-gitter-dj-mix/6784338056?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/80/06/ec8006c4-2e49-11fb-b8c7-e73c5cad2ff3/fa29c678-1640-4f23-ad63-d988796ad29f.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-07",
+      "trackCount": 60,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783482716",
+      "title": "Nike After Dark LA 2025: Bec Adams (DJ Mix)",
+      "artist": "Bec Adams",
+      "url": "https://music.apple.com/jp/album/nike-after-dark-la-2025-bec-adams-dj-mix/6783482716?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/6f/eb/776feb5b-f5b2-dab4-1022-51a94b7a955d/cb9a5565-d1eb-499c-a99b-f6bcd7cc0703.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-07",
+      "trackCount": 40,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783949438",
+      "title": "Nike After Dark LA 2025: Gilly Chan (DJ Mix)",
+      "artist": "Gilly Chan",
+      "url": "https://music.apple.com/jp/album/nike-after-dark-la-2025-gilly-chan-dj-mix/6783949438?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/e2/3b/92e23b28-feb2-d30f-538a-d49d77ddc065/a4984b0a-210c-4879-adba-27dcac6f74c9.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-07",
+      "trackCount": 24,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784055657",
+      "title": "Nike After Dark LA 2025: Mandy Harris Williams (DJ Mix)",
+      "artist": "Mandy Harris Williams",
+      "url": "https://music.apple.com/jp/album/nike-after-dark-la-2025-mandy-harris-williams-dj-mix/6784055657?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/99/2b/61992b61-9575-e413-0025-80f2a59aa083/c593b9e1-e139-4a45-adc4-0638c0622fa6.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-07",
+      "trackCount": 46,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783136590",
+      "title": "Nike After Dark LA 2025: Jade Croo (DJ Mix)",
+      "artist": "Jade Croo",
+      "url": "https://music.apple.com/jp/album/nike-after-dark-la-2025-jade-croo-dj-mix/6783136590?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/03/51/e00351d8-7741-1e3a-3565-d4f223d78343/71f89b19-52f9-48b3-8865-2ae73579ea29.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-07",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784028095",
+      "title": "Nike After Dark LA 2025: Dana Boulos (DJ Mix)",
+      "artist": "Dana Boulos",
+      "url": "https://music.apple.com/jp/album/nike-after-dark-la-2025-dana-boulos-dj-mix/6784028095?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/f5/25/bbf5255a-554c-1832-b901-e1d36a9b77b7/50e5e46e-22cb-41a3-9c55-81d4b85640e7.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-07",
+      "trackCount": 51,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783487572",
+      "title": "Nike After Dark LA 2025: Bea Hardy (DJ Mix)",
+      "artist": "Bea Hardy",
+      "url": "https://music.apple.com/jp/album/nike-after-dark-la-2025-bea-hardy-dj-mix/6783487572?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/0d/db/500ddbb9-1e90-1768-0572-ef85f6d4988e/019e93b8-f1f3-4aae-8380-05eedafc0472.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-07",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Disco",
+        "Music",
+        "R&B/Soul",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784043394",
+      "title": "Nike After Dark LA 2025: Cailin Russo (DJ Mix)",
+      "artist": "Cailin Russo",
+      "url": "https://music.apple.com/jp/album/nike-after-dark-la-2025-cailin-russo-dj-mix/6784043394?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/29/c2/6329c2df-acc6-0cae-f5d9-ae0b799ff667/5b3ce15e-2fea-49c2-9445-a2d2e1b05533.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-07",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
       ],
       "tagline": null
     },
