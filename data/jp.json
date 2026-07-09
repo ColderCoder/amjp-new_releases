@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T22:00:28.735Z",
+  "generatedAt": "2026-07-09T23:00:28.047Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -665,7 +665,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1886481825",
@@ -748,7 +748,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1888585984",
@@ -1691,7 +1691,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6784483986",
@@ -1725,7 +1725,7 @@
         "Music",
         "House"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "1895117413",
@@ -2683,7 +2683,7 @@
         "Music",
         "Modern Dancehall"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6781445878",
@@ -3248,6 +3248,23 @@
         "Music",
         "Brazilian"
       ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6786211070",
+      "title": "DRIVE SAFE",
+      "artist": "Luciennn",
+      "url": "https://music.apple.com/jp/album/drive-safe/6786211070?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/3b/5d/8a3b5d5b-be85-a5bc-ac2f-0afe206b454f/196874465806.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
       "tagline": null
     },
     {
@@ -3708,23 +3725,6 @@
       "tagline": null
     },
     {
-      "id": "6784265645",
-      "title": "SHATTA HARD",
-      "artist": "Keros-N",
-      "url": "https://music.apple.com/jp/album/shatta-hard/6784265645?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/1e/ec/d11eec4b-f11b-d0c4-2f40-634c1c26d007/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-10",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Modern Dancehall",
-        "Music",
-        "Reggae"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6785954310",
       "title": "Sanity Evaded",
       "artist": "YFG FATSO",
@@ -3776,6 +3776,22 @@
       "tagline": null
     },
     {
+      "id": "6787217382",
+      "title": "MILLION DOLLAR BABE",
+      "artist": "ANNA",
+      "url": "https://music.apple.com/jp/album/million-dollar-babe/6787217382?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/66/c0/7a66c00e-3ae9-b7c5-f2b9-f51510914310/26UMGIM74291.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-09",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6784834597",
       "title": "Noches En La Isla, Vol. 2 - EP",
       "artist": "Kris Floyd",
@@ -3807,7 +3823,7 @@
         "Music",
         "Dance"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6783890525",
@@ -4301,22 +4317,6 @@
         "R&B/Soul",
         "Music",
         "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784722588",
-      "title": "Autour du feu - EP",
-      "artist": "Romsii",
-      "url": "https://music.apple.com/jp/album/autour-du-feu-ep/6784722588?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/5e/44/315e44a8-ea38-705d-7092-44f047db9345/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-08",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
