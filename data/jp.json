@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T07:00:28.369Z",
+  "generatedAt": "2026-07-10T11:00:28.080Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2438,6 +2438,22 @@
       "tagline": null
     },
     {
+      "id": "1895654870",
+      "title": "Cupid & Psyche 85 (Deluxe Edition Remastered)",
+      "artist": "Scritti Politti",
+      "url": "https://music.apple.com/jp/album/cupid-psyche-85-deluxe-edition-remastered/1895654870?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/b0/c4/0eb0c4c9-8ef9-fcfe-b7bf-8760c2f14cce/191402059564.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6771844926",
       "title": "Peel (The Complete Peel Sessions)",
       "artist": "Xmal Deutschland",
@@ -2947,23 +2963,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778882882",
-      "title": "Її - EP",
-      "artist": "Sofia Leshyshak & на її основі",
-      "url": "https://music.apple.com/jp/album/%D1%97%D1%97-ep/6778882882?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/2c/00/262c005e-0a10-758a-e696-1147f6730c17/820233761949.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-10",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
