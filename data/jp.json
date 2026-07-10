@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T04:00:28.482Z",
+  "generatedAt": "2026-07-10T05:00:28.291Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -121,6 +121,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6784327271",
+      "title": "The Real Me",
+      "artist": "Future",
+      "url": "https://music.apple.com/jp/album/the-real-me/6784327271?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/a0/75/8ea0757a-6859-9c50-e92b-944979cc0d53/196874557198.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-10",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6770614875",
@@ -2931,23 +2947,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778882882",
-      "title": "Її - EP",
-      "artist": "Sofia Leshyshak & на її основі",
-      "url": "https://music.apple.com/jp/album/%D1%97%D1%97-ep/6778882882?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/2c/00/262c005e-0a10-758a-e696-1147f6730c17/820233761949.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-10",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
