@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T01:00:31.187Z",
+  "generatedAt": "2026-07-10T02:00:27.819Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -339,7 +339,7 @@
       "title": "Alone Together",
       "artist": "Show Me the Body",
       "url": "https://music.apple.com/jp/album/alone-together/1891187411?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/6a/16/5a6a1683-6b67-acd4-98b8-cafee7acfc29/26CRGIM53563.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/e3/c8/03e3c82d-cb4b-7fd0-9dd7-88e719e2b404/26CRGIM53563.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-07-10",
       "trackCount": 13,
@@ -632,7 +632,7 @@
         "Music",
         "Indie Pop"
       ],
-      "tagline": null
+      "tagline": "New Mixtape"
     },
     {
       "id": "1894923371",
@@ -688,7 +688,7 @@
       "title": "Wasted While I'm Young",
       "artist": "Congress The Band",
       "url": "https://music.apple.com/jp/album/wasted-while-im-young/6788215490?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/40/09/1b4009c8-48e7-832d-955f-6230c1317bcd/26UMGIM82963.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/5d/99/875d9961-ac01-d5ae-09b0-641bfa9aa822/26UMGIM82963.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-07-10",
       "trackCount": 9,
