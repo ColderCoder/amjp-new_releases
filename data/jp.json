@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T17:00:05.578Z",
+  "generatedAt": "2026-07-10T18:00:05.522Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -186,7 +186,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6779712093",
@@ -240,7 +240,7 @@
     {
       "id": "6788197985",
       "title": "Buju Banton Presents: Worries In Di Dance Hall, Vol. 1, Mixed by King Addies International (DJ Mix)",
-      "artist": "King Addies",
+      "artist": "King Addies & Buju Banton",
       "url": "https://music.apple.com/jp/album/buju-banton-presents-worries-in-di-dance-hall-vol-1/6788197985?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/16/c2/c116c2d9-698f-55e0-da4e-7e10b0a90a6d/5db4c863-94fb-4dbb-ace0-0c5e6c796d21.jpg/632x632bb.jpg",
       "explicit": true,
@@ -3081,7 +3081,7 @@
         "Music",
         "Latin"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6787217382",
