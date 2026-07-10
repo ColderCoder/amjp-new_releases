@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T23:00:28.047Z",
+  "generatedAt": "2026-07-10T00:00:28.028Z",
   "source": "https://music.apple.com/jp/room/6786914864?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6786914864?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -41,7 +41,7 @@
         "Music",
         "Country"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1888561538",
@@ -106,7 +106,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6788197985",
@@ -418,7 +418,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1882376860",
@@ -1319,6 +1319,23 @@
       "genres": [
         "Rock",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784866057",
+      "title": "Mixmag Türkiye Frekans: Marc Gonen (DJ Mix)",
+      "artist": "Marc Gonen",
+      "url": "https://music.apple.com/jp/album/mixmag-t%C3%BCrkiye-frekans-marc-gonen-dj-mix/6784866057?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/42/49/bf4249bd-cc18-e5f7-6969-517b23e20113/9c6cc1d9-911f-4325-8fd0-c47ac0d5667a.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
       ],
       "tagline": null
     },
@@ -3251,6 +3268,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "6787637226",
+      "title": "TUTTA VITA - LIVE (STADIO LUIGI FERRARIS)",
+      "artist": "Olly & Juli",
+      "url": "https://music.apple.com/jp/album/tutta-vita-live-stadio-luigi-ferraris/6787637226?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/0e/af/260eaf6f-d60d-3f0a-f500-821df2d61e7c/196874542569.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-10",
+      "trackCount": 29,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6786211070",
       "title": "DRIVE SAFE",
       "artist": "Luciennn",
@@ -3691,40 +3724,6 @@
       "tagline": null
     },
     {
-      "id": "6781814201",
-      "title": "Rheinberger: Piano Works",
-      "artist": "Dmytro Semykras",
-      "url": "https://music.apple.com/jp/album/rheinberger-piano-works/6781814201?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/bc/08/20bc08b1-62dd-a884-03df-37858bd10034/747313467679.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-10",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Piano"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1891970110",
-      "title": "Perspectiva - EP",
-      "artist": "Joalin",
-      "url": "https://music.apple.com/jp/album/perspectiva-ep/1891970110?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/e2/b7/29e2b73f-9967-fb5e-90f1-3ad949bac847/5056556179887_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-10",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Pop in Spanish",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6785954310",
       "title": "Sanity Evaded",
       "artist": "YFG FATSO",
@@ -3739,7 +3738,7 @@
         "Music",
         "Hip-Hop/Rap"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6783389109",
