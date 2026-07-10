@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T11:00:28.080Z",
+  "generatedAt": "2026-07-10T15:00:28.570Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2934,6 +2934,23 @@
       "tagline": null
     },
     {
+      "id": "6773394697",
+      "title": "Shadows",
+      "artist": "Blunt Bitch",
+      "url": "https://music.apple.com/jp/album/shadows/6773394697?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/45/b2/7545b26c-524a-ff3e-62d1-10800469ce36/0001138740486.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6773739449",
       "title": "Album Niebieski",
       "artist": "Mlecze",
@@ -2947,22 +2964,6 @@
         "Indie Pop",
         "Music",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781203020",
-      "title": "KRAK9",
-      "artist": "PASSKI, Bosski & P.A.F.F.",
-      "url": "https://music.apple.com/jp/album/krak9/6781203020?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/c4/e9/14c4e9a8-7161-10e4-2c7d-dc41bea2a2d9/1200214372866.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-10",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
