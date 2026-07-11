@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T20:00:05.489Z",
+  "generatedAt": "2026-07-11T07:00:08.735Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2968,6 +2968,55 @@
       "tagline": null
     },
     {
+      "id": "6781203020",
+      "title": "KRAK9",
+      "artist": "PASSKI, Bosski & P.A.F.F.",
+      "url": "https://music.apple.com/jp/album/krak9/6781203020?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/c4/e9/14c4e9a8-7161-10e4-2c7d-dc41bea2a2d9/1200214372866.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-10",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778882882",
+      "title": "Її - EP",
+      "artist": "Sofia Leshyshak & на її основі",
+      "url": "https://music.apple.com/jp/album/%D1%97%D1%97-ep/6778882882?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/2c/00/262c005e-0a10-758a-e696-1147f6730c17/820233761949.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783763536",
+      "title": "KLUB MIŁOŚNIKÓW ZAPOMINANIA",
+      "artist": "noffkoffska",
+      "url": "https://music.apple.com/jp/album/klub-mi%C5%82o%C5%9Bnik%C3%B3w-zapominania/6783763536?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/88/f1/59/88f1590f-a662-c6bc-ef58-f35ac64066f1/5907983406032.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-10",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1896361917",
       "title": "DIFFERENT",
       "artist": "PSYCHIC FEVER from EXILE TRIBE",
@@ -4472,56 +4521,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6777962198",
-      "title": "Auwa Wakareno Hajime (Remastered)",
-      "artist": "ammo",
-      "url": "https://music.apple.com/jp/album/auwa-wakareno-hajime-remastered/6777962198?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/0e/9c/760e9ce8-8637-1d85-f8ad-fb8332bbf815/TFDS-01376.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-04",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6782063723",
-      "title": "Sink or Swim - EP",
-      "artist": "PAX",
-      "url": "https://music.apple.com/jp/album/sink-or-swim-ep/6782063723?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/6d/f3/e06df36c-a52e-f734-6bf7-09acdc9c2915/4550757841457_cover.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-04",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773476159",
-      "title": "Voice in the Wilderness Vol. 1",
-      "artist": "Christafari",
-      "url": "https://music.apple.com/jp/album/voice-in-the-wilderness-vol-1/6773476159?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/c2/2d/1ec22d6b-dac7-dc51-4cf6-03d3cef6cb8f/869.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-04",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Reggae",
-        "Music",
-        "Christian"
       ],
       "tagline": null
     },
