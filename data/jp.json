@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T07:00:08.735Z",
+  "generatedAt": "2026-07-12T07:00:58.708Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3017,6 +3017,39 @@
       "tagline": null
     },
     {
+      "id": "6779574874",
+      "title": "EY AY (Deluxe Slay Jazz)",
+      "artist": "CHĘCKI",
+      "url": "https://music.apple.com/jp/album/ey-ay-deluxe-slay-jazz/6779574874?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/7a/11/377a11ba-e810-a438-0d30-02dcd451a116/5905802857959.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "IDM/Experimental",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782946333",
+      "title": "Nova Era (Live)",
+      "artist": "The Maneken",
+      "url": "https://music.apple.com/jp/album/nova-era-live/6782946333?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/63/64/1a636453-8c6f-1075-340d-b83d1245bad3/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-10",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1896361917",
       "title": "DIFFERENT",
       "artist": "PSYCHIC FEVER from EXILE TRIBE",
@@ -4491,38 +4524,6 @@
         "House"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6783718606",
-      "title": "Genshi - EP",
-      "artist": "Khaki",
-      "url": "https://music.apple.com/jp/album/%E5%8E%9F%E5%AD%90-ep/6783718606?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/55/00/905500f4-9fef-1b6f-531e-05951e4aeb2a/4580789772276.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-05",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6782012687",
-      "title": "FRIDAY WORKS",
-      "artist": "BTC",
-      "url": "https://music.apple.com/jp/album/friday-works/6782012687?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/35/03/8e3503cf-206f-5223-5319-cb734e8744e3/bigup14473458.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-05",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6786393303",
