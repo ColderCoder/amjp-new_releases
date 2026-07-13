@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T19:00:51.353Z",
+  "generatedAt": "2026-07-13T21:00:51.116Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -594,6 +594,22 @@
       "kind": "album",
       "genres": [
         "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783188982",
+      "title": "Stars (Blue Hour Deluxe)",
+      "artist": "Anne Wilson",
+      "url": "https://music.apple.com/jp/album/stars-blue-hour-deluxe/6783188982?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/25/eb/7425ebbb-d70e-81b0-cb29-a6122455b22e/26UMGIM79464.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Christian",
         "Music"
       ],
       "tagline": null
@@ -3078,26 +3094,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784130689",
-      "title": "Melisa Uzunarslan: Works for Violin & Piano, Vol. 1 (Live)",
-      "artist": "Melisa Uzunarslan & Cem Babacan",
-      "url": "https://music.apple.com/jp/album/melisa-uzunarslan-works-for-violin-piano-vol-1-live/6784130689?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/43/68/4d43683c-58d5-0bda-d1b5-edd5b1c911b1/8721555619616.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-10",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Contemporary Era",
-        "Violin",
-        "Piano",
-        "Chamber Music"
       ],
       "tagline": null
     },
