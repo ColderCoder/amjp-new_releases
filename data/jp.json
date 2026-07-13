@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T11:00:51.582Z",
+  "generatedAt": "2026-07-13T19:00:51.353Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1266,23 +1266,6 @@
         "R&B/Soul",
         "Music",
         "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6785995338",
-      "title": "The Open Air Mix, Vol. 1: Alaska (DJ Mix)",
-      "artist": "MC4D",
-      "url": "https://music.apple.com/jp/album/the-open-air-mix-vol-1-alaska-dj-mix/6785995338?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/3e/c9/a03ec972-336f-01e1-c465-faef937b5f07/dd1cc8cd-c408-46bb-952e-7874b8e484bf.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-10",
-      "trackCount": 28,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic"
       ],
       "tagline": null
     },
@@ -3095,6 +3078,26 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784130689",
+      "title": "Melisa Uzunarslan: Works for Violin & Piano, Vol. 1 (Live)",
+      "artist": "Melisa Uzunarslan & Cem Babacan",
+      "url": "https://music.apple.com/jp/album/melisa-uzunarslan-works-for-violin-piano-vol-1-live/6784130689?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/43/68/4d43683c-58d5-0bda-d1b5-edd5b1c911b1/8721555619616.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Contemporary Era",
+        "Violin",
+        "Piano",
+        "Chamber Music"
       ],
       "tagline": null
     },
