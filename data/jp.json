@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T01:00:50.973Z",
+  "generatedAt": "2026-07-14T07:00:25.767Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3098,6 +3098,124 @@
       "tagline": null
     },
     {
+      "id": "6784130689",
+      "title": "Melisa Uzunarslan: Works for Violin & Piano, Vol. 1 (Live)",
+      "artist": "Melisa Uzunarslan & Cem Babacan",
+      "url": "https://music.apple.com/jp/album/melisa-uzunarslan-works-for-violin-piano-vol-1-live/6784130689?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/43/68/4d43683c-58d5-0bda-d1b5-edd5b1c911b1/8721555619616.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Contemporary Era",
+        "Violin",
+        "Piano",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782028678",
+      "title": "Babayiğit - EP",
+      "artist": "Ali Beykant",
+      "url": "https://music.apple.com/jp/album/babayi%C4%9Fit-ep/6782028678?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/97/a1/7197a18c-e682-48a2-055d-8b8a6900441a/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music",
+        "Turkish Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784131141",
+      "title": "Sözsüz Şarkılar",
+      "artist": "Selin Nardemir Önertürk & Zoumroud Alieva Özdemir",
+      "url": "https://music.apple.com/jp/album/s%C3%B6zs%C3%BCz-%C5%9Fark%C4%B1lar/6784131141?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/88/dd/d688dd2e-8ab1-afe3-5115-d5ffd5f9216f/8721555549050.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781307736",
+      "title": "Sezen Aksu Tribute \"Disko\"",
+      "artist": "Ceylan Ertem",
+      "url": "https://music.apple.com/jp/album/sezen-aksu-tribute-disko/6781307736?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/c9/27/5bc927c3-6200-9a6e-0f88-054842fb9ac2/196874535868.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786662254",
+      "title": "What U Like - EP",
+      "artist": "Sarah de Warren",
+      "url": "https://music.apple.com/jp/album/what-u-like-ep/6786662254?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/ef/e4/35efe429-dfd1-6cf2-c2cf-4804d431ec2d/8718525404174.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6768394173",
+      "title": "Szał Wirtualnych Ciał",
+      "artist": "AVA RABIAT",
+      "url": "https://music.apple.com/jp/album/sza%C5%82-wirtualnych-cia%C5%82/6768394173?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/53/0e/0b530ecf-a202-b9da-fdad-c2cfb9087521/820233298797.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-10",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6767305281",
+      "title": "Full Moon Chamber",
+      "artist": "Prateek Kuhad",
+      "url": "https://music.apple.com/jp/album/full-moon-chamber/6767305281?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/52/17/ac521772-c951-8b9e-6500-01bb8ae5119c/075679577184.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Singer/Songwriter",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1896361917",
       "title": "DIFFERENT",
       "artist": "PSYCHIC FEVER from EXILE TRIBE",
@@ -4340,134 +4458,17 @@
       "tagline": null
     },
     {
-      "id": "6787478283",
-      "title": "The Message 7",
-      "artist": "MC Tyson",
-      "url": "https://music.apple.com/jp/album/the-message-7/6787478283?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/cc/86/b4cc86f3-8320-2132-a70d-7ef6a5f30fec/4550758281672_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-07",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783319248",
-      "title": "Rainy Day - EP",
-      "artist": "Nabewalks",
-      "url": "https://music.apple.com/jp/album/rainy-day-ep/6783319248?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/0d/99/d80d997d-4fa3-8310-80fa-dbe6cb8f5521/4550757955697_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-07",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6782776018",
-      "title": "InvisibleBrenyu - EP",
-      "artist": "MC Annyu",
-      "url": "https://music.apple.com/jp/album/%E3%81%84%E3%82%93%E3%81%B3%E3%81%98%E3%81%B6%E3%82%8B%E3%81%B6%E3%82%8C%E3%81%AB%E3%82%85-ep/6782776018?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/92/bd/cc92bdb4-9f74-5554-5648-ed4fc76190cf/4580883790275.jpg/632x632bb.jpg",
+      "id": "6783382383",
+      "title": "Dokuz/Sekiz - EP",
+      "artist": "Özkan Uğur",
+      "url": "https://music.apple.com/jp/album/dokuz-sekiz-ep/6783382383?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/e7/77/5ce777eb-50c1-b37e-264c-f34dabcf59f5/820233870511.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-07-07",
+      "releaseDate": "2026-07-08",
       "trackCount": 4,
       "kind": "album",
       "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780348079",
-      "title": "TVアニメ『鎧真伝サムライトルーパー』ORIGINAL SOUNDTRACK EP - EP",
-      "artist": "Syuji Katayama",
-      "url": "https://music.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E9%8E%A7%E7%9C%9F%E4%BC%9D%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%88%E3%83%AB%E3%83%BC%E3%83%91%E3%83%BC-original-soundtrack-ep-ep/6780348079?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/9e/9d/ec9e9d4e-a9d3-e3b0-4f57-d877f611f7a1/4540774749256.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-07",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780529470",
-      "title": "Holy Holy - EP",
-      "artist": "weekdays",
-      "url": "https://music.apple.com/jp/album/%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC-ep/6780529470?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/8f/f0/e78ff06d-b966-9337-d912-5bae94e98ae4/bigup14462026.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-07",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783119228",
-      "title": "TRAPPii 2",
-      "artist": "Conep",
-      "url": "https://music.apple.com/jp/album/trappii-2/6783119228?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/87/a0/6287a013-200b-c0e8-71ab-3fd7e083a7d2/199316613568_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-07",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music",
-        "Urbano latino"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6780929557",
-      "title": "DOOM: The Dark Ages | Revelations (Original Game Soundtrack)",
-      "artist": "Finishing Move Inc.",
-      "url": "https://music.apple.com/jp/album/doom-the-dark-ages-revelations-original-game-soundtrack/6780929557?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/e9/bd/18e9bda7-4a96-8293-9161-fa766573f0e6/5053760155249_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-07",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Video Game",
-        "Music",
-        "Soundtrack",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786823133",
-      "title": "New York - EP",
-      "artist": "The Vampire Lestat",
-      "url": "https://music.apple.com/jp/album/new-york-ep/6786823133?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/9a/dd/c49add28-a518-6808-22ef-6bcb0db3feba/780163694826.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-07",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Rock",
+        "Worldwide",
         "Music"
       ],
       "tagline": null
