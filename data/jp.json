@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T07:00:25.767Z",
+  "generatedAt": "2026-07-14T17:00:30.603Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -436,7 +436,7 @@
     },
     {
       "id": "1889325231",
-      "title": "Set Of All Sets",
+      "title": "Set of All Sets",
       "artist": "Parts & Labor",
       "url": "https://music.apple.com/jp/album/set-of-all-sets/1889325231?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/89/cb/7d89cbe1-e03a-febd-c6b0-b5109fe1045e/820200027955.jpg/632x632bb.jpg",
@@ -1736,7 +1736,7 @@
         "Latin",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Release"
     },
     {
       "id": "6787173542",
