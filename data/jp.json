@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T07:00:30.136Z",
+  "generatedAt": "2026-07-15T14:00:30.966Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3955,9 +3955,9 @@
     },
     {
       "id": "6786333838",
-      "title": "Le mal aimé - Day Dreamer (feat. Philippe Corti & Les Darons) - EP",
-      "artist": "Claude François",
-      "url": "https://music.apple.com/jp/album/le-mal-aim%C3%A9-day-dreamer-feat-philippe-corti-les-darons-ep/6786333838?l=en-US",
+      "title": "Le mal aimé - Day Dreamer - EP",
+      "artist": "Claude François, Philippe Corti & Les Darons",
+      "url": "https://music.apple.com/jp/album/le-mal-aim%C3%A9-day-dreamer-ep/6786333838?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/f9/de/dcf9def8-5823-0ebd-44f2-8f34110979ee/196874566718.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-10",
