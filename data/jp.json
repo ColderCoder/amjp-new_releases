@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:00:31.213Z",
+  "generatedAt": "2026-07-16T07:00:55.198Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3987,130 +3987,250 @@
       "tagline": null
     },
     {
-      "id": "1896361917",
-      "title": "DIFFERENT",
-      "artist": "PSYCHIC FEVER from EXILE TRIBE",
-      "url": "https://music.apple.com/jp/album/different/1896361917?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/1a/93/cb1a93f3-28bb-54e0-b516-8a404ad60ca7/827568014801.jpg/632x632bb.jpg",
+      "id": "6786918287",
+      "title": "Na Liga em Sampa (Ao Vivo)",
+      "artist": "Natanzinho Lima",
+      "url": "https://music.apple.com/jp/album/na-liga-em-sampa-ao-vivo/6786918287?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/95/45/7295457d-2a31-5c10-9f5b-edf1b8d82c03/8721555787247.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-07-09",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776896068",
-      "title": "From The Pyre (Deluxe)",
-      "artist": "The Last Dinner Party",
-      "url": "https://music.apple.com/jp/album/from-the-pyre-deluxe/6776896068?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/c3/1b/26c31b5e-c937-1f2b-de82-5f26aa0f38ad/26UMGIM71223.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-09",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Album and Interview"
-    },
-    {
-      "id": "6783275506",
-      "title": "Yatsuler 4 - EP",
-      "artist": "DCA",
-      "url": "https://music.apple.com/jp/album/yatsuler-4-ep/6783275506?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/dc/ea/8bdcea0b-8f00-1e91-79e6-1f00d6d4f4e0/4550757938485_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-09",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783263965",
-      "title": "Metal Quest - EP",
-      "artist": "HAGANE",
-      "url": "https://music.apple.com/jp/album/metal-quest-ep/6783263965?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/01/cb/4801cba6-c1a9-dd01-9955-cf40bd6685c6/PA00221172_0_248723_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-09",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6785954310",
-      "title": "Sanity Evaded",
-      "artist": "YFG FATSO",
-      "url": "https://music.apple.com/jp/album/sanity-evaded/6785954310?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/3a/e9/af3ae9a0-cca5-3567-292e-5800eea68950/808391389359.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-09",
+      "releaseDate": "2026-07-10",
       "trackCount": 18,
       "kind": "album",
       "genres": [
-        "Hip-Hop",
+        "Brazilian",
         "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6783389109",
-      "title": "Lil Yae (Deluxe)",
-      "artist": "Babystaydown",
-      "url": "https://music.apple.com/jp/album/lil-yae-deluxe/6783389109?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/c6/b6/57c6b6ff-4dc3-9038-dd2a-7173f4e54bf0/808391387782.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-09",
-      "trackCount": 21,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
+        "Forró"
       ],
       "tagline": null
     },
     {
-      "id": "6783389359",
-      "title": "FROSTY",
-      "artist": "Jasson Arellano",
-      "url": "https://music.apple.com/jp/album/frosty/6783389359?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/06/12/d206128a-9ae1-13d9-8f75-63c9599c9c83/823375256236_Cover.jpg/632x632bb.jpg",
+      "id": "6784449603",
+      "title": "Deixa Acontecer (Música Original de Nani Palmeira)",
+      "artist": "Nani Palmeira",
+      "url": "https://music.apple.com/jp/album/deixa-acontecer-m%C3%BAsica-original-de-nani-palmeira/6784449603?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/23/58/ba235800-7d2b-cb1e-ba73-0af349196d83/0.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-07-09",
-      "trackCount": 16,
+      "releaseDate": "2026-07-10",
+      "trackCount": 28,
       "kind": "album",
       "genres": [
-        "Música Mexicana",
+        "Soundtrack",
         "Music",
-        "Latin"
+        "Instrumental"
       ],
-      "tagline": "New Album"
+      "tagline": null
     },
     {
-      "id": "6787217382",
-      "title": "MILLION DOLLAR BABE",
-      "artist": "ANNA",
-      "url": "https://music.apple.com/jp/album/million-dollar-babe/6787217382?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/71/24/1e712472-21d6-1ff0-e3cf-3b723b7969e9/26UMGIM74291.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-09",
+      "id": "6786517265",
+      "title": "Vem pro Nosso Forrozão, Parte 03 (Ao Vivo)",
+      "artist": "Forrozão Tropykalia",
+      "url": "https://music.apple.com/jp/album/vem-pro-nosso-forroz%C3%A3o-parte-03-ao-vivo/6786517265?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/a9/e9/0aa9e94d-7e09-e207-1e83-4c35715afcb7/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Forró",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786519259",
+      "title": "Nostalgia Inconfundível, Parte 03 (Ao Vivo) - EP",
+      "artist": "Banda Líbanos",
+      "url": "https://music.apple.com/jp/album/nostalgia-inconfund%C3%ADvel-parte-03-ao-vivo-ep/6786519259?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/7b/db/f37bdbb5-332b-6303-2952-48834d935365/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Forró",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775545727",
+      "title": "Só uma Taça 2",
+      "artist": "Sâmya Maia & Batista Lima",
+      "url": "https://music.apple.com/jp/album/s%C3%B3-uma-ta%C3%A7a-2/6775545727?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/f1/b0/7df1b03f-b64e-b7f1-5140-315bf79994b1/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
       "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Forró",
+        "Music",
+        "Brazilian",
+        "Sertanejo"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786044636",
+      "title": "Essencial - Ao Vivo em Belo Horizonte",
+      "artist": "Thiago Brado",
+      "url": "https://music.apple.com/jp/album/essencial-ao-vivo-em-belo-horizonte/6786044636?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/d9/9a/61d99a36-fa94-9dda-f705-d091493f59b8/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Christian",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781438928",
+      "title": "OPA!",
+      "artist": "Melton Sello",
+      "url": "https://music.apple.com/jp/album/opa/6781438928?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/84/ed/eb84eda9-9aa1-aba4-922a-961bb2ae0d08/7898324331336.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782870957",
+      "title": "Terra Tremesse",
+      "artist": "Craca & Sandra-X",
+      "url": "https://music.apple.com/jp/album/terra-tremesse/6782870957?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/51/6a/33516a58-b16c-9fb4-5010-97d7d7fd2c2c/0631685083165.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "MPB",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6785311177",
+      "title": "Sábio Rastafari",
+      "artist": "Bat Macumba Samba Reggae",
+      "url": "https://music.apple.com/jp/album/s%C3%A1bio-rastafari/6785311177?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/3c/f1/cf3cf127-f0fd-d3aa-d82a-37809a5ca7ee/0631685083141.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Reggae",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782212891",
+      "title": "MANEIRINHO VIBES 2",
+      "artist": "MC Maneirinho",
+      "url": "https://music.apple.com/jp/album/maneirinho-vibes-2/6782212891?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/35/f2/6f35f254-f62f-e97c-3900-524daa064d2e/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-10",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Hip-Hop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786445689",
+      "title": "São João da Lapada de Forró",
+      "artist": "Gabriel Costa",
+      "url": "https://music.apple.com/jp/album/s%C3%A3o-jo%C3%A3o-da-lapada-de-forr%C3%B3/6786445689?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/ec/5e/46ec5eee-2312-6ea6-bdc9-98fb1ee0e37b/8721555750869.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Brazilian",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783377391",
+      "title": "Ontem, Hoje e Sempre! (50 Anos) EP. 1 [Ao Vivo] - EP",
+      "artist": "Divino & Donizete",
+      "url": "https://music.apple.com/jp/album/ontem-hoje-e-sempre-50-anos-ep-1-ao-vivo-ep/6783377391?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/6e/42/e76e4219-2b6d-7266-76c5-d98383f414b1/7908067144251.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Sertanejo",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778003432",
+      "title": "CENA - EP",
+      "artist": "Tulio Sergio",
+      "url": "https://music.apple.com/jp/album/cena-ep/6778003432?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/d8/cc/17d8cc0a-b9ce-0e3d-9ec9-3951d23557d6/8721555382886.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6777127383",
+      "title": "In Sacred Arms - EP",
+      "artist": "Mercy Vale",
+      "url": "https://music.apple.com/jp/album/in-sacred-arms-ep/6777127383?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/fa/0d/dcfa0d95-d377-1778-73ce-b21b2dc3f894/8721466616490.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-10",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6787034686",
+      "title": "BARETTA",
+      "artist": "VC Barre",
+      "url": "https://music.apple.com/jp/album/baretta/6787034686?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/83/50/6f835002-af27-690e-1977-f19dd5a344f2/26UMGIM86693.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-10",
+      "trackCount": 7,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
@@ -4119,38 +4239,21 @@
       "tagline": null
     },
     {
-      "id": "6784834597",
-      "title": "Noches En La Isla, Vol. 2 - EP",
-      "artist": "Kris Floyd",
-      "url": "https://music.apple.com/jp/album/noches-en-la-isla-vol-2-ep/6784834597?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/48/e5/2148e557-eb24-c027-1ddf-3443ae56631c/859741283193_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-09",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "1895263795",
-      "title": "New Life",
-      "artist": "Ellen Allien",
-      "url": "https://music.apple.com/jp/album/new-life/1895263795?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/69/94/b869944d-c880-b3d1-d019-2f96f1af440b/4260600224589.jpg/632x632bb.jpg",
+      "id": "6776677875",
+      "title": "From Stockholm to Paris - EP",
+      "artist": "Zoo Brazil",
+      "url": "https://music.apple.com/jp/album/from-stockholm-to-paris-ep/6776677875?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/29/66/472966c0-b591-9890-c966-8184d9c08a8d/cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-07-09",
-      "trackCount": 10,
+      "releaseDate": "2026-07-10",
+      "trackCount": 4,
       "kind": "album",
       "genres": [
-        "Techno",
+        "House",
         "Music",
         "Dance"
       ],
-      "tagline": "New Album"
+      "tagline": null
     },
     {
       "id": "6783890525",
@@ -4219,108 +4322,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6783718290",
-      "title": "Feel So Good Around U (Remixes) - EP",
-      "artist": "LB aka LABAT",
-      "url": "https://music.apple.com/jp/album/feel-so-good-around-u-remixes-ep/6783718290?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/64/d8/3a64d802-f48c-f470-ea42-d0e0b7aa1215/5056556183730_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-09",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1892497305",
-      "title": "Dark Yellow",
-      "artist": "Ella Zirina & Teis Semey",
-      "url": "https://music.apple.com/jp/album/dark-yellow/1892497305?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/94/db/e994dbe7-41ec-71e7-8e8f-0b1ced7ad422/820200969941.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-09",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1866691747",
-      "title": "SUN",
-      "artist": "JYN",
-      "url": "https://music.apple.com/jp/album/sun/1866691747?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/a5/db/53a5db80-e10e-f91f-592b-ef56590f8823/5059449376820.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-09",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Neo-Soul",
-        "Music",
-        "R&B/Soul"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1891490786",
-      "title": "kosmos",
-      "artist": "KALLITECHNIS & mango heist",
-      "url": "https://music.apple.com/jp/album/kosmos/1891490786?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/16/01/d21601e5-a531-f157-0753-e1229df04417/5059449271873.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-09",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance",
-        "Jazz"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6771980080",
-      "title": "DAGEGEN - EP",
-      "artist": "Ronny Platte",
-      "url": "https://music.apple.com/jp/album/dagegen-ep/6771980080?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/12/fd/ab12fd21-d27f-3ade-0f91-8cf279547001/4255671726018.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-09",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Alternative",
-        "Punk"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786211070",
-      "title": "DRIVE SAFE",
-      "artist": "Luciennn",
-      "url": "https://music.apple.com/jp/album/drive-safe/6786211070?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/3b/5d/8a3b5d5b-be85-a5bc-ac2f-0afe206b454f/196874465806.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-09",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
     },
     {
       "id": "6777231268",
