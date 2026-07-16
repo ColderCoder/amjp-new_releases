@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-16T21:00:55.667Z",
-  "source": "https://music.apple.com/jp/room/6789358324",
+  "generatedAt": "2026-07-16T22:00:56.621Z",
+  "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
   "roomId": "6789358324",
-  "roomDiscoverySource": "new-page-section",
-  "roomDiscoveryUrl": "https://music.apple.com/jp/new?l=en",
+  "roomDiscoverySource": "grouping-api",
+  "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
@@ -57,7 +57,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1892436329",
@@ -107,7 +107,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album and Interview"
     },
     {
       "id": "1889232715",
@@ -189,7 +189,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1895184628",
@@ -206,7 +206,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6786105209",
@@ -222,7 +222,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1896423803",
@@ -419,6 +419,23 @@
         "Alternative"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "1889613906",
+      "title": "EUROSPORT 2",
+      "artist": "Dardan & Azet",
+      "url": "https://music.apple.com/jp/album/eurosport-2/1889613906?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/a4/a9/11a4a9d6-9407-75b0-bc6e-cd90d6d7c090/820200844033.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
     },
     {
       "id": "1893799491",
@@ -3043,22 +3060,6 @@
         "J-Pop",
         "Music",
         "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781249489",
-      "title": "Hi, how are you?",
-      "artist": "Itto",
-      "url": "https://music.apple.com/jp/album/hi-how-are-you/6781249489?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/e9/c7/79e9c712-f887-38e6-1a56-7c01f0de8b12/4500000087781.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-17",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
