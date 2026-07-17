@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T10:00:23.791Z",
+  "generatedAt": "2026-07-17T16:00:24.918Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -395,7 +395,7 @@
       "title": "A Stranger To You",
       "artist": "Loathe",
       "url": "https://music.apple.com/jp/album/a-stranger-to-you/1895184628?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/65/e2/5065e2a4-9644-988f-902d-4517df17fedd/cover.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/72/76/6a72767b-3119-d895-e8dd-649b45ab25ba/cover.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-17",
       "trackCount": 14,
