@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T02:00:25.481Z",
+  "generatedAt": "2026-07-17T03:00:23.732Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -737,7 +737,7 @@
       "title": "Avatar: The Last Airbender - Book 3: Fire (Music from the Animated Series)",
       "artist": "Jeremy Zuckerman",
       "url": "https://music.apple.com/jp/album/avatar-the-last-airbender-book-3-fire-music-from/6784503684?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/58/84/3b58846e-1928-b7de-e90f-206da2c13d6f/26UMGIM53732.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/f7/dd/6cf7dd77-e4da-07f9-515a-da150c2e2761/26UMGIM53732.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-17",
       "trackCount": 38,
