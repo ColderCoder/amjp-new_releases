@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T16:00:24.918Z",
+  "generatedAt": "2026-07-17T20:00:23.695Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1171,9 +1171,9 @@
     {
       "id": "6790486517",
       "title": "PUSH 2 START (DJ Mix)",
-      "artist": "DJ Kendollaz",
+      "artist": "DJ KenDollaz",
       "url": "https://music.apple.com/jp/album/push-2-start-dj-mix/6790486517?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/f9/77/27f9773d-bda5-ca72-cc2a-d2badedf3d22/8b2b2d9b-485c-4581-82d0-4eb44d6a8a92.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/ac/80/a2ac8013-a069-a4bf-810b-1d282fd41b13/85c75ee9-2046-4a17-82bb-fc741e1d2cdd.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-07-17",
       "trackCount": 23,
