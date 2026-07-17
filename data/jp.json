@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T05:00:23.599Z",
+  "generatedAt": "2026-07-17T07:00:23.593Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -269,7 +269,8 @@
       "genres": [
         "Original Score",
         "Music",
-        "Soundtrack"
+        "Soundtrack",
+        "Classical"
       ],
       "tagline": "New Soundtrack"
     },
@@ -2874,6 +2875,74 @@
       "tagline": null
     },
     {
+      "id": "6782226249",
+      "title": "Caminos",
+      "artist": "Inti-Illimani",
+      "url": "https://music.apple.com/jp/album/caminos/6782226249?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/20/bb/7020bbdf-7945-5be1-dcae-888eff17751f/840705114189.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Worldwide",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6787816848",
+      "title": "DJ Miamor: welcome to the aprtment, vol. 4 (DJ Mix)",
+      "artist": "DJ Miamor",
+      "url": "https://music.apple.com/jp/album/dj-miamor-welcome-to-the-aprtment-vol-4-dj-mix/6787816848?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/51/24/6a512474-9335-f7b6-49a4-8f2caeea29b1/3f7f59c3-20d0-4813-97b1-1f5f5beaf021.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 53,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "R&B/Soul",
+        "Contemporary R&B"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784853465",
+      "title": "Desculonización, Vol. 1: Kontronatura (DJ Mix)",
+      "artist": "kontronatura",
+      "url": "https://music.apple.com/jp/album/desculonizaci%C3%B3n-vol-1-kontronatura-dj-mix/6784853465?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/a5/77/f2a57797-faad-d722-ac5b-bf8d0a10ac15/22b556fa-5449-41f2-bc52-d58bdaa4ac51.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 25,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788572952",
+      "title": "FUN TIME",
+      "artist": "Slump Dotty",
+      "url": "https://music.apple.com/jp/album/fun-time/6788572952?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/35/64/23356452-bd44-d94e-ec07-4cb11f0d5f6f/612891130232.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6787839081",
       "title": "\"What is Paledusk?? TOUR 2026 FINAL SERIES\" LIVE at Zepp DiverCity (TOKYO)",
       "artist": "Paledusk",
@@ -4351,38 +4420,6 @@
       "tagline": null
     },
     {
-      "id": "1891187411",
-      "title": "Alone Together",
-      "artist": "Show Me the Body",
-      "url": "https://music.apple.com/jp/album/alone-together/1891187411?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/e3/c8/03e3c82d-cb4b-7fd0-9dd7-88e719e2b404/26CRGIM53563.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-10",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "1891159897",
-      "title": "In the Hour of Chaos",
-      "artist": "Allison Russell",
-      "url": "https://music.apple.com/jp/album/in-the-hour-of-chaos/1891159897?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/46/87/074687e3-37ec-91e7-4979-36da494e1d7d/25CRGIM52707.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-10",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
       "id": "6783475841",
       "title": "Fitness: Yoga, July 2026 (DJ Mix)",
       "artist": "HAYLA",
@@ -4399,55 +4436,6 @@
         "Ambient"
       ],
       "tagline": "New Fitness DJ Mix"
-    },
-    {
-      "id": "6790379786",
-      "title": "A Little Loose",
-      "artist": "金跳造",
-      "url": "https://music.apple.com/jp/album/%E6%9D%BE%E4%B8%80%E9%BB%9E%E5%85%92/6790379786?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/ac/24/16ac24e7-70f9-54f3-4e50-b8ec4035355c/193017210477.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-10",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Chinese Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779297984",
-      "title": "Hyperreal",
-      "artist": "Chris Avantgarde",
-      "url": "https://music.apple.com/jp/album/hyperreal/6779297984?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/b1/d5/2eb1d598-e04a-09c9-12fc-41c02014e8e7/193436475815_HyperrealAlbumArt.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-10",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1883861055",
-      "title": "The Plot In You",
-      "artist": "The Plot In You",
-      "url": "https://music.apple.com/jp/album/the-plot-in-you/1883861055?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/0a/62/870a62fd-4b39-9db7-b9bd-426a81fadb33/26CRGIM54130.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-10",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6787286463",
@@ -4551,6 +4539,23 @@
         "Music",
         "Electronic",
         "Bass"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788363667",
+      "title": "INS LAND: Visual Effect at SYNERGY, May 2026 (DJ Mix)",
+      "artist": "Visual Effect",
+      "url": "https://music.apple.com/jp/album/ins-land-visual-effect-at-synergy-may-2026-dj-mix/6788363667?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/bd/1b/47bd1b34-68c4-29c0-0625-e58403a72bf4/e1f45851-2fcc-47f2-bece-b767e242d08d.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-10",
+      "trackCount": 61,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Jungle/Drum'n'bass"
       ],
       "tagline": null
     },
