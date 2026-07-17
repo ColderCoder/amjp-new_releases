@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:00:56.621Z",
+  "generatedAt": "2026-07-17T00:00:55.987Z",
   "source": "https://music.apple.com/jp/room/6789358324?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6789358324?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -320,7 +320,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1891450512",
@@ -352,7 +352,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1895141218",
@@ -451,7 +451,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6769798643",
@@ -532,7 +532,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1890302182",
@@ -2524,6 +2524,23 @@
       "tagline": null
     },
     {
+      "id": "6788181219",
+      "title": "Local Suicide: Iptamenos Discotek 001 (DJ Mix)",
+      "artist": "Local Suicide",
+      "url": "https://music.apple.com/jp/album/local-suicide-iptamenos-discotek-001-dj-mix/6788181219?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/6c/ea/2d6cea61-3c30-0ffc-31a6-d1705b6c22d9/ee783220-224b-44cd-9e45-dafc19c20022.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6785661445",
       "title": "Desculonización, Vol. 1: Mabe Fratti (DJ Mix)",
       "artist": "Mabe Fratti",
@@ -2589,6 +2606,24 @@
       "genres": [
         "Dance",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6790542633",
+      "title": "SuperNova Selections, Vol. 5 (DJ Mix)",
+      "artist": "SuperNova",
+      "url": "https://music.apple.com/jp/album/supernova-selections-vol-5-dj-mix/6790542633?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/ed/b4/caedb4ea-63f8-fae5-be9a-baf2eaa87bd6/d5d5c7fe-9e2a-4460-8ecd-e7393ba69178.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Hip-Hop/Rap",
+        "Hip-Hop"
       ],
       "tagline": null
     },
@@ -3110,7 +3145,7 @@
         "Latin",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6789299469",
@@ -3178,6 +3213,23 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6786387743",
+      "title": "Entre Besos - EP",
+      "artist": "Emmanuel Cortes",
+      "url": "https://music.apple.com/jp/album/entre-besos-ep/6786387743?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/c0/04/8dc00401-c45f-9b3a-ab07-9fc141b2144f/820233931144.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-16",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New EP"
     },
     {
       "id": "6786872160",
@@ -3736,54 +3788,6 @@
         "J-Pop",
         "Music",
         "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781990212",
-      "title": "One Step",
-      "artist": "The Right Light",
-      "url": "https://music.apple.com/jp/album/one-step/6781990212?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/c6/dd/acc6dd77-3b37-1477-93f0-1759d9f3beb2/4943566314920.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-15",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779050960",
-      "title": "Plumeria Rhapsody / Hi Ga Shizumu Mae Ni…(Tropical Ban) - EP",
-      "artist": "SANADA, Naoki",
-      "url": "https://music.apple.com/jp/album/%E3%83%97%E3%83%AB%E3%83%A1%E3%83%AA%E3%82%A2-%E3%83%A9%E3%83%97%E3%82%BD%E3%83%87%E3%82%A3-%E9%99%BD%E3%81%8C%E6%B2%88%E3%82%80%E5%89%8D%E3%81%AB-%E3%83%88%E3%83%AD%E3%83%94%E3%82%AB%E3%83%AB%E7%9B%A4-ep/6779050960?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/88/29/0d882974-955f-01bd-d251-c3d2ee2878c9/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-15",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Enka",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781644505",
-      "title": "汽水域 - EP",
-      "artist": "Tsujii Qunuee",
-      "url": "https://music.apple.com/jp/album/%E6%B1%BD%E6%B0%B4%E5%9F%9F-ep/6781644505?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/aa/d6/71aad60f-5c1c-e003-f0d5-ade3668e0c1c/820233629133.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-15",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
       ],
       "tagline": null
     },
