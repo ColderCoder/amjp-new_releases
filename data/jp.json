@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T03:00:23.732Z",
+  "generatedAt": "2026-07-17T04:00:23.778Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -55,6 +55,22 @@
       "kind": "album",
       "genres": [
         "Pop",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6770776328",
+      "title": "Beard",
+      "artist": "Syd",
+      "url": "https://music.apple.com/jp/album/beard/6770776328?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/97/bb/b097bb45-ea94-f330-af05-61892186ed44/093624819783.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
         "Music"
       ],
       "tagline": "New Album"
@@ -271,6 +287,23 @@
         "Metal",
         "Music",
         "Rock"
+      ],
+      "tagline": "New Album and Interview"
+    },
+    {
+      "id": "6783493081",
+      "title": "MÚSICA EN MI JETSKI",
+      "artist": "Oscar Maydon",
+      "url": "https://music.apple.com/jp/album/m%C3%BAsica-en-mi-jetski/6783493081?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/ac/0d/45ac0df0-5725-7ee6-812a-95e4acd34aac/196874531907.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
       ],
       "tagline": "New Album and Interview"
     },
@@ -2302,6 +2335,22 @@
       "tagline": null
     },
     {
+      "id": "6786045364",
+      "title": "Who Bigger",
+      "artist": "70807 Teezy",
+      "url": "https://music.apple.com/jp/album/who-bigger/6786045364?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/72/d3/ee72d32f-5190-87ef-ddd8-89fa7d14ab8f/26UMGIM74788.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1891130482",
       "title": "Sunny Day",
       "artist": "Sandollar",
@@ -2824,39 +2873,6 @@
         "Music",
         "R&B/Soul",
         "Contemporary R&B"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784853465",
-      "title": "Desculonización, Vol. 1: Kontronatura (DJ Mix)",
-      "artist": "kontronatura",
-      "url": "https://music.apple.com/jp/album/desculonizaci%C3%B3n-vol-1-kontronatura-dj-mix/6784853465?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/a5/77/f2a57797-faad-d722-ac5b-bf8d0a10ac15/22b556fa-5449-41f2-bc52-d58bdaa4ac51.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-17",
-      "trackCount": 25,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788572952",
-      "title": "FUN TIME",
-      "artist": "Slump Dotty",
-      "url": "https://music.apple.com/jp/album/fun-time/6788572952?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/35/64/23356452-bd44-d94e-ec07-4cb11f0d5f6f/612891130232.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-17",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
@@ -4538,23 +4554,6 @@
         "Music",
         "Electronic",
         "Bass"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788363667",
-      "title": "INS LAND: Visual Effect at SYNERGY, May 2026 (DJ Mix)",
-      "artist": "Visual Effect",
-      "url": "https://music.apple.com/jp/album/ins-land-visual-effect-at-synergy-may-2026-dj-mix/6788363667?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/bd/1b/47bd1b34-68c4-29c0-0625-e58403a72bf4/e1f45851-2fcc-47f2-bece-b767e242d08d.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-10",
-      "trackCount": 61,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Jungle/Drum'n'bass"
       ],
       "tagline": null
     },
