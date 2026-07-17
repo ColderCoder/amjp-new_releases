@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T07:00:23.593Z",
+  "generatedAt": "2026-07-17T10:00:23.791Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2164,6 +2164,23 @@
       "tagline": null
     },
     {
+      "id": "6786982633",
+      "title": "The East Palace (Soundtrack from the Netflix Series)",
+      "artist": "Various Artist",
+      "url": "https://music.apple.com/jp/album/the-east-palace-soundtrack-from-the-netflix-series/6786982633?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/05/a3/a005a3ea-8daa-daf5-6aa5-7766e54e37d5/8800388555466_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 47,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Soundtrack"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6790972472",
       "title": "Summer Road Trip (DJ Mix)",
       "artist": "DJ Bigga T",
@@ -2923,22 +2940,6 @@
         "Dance",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788572952",
-      "title": "FUN TIME",
-      "artist": "Slump Dotty",
-      "url": "https://music.apple.com/jp/album/fun-time/6788572952?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/35/64/23356452-bd44-d94e-ec07-4cb11f0d5f6f/612891130232.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-17",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
