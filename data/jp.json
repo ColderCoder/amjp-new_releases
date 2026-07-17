@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T04:00:23.778Z",
+  "generatedAt": "2026-07-17T05:00:23.599Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1436,7 +1436,7 @@
       "title": "Riddim 91",
       "artist": "Kemar McGregor",
       "url": "https://music.apple.com/jp/album/riddim-91/6780086614?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/60/a2/9c/60a29c0f-edf7-1a36-6431-d907800d8139/483.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/98/e2/ee98e28d-867e-1ba4-5992-ff9f570f75f5/487.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-07-17",
       "trackCount": 25,
@@ -1976,6 +1976,22 @@
         "Music",
         "Dance",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783488187",
+      "title": "I GO BY GOOOO",
+      "artist": "Lilbuckss",
+      "url": "https://music.apple.com/jp/album/i-go-by-goooo/6783488187?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/bd/a2/6fbda2b0-399d-ec74-4eb7-432e54f9a492/075679569974.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
       ],
       "tagline": null
     },
@@ -2825,6 +2841,22 @@
       "tagline": null
     },
     {
+      "id": "6786494742",
+      "title": "Bigger Than Big",
+      "artist": "Big Celly",
+      "url": "https://music.apple.com/jp/album/bigger-than-big/6786494742?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/89/38/5b8938c3-8a52-c032-218a-1f3f973f146b/075679579942.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6784804533",
       "title": "Dance New World: Monastetiq (DJ Mix)",
       "artist": "Monastetiq",
@@ -2838,41 +2870,6 @@
         "House",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6782226249",
-      "title": "Caminos",
-      "artist": "Inti-Illimani",
-      "url": "https://music.apple.com/jp/album/caminos/6782226249?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/20/bb/7020bbdf-7945-5be1-dcae-888eff17751f/840705114189.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-17",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Worldwide",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6787816848",
-      "title": "DJ Miamor: welcome to the aprtment, vol. 4 (DJ Mix)",
-      "artist": "DJ Miamor",
-      "url": "https://music.apple.com/jp/album/dj-miamor-welcome-to-the-aprtment-vol-4-dj-mix/6787816848?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/51/24/6a512474-9335-f7b6-49a4-8f2caeea29b1/3f7f59c3-20d0-4813-97b1-1f5f5beaf021.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-17",
-      "trackCount": 53,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "R&B/Soul",
-        "Contemporary R&B"
       ],
       "tagline": null
     },
