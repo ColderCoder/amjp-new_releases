@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T20:00:23.695Z",
+  "generatedAt": "2026-07-18T07:00:24.929Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2944,6 +2944,55 @@
       "tagline": null
     },
     {
+      "id": "6788572952",
+      "title": "FUN TIME",
+      "artist": "Slump Dotty",
+      "url": "https://music.apple.com/jp/album/fun-time/6788572952?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/35/64/23356452-bd44-d94e-ec07-4cb11f0d5f6f/612891130232.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6787228323",
+      "title": "Desculonización, Vol. 1: Negraconda (DJ Mix)",
+      "artist": "Negraconda",
+      "url": "https://music.apple.com/jp/album/desculonizaci%C3%B3n-vol-1-negraconda-dj-mix/6787228323?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/00/66/aa006666-f5b6-fc0f-26a8-f2c6af22aefa/c94870ac-de31-4bac-8d55-be5490824fc4.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1884980968",
+      "title": "As It Is",
+      "artist": "As It Is",
+      "url": "https://music.apple.com/jp/album/as-it-is/1884980968?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/88/0b/de880b8e-cbe6-31d0-dff0-70835a752436/199806669013.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6787839081",
       "title": "\"What is Paledusk?? TOUR 2026 FINAL SERIES\" LIVE at Zepp DiverCity (TOKYO)",
       "artist": "Paledusk",
@@ -4368,55 +4417,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784083385",
-      "title": "Playing Death Games to Put Food on the Table (Original Soundtrack)",
-      "artist": "Junichi Matsumoto",
-      "url": "https://music.apple.com/jp/album/playing-death-games-to-put-food-on-the-table-original/6784083385?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/85/b8/5385b8b5-d904-9c4b-7219-babc303d3f7f/COCX-42658.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-11",
-      "trackCount": 41,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786137263",
-      "title": "Last Album",
-      "artist": "Young zetton",
-      "url": "https://music.apple.com/jp/album/last-album/6786137263?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/e4/cd/d1e4cd3c-d1f9-b3b6-ec31-7e6890236b14/4550758150084_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-11",
-      "trackCount": 24,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789022532",
-      "title": "Legacy Chapter 1, Vol. 1 - EP",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/legacy-chapter-1-vol-1-ep/6789022532?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/3b/34/9d3b3420-fcf5-7fb1-74cf-dcb0a640cc0c/885288004519.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-11",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
