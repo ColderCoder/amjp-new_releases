@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:00:24.929Z",
+  "generatedAt": "2026-07-19T07:01:04.810Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2993,6 +2993,71 @@
       "tagline": null
     },
     {
+      "id": "6777070491",
+      "title": "Give Love A Try",
+      "artist": "Jimmy Riley",
+      "url": "https://music.apple.com/jp/album/give-love-a-try/6777070491?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/75/07/7775077f-9551-72ef-1c02-4de63e9dafe4/054645714464.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Reggae",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783447926",
+      "title": "Iguana Aura - EP",
+      "artist": "Peder Mannerfelt",
+      "url": "https://music.apple.com/jp/album/iguana-aura-ep/6783447926?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/d9/ac/d7d9aca6-d753-bc78-003e-e8b4a5f2a4ba/3663729449719_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782959452",
+      "title": "The Hood Dentist",
+      "artist": "Spark Dawg",
+      "url": "https://music.apple.com/jp/album/the-hood-dentist/6782959452?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/f9/f7/f5f9f7a5-2151-5466-4a7b-59833674776c/810084927397_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1893673613",
+      "title": "Ukrainian Mixtape",
+      "artist": "Dalia Stasevska & BBC Symphony Orchestra",
+      "url": "https://music.apple.com/jp/album/ukrainian-mixtape/1893673613?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/9c/f6/719cf6a4-daa6-9bab-c5b9-c8be24e68e81/5059449305738.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Orchestral"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6787839081",
       "title": "\"What is Paledusk?? TOUR 2026 FINAL SERIES\" LIVE at Zepp DiverCity (TOKYO)",
       "artist": "Paledusk",
@@ -4351,72 +4416,6 @@
         "K-Pop",
         "Music",
         "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6785717087",
-      "title": "DANGERyS",
-      "artist": "IRyS",
-      "url": "https://music.apple.com/jp/album/dangerys/6785717087?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f2/9f/e0f29fa3-9ae3-a082-7d4f-bc163f0f83a3/4580883399485_art.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-12",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781379418",
-      "title": "My Reckless Abandon",
-      "artist": "Bella Kay",
-      "url": "https://music.apple.com/jp/album/my-reckless-abandon/6781379418?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/eb/23/eceb2396-35c1-679b-e302-2d0b7b274606/075679570116.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-12",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Indie Pop"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6789024552",
-      "title": "Legacy Chapter 1, Vol. 2",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/legacy-chapter-1-vol-2/6789024552?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/c9/98/e7c998d6-3c1f-ca46-1a1e-ec546a6e45cf/820233998291.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-12",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788414470",
-      "title": "God’s Favorite",
-      "artist": "Jordan Sandhu",
-      "url": "https://music.apple.com/jp/album/gods-favorite/6788414470?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/bb/3a/f6bb3a69-218f-4d3c-c099-5030ec68384d/1200214506148.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-12",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
