@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T07:01:04.810Z",
+  "generatedAt": "2026-07-20T07:00:04.727Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3058,6 +3058,23 @@
       "tagline": "New Album"
     },
     {
+      "id": "1891778458",
+      "title": "Kairos",
+      "artist": "O'Flynn",
+      "url": "https://music.apple.com/jp/album/kairos/1891778458?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/91/aa/8991aacd-3a51-b5e3-3be3-c164f116b41f/5055199581552.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6787839081",
       "title": "\"What is Paledusk?? TOUR 2026 FINAL SERIES\" LIVE at Zepp DiverCity (TOKYO)",
       "artist": "Paledusk",
@@ -4399,23 +4416,6 @@
         "Worldwide",
         "Music",
         "New Age"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784586121",
-      "title": "<itsnotover>",
-      "artist": "idntt",
-      "url": "https://music.apple.com/jp/album/itsnotover/6784586121?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/b5/ba/0bb5ba21-0793-7352-f2c0-4d1700d7514b/8804775403682.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-13",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
       ],
       "tagline": null
     },
