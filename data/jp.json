@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T19:00:03.833Z",
+  "generatedAt": "2026-07-21T07:00:04.411Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3075,6 +3075,106 @@
       "tagline": "New Album"
     },
     {
+      "id": "6788433464",
+      "title": "JCM 2026, Vol. 10 (DJ Mix)",
+      "artist": "Leslie JayCee",
+      "url": "https://music.apple.com/jp/album/jcm-2026-vol-10-dj-mix/6788433464?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/da/dc/e2dadcdc-8e29-0c8f-2d44-15896d0f172a/aaa9bd15-0278-4994-ae4e-50001a6546e6.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 26,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773736543",
+      "title": "Rock Me Rock Me",
+      "artist": "Johnny Osbourne",
+      "url": "https://music.apple.com/jp/album/rock-me-rock-me/6773736543?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/39/a4/6a39a42b-a449-babd-8a7a-4e83d34454b8/054645283366.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Reggae",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788455219",
+      "title": "R&B ONLY, Office Hours: DJ DVS (DJ Mix)",
+      "artist": "DJ DVS",
+      "url": "https://music.apple.com/jp/album/r-b-only-office-hours-dj-dvs-dj-mix/6788455219?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/30/48/a4304835-ecab-62d3-5e06-d0d81db849d4/e8240958-f445-4aff-b742-6f6c720080d3.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 28,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music",
+        "Contemporary R&B"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6785942635",
+      "title": "Sommernachtskonzert 2026/Summer Night Concert 2026",
+      "artist": "Vienna Philharmonic & Lorenzo Viotti",
+      "url": "https://music.apple.com/jp/album/sommernachtskonzert-2026-summer-night-concert-2026/6785942635?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/a3/7b/51a37ba9-b77f-546b-ad05-08f55d8685f4/196874364437.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Orchestral"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "1886213251",
+      "title": "Initium Mortis",
+      "artist": "Left to Die",
+      "url": "https://music.apple.com/jp/album/initium-mortis/1886213251?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/3d/b0/cf3db02d-bb0c-cc75-ff5c-a6eb29eb84b8/781676552917.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6779925354",
+      "title": "Cortejos - EP",
+      "artist": "Mau K",
+      "url": "https://music.apple.com/jp/album/cortejos-ep/6779925354?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/f2/bf/49f2bf89-37f4-7648-49ae-2ed2a66a3357/0631685081253.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6787839081",
       "title": "\"What is Paledusk?? TOUR 2026 FINAL SERIES\" LIVE at Zepp DiverCity (TOKYO)",
       "artist": "Paledusk",
@@ -3273,6 +3373,22 @@
         "Dance"
       ],
       "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6783996557",
+      "title": "The Hawk (Soundtrack from the Netflix Series)",
+      "artist": "The Octopus Project",
+      "url": "https://music.apple.com/jp/album/the-hawk-soundtrack-from-the-netflix-series/6783996557?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/28/3c/95283cb3-3016-8b9a-cb38-41d9cfdcae76/810123169368.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-16",
+      "trackCount": 32,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6786634522",
@@ -4222,83 +4338,20 @@
       "tagline": null
     },
     {
-      "id": "1895849541",
-      "title": "Heavenly Body: If I'm The Bottle You’re The Message",
-      "artist": "Eartheater",
-      "url": "https://music.apple.com/jp/album/heavenly-body-if-im-the-bottle-youre-the-message/1895849541?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/95/9b/1b959b4d-6a96-ef4d-7f69-76f181be9262/4514.jpg/632x632bb.jpg",
+      "id": "6785708933",
+      "title": "LAGOS TO THE WORLD (DJ Mix)",
+      "artist": "Dj Emmbassey",
+      "url": "https://music.apple.com/jp/album/lagos-to-the-world-dj-mix/6785708933?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/07/31/2c07315b-00f3-52a9-7332-7bffe41cb291/38f62bda-dfee-4e27-8ea4-c84a9050a752.png/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-07-14",
-      "trackCount": 11,
+      "releaseDate": "2026-07-15",
+      "trackCount": 36,
       "kind": "album",
       "genres": [
-        "Alternative",
+        "Afrobeats",
         "Music",
-        "Electronic"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6789557106",
-      "title": "Live at Apple Music Radio",
-      "artist": "Saint Harison",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6789557106?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/05/67/980567aa-1ead-bcb1-d342-cdaf1836207b/5059449391748.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-14",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
-      "id": "6783313155",
-      "title": "Secret Love (Deluxe Edition)",
-      "artist": "Dry Cleaning",
-      "url": "https://music.apple.com/jp/album/secret-love-deluxe-edition/6783313155?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/da/6a/efda6aac-62d2-6bef-fbeb-3179f8d916cb/191400096172.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-14",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Deluxe Album"
-    },
-    {
-      "id": "6789364352",
-      "title": "White Wedding (Live from Apple Music Studios) - Single",
-      "artist": "Billy Idol",
-      "url": "https://music.apple.com/jp/album/white-wedding-live-from-apple-music-studios-single/6789364352?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/6c/ae/106cae7b-ae3c-137e-28bb-faaf914e6766/26UMGIM41848.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-14",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789687071",
-      "title": "There and Back Again",
-      "artist": "Daughtry",
-      "url": "https://music.apple.com/jp/album/there-and-back-again/6789687071?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/b6/41/8fb641bc-8df6-2ba3-d3a6-3ce24c86e9f1/1200214531959.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-14",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
+        "African",
+        "Amapiano"
       ],
       "tagline": null
     },
@@ -4320,40 +4373,6 @@
       "tagline": null
     },
     {
-      "id": "6786379180",
-      "title": "HER MUSIC",
-      "artist": "Doddie Savage",
-      "url": "https://music.apple.com/jp/album/her-music/6786379180?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/5f/b8/715fb83f-affc-cca2-a984-afc8816d776f/808391389595.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-14",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788683438",
-      "title": "Chaos Theatre",
-      "artist": "Damon Wild",
-      "url": "https://music.apple.com/jp/album/chaos-theatre/6788683438?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/f3/c0/5bf3c0aa-12ed-9873-acf1-a7d755acd483/8718723318082.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-14",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6766671300",
       "title": "MoodToMove: U SEE THE STEAM (DJ Mix)",
       "artist": "U SEE THE STEAM",
@@ -4367,55 +4386,6 @@
         "Dance",
         "Music",
         "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786472817",
-      "title": "ksuuvi buckets xtended",
-      "artist": "ksuuvi",
-      "url": "https://music.apple.com/jp/album/ksuuvi-buckets-xtended/6786472817?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/54/d0/dd54d01c-d36d-2798-7fb6-dc3e8ed8f628/075679568137.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-14",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789253097",
-      "title": "LIVIN LIKE TEN (DELUXE)",
-      "artist": "10k Yungin",
-      "url": "https://music.apple.com/jp/album/livin-like-ten-deluxe/6789253097?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/32/f3/5c32f3d0-601e-7a88-4edf-57141ef11f24/075679566348.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-14",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895080463",
-      "title": "A Room Made of Quiet: Koto Melodies",
-      "artist": "Yumi Kurosawa",
-      "url": "https://music.apple.com/jp/album/a-room-made-of-quiet-koto-melodies/1895080463?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/94/e1/4f94e161-5d57-1597-2331-6fdaac39407a/32456.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-14",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Worldwide",
-        "Music",
-        "New Age"
       ],
       "tagline": null
     },
@@ -4885,6 +4855,23 @@
       "tagline": "New DJ Mix"
     },
     {
+      "id": "1883193563",
+      "title": "Homobloc: Sally C b2b I. JORDAN in Manchester, Dec 6, 2025 (DJ Mix)",
+      "artist": "I. JORDAN & Sally C",
+      "url": "https://music.apple.com/jp/album/homobloc-sally-c-b2b-i-jordan-in-manchester-dec-6-2025-dj-mix/1883193563?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d5/9a/b5/d59ab5fc-6c0f-e91d-a831-8371ca4470aa/d6c4bb16-ba4e-480c-a1f8-7ea92e4266fd.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2025-12-06",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
       "id": "6785980651",
       "title": "AYYBO at EDC Orlando 2025: Stereo Bloom Stage (DJ Mix)",
       "artist": "AYYBO",
@@ -4898,6 +4885,24 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6777175589",
+      "title": "Flygerian at Obi's House NYC, Sep 1, 2025 (DJ Mix)",
+      "artist": "Flygerian",
+      "url": "https://music.apple.com/jp/album/flygerian-at-obis-house-nyc-sep-1-2025-dj-mix/6777175589?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/00/bc/3300bceb-cf44-b2f8-6429-3d26ab4410ec/c7efb29d-8e45-4cbb-b74c-f99a419ebd58.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-09-01",
+      "trackCount": 44,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African",
+        "Amapiano"
       ],
       "tagline": null
     },
