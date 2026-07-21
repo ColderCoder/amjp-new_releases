@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T16:00:44.947Z",
+  "generatedAt": "2026-07-21T19:00:42.723Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4704,14 +4704,14 @@
       "tagline": null
     },
     {
-      "id": "6789644653",
-      "title": "Franky Rizardo at re:frame in Los Angeles, Feb 20, 2026 (DJ Mix)",
-      "artist": "Franky Rizardo",
-      "url": "https://music.apple.com/jp/album/franky-rizardo-at-re-frame-in-los-angeles-feb-20-2026-dj-mix/6789644653?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/c0/53/d7c05391-36f5-1e1f-abd6-5f4532ebea64/f888ac44-9d87-4073-914c-864a066aa264.jpg/632x632bb.jpg",
+      "id": "6788492538",
+      "title": "Shermanology at CRSSD Festival Spring '26: The Palms (DJ Mix)",
+      "artist": "Shermanology",
+      "url": "https://music.apple.com/jp/album/shermanology-at-crssd-festival-spring-26-the-palms-dj-mix/6788492538?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/06/e5/bb06e57d-77de-6c04-0e77-44d28e48366c/a3be0f65-02b5-4004-a7fa-23b3fae0c4ee.png/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-02-20",
-      "trackCount": 59,
+      "releaseDate": "2026-03-14",
+      "trackCount": 28,
       "kind": "album",
       "genres": [
         "Dance",
