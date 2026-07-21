@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T07:00:04.411Z",
+  "generatedAt": "2026-07-21T16:00:44.947Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -22,7 +22,8 @@
       "kind": "album",
       "genres": [
         "Latin",
-        "Music"
+        "Music",
+        "Música Mexicana"
       ],
       "tagline": "New Album and Interview"
     },
