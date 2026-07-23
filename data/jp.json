@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T17:00:44.148Z",
+  "generatedAt": "2026-07-23T18:00:43.330Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -675,7 +675,7 @@
       "artist": "girlsweetvoiced",
       "url": "https://music.apple.com/jp/album/lovesweet/6780614439?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/14/2f/dc142f33-a59d-e51a-a319-b0a02e480aeb/196874510469.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-07-24",
       "trackCount": 12,
       "kind": "album",
@@ -1422,7 +1422,7 @@
         "African",
         "R&B/Soul"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6773198564",
@@ -4685,7 +4685,7 @@
       "title": "SYBER: 017, DASBOYY! b2b TKYO (DJ Mix)",
       "artist": "DASBOYY! & TKYO",
       "url": "https://music.apple.com/jp/album/syber-017-dasboyy-b2b-tkyo-dj-mix/6788530854?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/a3/1a/89a31aca-4c41-44c6-63f5-0cc18638939f/4622ac5f-663e-46ec-a9ed-dc06ae89a935.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/db/01/63db01ba-2e52-b718-a2d8-26b925763329/3a231020-d3dd-4385-822f-afd384ae7d75.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-05-30",
       "trackCount": 37,
