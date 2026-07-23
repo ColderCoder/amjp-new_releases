@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T07:00:43.460Z",
+  "generatedAt": "2026-07-23T07:00:43.103Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3988,53 +3988,252 @@
       "tagline": "New Album"
     },
     {
-      "id": "6787839081",
-      "title": "\"What is Paledusk?? TOUR 2026 FINAL SERIES\" LIVE at Zepp DiverCity (TOKYO)",
-      "artist": "Paledusk",
-      "url": "https://music.apple.com/jp/album/what-is-paledusk-tour-2026-final-series-live-at-zepp/6787839081?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/92/80/4e92801e-d511-08ff-5e3d-f7985b77463d/ANTCD-A0000020500.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-16",
-      "trackCount": 13,
+      "id": "6786293095",
+      "title": "doof for life 2",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/doof-for-life-2/6786293095?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/8c/16/ca8c16bd-d207-89f2-e135-4f41e6c178a8/1200214466701.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 8,
       "kind": "album",
       "genres": [
-        "Rock",
+        "Dance",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6789176751",
-      "title": "SE LLEGÓ EL VERANO - EP",
-      "artist": "Hermanos Espinoza",
-      "url": "https://music.apple.com/jp/album/se-lleg%C3%B3-el-verano-ep/6789176751?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/c2/44/d1c244c4-8429-9c40-ab6f-05932def1dc5/823375299882_Cover.jpg/632x632bb.jpg",
+      "id": "6788133438",
+      "title": "AXEPT Radio with Yulia Niko 006 (DJ Mix)",
+      "artist": "Yulia Niko",
+      "url": "https://music.apple.com/jp/album/axept-radio-with-yulia-niko-006-dj-mix/6788133438?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/d0/71/f5d07139-33f5-dbe9-de84-c0dbb7167a30/67bd723b-ca2d-4315-9582-d23ecba0b9aa.png/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-07-16",
-      "trackCount": 6,
+      "releaseDate": "2026-07-17",
+      "trackCount": 15,
       "kind": "album",
       "genres": [
-        "Música Mexicana",
+        "House",
         "Music",
-        "Latin"
+        "Dance"
       ],
-      "tagline": "New EP"
+      "tagline": "New DJ Mix"
     },
     {
-      "id": "6774113482",
-      "title": "Acid and Honey",
-      "artist": "Babe Rainbow",
-      "url": "https://music.apple.com/jp/album/acid-and-honey/6774113482?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/c7/c2/dcc7c2fd-1f14-6e07-d44c-d518be12fece/820233502740.jpg/632x632bb.jpg",
+      "id": "6789414774",
+      "title": "Daydream (30th Anniversary Edition)",
+      "artist": "Mariah Carey",
+      "url": "https://music.apple.com/jp/album/daydream-30th-anniversary-edition/6789414774?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/b2/1d/deb21d0e-8b3e-7315-c75d-ac6a38360245/196874502235.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-07-16",
-      "trackCount": 11,
+      "releaseDate": "2026-07-17",
+      "trackCount": 33,
       "kind": "album",
       "genres": [
-        "Alternative",
+        "Pop",
+        "Music",
+        "R&B/Soul"
+      ],
+      "tagline": "New Deluxe Edition"
+    },
+    {
+      "id": "6776024311",
+      "title": "Fazer Festa - EP",
+      "artist": "João Selva, Diogo Strausz & Patchworks",
+      "url": "https://music.apple.com/jp/album/fazer-festa-ep/6776024311?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/ee/bf/d3eebf94-ac8b-296d-7a56-51e021438065/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Disco",
+        "Music",
+        "R&B/Soul"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786390802",
+      "title": "GHETTO HEAVEN (Deluxe Edition)",
+      "artist": "LI$ON",
+      "url": "https://music.apple.com/jp/album/ghetto-heaven-deluxe-edition/6786390802?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/e7/4f/8ae74f6c-d42a-2960-08ff-069ce9f0bd4d/26SYMIM32641.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": "New Album"
+      "tagline": null
+    },
+    {
+      "id": "6781694183",
+      "title": "Lov Story - Winter In Florida",
+      "artist": "Lovarran",
+      "url": "https://music.apple.com/jp/album/lov-story-winter-in-florida/6781694183?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/8a/6b/ad8a6b88-6462-b773-e4f5-2b0bbc1d9812/26SYMIM32107.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786353794",
+      "title": "Sentiments",
+      "artist": "Iliana",
+      "url": "https://music.apple.com/jp/album/sentiments/6786353794?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/ed/88/f5ed883c-1fcc-1b59-8432-d5dd09665fbb/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788818468",
+      "title": "TATASANDO 2",
+      "artist": "Keeqaid",
+      "url": "https://music.apple.com/jp/album/tatasando-2/6788818468?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/fe/b1/d4feb15b-5f70-b40d-dbf6-016fd5f74d10/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779249855",
+      "title": "Silver Lining (Remixes) - EP",
+      "artist": "Adi Oasis",
+      "url": "https://music.apple.com/jp/album/silver-lining-remixes-ep/6779249855?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/00/2d/32002d43-6945-1a3a-60e1-6b0f052f094e/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788316675",
+      "title": "I Cared For You (Remixes) - EP",
+      "artist": "NTO, Mont Rouge & Noah Kulaga",
+      "url": "https://music.apple.com/jp/album/i-cared-for-you-remixes-ep/6788316675?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/1b/51/c01b5172-02a2-9d5d-80f8-1b02d26e2885/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783467497",
+      "title": "TROPICAL MOOD",
+      "artist": "Shannon",
+      "url": "https://music.apple.com/jp/album/tropical-mood/6783467497?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/3a/7f/3a3a7fa1-c53f-4ed5-361e-1535f3d796d0/5056556183440_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Modern Dancehall",
+        "Music",
+        "Reggae"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788006593",
+      "title": "introduction à Timing",
+      "artist": "Ricky Bishop",
+      "url": "https://music.apple.com/jp/album/introduction-%C3%A0-timing/6788006593?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/ef/3e/8def3e84-0dbd-5e54-a002-342c646ebc87/196874580035.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Afro-Beat",
+        "Music",
+        "African"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784653051",
+      "title": "009",
+      "artist": "FP9",
+      "url": "https://music.apple.com/jp/album/009/6784653051?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/40/a4/7d40a4f5-ac70-97f3-dee3-778675e38e3d/196874560471.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782862750",
+      "title": "Iconic Hip-Hop (feat. James BKS)",
+      "artist": "Kaptain",
+      "url": "https://music.apple.com/jp/album/iconic-hip-hop-feat-james-bks/6782862750?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/51/6c/09516c15-0eb2-0370-7a1e-e4a4caef4a40/3663729455482_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786240425",
+      "title": "Retro Arcade, Vol. 2 - EP",
+      "artist": "Arom",
+      "url": "https://music.apple.com/jp/album/retro-arcade-vol-2-ep/6786240425?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/96/71/b996717f-708c-6041-6cbe-fcb9798fe556/3663729458933_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-17",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
     },
     {
       "id": "6789283482",
@@ -4054,39 +4253,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6786373406",
-      "title": "NÓMADA",
-      "artist": "Jasiel Nuñez",
-      "url": "https://music.apple.com/jp/album/n%C3%B3mada/6786373406?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/37/4d/ca374de1-29c5-2841-0dcf-f80df149293c/820233456319.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-16",
-      "trackCount": 21,
-      "kind": "album",
-      "genres": [
-        "Pop in Spanish",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6785563536",
-      "title": "FROM MIAMI, WITH LUV",
-      "artist": "Gonzy",
-      "url": "https://music.apple.com/jp/album/from-miami-with-luv/6785563536?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/9b/22/f19b22a5-b754-8447-5edf-888bed465d17/823375265573_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-16",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
       "id": "6789299469",
       "title": "Beats In Space 215: HoneyLuv (DJ Mix)",
       "artist": "HoneyLuv",
@@ -4104,73 +4270,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6788429161",
-      "title": "OUTSIDE THE BOX - EP",
-      "artist": "DEETOCX",
-      "url": "https://music.apple.com/jp/album/outside-the-box-ep/6788429161?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/58/1e/12581ee7-8126-de72-00e0-80cb7fe35518/820233967075.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-16",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780106247",
-      "title": "Thug's Motivation",
-      "artist": "Albee Al",
-      "url": "https://music.apple.com/jp/album/thugs-motivation/6780106247?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/87/68/20876889-8ff0-ece3-8dc4-a940e86128fd/820233618878.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-16",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781057566",
-      "title": "Danseur Part One - EP",
-      "artist": "Hercules & Love Affair & Hips & Lips",
-      "url": "https://music.apple.com/jp/album/danseur-part-one-ep/6781057566?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/b6/8b/74b68b7e-668c-defc-7153-7a4d4c8b4918/820233813181.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-16",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786387743",
-      "title": "Entre Besos - EP",
-      "artist": "Emmanuel Cortes",
-      "url": "https://music.apple.com/jp/album/entre-besos-ep/6786387743?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/c0/04/8dc00401-c45f-9b3a-ab07-9fc141b2144f/820233931144.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-16",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New EP"
-    },
-    {
       "id": "6786872160",
       "title": "Freerange Records, In The Mix 044: Jimpster (30 Years) [DJ Mix]",
       "artist": "Jimpster",
@@ -4186,108 +4285,6 @@
         "Dance"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6783996557",
-      "title": "The Hawk (Soundtrack from the Netflix Series)",
-      "artist": "The Octopus Project",
-      "url": "https://music.apple.com/jp/album/the-hawk-soundtrack-from-the-netflix-series/6783996557?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/28/3c/95283cb3-3016-8b9a-cb38-41d9cfdcae76/810123169368.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-16",
-      "trackCount": 32,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788026180",
-      "title": "SEASON 1",
-      "artist": "Los Hitmen",
-      "url": "https://music.apple.com/jp/album/season-1/6788026180?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/83/c8/5f83c849-b6d3-611c-b856-b39057f22e98/820233879118.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-16",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6778262670",
-      "title": "In Spite Of Never Ending - EP",
-      "artist": "Gloam",
-      "url": "https://music.apple.com/jp/album/in-spite-of-never-ending-ep/6778262670?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/0b/43/cf0b4353-e124-0dda-d3b6-6a62c5cbe316/1200214293956.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-16",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1882044083",
-      "title": "Casual Audio - EP",
-      "artist": "Daphné & Mama Aiuto",
-      "url": "https://music.apple.com/jp/album/casual-audio-ep/1882044083?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/9c/d4/049cd442-9a9c-4bd4-1207-1b07235059c1/5059449246925.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-16",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788639404",
-      "title": "Lost On The Way To Paradise",
-      "artist": "Oliver Cronin",
-      "url": "https://music.apple.com/jp/album/lost-on-the-way-to-paradise/6788639404?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/d5/0e/85d50e42-8b30-cc16-9a97-a249e3dc8ccf/1200214508470.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-16",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music",
-        "R&B/Soul"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "1877840413",
-      "title": "The Stillness of Vienna - EP",
-      "artist": "Alvair",
-      "url": "https://music.apple.com/jp/album/the-stillness-of-vienna-ep/1877840413?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/79/7e/dc797ed8-0031-db11-4994-d848f363a769/5059449234984.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-16",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Classical Crossover",
-        "Music",
-        "Classical",
-        "Piano"
-      ],
-      "tagline": null
     },
     {
       "id": "6788546391",
