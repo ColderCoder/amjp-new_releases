@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T23:00:42.741Z",
+  "generatedAt": "2026-07-24T00:00:42.594Z",
   "source": "https://music.apple.com/jp/room/6791786216?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6791786216?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -514,6 +514,22 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6769006193",
+      "title": "NOSTALGIA",
+      "artist": "RIN",
+      "url": "https://music.apple.com/jp/album/nostalgia/6769006193?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/3e/40/343e40eb-3cd4-7235-4c2d-f672ba0718d0/196874263402.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-24",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "1880496743",
@@ -1235,6 +1251,23 @@
         "Rock",
         "Music",
         "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6790520645",
+      "title": "Elevator Music: DJ-SUN (DJ Mix)",
+      "artist": "DJ-SUN",
+      "url": "https://music.apple.com/jp/album/elevator-music-dj-sun-dj-mix/6790520645?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/cb/da/7ecbdadd-3d18-5634-9569-eec6d2e186b0/4248bb75-c4bb-4bcd-b6d4-6784749fa4ab.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-24",
+      "trackCount": 37,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Breakbeat"
       ],
       "tagline": null
     },
@@ -4215,55 +4248,6 @@
       "tagline": null
     },
     {
-      "id": "6788280493",
-      "title": "Still Move Forward",
-      "artist": "NAJIMI, C2beats",
-      "url": "https://music.apple.com/jp/album/still-move-forward/6788280493?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/96/fc/cf96fc48-5c8e-9d42-25ea-f35904cde802/4500000090545.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-22",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788288941",
-      "title": "Blue",
-      "artist": "MIYATA SATOSHI",
-      "url": "https://music.apple.com/jp/album/blue/6788288941?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/ae/53/b6ae5392-272b-0e0e-342f-e13a9d7b0ff9/4526180765011.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-22",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788271594",
-      "title": "Neo Trash Boogie - EP",
-      "artist": "GIL",
-      "url": "https://music.apple.com/jp/album/neo-trash-boogie-ep/6788271594?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/bc/d4/a3bcd497-c3ba-67bc-eaaa-c7cd5082741e/4526180762287.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-22",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6791520495",
       "title": "Glow ME",
       "artist": "fromis_9",
@@ -4815,6 +4799,24 @@
       "genres": [
         "Dance",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6790608119",
+      "title": "Spinall at The Glorious Hills Ranch, Dallas, Apr 11, 2026 (DJ Mix)",
+      "artist": "SPINALL",
+      "url": "https://music.apple.com/jp/album/spinall-at-the-glorious-hills-ranch-dallas-apr-11-2026-dj-mix/6790608119?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/1f/97/bc1f975b-8609-d125-b948-4636311ad057/eb6de9a9-9fe0-4485-96c0-7eb4d14826e8.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-04-11",
+      "trackCount": 26,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African",
+        "Amapiano"
       ],
       "tagline": null
     },
