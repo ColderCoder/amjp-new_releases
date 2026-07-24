@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T19:00:42.845Z",
+  "generatedAt": "2026-07-24T20:00:46.410Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1944,9 +1944,9 @@
     {
       "id": "6792928481",
       "title": "Protect Ya Neck, Vol. 1 (DJ Mix)",
-      "artist": "DJ Aktive (US)",
+      "artist": "DJ Aktive",
       "url": "https://music.apple.com/jp/album/protect-ya-neck-vol-1-dj-mix/6792928481?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/ca/09/5dca09b1-e36f-ee41-964c-429a9de05fa8/3ba470e4-52d5-4594-b000-a23cc282ee59.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/f8/10/93f81048-596f-5b47-e707-e3e05acdd37a/81f81378-09c9-4314-b016-2fca13d41b57.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-07-24",
       "trackCount": 32,
