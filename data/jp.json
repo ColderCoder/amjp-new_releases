@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:00:44.806Z",
+  "generatedAt": "2026-07-24T19:00:42.845Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2819,22 +2819,6 @@
       "tagline": null
     },
     {
-      "id": "6788078730",
-      "title": "Attention Is A Drug - EP",
-      "artist": "Tash",
-      "url": "https://music.apple.com/jp/album/attention-is-a-drug-ep/6788078730?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/5f/30/0e5f3052-59b6-9755-8dcf-2c10ac40b9f9/784085105927.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-24",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "1895607664",
       "title": "Glad to Be Alive (Live in Nottingham)",
       "artist": "Gene Loves Jezebel",
@@ -4932,6 +4916,22 @@
         "House",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783187281",
+      "title": "Josh Steers at Sorbet, Los Angeles, Aug 10, 2025 (DJ Mix)",
+      "artist": "Josh Steers",
+      "url": "https://music.apple.com/jp/album/josh-steers-at-sorbet-los-angeles-aug-10-2025-dj-mix/6783187281?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/96/a3/f896a362-e6b6-9e1e-5c81-6768298db578/e4cdb986-d754-430e-a432-73b5d583f9f1.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-10-10",
+      "trackCount": 34,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
       ],
       "tagline": null
     },
