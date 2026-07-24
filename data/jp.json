@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T14:00:44.699Z",
+  "generatedAt": "2026-07-24T15:00:44.806Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6788975285",
+      "title": "Schrödinger's Call (Original Soundtrack)",
+      "artist": "Seishi Irimajiri",
+      "url": "https://music.apple.com/jp/album/schr%C3%B6dingers-call-original-soundtrack/6788975285?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/d3/2b/8dd32b2b-907c-6dec-f9e6-ec24cacf6e42/PA00222125_0_250052_jacket.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-25",
+      "trackCount": 76,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Video Game"
+      ],
+      "tagline": null
+    },
     {
       "id": "6788782811",
       "title": "Ay Weyy",
@@ -4915,22 +4932,6 @@
         "House",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783187281",
-      "title": "Josh Steers at Sorbet, Los Angeles, Aug 10, 2025 (DJ Mix)",
-      "artist": "Josh Steers",
-      "url": "https://music.apple.com/jp/album/josh-steers-at-sorbet-los-angeles-aug-10-2025-dj-mix/6783187281?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/96/a3/f896a362-e6b6-9e1e-5c81-6768298db578/e4cdb986-d754-430e-a432-73b5d583f9f1.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2025-10-10",
-      "trackCount": 34,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
       ],
       "tagline": null
     },
