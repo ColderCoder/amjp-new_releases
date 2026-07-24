@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T05:00:43.153Z",
+  "generatedAt": "2026-07-24T07:00:44.823Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4625,23 +4625,6 @@
       "tagline": null
     },
     {
-      "id": "1895184628",
-      "title": "A Stranger To You",
-      "artist": "Loathe",
-      "url": "https://music.apple.com/jp/album/a-stranger-to-you/1895184628?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/72/76/6a72767b-3119-d895-e8dd-649b45ab25ba/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-17",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": "New Album"
-    },
-    {
       "id": "6790550355",
       "title": "World On A Wire With Shir Khan: Jul 10, 2026 (DJ Mix)",
       "artist": "Shir Khan",
@@ -4932,6 +4915,22 @@
         "House",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783187281",
+      "title": "Josh Steers at Sorbet, Los Angeles, Aug 10, 2025 (DJ Mix)",
+      "artist": "Josh Steers",
+      "url": "https://music.apple.com/jp/album/josh-steers-at-sorbet-los-angeles-aug-10-2025-dj-mix/6783187281?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/96/a3/f896a362-e6b6-9e1e-5c81-6768298db578/e4cdb986-d754-430e-a432-73b5d583f9f1.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-10-10",
+      "trackCount": 34,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
       ],
       "tagline": null
     },
