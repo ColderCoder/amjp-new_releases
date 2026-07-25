@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T20:00:46.410Z",
+  "generatedAt": "2026-07-25T07:00:42.642Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3138,6 +3138,23 @@
       "tagline": null
     },
     {
+      "id": "1895750294",
+      "title": "Wrath",
+      "artist": "Bleached Cross",
+      "url": "https://music.apple.com/jp/album/wrath/1895750294?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/dd/98/26dd98db-acb2-63e3-6263-a8ff11b33b19/820233157681.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-24",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Punk",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6790246891",
       "title": "KISS N TELL - EP",
       "artist": "aespa",
@@ -4425,6 +4442,22 @@
       "tagline": null
     },
     {
+      "id": "6788434333",
+      "title": "MMILITARY MUSIK: Operation A - EP",
+      "artist": "ItGirl",
+      "url": "https://music.apple.com/jp/album/mmilitary-musik-operation-a-ep/6788434333?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/cb/3a/f9cb3abc-c48e-363a-46a5-5d17bfe5da90/8721555851887.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-22",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6785422346",
       "title": "Poignant",
       "artist": "Yoshihiro Kondo",
@@ -4544,6 +4577,23 @@
       "tagline": null
     },
     {
+      "id": "6786409065",
+      "title": "Casa del Clasico 010: Farsight (DJ Mix)",
+      "artist": "Farsight",
+      "url": "https://music.apple.com/jp/album/casa-del-clasico-010-farsight-dj-mix/6786409065?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/91/6a/d4916a5c-f36c-0fe8-d699-756f1124c0be/9ec5f29c-e5fd-47a4-a9e2-cb24dbc6f84f.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-20",
+      "trackCount": 28,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
       "id": "6788254358",
       "title": "Shinnan Sagami Ver.5.1 Remixed - EP",
       "artist": "KOYANMUSIC",
@@ -4567,55 +4617,6 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/d7/33/4bd73309-3123-8aef-dd59-6c8325b345ca/885288051780.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-19",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6782089290",
-      "title": "BANDAI CARD GAMES",
-      "artist": "The Burning Deadwoods & Jazztronik",
-      "url": "https://music.apple.com/jp/album/bandai-card-games/6782089290?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/93/8b/fc938b0a-1064-b1aa-50ef-6b4a0cb49588/4540774749287.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-18",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786551992",
-      "title": "docile (2026 Remaster)",
-      "artist": "Yumi Tanimura",
-      "url": "https://music.apple.com/jp/album/docile-2026-remaster/6786551992?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/6a/da/b96adae2-7681-d40a-ecc3-317bdc74989f/4547366836769.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-18",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791646146",
-      "title": "Legacy Chapter 1, Vol. 3 - EP",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/legacy-chapter-1-vol-3-ep/6791646146?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/b8/ae/e2b8aeba-d066-33e1-fab7-9f3d1fb1a154/885288113761.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-18",
       "trackCount": 6,
       "kind": "album",
       "genres": [
