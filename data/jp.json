@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T07:00:42.642Z",
+  "generatedAt": "2026-07-26T07:00:28.874Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3155,6 +3155,40 @@
       "tagline": null
     },
     {
+      "id": "6788682943",
+      "title": "The Things Aren't Changing Like They Should - EP",
+      "artist": "Lidvall",
+      "url": "https://music.apple.com/jp/album/the-things-arent-changing-like-they-should-ep/6788682943?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/80/ce/b980ce3f-095c-2c4f-bd11-5f4df6f715f2/8718723324717.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-24",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Techno"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895037655",
+      "title": "How to Cast a Shadow",
+      "artist": "North Sea Echoes",
+      "url": "https://music.apple.com/jp/album/how-to-cast-a-shadow/1895037655?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/d4/7d/16d47d01-9456-ad5c-c9fd-8f91925f488a/North_Sea_Echoes_-_How_to_Cast_a_Shadow.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-24",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Prog-Rock/Art Rock"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6790246891",
       "title": "KISS N TELL - EP",
       "artist": "aespa",
@@ -4592,39 +4626,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6788254358",
-      "title": "Shinnan Sagami Ver.5.1 Remixed - EP",
-      "artist": "KOYANMUSIC",
-      "url": "https://music.apple.com/jp/album/%E6%B7%B1%E5%8D%97%E7%9B%B8%E6%A8%A1-ver-5-1-remixed-ep/6788254358?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/aa/2c/76aa2cd5-4f8d-4930-ded7-7b41bfba55ae/4500000085190.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-19",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791646066",
-      "title": "Legacy Chapter 1, Vol. 4 - EP",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/legacy-chapter-1-vol-4-ep/6791646066?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/d7/33/4bd73309-3123-8aef-dd59-6c8325b345ca/885288051780.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-19",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
     },
     {
       "id": "6790550355",
