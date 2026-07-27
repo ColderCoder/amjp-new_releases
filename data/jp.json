@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T07:00:49.900Z",
+  "generatedAt": "2026-07-27T14:00:50.232Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1353,7 +1353,7 @@
       "title": "DON'T DISTURB THE GROOVE: AFROSOUL - EP",
       "artist": "THEHONESTGUY",
       "url": "https://music.apple.com/jp/album/dont-disturb-the-groove-afrosoul-ep/6783668166?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/6f/be/e86fbed4-7a20-d168-4dcd-e1b80de3de51/cover_4062851318884.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/37/c8/1e37c8b0-7266-ab9b-41a5-d3d6912e90a1/cover_4062851318884.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-24",
       "trackCount": 6,
