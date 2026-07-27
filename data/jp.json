@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T07:00:28.874Z",
+  "generatedAt": "2026-07-27T07:00:49.900Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3189,6 +3189,40 @@
       "tagline": null
     },
     {
+      "id": "1887656031",
+      "title": "Agent Friday & the Perfect Angel",
+      "artist": "Dorio",
+      "url": "https://music.apple.com/jp/album/agent-friday-the-perfect-angel/1887656031?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f6/21/e2/f621e246-6107-470e-a504-f554c0ba88ed/125614.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-24",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6789558319",
+      "title": "Shanghai City Radio 017: Sweetny-Ivy (DJ Mix)",
+      "artist": "Sweetny-Ivy",
+      "url": "https://music.apple.com/jp/album/shanghai-city-radio-017-sweetny-ivy-dj-mix/6789558319?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/84/a9/a084a919-20e8-d533-d069-3b9f602f04f2/89276c5c-be48-4793-a755-1359de3da224.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-24",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Afro House",
+        "Music",
+        "African",
+        "Amapiano"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6790246891",
       "title": "KISS N TELL - EP",
       "artist": "aespa",
@@ -4573,40 +4607,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788694870",
-      "title": "ODORO - EP",
-      "artist": "ODO",
-      "url": "https://music.apple.com/jp/album/odoro-ep/6788694870?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/72/47/ee/7247ee68-560c-0592-d82e-76879ddff71b/4500000091566.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-20",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791522915",
-      "title": "2000 TAPE",
-      "artist": "HAON, nowimyoung, JMIN & KC",
-      "url": "https://music.apple.com/jp/album/2000-tape/6791522915?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/fb/9a/38fb9a86-7d95-dda2-c640-fe6911014f14/191953562360.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-20",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Pop",
-        "K-Pop"
       ],
       "tagline": null
     },
