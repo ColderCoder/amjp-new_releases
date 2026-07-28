@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T23:00:50.115Z",
+  "generatedAt": "2026-07-28T07:00:50.479Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3222,6 +3222,89 @@
       "tagline": null
     },
     {
+      "id": "6775884069",
+      "title": "EXES",
+      "artist": "Sorry X",
+      "url": "https://music.apple.com/jp/album/exes/6775884069?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/d3/10/85d310b3-6b02-518b-132e-9bc31bf97ae2/193436474610_FINALART.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-24",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786696981",
+      "title": "Todas Son Iguales",
+      "artist": "Gonzalo Genek",
+      "url": "https://music.apple.com/jp/album/todas-son-iguales/6786696981?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/a5/1a/4ba51a94-5786-4392-d7a9-9f6f20103518/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-24",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1887949801",
+      "title": "Glera",
+      "artist": "Marco Benevento",
+      "url": "https://music.apple.com/jp/album/glera/1887949801?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/9d/49/019d49b6-3d14-26d8-4d1f-10eb00767f3f/64436.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-24",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6790761750",
+      "title": "Dreamstate of Fear",
+      "artist": "Mimi Barks",
+      "url": "https://music.apple.com/jp/album/dreamstate-of-fear/6790761750?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/c3/22/dac32203-e52a-ab4e-6984-e032de02b114/artwork.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-24",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783584475",
+      "title": "Where Do You Want To Be? -EP",
+      "artist": "Rachel Bobbitt",
+      "url": "https://music.apple.com/jp/album/where-do-you-want-to-be-ep/6783584475?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/39/4c/62394c5e-ff77-bd94-9cbf-1b13d2b6a5f1/26CRGIM55287.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-24",
+      "trackCount": 3,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6790246891",
       "title": "KISS N TELL - EP",
       "artist": "aespa",
@@ -4517,91 +4600,6 @@
       "explicit": true,
       "releaseDate": "2026-07-22",
       "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6785422346",
-      "title": "Poignant",
-      "artist": "Yoshihiro Kondo",
-      "url": "https://music.apple.com/jp/album/poignant/6785422346?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/88/d7/5688d7df-f247-9fdc-49bc-633dd3198290/4580789774218.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-21",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Classical Crossover",
-        "Music",
-        "Classical",
-        "Piano"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6787977221",
-      "title": "subekaraku tori ame / Mou one take (Live at TOKYO KINEMA CLUB) - EP",
-      "artist": "Gusokumuzu",
-      "url": "https://music.apple.com/jp/album/%E3%81%99%E3%81%B9%E3%81%8B%E3%82%89%E3%81%8F%E9%80%9A%E3%82%8A%E9%9B%A8-%E3%82%82%E3%81%86%E3%82%8F%E3%82%93%E3%81%A6%E3%81%84%E3%81%8F-live-at-%E6%9D%B1%E4%BA%AC%E3%82%AD%E3%83%8D%E3%83%9E%E5%80%B6%E6%A5%BD%E9%83%A8-ep/6787977221?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/8b/a3/4b8ba308-de33-8b54-a863-9dcce11a25ab/4547366837230.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-21",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791520495",
-      "title": "Glow ME",
-      "artist": "fromis_9",
-      "url": "https://music.apple.com/jp/album/glow-me/6791520495?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/44/03/db440319-e991-e392-c8a8-750cb0134206/191953562353.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-21",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Pop",
-        "K-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895778462",
-      "title": "Kishi Bashi & Tall Tall Trees & The Sound Sanctuary - EP",
-      "artist": "Kishi Bashi, Tall Tall Trees & The Sound Sanctuary",
-      "url": "https://music.apple.com/jp/album/kishi-bashi-tall-tall-trees-the-sound-sanctuary-ep/1895778462?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/4b/b1/4f4bb151-df7a-a138-d76f-b0cd84c3e404/65686.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-21",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "IDM/Experimental",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791305170",
-      "title": "B4SAVEME - EP",
-      "artist": "Zaylevelten",
-      "url": "https://music.apple.com/jp/album/b4saveme-ep/6791305170?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/82/8b/50828bfc-7f19-82be-759d-7268bb33ebbf/075679565457.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-21",
-      "trackCount": 4,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
