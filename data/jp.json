@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T07:00:50.479Z",
+  "generatedAt": "2026-07-28T08:00:50.077Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2818,6 +2818,22 @@
       "tagline": null
     },
     {
+      "id": "6788078730",
+      "title": "Attention Is A Drug - EP",
+      "artist": "Tash",
+      "url": "https://music.apple.com/jp/album/attention-is-a-drug-ep/6788078730?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/5f/30/0e5f3052-59b6-9755-8dcf-2c10ac40b9f9/784085105927.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-24",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1895607664",
       "title": "Glad to Be Alive (Live in Nottingham)",
       "artist": "Gene Loves Jezebel",
@@ -3285,22 +3301,6 @@
         "Music",
         "Rock",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783584475",
-      "title": "Where Do You Want To Be? -EP",
-      "artist": "Rachel Bobbitt",
-      "url": "https://music.apple.com/jp/album/where-do-you-want-to-be-ep/6783584475?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/39/4c/62394c5e-ff77-bd94-9cbf-1b13d2b6a5f1/26CRGIM55287.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-24",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
       ],
       "tagline": null
     },
