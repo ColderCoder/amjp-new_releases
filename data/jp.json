@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T17:00:49.956Z",
+  "generatedAt": "2026-07-28T21:00:50.385Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2952,7 +2952,7 @@
       "title": "1001Tracklists Spotlight: merchant (DJ Mix)",
       "artist": "merchant",
       "url": "https://music.apple.com/jp/album/1001tracklists-spotlight-merchant-dj-mix/6790849738?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/7a/a5/db7aa58d-63a4-020c-4fdc-3ebb7b891d5d/a686378f-7a85-490a-8e02-bf2b2fc4223c.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/c9/14/98c9145a-36e3-6f62-def7-fa5f98da4a08/6fa3f600-e064-4c5f-9771-fff094282138.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-07-24",
       "trackCount": 17,
