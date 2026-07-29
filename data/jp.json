@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T07:00:51.399Z",
+  "generatedAt": "2026-07-29T14:00:51.117Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2148,7 +2148,7 @@
       "title": "Pull the Trigger",
       "artist": "Dracodontjam",
       "url": "https://music.apple.com/jp/album/pull-the-trigger/6790828147?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/b5/a8/87b5a833-c2b2-3578-e47b-3c2c41229e38/808391392267.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/3c/7f/843c7f3d-f17f-ac64-c3e9-bc5289c71a68/808391392267.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-07-24",
       "trackCount": 15,
