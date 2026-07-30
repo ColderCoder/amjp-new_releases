@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T07:00:51.427Z",
+  "generatedAt": "2026-07-30T16:00:53.003Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -975,23 +975,6 @@
       "genres": [
         "Pop",
         "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6777011892",
-      "title": "Bruckner: Symphony No. 4 in E-Flat Major, WAB 104 \"Romantic\" (1878-1880 Version)",
-      "artist": "Nathalie Stutzmann & Atlanta Symphony Orchestra",
-      "url": "https://music.apple.com/jp/album/bruckner-symphony-no-4-in-e-flat-major-wab-104-romantic/6777011892?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/09/6f/b7096f75-97fb-f34d-0047-01d54fdcaac1/5026854324494.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-24",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Orchestral"
       ],
       "tagline": "New Album"
     },
@@ -4462,6 +4445,24 @@
         "Music",
         "Brass & Woodwinds",
         "Orchestral"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1892438695",
+      "title": "Shall We Gather",
+      "artist": "VOCES8 & Ringmasters",
+      "url": "https://music.apple.com/jp/album/shall-we-gather/1892438695?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/d4/78/fcd478a1-65a3-b4fb-5a79-ebc9132da2c4/26UMGIM38714.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-24",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Vocal",
+        "Choral"
       ],
       "tagline": null
     },
