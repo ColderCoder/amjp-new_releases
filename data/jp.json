@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T09:00:52.212Z",
+  "generatedAt": "2026-07-31T12:00:52.425Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -174,22 +174,6 @@
       "tagline": "New Album and Interview"
     },
     {
-      "id": "6779428960",
-      "title": "Mood 2",
-      "artist": "Jacquees",
-      "url": "https://music.apple.com/jp/album/mood-2/6779428960?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/9c/c4/689cc4f8-0af1-98b5-4f4b-189b6bb36d34/26UMGIM69791.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-31",
-      "trackCount": 22,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "New Release"
-    },
-    {
       "id": "6773435890",
       "title": "Scared of Heights",
       "artist": "Wyatt Flores",
@@ -350,22 +334,6 @@
         "Music"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6784010354",
-      "title": "Wrath of My Madness / Princess of the Posse - EP",
-      "artist": "Queen Latifah",
-      "url": "https://music.apple.com/jp/album/wrath-of-my-madness-princess-of-the-posse-ep/6784010354?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/db/fe/96dbfec1-e6e0-df50-487b-a87845b542c5/016998084618.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-31",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6782151999",
@@ -3034,6 +3002,40 @@
       "kind": "album",
       "genres": [
         "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6787005750",
+      "title": "Turkish Nights",
+      "artist": "Fatih Bogalar",
+      "url": "https://music.apple.com/jp/album/turkish-nights/6787005750?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/23/94/9d239475-0432-5c30-d67f-9f0fd8ab094a/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6791658639",
+      "title": "Dünya - EP",
+      "artist": "Kidkubi",
+      "url": "https://music.apple.com/jp/album/d%C3%BCnya-ep/6791658639?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/06/f2/1806f204-b7e7-2af6-b0d9-10b2e385fcbb/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
         "Music"
       ],
       "tagline": null
