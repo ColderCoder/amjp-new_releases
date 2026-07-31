@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T08:00:50.615Z",
+  "generatedAt": "2026-07-31T09:00:52.212Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1597,23 +1597,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6779298105",
-      "title": "Dead by April (09 | 26)",
-      "artist": "Dead By April",
-      "url": "https://music.apple.com/jp/album/dead-by-april-09-26/6779298105?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/d7/5c/2ed75c67-45fc-23dd-97ae-5b5817de832d/820233629287.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-31",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6793291189",
       "title": "MR. FTO",
       "artist": "1.3shawtyworld",
@@ -3036,6 +3019,22 @@
         "Arabesque",
         "Music",
         "Turkish"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6791601588",
+      "title": "Önceden - EP",
+      "artist": "Adoya",
+      "url": "https://music.apple.com/jp/album/%C3%B6nceden-ep/6791601588?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/4e/05/d44e0597-b913-cbd7-9f6e-60c01bb1d4e1/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
       ],
       "tagline": null
     },
