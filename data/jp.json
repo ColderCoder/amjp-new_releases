@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T23:00:51.152Z",
+  "generatedAt": "2026-07-31T00:00:51.399Z",
   "source": "https://music.apple.com/jp/room/6794144099?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6794144099?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -387,6 +387,24 @@
         "Dance"
       ],
       "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6794031715",
+      "title": "NAINA Presents: NAINA, Vol. 68 (DJ Mix)",
+      "artist": "NAINA",
+      "url": "https://music.apple.com/jp/album/naina-presents-naina-vol-68-dj-mix/6794031715?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/23/68/05236812-bbd7-657e-4358-5ebc8b484ff2/96dfc2fb-3bbf-4e05-9404-6b0741da1c9a.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic",
+        "Bass"
+      ],
+      "tagline": "Apple Music Club DJ Mix"
     },
     {
       "id": "6766931063",
@@ -1380,6 +1398,23 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6784025552",
+      "title": "¡Dale Play! Vol. 1 (DJ Mix)",
+      "artist": "Gangsta",
+      "url": "https://music.apple.com/jp/album/dale-play-vol-1-dj-mix/6784025552?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/f1/a9/79f1a942-9add-41b6-9477-9ec39575d809/b170d217-671f-4699-9972-9e59293fd954.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6779298105",
@@ -4242,23 +4277,6 @@
       "tagline": null
     },
     {
-      "id": "6790254374",
-      "title": "META RYUKYU",
-      "artist": "SAGASHITE.",
-      "url": "https://music.apple.com/jp/album/%E3%83%A1%E3%82%BF%E7%90%89%E7%90%83/6790254374?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/a3/db/5da3db0e-b3d3-515d-29e5-26609b745aab/4526180762928.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-29",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Worldwide"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6792167824",
       "title": "Live at Apple Music Radio",
       "artist": "Dogstar",
@@ -4553,22 +4571,6 @@
       "kind": "album",
       "genres": [
         "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789413575",
-      "title": "Here we (Am). - EP",
-      "artist": "Am Amp",
-      "url": "https://music.apple.com/jp/album/here-we-am-ep/6789413575?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/b4/5d/25b45d6e-5773-2e3e-a925-4fb8a67f2de6/bigup14496771.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-26",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
         "Music"
       ],
       "tagline": null
