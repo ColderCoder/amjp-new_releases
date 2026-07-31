@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T04:00:50.257Z",
+  "generatedAt": "2026-07-31T05:00:51.135Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1547,6 +1547,23 @@
       "tagline": null
     },
     {
+      "id": "6786894281",
+      "title": "Batman: Caped Crusader - Season 2 (Original Television Soundtrack)",
+      "artist": "Frederik Wiedmann",
+      "url": "https://music.apple.com/jp/album/batman-caped-crusader-season-2-original-television/6786894281?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/2c/c7/752cc79d-3ac0-0a11-d84f-36478cf5e7a1/794043228513.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6783033509",
       "title": "Mind Like Mine - EP",
       "artist": "Noah Brigden",
@@ -3000,23 +3017,6 @@
       "kind": "album",
       "genres": [
         "Halk",
-        "Music",
-        "Turkish"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788799809",
-      "title": "Gençliğim Kayboldu: Zirvedeki Klasikler (2026 Remastered)",
-      "artist": "Gülden Karaböcek",
-      "url": "https://music.apple.com/jp/album/gen%C3%A7li%C4%9Fim-kayboldu-zirvedeki-klasikler-2026-remastered/6788799809?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/10/9c/14109ca5-41bb-be32-2087-aae3b59c438e/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-31",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Arabesque",
         "Music",
         "Turkish"
       ],
