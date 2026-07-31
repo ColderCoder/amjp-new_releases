@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T03:00:50.174Z",
+  "generatedAt": "2026-07-31T04:00:50.257Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -156,6 +156,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "1894906682",
+      "title": "The Outlaw Cherie Lee & Other Western Tales",
+      "artist": "Shaboozey",
+      "url": "https://music.apple.com/jp/album/the-outlaw-cherie-lee-other-western-tales/1894906682?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/7c/51/2a7c5105-1de5-b847-52c3-ac85450fcacd/199316583137_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music"
+      ],
+      "tagline": "New Album and Interview"
     },
     {
       "id": "6779428960",
@@ -467,6 +483,22 @@
         "Alternative"
       ],
       "tagline": null
+    },
+    {
+      "id": "6794388021",
+      "title": "$TARFACE",
+      "artist": "$TARFACE & Tyga",
+      "url": "https://music.apple.com/jp/album/%24tarface/6794388021?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/91/7a/0b917ad8-6b47-96cd-5fc4-07b28ee76f7d/199316710601_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6785892228",
@@ -1375,6 +1407,22 @@
         "Dance",
         "Music",
         "Trance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6794168807",
+      "title": "P***Y PINK",
+      "artist": "BBYKOBE",
+      "url": "https://music.apple.com/jp/album/p-y-pink/6794168807?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/71/5c/cd715c69-e0ca-87e3-3479-7639a44c28fb/093624818786.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
       ],
       "tagline": null
     },
@@ -2971,56 +3019,6 @@
         "Arabesque",
         "Music",
         "Turkish"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791601588",
-      "title": "Önceden - EP",
-      "artist": "Adoya",
-      "url": "https://music.apple.com/jp/album/%C3%B6nceden-ep/6791601588?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/4e/05/d44e0597-b913-cbd7-9f6e-60c01bb1d4e1/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-31",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6787005750",
-      "title": "Turkish Nights",
-      "artist": "Fatih Bogalar",
-      "url": "https://music.apple.com/jp/album/turkish-nights/6787005750?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/23/94/9d239475-0432-5c30-d67f-9f0fd8ab094a/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-31",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791658639",
-      "title": "Dünya - EP",
-      "artist": "Kidkubi",
-      "url": "https://music.apple.com/jp/album/d%C3%BCnya-ep/6791658639?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/06/f2/1806f204-b7e7-2af6-b0d9-10b2e385fcbb/0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-31",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
