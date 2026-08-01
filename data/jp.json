@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T01:00:53.015Z",
+  "generatedAt": "2026-08-01T07:00:52.821Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3042,6 +3042,55 @@
       "tagline": null
     },
     {
+      "id": "6791658639",
+      "title": "Dünya - EP",
+      "artist": "Kidkubi",
+      "url": "https://music.apple.com/jp/album/d%C3%BCnya-ep/6791658639?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/06/f2/1806f204-b7e7-2af6-b0d9-10b2e385fcbb/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6791626625",
+      "title": "Whispers of Dawn - EP",
+      "artist": "Cable Guy",
+      "url": "https://music.apple.com/jp/album/whispers-of-dawn-ep/6791626625?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/73/62/8773627e-d7e6-5e83-1f7e-1d229d5b0664/26UMGIM94965.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6791226113",
+      "title": "YIKILMAZ I",
+      "artist": "Tomi Nite",
+      "url": "https://music.apple.com/jp/album/yikilmaz-i/6791226113?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/80/fa/3980fa94-366c-0af4-57e0-cb4a6293f1d6/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Turkish Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6790726670",
       "title": "Sunny Beat Deluxe !",
       "artist": "Sunny Day Service",
@@ -4852,40 +4901,6 @@
       "tagline": null
     },
     {
-      "id": "6791175116",
-      "title": "Inside Heart:Waves - EP",
-      "artist": "Woody",
-      "url": "https://music.apple.com/jp/album/inside-heart-waves-ep/6791175116?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/23/a7/5223a76e-62c8-e724-4719-8ae7f3803b85/4550758644187_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-25",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791076974",
-      "title": "Senaka - EP",
-      "artist": "EXPRESS",
-      "url": "https://music.apple.com/jp/album/senaka-ep/6791076974?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/8a/e9/7d8ae93a-b63c-bd63-baa9-ea91fee4d579/4550758631880_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-25",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Reggae",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6791342701",
       "title": "HYPERHOUSE 090: Anna Lunoe (DJ Mix)",
       "artist": "Anna Lunoe",
@@ -4901,25 +4916,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6793034258",
-      "title": "Karimbadam (Original Motion Picture Soundtrack) - EP",
-      "artist": "Arya Ambatt, Anaz Sainudeen & Nikhil Madhav",
-      "url": "https://music.apple.com/jp/album/karimbadam-original-motion-picture-soundtrack-ep/6793034258?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/95/7b/d7957b98-0b9c-421c-b026-7a02a7f819f1/8909633573030.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-25",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Malayalam",
-        "Music",
-        "Indian",
-        "Regional Indian",
-        "Soundtrack"
-      ],
-      "tagline": null
     },
     {
       "id": "6790935833",
