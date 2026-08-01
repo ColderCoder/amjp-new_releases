@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T18:00:52.603Z",
+  "generatedAt": "2026-08-01T01:00:53.015Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -654,6 +654,23 @@
         "Rock"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6796842304",
+      "title": "9 months and 50 hours",
+      "artist": "Fred again.. & LATIN MAFIA",
+      "url": "https://music.apple.com/jp/album/9-months-and-50-hours/6796842304?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/52/6e/90526e94-89c7-8387-458f-1972f7995d48/1200214495824.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Dance"
+      ],
+      "tagline": "New Mixtape"
     },
     {
       "id": "6769540997",
@@ -3021,22 +3038,6 @@
         "Music",
         "Dance",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791658639",
-      "title": "Dünya - EP",
-      "artist": "Kidkubi",
-      "url": "https://music.apple.com/jp/album/d%C3%BCnya-ep/6791658639?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/06/f2/1806f204-b7e7-2af6-b0d9-10b2e385fcbb/0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-31",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
