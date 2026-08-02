@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T07:00:52.821Z",
+  "generatedAt": "2026-08-02T07:00:54.110Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3091,6 +3091,55 @@
       "tagline": null
     },
     {
+      "id": "1892426055",
+      "title": "Daniel",
+      "artist": "Reverend Baron",
+      "url": "https://music.apple.com/jp/album/daniel/1892426055?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/7f/8c/107f8c49-ab77-eeed-f617-2677105b5c7d/65253.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1889617630",
+      "title": "BLUES NOW",
+      "artist": "GA-20 & Charlie Musselwhite",
+      "url": "https://music.apple.com/jp/album/blues-now/1889617630?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/0f/71/b30f7114-7553-aefb-7446-969a775bfa9d/3459.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Blues",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1892372849",
+      "title": "Afterhour Kaltenbrunnen",
+      "artist": "Cordoba78",
+      "url": "https://music.apple.com/jp/album/afterhour-kaltenbrunnen/1892372849?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/fc/90/c9fc90c1-78b3-580c-a812-6dca5d7f01b4/196873933498.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6790726670",
       "title": "Sunny Beat Deluxe !",
       "artist": "Sunny Day Service",
@@ -3593,6 +3642,22 @@
       "kind": "album",
       "genres": [
         "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6794182909",
+      "title": "23 Personalities",
+      "artist": "Selina Zhang",
+      "url": "https://music.apple.com/jp/album/23-personalities/6794182909?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/2e/16/e52e1616-5b17-82c4-2de5-4f11238ec3dc/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-30",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Pop",
         "Music"
       ],
       "tagline": null
@@ -4832,71 +4897,6 @@
       "genres": [
         "Pop",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6790381784",
-      "title": "ROCK FOR YOU",
-      "artist": "You Yokoyama",
-      "url": "https://music.apple.com/jp/album/rock-for-you/6790381784?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/f6/20/d0f620b1-b403-fe82-611b-256e2cb4a9fb/4517331101574.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-26",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789413575",
-      "title": "Here we (Am). - EP",
-      "artist": "Am Amp",
-      "url": "https://music.apple.com/jp/album/here-we-am-ep/6789413575?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/b4/5d/25b45d6e-5773-2e3e-a925-4fb8a67f2de6/bigup14496771.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-26",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791626004",
-      "title": "CÉSAR GUERRA-PEIXE: OBRA PARA PIANO IV - SUÍTES",
-      "artist": "Pablo Marquine",
-      "url": "https://music.apple.com/jp/album/c%C3%A9sar-guerra-peixe-obra-para-piano-iv-su%C3%ADtes/6791626004?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2b/d5/742bd5d9-95c1-888a-adaa-238b724da85c/0631685087408.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-26",
-      "trackCount": 25,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793928115",
-      "title": "SUMMER PACK - EP",
-      "artist": "Ege Çubukçu",
-      "url": "https://music.apple.com/jp/album/summer-pack-ep/6793928115?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/85/35/2685351b-9b96-c882-1fed-5f1feddd7608/885288140668.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-26",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Amapiano",
-        "Music",
-        "African"
       ],
       "tagline": null
     },
