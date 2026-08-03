@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T10:00:12.504Z",
+  "generatedAt": "2026-08-03T14:00:12.933Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4046,7 +4046,7 @@
       "artist": "safmusic",
       "url": "https://music.apple.com/jp/album/slide-and-escape-deluxe/6790295841?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/fd/ea/0efdea4e-dc98-1d93-58d4-fe9dc976e3fb/4500000090552.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-07-29",
       "trackCount": 12,
       "kind": "album",
