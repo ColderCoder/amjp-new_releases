@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T09:00:12.467Z",
+  "generatedAt": "2026-08-03T10:00:12.504Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -641,9 +641,9 @@
     },
     {
       "id": "6796842304",
-      "title": "9 months and 50 hours",
+      "title": "9 months & 50 hours",
       "artist": "Fred again.. & LATIN MAFIA",
-      "url": "https://music.apple.com/jp/album/9-months-and-50-hours/6796842304?l=en-US",
+      "url": "https://music.apple.com/jp/album/9-months-50-hours/6796842304?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/52/6e/90526e94-89c7-8387-458f-1972f7995d48/1200214495824.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-07-31",
