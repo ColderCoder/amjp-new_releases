@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T14:00:12.933Z",
+  "generatedAt": "2026-08-03T17:00:12.585Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,22 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6795642419",
+      "title": "Semi-Charmed Life (Live from Apple Music Studios) - Single",
+      "artist": "Third Eye Blind",
+      "url": "https://music.apple.com/jp/album/semi-charmed-life-live-from-apple-music-studios-single/6795642419?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a0/ce/30a0cecf-0d09-57fd-b2a7-2e62a1bc86dc/885288109061.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-04",
+      "trackCount": 3,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
     {
       "id": "6791041565",
       "title": "Vibration",
@@ -3102,22 +3118,6 @@
       "kind": "album",
       "genres": [
         "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795253530",
-      "title": "Guguk Kuşu Jack, Vol. 2",
-      "artist": "Murat Yılmazyıldırım",
-      "url": "https://music.apple.com/jp/album/guguk-ku%C5%9Fu-jack-vol-2/6795253530?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/ac/cb/dcaccb32-e124-390e-9452-52155d30c0fb/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-31",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
         "Music"
       ],
       "tagline": null
