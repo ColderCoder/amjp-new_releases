@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T05:00:12.583Z",
+  "generatedAt": "2026-08-03T07:00:13.165Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3647,6 +3647,23 @@
       "tagline": null
     },
     {
+      "id": "6793461776",
+      "title": "Sojourner",
+      "artist": "Kuljelje",
+      "url": "https://music.apple.com/jp/album/%E5%87%BA%E5%A4%96%E4%BA%BA/6793461776?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/7d/2f/ac7d2f8c-0c65-3796-cb3d-bd9e829ca396/4711720311715.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Tai-Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6793023328",
       "title": "KMK",
       "artist": "NEWS",
@@ -4655,6 +4672,41 @@
       "tagline": null
     },
     {
+      "id": "6788780378",
+      "title": "East Asia Forgotten Love Center",
+      "artist": "biuya",
+      "url": "https://music.apple.com/jp/album/%E4%B8%9C%E4%BA%9A%E5%BF%98%E6%83%85%E4%B8%AD%E5%BF%83/6788780378?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/60/7b/c5607b22-7966-d4ce-2f16-5a8d36301193/881453214523_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-29",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Chinese Rock",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6794317565",
+      "title": "說出我的名字 (Acoustic Live)",
+      "artist": "Tizzy Bac",
+      "url": "https://music.apple.com/jp/album/%E8%AA%AA%E5%87%BA%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97-acoustic-live/6794317565?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/35/c5/d335c523-4be0-f7e9-8f7f-cca1eb587be8/3.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-29",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Mandopop",
+        "Music",
+        "Pop",
+        "Chinese"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6794291099",
       "title": "Beyond the Sea",
       "artist": "Yo-Sea",
@@ -4838,68 +4890,19 @@
       "tagline": null
     },
     {
-      "id": "6785741365",
-      "title": "I KNOW HERO (Special Edition) - EP",
-      "artist": "CLASS SEVEN",
-      "url": "https://music.apple.com/jp/album/i-know-hero-special-edition-ep/6785741365?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/67/d2/0567d2ea-5ba4-b95b-9fa1-ccee38644e4b/4570199893852.jpg/632x632bb.jpg",
+      "id": "6787948748",
+      "title": "不可抗力",
+      "artist": "Guzz",
+      "url": "https://music.apple.com/jp/album/%E4%B8%8D%E5%8F%AF%E6%8A%97%E5%8A%9B/6787948748?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/29/64/512964f5-57a8-be44-162b-ad200771fdc6/4896010558206.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-07-27",
-      "trackCount": 6,
+      "releaseDate": "2026-07-28",
+      "trackCount": 9,
       "kind": "album",
       "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789408504",
-      "title": "Forgotten Battle of the Bands - EP",
-      "artist": "Monster High & Mattel",
-      "url": "https://music.apple.com/jp/album/forgotten-battle-of-the-bands-ep/6789408504?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/c8/e2/e4c8e205-1821-e3cc-559e-166286895f3c/603497801824.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-27",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Children's Music",
+        "Alternative",
         "Music",
-        "Soundtrack"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791328110",
-      "title": "Going Through Changes",
-      "artist": "Luuh Jam",
-      "url": "https://music.apple.com/jp/album/going-through-changes/6791328110?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/5c/f3/765cf3f2-eb13-0c40-c8cf-47ab177ae141/808391392151.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-27",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793977683",
-      "title": "Mắt Nhắm Mắt Mở (Studio Live Session) - EP",
-      "artist": "HIEUTHUHAI",
-      "url": "https://music.apple.com/jp/album/m%E1%BA%AFt-nh%E1%BA%AFm-m%E1%BA%AFt-m%E1%BB%9F-studio-live-session-ep/6793977683?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/4f/ef/3c4fef3e-66d6-6592-e7ce-c02ff3bfe780/823375332534_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-27",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
+        "Rock"
       ],
       "tagline": null
     },
