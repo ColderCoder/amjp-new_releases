@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T17:00:12.585Z",
+  "generatedAt": "2026-08-04T07:00:11.137Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -8,7 +8,7 @@
   "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
-  "itemCount": 300,
+  "itemCount": 295,
   "items": [
     {
       "id": "6795642419",
@@ -3123,6 +3123,103 @@
       "tagline": null
     },
     {
+      "id": "6795253530",
+      "title": "Guguk Kuşu Jack, Vol. 2",
+      "artist": "Murat Yılmazyıldırım",
+      "url": "https://music.apple.com/jp/album/guguk-ku%C5%9Fu-jack-vol-2/6795253530?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/ac/cb/dcaccb32-e124-390e-9452-52155d30c0fb/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782125560",
+      "title": "Orion - EP",
+      "artist": "Karin Ann",
+      "url": "https://music.apple.com/jp/album/orion-ep/6782125560?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/5b/dd/4b5bddd4-338f-6cd5-b6e3-4ed144fb8c70/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793983286",
+      "title": "nici ca mi-a pasat vreodata",
+      "artist": "Puf",
+      "url": "https://music.apple.com/jp/album/nici-ca-mi-a-pasat-vreodata/6793983286?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/94/65/c694651e-9d9a-610e-f23a-bf242dd8d7e1/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6791995980",
+      "title": "NEW LEVEL",
+      "artist": "VlaďkySyn",
+      "url": "https://music.apple.com/jp/album/new-level/6791995980?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/50/0f/da500f0c-e661-9f7c-ab06-b7e22c8f5377/26UMGIM95396.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786651633",
+      "title": "цим літом - EP",
+      "artist": "LOVERA BREAUX & на її основі",
+      "url": "https://music.apple.com/jp/album/%D1%86%D0%B8%D0%BC-%D0%BB%D1%96%D1%82%D0%BE%D0%BC-ep/6786651633?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/49/e4/3a49e44b-9a99-5260-593f-0ca648b92f67/820233934923.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-07-31",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793844910",
+      "title": "це все у тебе в голові - EP",
+      "artist": "aaura",
+      "url": "https://music.apple.com/jp/album/%D1%86%D0%B5-%D0%B2%D1%81%D0%B5-%D1%83-%D1%82%D0%B5%D0%B1%D0%B5-%D0%B2-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%96-ep/6793844910?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/dc/80/eedc80b6-68ca-11b7-9f62-6538f168cc56/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-31",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6790726670",
       "title": "Sunny Beat Deluxe !",
       "artist": "Sunny Day Service",
@@ -4706,202 +4803,18 @@
       "tagline": null
     },
     {
-      "id": "6794291099",
-      "title": "Beyond the Sea",
-      "artist": "Yo-Sea",
-      "url": "https://music.apple.com/jp/album/beyond-the-sea/6794291099?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/64/0e/09640e0b-5c43-b403-71fd-e7320e1c99e3/4580789775130.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-28",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793082178",
-      "title": "To Be Continued - EP",
-      "artist": "QWER",
-      "url": "https://music.apple.com/jp/album/to-be-continued-ep/6793082178?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/b0/83/afb08355-a71f-4d31-f984-19b4a6019e6e/1200214638399.jpg/632x632bb.jpg",
+      "id": "6794338339",
+      "title": "у глибині душі - EP",
+      "artist": "CHERNETSKA",
+      "url": "https://music.apple.com/jp/album/%D1%83-%D0%B3%D0%BB%D0%B8%D0%B1%D0%B8%D0%BD%D1%96-%D0%B4%D1%83%D1%88%D1%96-ep/6794338339?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/81/15/5e811588-18e3-8543-7086-298dd6562d47/cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-07-28",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791059332",
-      "title": "Be: - EP",
-      "artist": "Akito Teshima",
-      "url": "https://music.apple.com/jp/album/be-ep/6791059332?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/90/d7/a290d7af-f054-044c-efc3-3bb497c822a5/8d6f0326-a25a-4da0-8e52-94fc9f015880.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-28",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6792167824",
-      "title": "Live at Apple Music Radio",
-      "artist": "Dogstar",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6792167824?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/5f/4a/7c5f4ac7-6148-e839-86b2-12c320ed914f/810183321096.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-28",
+      "releaseDate": "2026-07-29",
       "trackCount": 5,
       "kind": "album",
       "genres": [
-        "Alternative",
+        "Pop",
         "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
-      "id": "1887355048",
-      "title": "Podium",
-      "artist": "Cheekface",
-      "url": "https://music.apple.com/jp/album/podium/1887355048?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/3b/e9/833be9b5-19f8-882a-ebe3-071bb0e7ec2e/1963624423763_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-28",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative",
-        "Punk"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791704090",
-      "title": "Kinggville",
-      "artist": "Lil Kingg",
-      "url": "https://music.apple.com/jp/album/kinggville/6791704090?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/25/fc/e825fcbe-4372-76c0-4570-5b5b5500ad2c/808391392960.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-28",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6794978963",
-      "title": "next - EP",
-      "artist": "Han Yo Han",
-      "url": "https://music.apple.com/jp/album/next-ep/6794978963?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/82/5b/be825b9f-964e-0f04-c088-c2a745be3030/8800388635618_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-28",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronica",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788848371",
-      "title": "Cosmo Dorme",
-      "artist": "Raquel Dimantas",
-      "url": "https://music.apple.com/jp/album/cosmo-dorme/6788848371?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/26/e9/3826e9e4-2c6b-912e-b297-a32b566818bb/885288038132.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-28",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "MPB",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793304123",
-      "title": "Versus Internacional De La Cumbia",
-      "artist": "La Sonora Dinamita & Grupo 5",
-      "url": "https://music.apple.com/jp/album/versus-internacional-de-la-cumbia/6793304123?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/13/22/71132260-fe00-bb16-6dd7-bf5b05f39cff/885288113082.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-28",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6778489491",
-      "title": "MAYKO LOOLOU - EP",
-      "artist": "Dip Doundou Guiss",
-      "url": "https://music.apple.com/jp/album/mayko-loolou-ep/6778489491?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/12/f3/7012f347-5a7e-5238-0c2e-987943fb7c76/196874448878.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-28",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6792605692",
-      "title": "Eclipse",
-      "artist": "Sol.O",
-      "url": "https://music.apple.com/jp/album/%E6%97%A5%E8%9D%95/6792605692?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/80/d8/0e80d869-975e-7ef9-53d6-b35150c25c9f/4711720319025.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-28",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Mandopop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6787948748",
-      "title": "不可抗力",
-      "artist": "Guzz",
-      "url": "https://music.apple.com/jp/album/%E4%B8%8D%E5%8F%AF%E6%8A%97%E5%8A%9B/6787948748?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/29/64/512964f5-57a8-be44-162b-ad200771fdc6/4896010558206.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-07-28",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Rock"
       ],
       "tagline": null
     },
