@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T23:00:26.303Z",
+  "generatedAt": "2026-08-07T00:00:26.440Z",
   "source": "https://music.apple.com/jp/room/6796521307?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6796521307?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3523,6 +3523,22 @@
       "tagline": null
     },
     {
+      "id": "6789672587",
+      "title": "Mi Carpe Diem - EP",
+      "artist": "De La Rose",
+      "url": "https://music.apple.com/jp/album/mi-carpe-diem-ep/6789672587?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/89/9f/df899f8e-e5b9-c709-0684-447f3d8bfe97/1200214480226.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-06",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music"
+      ],
+      "tagline": "New EP"
+    },
+    {
       "id": "6796482352",
       "title": "Beats In Space 218: Tim Sweeney (DJ Mix)",
       "artist": "Tim Sweeney",
@@ -3764,22 +3780,6 @@
         "Latin"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6793451233",
-      "title": "Sequel to a dream - EP",
-      "artist": "EBiDAN NEXT",
-      "url": "https://music.apple.com/jp/album/%E5%A4%A2%E3%81%AE%E3%81%A4%E3%81%A5%E3%81%8D-ep/6793451233?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/33/9b/f3339b97-c229-1bdd-acef-a607706c8770/4580789778933.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6771356191",
@@ -4258,22 +4258,6 @@
       "tagline": null
     },
     {
-      "id": "6791381097",
-      "title": "FAMIEN'26 e.p. - EP",
-      "artist": "Shiritsu Ebisu Chugaku",
-      "url": "https://music.apple.com/jp/album/famien26-e-p-ep/6791381097?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/19/ca/7419ca57-07d2-ade9-6764-fbed7088d6f7/4547366840773.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-04",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6794291724",
       "title": "Velvet Summer - Summer Mini Album - EP",
       "artist": "Red Velvet",
@@ -4622,6 +4606,24 @@
       "genres": [
         "Techno",
         "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6797594310",
+      "title": "Brownies & Lemonade: pluko Live in Los Angeles, Jun 26, 2026 (DJ Mix)",
+      "artist": "pluko",
+      "url": "https://music.apple.com/jp/album/brownies-lemonade-pluko-live-in-los-angeles-jun-26/6797594310?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/fb/d7/05fbd7a1-c286-308b-7876-c1e37894deee/d1a97133-1e91-41ea-a22d-9d955993857c.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-26",
+      "trackCount": 33,
+      "kind": "album",
+      "genres": [
+        "Bass",
+        "Music",
+        "Electronic",
         "Dance"
       ],
       "tagline": null
