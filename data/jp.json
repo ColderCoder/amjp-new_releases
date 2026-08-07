@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T04:00:26.065Z",
+  "generatedAt": "2026-08-07T05:00:26.230Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6787013967",
+      "title": "THIS & THAT",
+      "artist": "Stray Kids",
+      "url": "https://music.apple.com/jp/album/this-that/6787013967?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/ea/97/52ea979a-eb72-6ed7-7299-85204e6dcab6/8809928957425.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-07",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "K-Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
     {
       "id": "6793361951",
       "title": "L.I.V.S.",
@@ -144,6 +161,39 @@
       "tagline": null
     },
     {
+      "id": "6794183034",
+      "title": "<Hyper-Ego> - EP",
+      "artist": "ARTMS",
+      "url": "https://music.apple.com/jp/album/hyper-ego-ep/6794183034?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/59/c5/7b59c503-16c1-2b8f-8724-85237a83d38c/8804775403491.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-07",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "K-Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795233510",
+      "title": "bad pieces",
+      "artist": "wave to earth",
+      "url": "https://music.apple.com/jp/album/bad-pieces/6795233510?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/d4/a2/a4d4a2fe-9f63-d0bb-9b98-ce5bb1fe9dd1/820233766517.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-07",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6793965117",
       "title": "Nicory - EP",
       "artist": "NICORY",
@@ -192,6 +242,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6796864741",
+      "title": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "artist": "KAROL G",
+      "url": "https://music.apple.com/jp/album/no-me-arrepiento-de-sentir-tanto/6796864741?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6772366436",
@@ -3289,7 +3355,7 @@
       "title": "Mi Carpe Diem - EP",
       "artist": "De La Rose",
       "url": "https://music.apple.com/jp/album/mi-carpe-diem-ep/6789672587?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/89/9f/df899f8e-e5b9-c709-0684-447f3d8bfe97/1200214480226.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/12/ae/5612ae6e-34a4-786e-4a66-c3555e88eb72/1200214480226.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-08-06",
       "trackCount": 6,
@@ -4614,23 +4680,6 @@
       "tagline": null
     },
     {
-      "id": "6769597800",
-      "title": "The Singularity: Ekleipsis",
-      "artist": "Bear McCreary",
-      "url": "https://music.apple.com/jp/album/the-singularity-ekleipsis/6769597800?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/c7/b0/54c7b0be-3899-f427-4237-d1c6e20a3e51/58.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-31",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Metal"
-      ],
-      "tagline": "New Album"
-    },
-    {
       "id": "6796429670",
       "title": "Latin Disco Mix in New York: Jojo Lorenzo (DJ Mix)",
       "artist": "Jojo Lorenzo",
@@ -4771,23 +4820,6 @@
       "tagline": null
     },
     {
-      "id": "6794178359",
-      "title": "FURTHER Kingsnight 2026: Azucy (DJ Mix)",
-      "artist": "Azucy",
-      "url": "https://music.apple.com/jp/album/further-kingsnight-2026-azucy-dj-mix/6794178359?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/8f/8b/308f8b03-3c1b-c821-c1e9-96abb6beacec/59cf7a93-450f-4b13-8197-42661218275a.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-04-26",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6771105162",
       "title": "SYBER: BANGKOK 002, Genji (DJ Mix)",
       "artist": "Genji",
@@ -4875,24 +4907,6 @@
       "tagline": null
     },
     {
-      "id": "6769868749",
-      "title": "SYBER: 016, IRMA (DJ Mix)",
-      "artist": "IRMA",
-      "url": "https://music.apple.com/jp/album/syber-016-irma-dj-mix/6769868749?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/f1/48/33f148f3-9a11-cae9-6616-fce581ae6484/7ebe97e2-c0a1-4cfd-ab76-450e90ef6130.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-04-04",
-      "trackCount": 31,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Brazilian",
-        "Baile Funk"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6768745422",
       "title": "SYBER: BALI, JUDO (DJ Mix)",
       "artist": "JUDO",
@@ -4958,23 +4972,6 @@
         "R&B/Soul",
         "Music",
         "Disco"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795745421",
-      "title": "Reloved: L'Affaire (DJ Mix)",
-      "artist": "Les Loups",
-      "url": "https://music.apple.com/jp/album/reloved-laffaire-dj-mix/6795745421?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/ab/11/27ab11c3-d13d-b15a-3818-9bb608ba1565/c95b86c4-6e2b-4264-8fb3-fab95fe3144c.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2016-01-14",
-      "trackCount": 23,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
       ],
       "tagline": null
     },
