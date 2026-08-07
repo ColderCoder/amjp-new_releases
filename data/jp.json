@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T01:00:26.088Z",
+  "generatedAt": "2026-08-07T02:00:26.177Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2622,7 +2622,7 @@
       "title": "Homenaje al Pollero (Remastered 2026) [feat. Los Guamúchileños]",
       "artist": "Chalino Sánchez",
       "url": "https://music.apple.com/jp/album/homenaje-al-pollero-remastered-2026-feat-los-guam%C3%BAchile%C3%B1os/6788103152?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/96/8f/86968f10-7b78-6801-3d15-97ae2c4d6032/26CRGIM54740.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/58/4e/eb584e2c-7e47-b70f-4219-cc6679c6f294/26CRGIM54740.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-08-07",
       "trackCount": 12,
@@ -3056,7 +3056,7 @@
       "title": "Nellene (Extended) - EP",
       "artist": "Deloyd Elze",
       "url": "https://music.apple.com/jp/album/nellene-extended-ep/6792822376?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/88/ba/57/88ba57e6-e453-59dd-4774-ec5aa93bb4ac/26CRGIM55757.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/71/76/187176c7-4427-87ff-a324-1ebeba535370/26CRGIM55757.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-08-07",
       "trackCount": 6,
@@ -3235,23 +3235,6 @@
       "tagline": null
     },
     {
-      "id": "6772255593",
-      "title": "Lost Media - EP",
-      "artist": "Mattstagraham",
-      "url": "https://music.apple.com/jp/album/lost-media-ep/6772255593?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/5e/06/1d5e062b-e5cd-89d8-59ba-a167db312cdc/656465240866_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-07",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Punk",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6793451233",
       "title": "Sequel to a dream - EP",
       "artist": "EBiDAN NEXT",
@@ -3402,6 +3385,23 @@
         "Music",
         "African",
         "Afro-folk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793316669",
+      "title": "PLACERES",
+      "artist": "ITHAN NY",
+      "url": "https://music.apple.com/jp/album/placeres/6793316669?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/b4/85/4bb48563-c377-6d9b-f5f5-ca6c255e86c1/1200214645304.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-06",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
