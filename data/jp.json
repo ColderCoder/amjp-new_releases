@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T10:00:26.288Z",
+  "generatedAt": "2026-08-07T18:00:28.110Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -404,7 +404,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6792375375",
@@ -667,7 +667,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6795303371",
@@ -3214,7 +3214,7 @@
         "Dance",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6796180759",
@@ -4722,7 +4722,7 @@
       "title": "LP Giobbi at Project Glow DC 2026 (DJ Mix)",
       "artist": "LP Giobbi",
       "url": "https://music.apple.com/jp/album/lp-giobbi-at-project-glow-dc-2026-dj-mix/6796480459?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/7a/65/7b7a65fc-cb6a-e32a-4204-ac56f8947df0/835a3336-abbd-428d-bfe1-d6b69319b0f0.png/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/ee/15/16ee15ed-bd36-8e66-178e-e7b4f536cf2d/baf8e0fa-3862-4936-9cbf-d7eaa364db8f.png/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-05-31",
       "trackCount": 14,
