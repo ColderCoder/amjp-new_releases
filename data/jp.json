@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T09:00:26.692Z",
+  "generatedAt": "2026-08-07T10:00:26.288Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -621,6 +621,23 @@
       "tagline": "New Album"
     },
     {
+      "id": "1890191303",
+      "title": "TANZNEID",
+      "artist": "Electric Callboy",
+      "url": "https://music.apple.com/jp/album/tanzneid/1890191303?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/91/36/66913614-1f7d-2e14-0d76-64c7998156cb/196872955576.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "1895183916",
       "title": "Rhombus",
       "artist": "Larry Goldings, Peter Bernstein & Bill Stewart",
@@ -748,6 +765,23 @@
         "Trance",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795418279",
+      "title": "Our Sticky Love (Soundtrack from the Netflix Series)",
+      "artist": "Various Artist",
+      "url": "https://music.apple.com/jp/album/our-sticky-love-soundtrack-from-the-netflix-series/6795418279?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/65/70/09657082-26c2-830a-f84a-de1f4334fb29/8800388635779_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-07",
+      "trackCount": 25,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Soundtrack"
       ],
       "tagline": null
     },
@@ -4788,23 +4822,6 @@
       "tagline": null
     },
     {
-      "id": "6794178359",
-      "title": "FURTHER Kingsnight 2026: Azucy (DJ Mix)",
-      "artist": "Azucy",
-      "url": "https://music.apple.com/jp/album/further-kingsnight-2026-azucy-dj-mix/6794178359?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/8f/8b/308f8b03-3c1b-c821-c1e9-96abb6beacec/59cf7a93-450f-4b13-8197-42661218275a.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-04-26",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6771105162",
       "title": "SYBER: BANGKOK 002, Genji (DJ Mix)",
       "artist": "Genji",
@@ -4879,24 +4896,6 @@
       "artist": "DiRGGA",
       "url": "https://music.apple.com/jp/album/syber-bali-dirgga-dj-mix/6783073127?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/4e/ec/674eec4e-73a7-515c-baa0-42f5c3325a55/a757514d-a98b-41a2-8183-0f07680fe1f6.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-04-04",
-      "trackCount": 31,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Brazilian",
-        "Baile Funk"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769868749",
-      "title": "SYBER: 016, IRMA (DJ Mix)",
-      "artist": "IRMA",
-      "url": "https://music.apple.com/jp/album/syber-016-irma-dj-mix/6769868749?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/f1/48/33f148f3-9a11-cae9-6616-fce581ae6484/7ebe97e2-c0a1-4cfd-ab76-450e90ef6130.png/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-04-04",
       "trackCount": 31,
