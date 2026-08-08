@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T21:00:26.487Z",
+  "generatedAt": "2026-08-08T07:00:26.361Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3319,6 +3319,23 @@
       "tagline": null
     },
     {
+      "id": "6772255593",
+      "title": "Lost Media - EP",
+      "artist": "Mattstagraham",
+      "url": "https://music.apple.com/jp/album/lost-media-ep/6772255593?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/5e/06/1d5e062b-e5cd-89d8-59ba-a167db312cdc/656465240866_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Punk",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6793451233",
       "title": "Sequel to a dream - EP",
       "artist": "EBiDAN NEXT",
@@ -4613,75 +4630,6 @@
       "tagline": null
     },
     {
-      "id": "6791026164",
-      "title": "Icchola",
-      "artist": "Nariaki & 5lack",
-      "url": "https://music.apple.com/jp/album/icchola/6791026164?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/66/b3/6566b3d8-611d-b273-81b4-d9f6b2a31315/4589596900100_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-01",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "R&B/Soul"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791174980",
-      "title": "The Most Undarated Peoples",
-      "artist": "MEGA-G, Greedy on ILLBLOCK & H.A.D.E.S on ILLBLOCK",
-      "url": "https://music.apple.com/jp/album/the-most-undarated-peoples/6791174980?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/f3/f6/1ef3f672-483b-38d0-ef91-9a5cdb371415/4550758643067_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-01",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "R&B/Soul"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6792994820",
-      "title": "Spacewalk - EP",
-      "artist": "MASHIRA",
-      "url": "https://music.apple.com/jp/album/%E8%87%AA%E7%94%B1%E9%A3%9B%E8%A1%8C-ep/6792994820?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/27/b4/9727b4cf-7d85-2f44-a0ab-1a2dd89e91b0/4500000085374.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-01",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783995188",
-      "title": "Green Canopy",
-      "artist": "Eric Hui-Ti Wang & Orchestra of The Household Division",
-      "url": "https://music.apple.com/jp/album/green-canopy/6783995188?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/20/9d/0e209d51-3180-a339-6714-d7d45e656e17/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-01",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Contemporary Era",
-        "Violin",
-        "Orchestral"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6796429670",
       "title": "Latin Disco Mix in New York: Jojo Lorenzo (DJ Mix)",
       "artist": "Jojo Lorenzo",
@@ -4822,6 +4770,23 @@
       "tagline": null
     },
     {
+      "id": "6794178359",
+      "title": "FURTHER Kingsnight 2026: Azucy (DJ Mix)",
+      "artist": "Azucy",
+      "url": "https://music.apple.com/jp/album/further-kingsnight-2026-azucy-dj-mix/6794178359?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/8f/8b/308f8b03-3c1b-c821-c1e9-96abb6beacec/59cf7a93-450f-4b13-8197-42661218275a.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-04-26",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Techno"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6771105162",
       "title": "SYBER: BANGKOK 002, Genji (DJ Mix)",
       "artist": "Genji",
@@ -4909,6 +4874,24 @@
       "tagline": null
     },
     {
+      "id": "6769868749",
+      "title": "SYBER: 016, IRMA (DJ Mix)",
+      "artist": "IRMA",
+      "url": "https://music.apple.com/jp/album/syber-016-irma-dj-mix/6769868749?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/f1/48/33f148f3-9a11-cae9-6616-fce581ae6484/7ebe97e2-c0a1-4cfd-ab76-450e90ef6130.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-04-04",
+      "trackCount": 31,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Brazilian",
+        "Baile Funk"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6768745422",
       "title": "SYBER: BALI, JUDO (DJ Mix)",
       "artist": "JUDO",
@@ -4974,6 +4957,23 @@
         "R&B/Soul",
         "Music",
         "Disco"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795745421",
+      "title": "Reloved: L'Affaire (DJ Mix)",
+      "artist": "Les Loups",
+      "url": "https://music.apple.com/jp/album/reloved-laffaire-dj-mix/6795745421?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/ab/11/27ab11c3-d13d-b15a-3818-9bb608ba1565/c95b86c4-6e2b-4264-8fb3-fab95fe3144c.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2016-01-14",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
       ],
       "tagline": null
     },
