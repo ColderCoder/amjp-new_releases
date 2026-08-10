@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T14:00:47.733Z",
+  "generatedAt": "2026-08-10T20:00:47.929Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3576,7 +3576,7 @@
     {
       "id": "6793316669",
       "title": "PLACERES",
-      "artist": "ITHAN NY",
+      "artist": "ITHAN NY & Young Weapon",
       "url": "https://music.apple.com/jp/album/placeres/6793316669?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/b4/85/4bb48563-c377-6d9b-f5f5-ca6c255e86c1/1200214645304.jpg/632x632bb.jpg",
       "explicit": true,
