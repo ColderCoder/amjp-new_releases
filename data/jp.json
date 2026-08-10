@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T07:00:47.781Z",
+  "generatedAt": "2026-08-10T14:00:47.733Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3880,7 +3880,7 @@
       "artist": "Rk-7",
       "url": "https://music.apple.com/jp/album/karma-dont-miss/6790325407?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/e8/93/aae8939c-a284-c928-790c-d91487efe28b/4500000085930.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-08-05",
       "trackCount": 9,
       "kind": "album",
