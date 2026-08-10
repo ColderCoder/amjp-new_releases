@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T07:00:26.361Z",
+  "generatedAt": "2026-08-10T07:00:47.781Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3336,6 +3336,90 @@
       "tagline": null
     },
     {
+      "id": "6796505185",
+      "title": "Armada Presents: Cedric Gervais French Touch (DJ Mix)",
+      "artist": "Cedric Gervais",
+      "url": "https://music.apple.com/jp/album/armada-presents-cedric-gervais-french-touch-dj-mix/6796505185?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/a9/8b/25a98bc9-f3bf-7da4-0f9a-10750330e6ae/f50fb9db-3a55-406d-8337-274f3bafce55.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-07",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6789681354",
+      "title": "CHARGE (feat. Amir Ziv, Tim Lefebvre, Jordan McLean & Adam Holzman)",
+      "artist": "Droid",
+      "url": "https://music.apple.com/jp/album/charge-feat-amir-ziv-tim-lefebvre-jordan-mclean-adam/6789681354?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/3f/d7/fe3fd7d2-a8b6-f8db-7deb-0c438398469e/820233864558.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-07",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778977176",
+      "title": "With Love // With Rage - EP",
+      "artist": "Initiate",
+      "url": "https://music.apple.com/jp/album/with-love-with-rage-ep/6778977176?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/bb/b7/e0bbb727-5547-67b6-5b67-46f92bd2aa5f/820233568746.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Punk",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6776641737",
+      "title": "Jetz is auch egal",
+      "artist": "Excrementory Grindfuckers",
+      "url": "https://music.apple.com/jp/album/jetz-is-auch-egal/6776641737?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/1c/ec/441cecb2-0d58-9288-ffa5-2d7f682b8f31/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 25,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788814314",
+      "title": "Let The Country Music Play - EP",
+      "artist": "LOCASH",
+      "url": "https://music.apple.com/jp/album/let-the-country-music-play-ep/6788814314?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/0f/14/fb0f148d-4a93-46fd-6069-390c8d360bf4/4761.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-07",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music",
+        "Contemporary Country"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6793451233",
       "title": "Sequel to a dream - EP",
       "artist": "EBiDAN NEXT",
@@ -4464,118 +4548,19 @@
       "tagline": null
     },
     {
-      "id": "6782032198",
-      "title": "Flower Road - EP",
-      "artist": "ME:I",
-      "url": "https://music.apple.com/jp/album/flower-road-ep/6782032198?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/e3/d1/e1e3d121-d5ad-4da1-6fc9-554d2e03a4a3/26UMGIM65106.rgb.jpg/632x632bb.jpg",
+      "id": "6788373361",
+      "title": "Drift",
+      "artist": "Mobile Mother",
+      "url": "https://music.apple.com/jp/album/drift/6788373361?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/ee/e3/a6eee3b3-43a9-8bb0-7343-69cc6e8084da/8718723324601.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-03",
-      "trackCount": 4,
+      "releaseDate": "2026-08-04",
+      "trackCount": 8,
       "kind": "album",
       "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793206473",
-      "title": "New Game - EP",
-      "artist": "ziproom",
-      "url": "https://music.apple.com/jp/album/new-game-ep/6793206473?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/ac/b9/27acb98a-7834-1eee-7b41-4c988df8728e/4550758833390_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-03",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
+        "Dance",
         "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791895618",
-      "title": "Introduction to SOUL'd OUT",
-      "artist": "SOUL'd OUT",
-      "url": "https://music.apple.com/jp/album/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AEsould-out/6791895618?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/2f/8d/012f8dfd-c4c1-1a46-8592-daacc02f0661/4547366841671.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-03",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789051656",
-      "title": "Magic (Remixes) - EP",
-      "artist": "3SKM",
-      "url": "https://music.apple.com/jp/album/magic-remixes-ep/6789051656?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/8a/ab/738aab1d-0785-03ea-d38c-dc09b9f50d35/4580789775734.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-03",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796147520",
-      "title": "Gilboard",
-      "artist": "Picheolin",
-      "url": "https://music.apple.com/jp/album/gilboard/6796147520?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/73/58/2f73587c-6562-8634-256a-86f8abb222f3/26UM1IM00056.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-03",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789493483",
-      "title": "Mukyo no Akari",
-      "artist": "Yuu Miyashita",
-      "url": "https://music.apple.com/jp/album/%E7%84%A1%E7%96%86%E3%81%AE%E7%81%AF/6789493483?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/5d/b6/925db655-3f12-cc84-8a96-8130c2c0f478/28184.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-03",
-      "trackCount": 27,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6794291724",
-      "title": "Velvet Summer - Summer Mini Album - EP",
-      "artist": "Red Velvet",
-      "url": "https://music.apple.com/jp/album/velvet-summer-summer-mini-album-ep/6794291724?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/cd/10/bccd1053-e9f5-cbff-1cfd-23f83b726c99/888735956256.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-03",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
+        "House"
       ],
       "tagline": null
     },
@@ -4614,18 +4599,19 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6785309630",
-      "title": "Subversão Kafka Trilha Sonora Original",
-      "artist": "Fernando Moura",
-      "url": "https://music.apple.com/jp/album/subvers%C3%A3o-kafka-trilha-sonora-original/6785309630?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/4e/91/c14e916d-2fe0-2b57-e67e-d197b42db71d/0631685082915.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-03",
-      "trackCount": 16,
+      "id": "6791708331",
+      "title": "Decent Behaviour Radio, Ep. 18 (DJ Mix)",
+      "artist": "YouNotUs",
+      "url": "https://music.apple.com/jp/album/decent-behaviour-radio-ep-18-dj-mix/6791708331?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/64/08/ed640859-4aba-045a-a398-da3be07425e0/089c15fe-6f1c-40d0-87c0-bfee14ce66e8.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-02",
+      "trackCount": 19,
       "kind": "album",
       "genres": [
-        "Instrumental",
-        "Music"
+        "Dance",
+        "Music",
+        "House"
       ],
       "tagline": null
     },
@@ -4900,6 +4886,24 @@
       "explicit": true,
       "releaseDate": "2026-03-29",
       "trackCount": 41,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Brazilian",
+        "Baile Funk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6768766292",
+      "title": "SYBER: BALI, TKYO (DJ Mix)",
+      "artist": "TKYO",
+      "url": "https://music.apple.com/jp/album/syber-bali-tkyo-dj-mix/6768766292?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/36/d0/3736d00f-90e8-0101-89fb-8758edf861f9/719487b0-0812-409d-85b2-4d1fe9a236c3.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-03-29",
+      "trackCount": 34,
       "kind": "album",
       "genres": [
         "Dance",
