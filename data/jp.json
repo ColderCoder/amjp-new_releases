@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:00:25.824Z",
+  "generatedAt": "2026-08-11T07:00:24.330Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3420,6 +3420,74 @@
       "tagline": null
     },
     {
+      "id": "6796517743",
+      "title": "FHM Mixlab: Eleganto (DJ Mix)",
+      "artist": "Eleganto",
+      "url": "https://music.apple.com/jp/album/fhm-mixlab-eleganto-dj-mix/6796517743?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/81/2f/c8812f1d-5d27-b7f2-b17c-7139736382d2/d7a5776d-0fd1-4a2d-9a2d-0ee78660e53e.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1891768339",
+      "title": "Crude Exhibitions of the Soul",
+      "artist": "Flowers Of Rust",
+      "url": "https://music.apple.com/jp/album/crude-exhibitions-of-the-soul/1891768339?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/ae/16/f8ae1668-2954-f003-26be-9471b2c79630/820200558329.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-07",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783367473",
+      "title": "Underground Heresy",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/underground-heresy/6783367473?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/8e/33/0e8e330d-3b57-e9bc-1dc4-c67be34920ef/cover_10364711.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 24,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773554400",
+      "title": "God: Out Of Order",
+      "artist": "Dead Best",
+      "url": "https://music.apple.com/jp/album/god-out-of-order/6773554400?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/cc/23/28cc23e4-d71a-217d-a8dd-75d80475040f/127649.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Punk",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6793451233",
       "title": "Sequel to a dream - EP",
       "artist": "EBiDAN NEXT",
@@ -4450,70 +4518,6 @@
       "tagline": null
     },
     {
-      "id": "6791381097",
-      "title": "FAMIEN'26 e.p. - EP",
-      "artist": "Shiritsu Ebisu Chugaku",
-      "url": "https://music.apple.com/jp/album/famien26-e-p-ep/6791381097?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/19/ca/7419ca57-07d2-ade9-6764-fbed7088d6f7/4547366840773.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-04",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798146444",
-      "title": "MORNING DEW (DONK) REMIX PACK - EP",
-      "artist": "Beyoncé",
-      "url": "https://music.apple.com/jp/album/morning-dew-donk-remix-pack-ep/6798146444?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/56/2a/cc562a9d-cfb7-e198-eb5f-17cfc00280cc/196874652756.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-04",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796800353",
-      "title": "Live at Apple Music Radio",
-      "artist": "Sleeping With Sirens",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6796800353?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/d7/92/36d7929c-f9d5-aba3-144f-8783c22db987/4099964285680.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-04",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
-      "id": "6776752007",
-      "title": "Catch n' Release - EP",
-      "artist": "Fana Hues",
-      "url": "https://music.apple.com/jp/album/catch-n-release-ep/6776752007?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/49/97/6b49976b-22f9-6504-97e8-32083a3528ce/5059449350899.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-04",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
       "id": "6766644371",
       "title": "MoodToMove: Ape Drums (DJ Mix)",
       "artist": "Ape Drums",
@@ -4522,40 +4526,6 @@
       "explicit": true,
       "releaseDate": "2026-08-04",
       "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783365932",
-      "title": "In the Smoke - EP",
-      "artist": "Stellar Circuits",
-      "url": "https://music.apple.com/jp/album/in-the-smoke-ep/6783365932?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/7c/79/737c796a-c043-54a4-2135-885d9748979a/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-04",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788373361",
-      "title": "Drift",
-      "artist": "Mobile Mother",
-      "url": "https://music.apple.com/jp/album/drift/6788373361?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/ee/e3/a6eee3b3-43a9-8bb0-7343-69cc6e8084da/8718723324601.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-04",
-      "trackCount": 8,
       "kind": "album",
       "genres": [
         "Dance",
@@ -4630,6 +4600,23 @@
         "Music",
         "R&B/Soul",
         "Disco"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6794501869",
+      "title": "Volaria Radio 006: Live at Sonance Festival Afterparty, Pixel Ankara, Jul 5, 2026 (DJ Mix)",
+      "artist": "Minstrel",
+      "url": "https://music.apple.com/jp/album/volaria-radio-006-live-at-sonance-festival-afterparty/6794501869?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/e0/f1/31e0f182-c99c-9f5f-81a0-82df8889d783/565b7113-c90b-4560-a1c9-9437fce4a92e.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-05",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Techno",
+        "Music",
+        "Dance"
       ],
       "tagline": null
     },
@@ -4961,6 +4948,23 @@
         "R&B/Soul",
         "Music",
         "Disco"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796409303",
+      "title": "Reloved: Solé (DJ Mix)",
+      "artist": "Les Loups",
+      "url": "https://music.apple.com/jp/album/reloved-sol%C3%A9-dj-mix/6796409303?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/93/63/9c936327-daf2-12c0-06c0-5f3a16e0cdfa/0a20ce94-7f4c-4afe-aaeb-38c66f95fa2c.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2016-11-24",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
       ],
       "tagline": null
     },
