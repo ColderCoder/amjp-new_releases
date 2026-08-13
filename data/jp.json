@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T22:01:04.277Z",
+  "generatedAt": "2026-08-13T23:01:01.127Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -583,7 +583,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6794487681",
@@ -680,7 +680,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6790598985",
@@ -777,7 +777,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6791366482",
@@ -3168,7 +3168,7 @@
         "Music",
         "Pop"
       ],
-      "tagline": null
+      "tagline": "New Live Album"
     },
     {
       "id": "6785824671",
@@ -3651,23 +3651,6 @@
       "tagline": null
     },
     {
-      "id": "6791344427",
-      "title": "Clubdance2026 II - EP",
-      "artist": "The Trip",
-      "url": "https://music.apple.com/jp/album/clubdance2026-ii-ep/6791344427?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/0d/9d/820d9dc5-1c4a-5f49-667e-a15b5c816ac8/5050580879317.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-14",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6791162279",
       "title": "My Brilliant Career (Songs from the Netflix Series)",
       "artist": "My Brilliant Career - Cast, Kate Miller-Heidke & Thelma Plum",
@@ -3894,6 +3877,22 @@
       "kind": "album",
       "genres": [
         "Country",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6797832642",
+      "title": "STAMMTISCHPAROLEN",
+      "artist": "Tream & treamiboii",
+      "url": "https://music.apple.com/jp/album/stammtischparolen/6797832642?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/5c/4a/6e5c4ab4-f1f6-a0f2-7826-9d7871624f2b/26UMGIM39497.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-13",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
         "Music"
       ],
       "tagline": null
