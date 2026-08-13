@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T20:01:01.755Z",
+  "generatedAt": "2026-08-13T21:01:04.150Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -47,7 +47,7 @@
       "title": "Sunshine",
       "artist": "Jungle",
       "url": "https://music.apple.com/jp/album/sunshine/1886730527?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/19/d4/a419d480-9660-53bc-965e-9e4ffa0b270e/820200658401.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/75/83/44758343-2f7e-aafa-e704-c3cafa996443/820200658401.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-08-14",
       "trackCount": 11,
@@ -122,7 +122,7 @@
         "Latin",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1895339553",
@@ -535,7 +535,7 @@
         "Music",
         "Alternative"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6795999520",
@@ -3006,6 +3006,22 @@
       "tagline": null
     },
     {
+      "id": "6794093730",
+      "title": "WEIRDO",
+      "artist": "Metth",
+      "url": "https://music.apple.com/jp/album/weirdo/6794093730?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/95/4a/71954adb-582f-c6db-377d-d67f164b7422/26UMGIM94813.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6783024929",
       "title": "Top Rank Reggae Vault - EP",
       "artist": "Ed Robinson & Jack Radics",
@@ -3102,7 +3118,7 @@
         "Dance",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album "
     },
     {
       "id": "6773338421",
@@ -3898,22 +3914,6 @@
         "Electronic"
       ],
       "tagline": null
-    },
-    {
-      "id": "6796435108",
-      "title": "That Ain't You - EP",
-      "artist": "Mulaa Joans",
-      "url": "https://music.apple.com/jp/album/that-aint-you-ep/6796435108?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/84/79/2c847994-5187-0fbc-6d35-02b7f0af6609/075679562890.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-13",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "New EP"
     },
     {
       "id": "6796485212",
