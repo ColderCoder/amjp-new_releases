@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:01:02.416Z",
+  "generatedAt": "2026-08-13T07:01:03.425Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -8,7 +8,7 @@
   "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
-  "itemCount": 300,
+  "itemCount": 285,
   "items": [
     {
       "id": "6787013967",
@@ -4096,70 +4096,74 @@
       "tagline": "New Album"
     },
     {
-      "id": "6793451233",
-      "title": "Sequel to a dream - EP",
-      "artist": "EBiDAN NEXT",
-      "url": "https://music.apple.com/jp/album/%E5%A4%A2%E3%81%AE%E3%81%A4%E3%81%A5%E3%81%8D-ep/6793451233?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/33/9b/f3339b97-c229-1bdd-acef-a607706c8770/4580789778933.png/632x632bb.jpg",
+      "id": "1895049427",
+      "title": "How drie a Cinder",
+      "artist": "Beacon",
+      "url": "https://music.apple.com/jp/album/how-drie-a-cinder/1895049427?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/30/5e/32305e2f-d506-10b9-b7a5-5108f9496b54/824296381076_cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 4,
+      "releaseDate": "2026-08-07",
+      "trackCount": 12,
       "kind": "album",
       "genres": [
-        "J-Pop",
-        "Music"
+        "Electronica",
+        "Music",
+        "Electronic"
       ],
       "tagline": null
     },
     {
-      "id": "6793349259",
-      "title": "kannazuki",
-      "artist": "kf13",
-      "url": "https://music.apple.com/jp/album/kannazuki/6793349259?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/ab/da/adabda90-4eff-e839-c0aa-15b418ee697e/4500000085350.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 7,
+      "id": "6797579589",
+      "title": "Icon (Director's Cut)",
+      "artist": "Brent Faiyaz",
+      "url": "https://music.apple.com/jp/album/icon-directors-cut/6797579589?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/52/e4/8d52e477-d687-1c18-0c79-6b83a70f25e0/881392867507.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 15,
       "kind": "album",
       "genres": [
+        "R&B/Soul",
+        "Music",
+        "Pop"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6790563116",
+      "title": "Dragon's Breath",
+      "artist": "Inspectah Deck & Wu-Tang Clan",
+      "url": "https://music.apple.com/jp/album/dragons-breath/6790563116?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/ca/b4/e5cab488-2ff7-8f36-cb4e-d12195d8d41d/cover_4062851327213.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-07",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "East Coast Rap",
+        "Music",
         "Hip-Hop/Rap",
+        "Hip-Hop"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6781275336",
+      "title": "tiarn",
+      "artist": "Hana Stretton",
+      "url": "https://music.apple.com/jp/album/tiarn/6781275336?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/cb/80/92cb80d8-d185-2ec6-7966-cb0ac784da21/465985.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-07",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Folk",
         "Music",
         "Electronic",
         "Ambient"
       ],
       "tagline": null
-    },
-    {
-      "id": "6791069924",
-      "title": "つば男ベスト",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/%E3%81%A4%E3%81%B0%E7%94%B7%E3%83%99%E3%82%B9%E3%83%88/6791069924?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/37/75/5637758d-6327-167d-d275-6983e8adea40/4582731552035.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 21,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789672587",
-      "title": "Mi Carpe Diem - EP",
-      "artist": "De La Rose",
-      "url": "https://music.apple.com/jp/album/mi-carpe-diem-ep/6789672587?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/12/ae/5612ae6e-34a4-786e-4a66-c3555e88eb72/1200214480226.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-06",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": "New EP"
     },
     {
       "id": "6796482352",
@@ -4181,23 +4185,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "1894329651",
-      "title": "Hell Bent - EP",
-      "artist": "SKIRT.",
-      "url": "https://music.apple.com/jp/album/hell-bent-ep/1894329651?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/ad/5f/4ead5f74-38fd-aea0-3fc4-f8742eb07fa6/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-06",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Punk",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6793627400",
       "title": "Beats In Space 218: Yung Singh (DJ Mix)",
       "artist": "Yung Singh",
@@ -4215,109 +4202,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6783965355",
-      "title": "NADIR",
-      "artist": "Eix",
-      "url": "https://music.apple.com/jp/album/nadir/6783965355?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/b5/c1/aeb5c1cd-c50a-0cc1-87c4-acbbb811ef2a/1200214423025.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-06",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6792291662",
-      "title": "Detox (Deluxe)",
-      "artist": "Ṣẹwà",
-      "url": "https://music.apple.com/jp/album/detox-deluxe/6792291662?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/2f/e7/dd2fe7c1-0e86-6429-5761-35ea4b511806/5064021395632_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Afro Soul",
-        "Music",
-        "African",
-        "Afro-folk"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793316669",
-      "title": "PLACERES",
-      "artist": "ITHAN NY & Young Weapon",
-      "url": "https://music.apple.com/jp/album/placeres/6793316669?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/b4/85/4bb48563-c377-6d9b-f5f5-ca6c255e86c1/1200214645304.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-06",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6768296577",
-      "title": "Who Pays The Piper? - EP",
-      "artist": "Zach Thompson",
-      "url": "https://music.apple.com/jp/album/who-pays-the-piper-ep/6768296577?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/77/12/9077125b-22d1-b4c1-b3f8-c1d1808b4931/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Vocal",
-        "Music",
-        "Singer/Songwriter"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795647275",
-      "title": "Dejando Huella (En Vivo)",
-      "artist": "Julián Mercado",
-      "url": "https://music.apple.com/jp/album/dejando-huella-en-vivo/6795647275?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/c2/6b/f1c26ba7-701a-603a-a762-21773a5dcfee/820233851169.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-06",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776279599",
-      "title": "She Got It Wrong - EP",
-      "artist": "Redrago, DJ Tennis & Red Axes",
-      "url": "https://music.apple.com/jp/album/she-got-it-wrong-ep/6776279599?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/d0/1d/38d01d36-dc0d-7a20-ca13-a18977435136/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6795662240",
       "title": "INTO.ORBIT 012: Mike D, August 2026 (DJ Mix)",
       "artist": "Mike D",
@@ -4332,23 +4216,6 @@
         "Music",
         "Dance",
         "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789522769",
-      "title": "EYE COME - EP",
-      "artist": "Shin Nishimura",
-      "url": "https://music.apple.com/jp/album/eye-come-ep/6789522769?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/17/00/ce1700b0-ffa8-f2b7-e236-10ae750aa73d/8718723324366.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
       ],
       "tagline": null
     },
@@ -4383,128 +4250,6 @@
         "Electronic",
         "Music",
         "Ambient"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1894047532",
-      "title": "Molotov Nights",
-      "artist": "The Iron Roses",
-      "url": "https://music.apple.com/jp/album/molotov-nights/1894047532?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/7e/e9/327ee921-9a09-11e1-9eed-f664818a27bf/820233083003.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-06",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Punk",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786797892",
-      "title": "Inland Concrete - EP",
-      "artist": "The Pigeon",
-      "url": "https://music.apple.com/jp/album/inland-concrete-ep/6786797892?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/02/13/a102133d-b7fc-8abf-169c-caf1889e77d2/4070209007854_3000.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 2,
-      "kind": "album",
-      "genres": [
-        "Techno",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6797924406",
-      "title": "La Bachata Volvió",
-      "artist": "Dalvin La Melodia",
-      "url": "https://music.apple.com/jp/album/la-bachata-volvi%C3%B3/6797924406?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/07/d0/0107d0df-020a-9b50-21b2-81f31a271f44/881453506222_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Música tropical",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6796242182",
-      "title": "Álbum Vermelho",
-      "artist": "Julia Guedes",
-      "url": "https://music.apple.com/jp/album/%C3%A1lbum-vermelho/6796242182?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/d8/32/e4d832ef-0521-ac54-2145-f74e61122fcc/885288108897.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "MPB",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791311831",
-      "title": "Os Pagodes Que a Gente Gosta, Vol. 3 (Pt. 2) [Ao Vivo]",
-      "artist": "Renan Oliveira",
-      "url": "https://music.apple.com/jp/album/os-pagodes-que-a-gente-gosta-vol-3-pt-2-ao-vivo/6791311831?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/7b/de/ca7bdeba-956d-e834-1d08-8407dfb0555c/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Pagode",
-        "Music",
-        "Brazilian",
-        "Samba"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6794110013",
-      "title": "Alemão do Cavaco - Samba para Todos, Pt. 1 (Ao Vivo)",
-      "artist": "Alemão do Cavaco",
-      "url": "https://music.apple.com/jp/album/alem%C3%A3o-do-cavaco-samba-para-todos-pt-1-ao-vivo/6794110013?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/cd/84/f4cd84c4-3d2a-58db-d9d2-4b73422ab8c8/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Samba",
-        "Music",
-        "Brazilian",
-        "Pagode"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788947448",
-      "title": "ELOS III - EP",
-      "artist": "Devasto prod",
-      "url": "https://music.apple.com/jp/album/elos-iii-ep/6788947448?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/f7/28/72f72841-fdd7-b03f-5684-8810e36a8a5c/1200214516741.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-06",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Brazilian",
-        "Music",
-        "Hip-Hop/Rap",
-        "Rap"
       ],
       "tagline": null
     },
