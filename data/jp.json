@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T18:01:04.979Z",
+  "generatedAt": "2026-08-13T19:01:01.795Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -552,22 +552,6 @@
       "kind": "album",
       "genres": [
         "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6799997755",
-      "title": "Chiikawa the Movie: The Secret of Mermaid Island (Original Motion Picture Soundtrack)",
-      "artist": "Shugo Tokumaru",
-      "url": "https://music.apple.com/jp/album/chiikawa-the-movie-the-secret-of-mermaid/6799997755?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/86/d2/7e86d2c0-3c20-2d65-1c2f-163950cff637/196874641200.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-14",
-      "trackCount": 52,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
         "Music"
       ],
       "tagline": null
@@ -2478,7 +2462,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1892163917",
@@ -3665,6 +3649,22 @@
         "Latin"
       ],
       "tagline": null
+    },
+    {
+      "id": "6796435108",
+      "title": "That Ain't You - EP",
+      "artist": "Mulaa Joans",
+      "url": "https://music.apple.com/jp/album/that-aint-you-ep/6796435108?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/84/79/2c847994-5187-0fbc-6d35-02b7f0af6609/075679562890.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-13",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": "New EP"
     },
     {
       "id": "6796435419",
