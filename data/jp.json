@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T21:01:04.150Z",
+  "generatedAt": "2026-08-13T22:01:04.277Z",
   "source": "https://music.apple.com/jp/room/6798892428?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6798892428?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -335,7 +335,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1886659674",
@@ -2212,7 +2212,7 @@
         "Music",
         "Hip-Hop/Rap"
       ],
-      "tagline": null
+      "tagline": "New Release"
     },
     {
       "id": "6776693301",
@@ -3562,7 +3562,7 @@
         "Music",
         "Latin"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6791994353",
@@ -3668,24 +3668,6 @@
       "tagline": null
     },
     {
-      "id": "6773163685",
-      "title": "Schubert: Die schöne Müllerin",
-      "artist": "Georg Nigl & Alexander Gergelyfi",
-      "url": "https://music.apple.com/jp/album/schubert-die-sch%C3%B6ne-m%C3%BCllerin/6773163685?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/4d/f1/cf4df1b4-4cf3-717c-ea9d-7356b4edc0cb/3701624512524.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-14",
-      "trackCount": 25,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Art Song",
-        "Romantic Era"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6791162279",
       "title": "My Brilliant Career (Songs from the Netflix Series)",
       "artist": "My Brilliant Career - Cast, Kate Miller-Heidke & Thelma Plum",
@@ -3699,7 +3681,7 @@
         "Soundtrack",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Soundtrack"
     },
     {
       "id": "6797636954",
@@ -3813,6 +3795,24 @@
       "genres": [
         "Soundtrack",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796752726",
+      "title": "True To The Bone - EP",
+      "artist": "Cock Sparrer & Die Toten Hosen",
+      "url": "https://music.apple.com/jp/album/true-to-the-bone-ep/6796752726?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/0c/a5/200ca5f4-b367-49ad-32aa-b656671c5c10/1200214680701.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-13",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Alternative",
+        "Punk"
       ],
       "tagline": null
     },
