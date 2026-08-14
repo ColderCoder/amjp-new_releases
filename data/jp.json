@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T10:01:02.106Z",
+  "generatedAt": "2026-08-14T22:01:03.912Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2989,7 +2989,7 @@
       "artist": "Rsieh Raxan",
       "url": "https://music.apple.com/jp/album/underdog-superstar/6797636954?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/54/e1/c554e117-9a37-40d3-b2e0-cfed99f7ba7e/808391396951.jpg/632x632bb.jpg",
-      "explicit": true,
+      "explicit": false,
       "releaseDate": "2026-08-13",
       "trackCount": 13,
       "kind": "album",
