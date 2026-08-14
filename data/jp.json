@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T09:01:01.868Z",
+  "generatedAt": "2026-08-14T10:01:02.106Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -142,7 +142,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6777173608",
@@ -502,24 +502,6 @@
         "Music"
       ],
       "tagline": "New Album and Interview"
-    },
-    {
-      "id": "6793589888",
-      "title": "The Grinning Man - Single",
-      "artist": "loveyouinthemorning",
-      "url": "https://music.apple.com/jp/album/the-grinning-man-single/6793589888?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/73/77/f07377c5-a125-7d5a-b8c1-421dac236f0f/5059449401591.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-14",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Alternative Rap",
-        "Music",
-        "Hip-Hop/Rap",
-        "Electronic"
-      ],
-      "tagline": null
     },
     {
       "id": "6795877697",
@@ -3919,22 +3901,6 @@
       "tagline": null
     },
     {
-      "id": "6795004897",
-      "title": "Helldivers 2: Tracks of Tyranny (Original Game Soundtrack EP) - Single",
-      "artist": "Wilbert Roget, II",
-      "url": "https://music.apple.com/jp/album/helldivers-2-tracks-of-tyranny-original-game/6795004897?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/51/a1/b851a1f0-4140-3cf0-1f56-bf78f339d3d3/196874582855.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-12",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6796010078",
       "title": "PATH 2 PARADISE",
       "artist": "Pnut2Playa",
@@ -4150,6 +4116,39 @@
         "Electronic"
       ],
       "tagline": null
+    },
+    {
+      "id": "6798865106",
+      "title": "G LOVE 3 (LADO A)",
+      "artist": "Gianluca",
+      "url": "https://music.apple.com/jp/album/g-love-3-lado-a/6798865106?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/5c/0b/bf5c0b9c-9bc6-f111-1d11-56d7fa5d9329/1200214785642.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-12",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Alternative Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796875223",
+      "title": "Put On A Record Tommy (Deluxe)",
+      "artist": "Tom A. Smith",
+      "url": "https://music.apple.com/jp/album/put-on-a-record-tommy-deluxe/6796875223?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/00/d1/ff00d1d3-f233-11da-4b28-9db20f3cc1d4/823375332589_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-12",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Singer/Songwriter",
+        "Music"
+      ],
+      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6795738103",
