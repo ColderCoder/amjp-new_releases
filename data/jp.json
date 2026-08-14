@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T04:01:03.671Z",
+  "generatedAt": "2026-08-14T05:01:01.937Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -145,6 +145,22 @@
       "tagline": null
     },
     {
+      "id": "6777173608",
+      "title": "PROLIFIC",
+      "artist": "Nipsey Hussle & Bino Rideaux",
+      "url": "https://music.apple.com/jp/album/prolific/6777173608?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/e7/aa/cce7aa9e-e8b2-69e6-b0a8-11f000ded002/075679583314.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Release"
+    },
+    {
       "id": "1886730527",
       "title": "Sunshine",
       "artist": "Jungle",
@@ -243,6 +259,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "6796878855",
+      "title": "NDA",
+      "artist": "Trippie Redd",
+      "url": "https://music.apple.com/jp/album/nda/6796878855?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/2d/e8/b12de8a0-9ed3-419d-2893-798ca0c542a5/075679562470.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 25,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "1895866355",
       "title": "Black Mozart",
       "artist": "Jon Batiste",
@@ -291,6 +323,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6789650828",
+      "title": "Camp Rock 3 (Original Soundtrack)",
+      "artist": "Camp Rock – Cast",
+      "url": "https://music.apple.com/jp/album/camp-rock-3-original-soundtrack/6789650828?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/6b/ed/206beddb-893a-9038-89a9-fbf9b5fd20c7/26UMGIM84808.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": "New Soundtrack"
     },
     {
       "id": "6778961354",
@@ -2872,23 +2920,6 @@
       "tagline": null
     },
     {
-      "id": "6786382278",
-      "title": "Spice of Italy",
-      "artist": "Duo Dorado",
-      "url": "https://music.apple.com/jp/album/spice-of-italy/6786382278?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/03/35/b90335af-585f-505e-1037-bf7e81d9ef96/0095115083123.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-14",
-      "trackCount": 32,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Chamber Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6789456238",
       "title": "STILL BRIGHT : A Riddim and Flowers for My Bro - EP",
       "artist": "G-Conkarah",
@@ -4102,39 +4133,6 @@
         "Electronic"
       ],
       "tagline": null
-    },
-    {
-      "id": "6798865106",
-      "title": "G LOVE 3 (LADO A)",
-      "artist": "Gianluca",
-      "url": "https://music.apple.com/jp/album/g-love-3-lado-a/6798865106?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/5c/0b/bf5c0b9c-9bc6-f111-1d11-56d7fa5d9329/1200214785642.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-12",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Alternative Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796875223",
-      "title": "Put On A Record Tommy (Deluxe)",
-      "artist": "Tom A. Smith",
-      "url": "https://music.apple.com/jp/album/put-on-a-record-tommy-deluxe/6796875223?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/00/d1/ff00d1d3-f233-11da-4b28-9db20f3cc1d4/823375332589_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-12",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music"
-      ],
-      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6795738103",
