@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T03:00:59.951Z",
+  "generatedAt": "2026-08-14T04:01:03.671Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -896,6 +896,23 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6797945605",
+      "title": "APOCALIPTO",
+      "artist": "Kendo Kaponi",
+      "url": "https://music.apple.com/jp/album/apocalipto/6797945605?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/3c/ad/6b3cad5a-d894-298e-3605-6a332395d390/196873699301.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "1892919182",
@@ -2868,24 +2885,6 @@
         "Classical",
         "Music",
         "Chamber Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773504051",
-      "title": "Auber: Overtures, Vol. 9",
-      "artist": "Janáček Philharmonic Orchestra & Dario Salvi",
-      "url": "https://music.apple.com/jp/album/auber-overtures-vol-9/6773504051?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/1a/b0/9d1ab0d8-f25f-0d40-1490-b286f29ec64a/747313472376.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-14",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Romantic Era",
-        "Orchestral"
       ],
       "tagline": null
     },
