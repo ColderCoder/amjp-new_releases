@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T00:01:01.287Z",
+  "generatedAt": "2026-08-14T01:01:01.082Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -192,7 +192,7 @@
         "Music",
         "African"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6791394852",
@@ -403,7 +403,7 @@
         "Music",
         "Alternative"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6767680507",
@@ -420,7 +420,7 @@
         "Music",
         "Pop"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6771390419",
@@ -766,7 +766,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6778031933",
@@ -1210,7 +1210,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6796067836",
@@ -1526,6 +1526,23 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6798374386",
+      "title": "Huellas En El Camino",
+      "artist": "Ricardo Murillo",
+      "url": "https://music.apple.com/jp/album/huellas-en-el-camino/6798374386?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/35/29/d635297f-ef54-ab75-bd7a-198ddcf87062/26UMGIM90836.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
     },
     {
       "id": "6770627913",
@@ -2786,6 +2803,23 @@
       "tagline": "New Album"
     },
     {
+      "id": "6796447132",
+      "title": "Pvta Fama",
+      "artist": "Angel Cervantes",
+      "url": "https://music.apple.com/jp/album/pvta-fama/6796447132?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/ea/2d/23ea2d48-6418-48b8-d001-c1a431f25244/26UMGIM86546.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6786723114",
       "title": "Reggae Classics",
       "artist": "Delroy Wilson",
@@ -2852,55 +2886,6 @@
         "Music",
         "Romantic Era",
         "Orchestral"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786379615",
-      "title": "Superelastico",
-      "artist": "Marquess",
-      "url": "https://music.apple.com/jp/album/superelastico/6786379615?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/1c/b7/261cb772-7eab-7474-457b-7b6ba2c3eed6/820233949804.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-14",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778303906",
-      "title": "we are the champions (ambient version) - EP",
-      "artist": "stillsilent",
-      "url": "https://music.apple.com/jp/album/we-are-the-champions-ambient-version-ep/6778303906?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/e4/74/84e47475-1fc5-cd82-075d-069a271589ca/5064010887766_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-14",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "New Age"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769786404",
-      "title": "Quiet Fire Extended",
-      "artist": "Dave Stapleton",
-      "url": "https://music.apple.com/jp/album/quiet-fire-extended/6769786404?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/e5/72/01e5729b-1f91-4178-59b8-5bf84921e2a0/820233312745.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-14",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
       ],
       "tagline": null
     },
@@ -3017,6 +3002,23 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6796851702",
+      "title": "Renacer",
+      "artist": "Edgardo Nuñez",
+      "url": "https://music.apple.com/jp/album/renacer/6796851702?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/6b/34/2b6b34b0-a3c5-1002-5333-4ec84f0d0f22/1200214738068.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-13",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6783407666",
