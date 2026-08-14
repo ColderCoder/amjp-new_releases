@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:01:01.937Z",
+  "generatedAt": "2026-08-14T07:01:03.220Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2920,6 +2920,23 @@
       "tagline": null
     },
     {
+      "id": "6786382278",
+      "title": "Spice of Italy",
+      "artist": "Duo Dorado",
+      "url": "https://music.apple.com/jp/album/spice-of-italy/6786382278?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/03/35/b90335af-585f-505e-1037-bf7e81d9ef96/0095115083123.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 32,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6789456238",
       "title": "STILL BRIGHT : A Riddim and Flowers for My Bro - EP",
       "artist": "G-Conkarah",
@@ -4640,24 +4657,6 @@
         "Bass"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6788598839",
-      "title": "FROM DARKNESS, COMES LIGHT",
-      "artist": "Deathpact",
-      "url": "https://music.apple.com/jp/album/from-darkness-comes-light/6788598839?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/7d/ae/6f7dae94-73ea-d8dc-e3bd-db19d078d488/1200214472832.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-07",
-      "trackCount": 26,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic",
-        "Dubstep"
-      ],
-      "tagline": null
     },
     {
       "id": "6796038700",
