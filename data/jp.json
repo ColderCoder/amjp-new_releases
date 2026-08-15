@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:01:00.522Z",
+  "generatedAt": "2026-08-15T07:01:00.695Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2919,6 +2919,105 @@
       "tagline": null
     },
     {
+      "id": "6773504051",
+      "title": "Auber: Overtures, Vol. 9",
+      "artist": "Janáček Philharmonic Orchestra & Dario Salvi",
+      "url": "https://music.apple.com/jp/album/auber-overtures-vol-9/6773504051?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/1a/b0/9d1ab0d8-f25f-0d40-1490-b286f29ec64a/747313472376.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Romantic Era",
+        "Orchestral"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786379615",
+      "title": "Superelastico",
+      "artist": "Marquess",
+      "url": "https://music.apple.com/jp/album/superelastico/6786379615?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/1c/b7/261cb772-7eab-7474-457b-7b6ba2c3eed6/820233949804.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778303906",
+      "title": "we are the champions (ambient version) - EP",
+      "artist": "stillsilent",
+      "url": "https://music.apple.com/jp/album/we-are-the-champions-ambient-version-ep/6778303906?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/e4/74/84e47475-1fc5-cd82-075d-069a271589ca/5064010887766_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "New Age"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6769786404",
+      "title": "Quiet Fire Extended",
+      "artist": "Dave Stapleton",
+      "url": "https://music.apple.com/jp/album/quiet-fire-extended/6769786404?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/e5/72/01e5729b-1f91-4178-59b8-5bf84921e2a0/820233312745.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795531882",
+      "title": "Kader",
+      "artist": "Hilmi Can",
+      "url": "https://music.apple.com/jp/album/kader/6795531882?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/23/4a/15234ac1-1b60-79ec-57bd-25c2da06f57e/823375340300_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779249224",
+      "title": "Hulder",
+      "artist": "Iben",
+      "url": "https://music.apple.com/jp/album/hulder/6779249224?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/e5/d3/fae5d363-2719-f758-d739-a39e77e1d779/823375233428_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6789456238",
       "title": "STILL BRIGHT : A Riddim and Flowers for My Bro - EP",
       "artist": "G-Conkarah",
@@ -4479,6 +4578,23 @@
       "tagline": null
     },
     {
+      "id": "6781218810",
+      "title": "Untitled",
+      "artist": "Kakkmaddafakka",
+      "url": "https://music.apple.com/jp/album/untitled/6781218810?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/69/da/b369da82-9c1c-1965-a7c1-375c000c2752/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-10",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6795784527",
       "title": "zION",
       "artist": "ExWHYZ",
@@ -4524,118 +4640,6 @@
         "Soundtrack",
         "Music",
         "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6797376214",
-      "title": "∞",
-      "artist": "Toya Takase",
-      "url": "https://music.apple.com/jp/album/6797376214?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/e4/09/31e409dc-c86f-de94-6d2e-925fe5a7f1fc/4550759182091_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-08",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795774114",
-      "title": "Mate",
-      "artist": "AliA",
-      "url": "https://music.apple.com/jp/album/mate/6795774114?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/79/f4/0879f4d0-257d-a7ce-de46-097ece910a02/PA00223838_0_251100_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-08",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793342058",
-      "title": "1/N",
-      "artist": "NORD",
-      "url": "https://music.apple.com/jp/album/1-n/6793342058?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/10/18/1d10187b-7350-f5cb-2502-5d9f5bed4631/885288062342.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-08",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6794996168",
-      "title": "THE GENESIS - EP",
-      "artist": "JUCE",
-      "url": "https://music.apple.com/jp/album/the-genesis-ep/6794996168?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/21/48/bc2148be-80c2-c7dc-dd76-1d6169cb9165/4500000085367.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-08",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6790755463",
-      "title": "YAME JAM",
-      "artist": "MOMO & NARISK",
-      "url": "https://music.apple.com/jp/album/yame-jam/6790755463?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/c1/98/83c19869-fe6f-c604-3ead-7098a0b0d7c4/4500000085954.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-08",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795465616",
-      "title": "BOSHUDARUMA - EP",
-      "artist": "BOSHUDARUMA",
-      "url": "https://music.apple.com/jp/album/%E6%88%BF%E5%B7%9E%E9%81%94%E7%A3%A8-ep/6795465616?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/ec/6d/70ec6dad-9209-9bd6-5b47-a5da8a4a9651/4500000085411.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-08",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795768580",
-      "title": "SummerBPM - EP",
-      "artist": "Enj1, LITA, Kage.Jp & 4yu",
-      "url": "https://music.apple.com/jp/album/summerbpm-ep/6795768580?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/7d/6d/177d6dc9-0dcb-a457-0fce-31377c2ebeb4/bigup14523773.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-08",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
       ],
       "tagline": null
     },
