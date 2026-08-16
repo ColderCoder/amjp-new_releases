@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T07:01:00.695Z",
+  "generatedAt": "2026-08-16T07:00:50.865Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3018,6 +3018,58 @@
       "tagline": null
     },
     {
+      "id": "6795943990",
+      "title": "All Tits, No Brains",
+      "artist": "Liser",
+      "url": "https://music.apple.com/jp/album/all-tits-no-brains/6795943990?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/a0/30/3da03005-b10f-bc39-ffca-9b3f199be505/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6772925215",
+      "title": "Louise Farrenc: Complete Piano Works, Vol. 5",
+      "artist": "Maria Stratigou",
+      "url": "https://music.apple.com/jp/album/louise-farrenc-complete-piano-works-vol-5/6772925215?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/ad/01/62ad0118-b09b-eb5c-7632-958c0404b51b/747313996612.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Solo Instrumental",
+        "Romantic Era",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771197250",
+      "title": "Heavenly Lights",
+      "artist": "Nicolas Altstaedt, Ian Bostridge & Olli Mustonen",
+      "url": "https://music.apple.com/jp/album/heavenly-lights/6771197250?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/f0/64/ddf06440-d1a0-f87d-d0cd-2eb7f887e7a7/3701624512920.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6789456238",
       "title": "STILL BRIGHT : A Riddim and Flowers for My Bro - EP",
       "artist": "G-Conkarah",
@@ -4591,55 +4643,6 @@
         "Indie Pop",
         "Music",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795784527",
-      "title": "zION",
-      "artist": "ExWHYZ",
-      "url": "https://music.apple.com/jp/album/zion/6795784527?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/a9/84/6ba984f5-e101-b899-507d-20030d5fab9f/26UMGIM94083.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-09",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795010078",
-      "title": "Short Songs",
-      "artist": "Hina Oikawa",
-      "url": "https://music.apple.com/jp/album/short-songs/6795010078?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/4e/68/6d4e6886-1775-6ebd-b283-49ba210dfab2/4500000086074.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-09",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796410572",
-      "title": "House of the Dragon: Season 3 (Soundtrack from the HBO® Series)",
-      "artist": "Ramin Djawadi",
-      "url": "https://music.apple.com/jp/album/house-of-the-dragon-season-3-soundtrack-from-the-hbo-series/6796410572?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/03/1e/f9031e9e-ec27-c732-2541-e9696233873d/794043227714.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-09",
-      "trackCount": 25,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Pop"
       ],
       "tagline": null
     },
