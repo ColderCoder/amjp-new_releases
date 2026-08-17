@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T07:00:50.865Z",
+  "generatedAt": "2026-08-17T07:00:50.835Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3070,6 +3070,190 @@
       "tagline": null
     },
     {
+      "id": "1895827724",
+      "title": "Real Fruit Ice Cream",
+      "artist": "Lontalius",
+      "url": "https://music.apple.com/jp/album/real-fruit-ice-cream/1895827724?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/02/bb/6302bb54-6879-d9f4-c449-3dbb3b4a6edc/5056868110295.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6785850206",
+      "title": "The Secret Letter",
+      "artist": "Cantus",
+      "url": "https://music.apple.com/jp/album/the-secret-letter/6785850206?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/cc/b5/23ccb504-7ce1-1002-2fee-f2bd2451d962/635212010228.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Vocal",
+        "Choral"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6792579255",
+      "title": "Dismental - EP",
+      "artist": "SÖK",
+      "url": "https://music.apple.com/jp/album/dismental-ep/6792579255?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/e9/d3/37e9d371-edfc-e248-e67c-98f878118e4f/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Ambient"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775855830",
+      "title": "Wild Love",
+      "artist": "Nina Winder-Lind",
+      "url": "https://music.apple.com/jp/album/wild-love/6775855830?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/cd/54/33cd5421-b91f-37af-4a62-2c7f943fa87d/8721555322738.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786091305",
+      "title": "The Forest To The Sea",
+      "artist": "Sunday Lemonade",
+      "url": "https://music.apple.com/jp/album/the-forest-to-the-sea/6786091305?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/f5/53/daf5536a-835e-3e34-2aeb-44766d0fa10e/TI180022_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Folk-Rock",
+        "Music",
+        "Singer/Songwriter"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788083157",
+      "title": "Distant Star",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/distant-star/6788083157?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/a1/00/c6a10000-db3b-06dd-3091-5a8fdfe46fa8/5060296514419.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Solo Instrumental",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6794093730",
+      "title": "WEIRDO",
+      "artist": "Metth",
+      "url": "https://music.apple.com/jp/album/weirdo/6794093730?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/95/4a/71954adb-582f-c6db-377d-d67f164b7422/26UMGIM94813.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783024929",
+      "title": "Top Rank Reggae Vault - EP",
+      "artist": "Ed Robinson & Jack Radics",
+      "url": "https://music.apple.com/jp/album/top-rank-reggae-vault-ep/6783024929?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/46/ed/1846ed49-bc05-5eef-8cad-d3b2d74edc39/054645287067.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Reggae",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771626443",
+      "title": "J. S. Bach: Dritter Theil der Clavier Übung",
+      "artist": "Maurizio Croci",
+      "url": "https://music.apple.com/jp/album/j-s-bach-dritter-theil-der-clavier-%C3%BCbung/6771626443?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/97/17/b79717bc-cd75-653f-7937-cfb403f2c701/3760195735978.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Baroque Era",
+        "Solo Instrumental"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793164975",
+      "title": "Out of the Dark - EP",
+      "artist": "Kotoa",
+      "url": "https://music.apple.com/jp/album/out-of-the-dark-ep/6793164975?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/64/26/13642685-4b52-8c5d-e176-f808b6c756de/5050580879560.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796490982",
+      "title": "INTENSE LOVER",
+      "artist": "Genia",
+      "url": "https://music.apple.com/jp/album/intense-lover/6796490982?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/09/5f/7f095fb2-3c2d-6ee6-d9a3-19457112730b/26UM1IM00456.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6789456238",
       "title": "STILL BRIGHT : A Riddim and Flowers for My Bro - EP",
       "artist": "G-Conkarah",
@@ -4450,120 +4634,6 @@
       "tagline": null
     },
     {
-      "id": "6797846834",
-      "title": "WhyKiiiKiii - EP",
-      "artist": "KiiiKiii",
-      "url": "https://music.apple.com/jp/album/whykiiikiii-ep/6797846834?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/a4/0a/bda40a72-9172-98b8-730e-fc7575c3117d/26UM1IM00698.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-10",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795819234",
-      "title": "Beniaoi",
-      "artist": "CHICO CARLITO",
-      "url": "https://music.apple.com/jp/album/beniaoi/6795819234?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/64/1a/7c641a62-86ad-327a-6d67-48b746931dd0/4550759019656_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-10",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6792985287",
-      "title": "Ema",
-      "artist": "UWANOSORA",
-      "url": "https://music.apple.com/jp/album/ema/6792985287?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/81/d7/4181d73f-7615-422a-e349-c8431033e0b5/bigup14504986.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-10",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6797385309",
-      "title": "Maison Prison (Original Soundtrack)",
-      "artist": "Shinco & Koji Endo",
-      "url": "https://music.apple.com/jp/album/%E5%9C%9F%E6%9B%9C%E3%83%89%E3%83%A9%E3%83%9E-%E3%83%A0%E3%82%B7%E3%83%A7%E3%83%A9%E3%83%B3%E4%B8%89%E3%83%84%E6%98%9F-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/6797385309?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/b0/d7/afb0d7df-36e7-7786-acfd-d148366091bb/4580305825356.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-10",
-      "trackCount": 26,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793823334",
-      "title": "Vision Wings - The 8th Mini Album",
-      "artist": "WayV",
-      "url": "https://music.apple.com/jp/album/vision-wings-the-8th-mini-album/6793823334?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/64/e1/e564e1f1-fa4d-dabe-dd0a-96d9024561c8/888735956584.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-10",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Mini Album"
-    },
-    {
-      "id": "6798715198",
-      "title": "Live at Apple Music Radio",
-      "artist": "Story of the Year",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6798715198?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/fe/7b/34fe7ba8-cd35-6348-88d0-f9c475717b6c/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-10",
-      "trackCount": 2,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
-      "id": "6798865309",
-      "title": "Possession (Original Soundtrack)",
-      "artist": "Vince Pope & Ayanna Witter-Johnson",
-      "url": "https://music.apple.com/jp/album/possession-original-soundtrack/6798865309?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/83/ce/b383ce75-1269-9cb1-c192-4032ca428beb/823375359715_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-10",
-      "trackCount": 23,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6795601818",
       "title": "R3HAB: Berlin Secret Set 2026 (DJ Mix)",
       "artist": "R3HAB",
@@ -4577,72 +4647,6 @@
         "Dance",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796042460",
-      "title": "CHOSEN 1 VOL. 2",
-      "artist": "J1",
-      "url": "https://music.apple.com/jp/album/chosen-1-vol-2/6796042460?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/e5/74/76e57409-318f-cdf8-1e82-e60ba46bbdf6/808391396067.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-10",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796581745",
-      "title": "Eros Errors",
-      "artist": "조형진",
-      "url": "https://music.apple.com/jp/album/eros-errors/6796581745?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/17/4d/5e174ded-eb4b-48fb-2758-53d67e5667d5/888618489420.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-10",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788431417",
-      "title": "monty's mind",
-      "artist": "Montana99",
-      "url": "https://music.apple.com/jp/album/montys-mind/6788431417?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/0f/70/9a0f70df-5a66-238d-cc06-bc68ae4da7ad/859742058868_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-10",
-      "trackCount": 25,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6781218810",
-      "title": "Untitled",
-      "artist": "Kakkmaddafakka",
-      "url": "https://music.apple.com/jp/album/untitled/6781218810?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/69/da/b369da82-9c1c-1965-a7c1-375c000c2752/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-10",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
