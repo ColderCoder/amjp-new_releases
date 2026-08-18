@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T07:00:50.835Z",
+  "generatedAt": "2026-08-18T07:00:15.622Z",
   "source": "https://music.apple.com/jp/room/6801329549?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6801329549?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3254,6 +3254,108 @@
       "tagline": "New Album"
     },
     {
+      "id": "6788485820",
+      "title": "The Last Bright Place",
+      "artist": "Hollie Kenniff & Kazuma Okabayashi",
+      "url": "https://music.apple.com/jp/album/the-last-bright-place/6788485820?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/77/c6/ec77c6bb-dcdd-3efa-d84d-74b3735114e7/067003011488.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Ambient",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6789164856",
+      "title": "Collision Of 2 Worlds (Deluxe)",
+      "artist": "UNLIMITED SOUL",
+      "url": "https://music.apple.com/jp/album/collision-of-2-worlds-deluxe/6789164856?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/56/68/fa56680f-e00d-e808-cf16-520e1b01a55a/766214701750.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": "New Album "
+    },
+    {
+      "id": "6773338421",
+      "title": "Kvarken",
+      "artist": "RV820",
+      "url": "https://music.apple.com/jp/album/kvarken/6773338421?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/c1/ea/62c1eac1-0aee-7e83-cf76-794a3dfb5f55/ea031x.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781296636",
+      "title": "Pieces of a Dream (Habibi Funk 036)",
+      "artist": "Nechazz",
+      "url": "https://music.apple.com/jp/album/pieces-of-a-dream-habibi-funk-036/6781296636?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/4a/00/404a0051-8db7-08b9-4611-f79f513f1438/840054915505.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6775690438",
+      "title": "The Complete Concert At Union Chapel",
+      "artist": "Lucy Rose",
+      "url": "https://music.apple.com/jp/album/the-complete-concert-at-union-chapel/6775690438?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/e8/74/c2e874c5-65a3-ee54-a11b-fe101fcd4ef4/5059449352435.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Pop"
+      ],
+      "tagline": "New Live Album"
+    },
+    {
+      "id": "6785824671",
+      "title": "J.S. Bach: Violin Sonatas & Partitas, BWV 1001-1006",
+      "artist": "Mark Fewer",
+      "url": "https://music.apple.com/jp/album/j-s-bach-violin-sonatas-partitas-bwv-1001-1006/6785824671?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/ea/4d/e4ea4dd0-fddd-ecd1-9ef0-8d5881a6a971/3191684112220.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 31,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Violin",
+        "Solo Instrumental",
+        "Baroque Era"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6789456238",
       "title": "STILL BRIGHT : A Riddim and Flowers for My Bro - EP",
       "artist": "G-Conkarah",
@@ -3480,6 +3582,22 @@
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6790620248",
+      "title": "Inheritance - The Album",
+      "artist": "Junior Soqeta",
+      "url": "https://music.apple.com/jp/album/inheritance-the-album/6790620248?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/b8/e8/0bb8e890-9dd7-9263-d0c7-67a153366557/18241.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-13",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Reggae",
         "Music"
       ],
       "tagline": null
@@ -4486,103 +4604,6 @@
       "tagline": "New Deluxe Edition"
     },
     {
-      "id": "6795738103",
-      "title": "Moeru",
-      "artist": "FANI",
-      "url": "https://music.apple.com/jp/album/moeru/6795738103?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/06/dc/3e/06dc3e98-2747-fe42-2e76-406dadef4317/4550759010035_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-11",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793781576",
-      "title": "CAMP",
-      "artist": "CAT ATE HOTDOGS",
-      "url": "https://music.apple.com/jp/album/camp/6793781576?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/6e/4c/676e4c7a-e86c-9bba-4192-d1987f0a6203/bigup14509541.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-11",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795746025",
-      "title": "Kocchi No Kento One-Man Live Ippo Niho",
-      "artist": "Kocchi No Kento",
-      "url": "https://music.apple.com/jp/album/kocchi-no-kento-one-man-live-ippo-niho/6795746025?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/d7/87/13d78792-eba8-391d-e2fc-1dca4be0be9a/4550759010363_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-11",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6789408394",
-      "title": "LIMBO - EP",
-      "artist": "Arin Ray",
-      "url": "https://music.apple.com/jp/album/limbo-ep/6789408394?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/57/ad/3157ada0-48ff-c6d8-d5d0-9febd941d15c/5059449388083.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-11",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6792159912",
-      "title": "When Everything Feels…",
-      "artist": "Jason Stephenson",
-      "url": "https://music.apple.com/jp/album/when-everything-feels/6792159912?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/30/17/a630172d-5b0f-e7a1-8e14-816e0784712b/881392610523-copy-68d61624.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-11",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "New Age",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793563982",
-      "title": "CUMULONIMBUS",
-      "artist": "Rashid",
-      "url": "https://music.apple.com/jp/album/cumulonimbus/6793563982?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/4a/0e/3c4a0eff-8ab1-9b5e-b9a7-45427b99a71c/820233962834.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-11",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6796901034",
       "title": "GuduMix 077: Camille Doe (DJ Mix)",
       "artist": "Camille Doe",
@@ -4596,23 +4617,6 @@
         "House",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796778628",
-      "title": "While I Was Gone",
-      "artist": "Pkfwhoadie",
-      "url": "https://music.apple.com/jp/album/while-i-was-gone/6796778628?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/89/17/ed891759-c185-77eb-db27-9a406302cbad/808391395756.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-11",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
