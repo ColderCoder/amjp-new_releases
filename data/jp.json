@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:00:16.053Z",
+  "generatedAt": "2026-08-19T17:00:13.406Z",
   "source": "https://music.apple.com/jp/room/6802709315?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6802709315?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1427,9 +1427,9 @@
     },
     {
       "id": "6793602026",
-      "title": "Cut Off Your Nose EP - EP",
+      "title": "Cut Off Your Nose - EP",
       "artist": "Everything Is Recorded",
-      "url": "https://music.apple.com/jp/album/cut-off-your-nose-ep-ep/6793602026?l=en-US",
+      "url": "https://music.apple.com/jp/album/cut-off-your-nose-ep/6793602026?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/d9/f2/c8d9f20a-d7c8-9aa5-0641-8469c40cee68/191404168677.png/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-08-14",
