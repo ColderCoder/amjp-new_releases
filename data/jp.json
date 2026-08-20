@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T07:00:15.199Z",
+  "generatedAt": "2026-08-20T08:00:15.218Z",
   "source": "https://music.apple.com/jp/room/6802709315?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6802709315?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3156,7 +3156,7 @@
     {
       "id": "6788083157",
       "title": "Distant Star",
-      "artist": "Various Artists",
+      "artist": "ABRSM",
       "url": "https://music.apple.com/jp/album/distant-star/6788083157?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/a1/00/c6a10000-db3b-06dd-3091-5a8fdfe46fa8/5060296514419.jpg/632x632bb.jpg",
       "explicit": false,
