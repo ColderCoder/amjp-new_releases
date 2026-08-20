@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:00:13.406Z",
+  "generatedAt": "2026-08-20T07:00:15.199Z",
   "source": "https://music.apple.com/jp/room/6802709315?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6802709315?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -8,7 +8,7 @@
   "roomDiscoveryUrl": "https://amp-api.music.apple.com/v1/editorial/jp/groupings?name=music&l=en-US&format%5Bresources%5D=map&platform=web&tabs=nonsubscriber&omit%5Bresource%3Aartists%5D=autos&relate%5Bsongs%5D=albums&include%5Balbums%5D=artists&include%5Bsongs%5D=artists&include%5Bmusic-videos%5D=artists&include%5Bstations%5D=events%2Cradio-show&extend%5Bstation-events%5D=editorialVideo&fields%5Bartists%5D=name%2Curl%2Cartwork%2CeditorialArtwork%2CgenreNames%2CplainEditorialNotes&fields%5Balbums%5D=artistName%2CartistUrl%2Cartwork%2CcontentRating%2CeditorialArtwork%2CplainEditorialNotes%2Cname%2CplayParams%2CreleaseDate%2Curl%2CtrackCount&art%5Burl%5D=f&extend=editorialArtwork&extend=artistUrl&extend=plainEditorialNotes",
   "sectionTitle": "New This Week",
   "requestedSectionTitle": "New This Week",
-  "itemCount": 300,
+  "itemCount": 282,
   "items": [
     {
       "id": "6795082479",
@@ -4108,310 +4108,134 @@
       "tagline": null
     },
     {
-      "id": "6789456238",
-      "title": "STILL BRIGHT : A Riddim and Flowers for My Bro - EP",
-      "artist": "G-Conkarah",
-      "url": "https://music.apple.com/jp/album/still-bright-a-riddim-and-flowers-for-my-bro-ep/6789456238?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/42/6f/e4426f05-a043-cfe1-149c-866865ff7299/4580789776595.png/632x632bb.jpg",
+      "id": "6797637273",
+      "title": "Referências Vol 1 - EP",
+      "artist": "Dorgival Dantas & Mestre Gennaro",
+      "url": "https://music.apple.com/jp/album/refer%C3%AAncias-vol-1-ep/6797637273?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/51/83/855183f0-d6c2-484e-0188-f4673542f473/0.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-13",
+      "releaseDate": "2026-08-14",
       "trackCount": 5,
       "kind": "album",
       "genres": [
-        "Reggae",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6790284335",
-      "title": "3",
-      "artist": "906 / Nine-O-Six",
-      "url": "https://music.apple.com/jp/album/3/6790284335?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/ff/6d/ccff6d20-1d38-af74-fa5c-53af34796752/4550758572725_cover.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
+        "Forró",
         "Music",
-        "Jazz"
+        "Brazilian"
       ],
       "tagline": null
     },
     {
-      "id": "6793341703",
-      "title": "Reimei - EP",
-      "artist": "Taisei Shima",
-      "url": "https://music.apple.com/jp/album/%E9%BB%8E%E6%98%8E-ep/6793341703?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/20/ab/7820abc3-aa5c-49c1-e9e7-046778d34f01/885288100174.jpg/632x632bb.jpg",
+      "id": "6797315420",
+      "title": "Brega da Morena",
+      "artist": "Simone Morena",
+      "url": "https://music.apple.com/jp/album/brega-da-morena/6797315420?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/fc/1f/7dfc1f19-0952-a0ca-ea33-ff94e1f8890c/0.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 5,
+      "releaseDate": "2026-08-14",
+      "trackCount": 15,
       "kind": "album",
       "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791162279",
-      "title": "My Brilliant Career (Songs from the Netflix Series)",
-      "artist": "My Brilliant Career - Cast, Kate Miller-Heidke & Thelma Plum",
-      "url": "https://music.apple.com/jp/album/my-brilliant-career-songs-from-the-netflix-series/6791162279?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/33/9b/ca339b8f-a0ca-c806-2319-c69a6f3beb3f/810123169498.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": "New Soundtrack"
-    },
-    {
-      "id": "6797636954",
-      "title": "UNDERDOG SUPERSTAR",
-      "artist": "Rsieh Raxan",
-      "url": "https://music.apple.com/jp/album/underdog-superstar/6797636954?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/54/e1/c554e117-9a37-40d3-b2e0-cfed99f7ba7e/808391396951.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
+        "Forró",
         "Music",
-        "Hip-Hop/Rap"
+        "Brazilian"
       ],
       "tagline": null
     },
     {
-      "id": "6796447008",
-      "title": "AL ESTILO JALISCO",
-      "artist": "Raúl Beltran",
-      "url": "https://music.apple.com/jp/album/al-estilo-jalisco/6796447008?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/98/8d/89988dae-00a0-3967-fb39-388af48fd793/4066614.jpg/632x632bb.jpg",
+      "id": "6798371066",
+      "title": "Exclusividade 2, Vol. 3 (Ao Vivo) - EP",
+      "artist": "Thallys e Thiago",
+      "url": "https://music.apple.com/jp/album/exclusividade-2-vol-3-ao-vivo-ep/6798371066?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/95/f8/e395f811-627b-df66-13c1-2dd2ff1f523f/0.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778837940",
-      "title": "MOTION - EP",
-      "artist": "Devy Stonez",
-      "url": "https://music.apple.com/jp/album/motion-ep/6778837940?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/0f/60/7e0f60fe-2bee-3874-b355-bb738c80c6a1/8721465922776.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-13",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796851702",
-      "title": "Renacer",
-      "artist": "Edgardo Nuñez",
-      "url": "https://music.apple.com/jp/album/renacer/6796851702?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/6b/34/2b6b34b0-a3c5-1002-5333-4ec84f0d0f22/1200214738068.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6783407666",
-      "title": "Tú Ya Las Conoces, Vol. 2",
-      "artist": "La Original Banda El Limón de Salvador Lizárraga",
-      "url": "https://music.apple.com/jp/album/t%C3%BA-ya-las-conoces-vol-2/6783407666?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/39/f9/4b39f9f6-da09-79d2-b5ee-f2c9fa89557c/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796435419",
-      "title": "Moments (Aura+)",
-      "artist": "5dirtyVon",
-      "url": "https://music.apple.com/jp/album/moments-aura/6796435419?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/fa/dd/5dfadd39-40fa-615f-ea0a-9c3bfc2b91d0/808391396395.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-13",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795640307",
-      "title": "Tires (Soundtrack from the Netflix Series)",
-      "artist": "Alex Weinstein",
-      "url": "https://music.apple.com/jp/album/tires-soundtrack-from-the-netflix-series/6795640307?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/5e/fb/125efb3c-3002-2234-0ea8-e81bd1a4c669/810123169634.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 36,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6790272493",
-      "title": "My Brilliant Career (Soundtrack from the Netflix Series)",
-      "artist": "Francois Tetaz",
-      "url": "https://music.apple.com/jp/album/my-brilliant-career-soundtrack-from-the-netflix-series/6790272493?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/53/6f/c1536fd5-fac5-0a7f-9edb-8c7c3fcedf12/810123169474.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 31,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796752726",
-      "title": "True To The Bone - EP",
-      "artist": "Cock Sparrer & Die Toten Hosen",
-      "url": "https://music.apple.com/jp/album/true-to-the-bone-ep/6796752726?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/0c/a5/200ca5f4-b367-49ad-32aa-b656671c5c10/1200214680701.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
+      "releaseDate": "2026-08-14",
       "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Sertanejo",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796191874",
+      "title": "Festa na Aldeia",
+      "artist": "Hyldon",
+      "url": "https://music.apple.com/jp/album/festa-na-aldeia/6796191874?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/f6/ce/a7f6ce33-0d77-46b8-740f-42f5a771005a/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-14",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "MPB",
+        "Music",
+        "Brazilian",
+        "R&B/Soul",
+        "Soul"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793596620",
+      "title": "Camelódromo",
+      "artist": "Comunidade Nin-jitsu",
+      "url": "https://music.apple.com/jp/album/camel%C3%B3dromo/6793596620?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/9b/da/c19bda5f-2d32-36bb-5946-25b902e6eea0/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-14",
+      "trackCount": 16,
       "kind": "album",
       "genres": [
         "Rock",
         "Music",
-        "Alternative",
-        "Punk"
+        "Brazilian",
+        "Baile Funk"
       ],
       "tagline": null
     },
     {
-      "id": "6788845647",
-      "title": "AURA",
-      "artist": "Paves 16",
-      "url": "https://music.apple.com/jp/album/aura/6788845647?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/40/80/1040805b-5144-c2b4-da71-93b260cd3a43/26UMGIM91211.rgb.jpg/632x632bb.jpg",
+      "id": "6793645706",
+      "title": "Alien Metal",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "url": "https://music.apple.com/jp/album/alien-metal/6793645706?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/78/c2/d578c274-7115-bce1-5e4d-08598766ac9d/823375328667_Cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 19,
+      "releaseDate": "2026-08-14",
+      "trackCount": 8,
       "kind": "album",
       "genres": [
-        "Hip-Hop/Rap",
+        "Electronic",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
-      "id": "6790620248",
-      "title": "Inheritance - The Album",
-      "artist": "Junior Soqeta",
-      "url": "https://music.apple.com/jp/album/inheritance-the-album/6790620248?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/b8/e8/0bb8e890-9dd7-9263-d0c7-67a153366557/18241.jpg/632x632bb.jpg",
+      "id": "1891133202",
+      "title": "g00se - EP",
+      "artist": "grentperez",
+      "url": "https://music.apple.com/jp/album/g00se-ep/1891133202?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/cd/31/cacd311e-17a9-71c7-176f-242284036372/820200976383.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 10,
+      "releaseDate": "2026-08-14",
+      "trackCount": 5,
       "kind": "album",
       "genres": [
-        "Reggae",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783310636",
-      "title": "Gothenburg Rare Vol.5 - Live at Hultsfredsfestivalen",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/gothenburg-rare-vol-5-live-at-hultsfredsfestivalen/6783310636?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/81/67/c48167ac-6fb9-fd7c-8eb6-ffdfe6a26bc5/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Pop",
+        "Indie Pop",
         "Music",
-        "Rock"
+        "Alternative"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
-      "id": "6782126120",
-      "title": "Here's Where We Once Were",
-      "artist": "ginius",
-      "url": "https://music.apple.com/jp/album/heres-where-we-once-were/6782126120?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/4b/24/7a4b24d1-b32a-e831-eb60-715fc0cf0a15/823375249467_Cover.jpg/632x632bb.jpg",
+      "id": "6800509557",
+      "title": "VERA VOLPE",
+      "artist": "YTB Fatt",
+      "url": "https://music.apple.com/jp/album/vera-volpe/6800509557?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/7a/24/337a2485-3c27-328d-85b3-db249af38fb9/075679561473.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-08-13",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Afrobeats",
-        "Music",
-        "African"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6777130736",
-      "title": "Ønsket - EP",
-      "artist": "Byting",
-      "url": "https://music.apple.com/jp/album/%C3%B8nsket-ep/6777130736?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/e8/13/fce8131a-a4b1-9554-6c51-c170caa7ba96/820233608145.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6797832642",
-      "title": "STAMMTISCHPAROLEN",
-      "artist": "Tream & treamiboii",
-      "url": "https://music.apple.com/jp/album/stammtischparolen/6797832642?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f1/e1/b8f1e176-d157-9451-3f29-68eecdf8379c/26UMGIM39497.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-13",
+      "releaseDate": "2026-08-14",
       "trackCount": 18,
       "kind": "album",
       "genres": [
@@ -4421,155 +4245,35 @@
       "tagline": null
     },
     {
-      "id": "1895735602",
-      "title": "indiciel (innatare infini v)",
-      "artist": "Passa Tempo",
-      "url": "https://music.apple.com/jp/album/indiciel-innatare-infini-v/1895735602?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/0d/82/790d8219-cb56-5968-0dbc-7328bc94f14c/3663729445391_cover.jpg/632x632bb.jpg",
+      "id": "6792478475",
+      "title": "All in Good Time",
+      "artist": "Snooknuk",
+      "url": "https://music.apple.com/jp/album/all-in-good-time/6792478475?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/c9/1a/a9c91a48-b132-2457-eb4f-3ad1ab0ada9d/859742637193_cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 7,
+      "releaseDate": "2026-08-14",
+      "trackCount": 13,
       "kind": "album",
       "genres": [
-        "Ambient",
+        "Children's Music",
         "Music",
-        "Electronic"
+        "R&B/Soul"
       ],
       "tagline": null
     },
     {
-      "id": "6796435108",
-      "title": "That Ain't You - EP",
-      "artist": "Mulaa Joans",
-      "url": "https://music.apple.com/jp/album/that-aint-you-ep/6796435108?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/84/79/2c847994-5187-0fbc-6d35-02b7f0af6609/075679562890.jpg/632x632bb.jpg",
+      "id": "6801300179",
+      "title": "Forever Reign",
+      "artist": "Masicka",
+      "url": "https://music.apple.com/jp/album/forever-reign/6801300179?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/e2/21/a4e22110-df13-5b81-3fab-16fb0b5da212/26UM1IM05048.rgb.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-08-13",
-      "trackCount": 6,
+      "releaseDate": "2026-08-14",
+      "trackCount": 17,
       "kind": "album",
       "genres": [
-        "R&B/Soul",
+        "Reggae",
         "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6799253294",
-      "title": "Moderno à Moda Antiga - EP",
-      "artist": "Junior Marques",
-      "url": "https://music.apple.com/jp/album/moderno-%C3%A0-moda-antiga-ep/6799253294?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/a4/70/8da47061-2505-89b5-d38c-cda52f864e16/8721554125316.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Sertanejo",
-        "Music",
-        "Brazilian",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6794144903",
-      "title": "Simplesmente Saudade (Ao Vivo)",
-      "artist": "Hugo Henrique",
-      "url": "https://music.apple.com/jp/album/simplesmente-saudade-ao-vivo/6794144903?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/24/df/2924df09-1302-5157-3ab7-226f317eea5b/25UMGIM34504.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Sertanejo",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6797921899",
-      "title": "SÓ QUEM VIVE, SABE (Ao Vivo)",
-      "artist": "Alice Ianes",
-      "url": "https://music.apple.com/jp/album/s%C3%B3-quem-vive-sabe-ao-vivo/6797921899?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/e4/e0/dfe4e0e1-c8c2-1493-fbbc-f9f18b9b797b/196874661871.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Sertanejo",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798338250",
-      "title": "VANGUARDAH",
-      "artist": "Vandal",
-      "url": "https://music.apple.com/jp/album/vanguardah/6798338250?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/f1/82/0bf182ac-8f87-9022-6cf2-7a78e0a47900/885288191387.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-13",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Underground Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796031979",
-      "title": "ECO",
-      "artist": "PRISCILLA",
-      "url": "https://music.apple.com/jp/album/eco/6796031979?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/13/27/731327eb-6eba-ca81-d3a2-fdc1d72e6252/fe454afc-d176-4879-9cb3-90bf0d2da397.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788767986",
-      "title": "Pagode do Revela (Edição Portugal)",
-      "artist": "Grupo Revelação",
-      "url": "https://music.apple.com/jp/album/pagode-do-revela-edi%C3%A7%C3%A3o-portugal/6788767986?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/e7/f5/30e7f5c5-0024-d7d3-23d0-9dfd49fd1c40/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 25,
-      "kind": "album",
-      "genres": [
-        "Samba",
-        "Music",
-        "Brazilian",
-        "Pagode"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798318690",
-      "title": "O Imperador Chegou! Ep 02 (Ao Vivo) - EP",
-      "artist": "Gabriel Expresso",
-      "url": "https://music.apple.com/jp/album/o-imperador-chegou-ep-02-ao-vivo-ep/6798318690?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/57/2c/9b572cbe-814e-1af6-d3d9-f36a16aacaec/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-13",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Sertanejo",
-        "Music",
-        "Brazilian"
       ],
       "tagline": null
     },
