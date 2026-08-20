@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:00:16.082Z",
+  "generatedAt": "2026-08-20T19:00:13.615Z",
   "source": "https://music.apple.com/jp/room/6802709315?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6802709315?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1806,7 +1806,7 @@
     },
     {
       "id": "6780617030",
-      "title": "Losing Sleep (Again)",
+      "title": "losing sleep (again)",
       "artist": "priyana",
       "url": "https://music.apple.com/jp/album/losing-sleep-again/6780617030?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/69/70/5c697003-6aa9-717c-a60d-c0dcd69f4360/067003023986.png/632x632bb.jpg",
@@ -2124,7 +2124,7 @@
         "Folk",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6788707506",
