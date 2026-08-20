@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:00:13.910Z",
+  "generatedAt": "2026-08-20T22:00:13.303Z",
   "source": "https://music.apple.com/jp/room/6802709315?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6802709315?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -285,7 +285,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6801305362",
@@ -398,7 +398,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6782973975",
@@ -479,7 +479,7 @@
         "Electronic",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6800449054",
@@ -1004,7 +1004,7 @@
         "Music",
         "Christian"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6799269123",
@@ -1086,7 +1086,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6776025177",
@@ -1500,7 +1500,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6794043695",
@@ -2074,7 +2074,7 @@
         "Music",
         "Alternative"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6770690320",
@@ -3469,22 +3469,6 @@
       "tagline": null
     },
     {
-      "id": "1895724604",
-      "title": "Crown Shyness",
-      "artist": "Francesca Gaza & Kugelförmigkeit Ensemble",
-      "url": "https://music.apple.com/jp/album/crown-shyness/1895724604?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/52/93/325293f9-ae1a-bbf9-23f0-0f7f11960a06/4062548142334.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-21",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6799659690",
       "title": "Eminence",
       "artist": "Beenie Man",
@@ -3500,6 +3484,23 @@
         "Hip-Hop/Rap"
       ],
       "tagline": null
+    },
+    {
+      "id": "6798403205",
+      "title": "AUSENCIA - EP",
+      "artist": "Lyon la f",
+      "url": "https://music.apple.com/jp/album/ausencia-ep/6798403205?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/b9/72/8fb97220-0b68-d612-d979-7ada538d0b1b/AUSENCIA_-_final_cover-copy-6cf510cd.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-20",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New EP"
     },
     {
       "id": "6797860000",
@@ -3614,7 +3615,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6797660014",
@@ -3979,7 +3980,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6789710311",
