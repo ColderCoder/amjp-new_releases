@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T00:00:13.079Z",
+  "generatedAt": "2026-08-21T01:00:15.398Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -271,7 +271,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6792061717",
@@ -531,7 +531,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6780521931",
@@ -1066,7 +1066,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6799277829",
@@ -1367,7 +1367,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6798592817",
@@ -2660,7 +2660,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6797677731",
@@ -2896,22 +2896,6 @@
       "tagline": null
     },
     {
-      "id": "6791405581",
-      "title": "Beauty Will Save The World",
-      "artist": "Malachy Breen",
-      "url": "https://music.apple.com/jp/album/beauty-will-save-the-world/6791405581?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/59/c0/4f59c0b8-acfa-198c-ca10-27a64ecbb9a4/66213.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-21",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6801354081",
       "title": "Tap Dancer - EP",
       "artist": "jon-YAKITORY",
@@ -3013,6 +2997,24 @@
         "Hip-Hop/Rap"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6797588303",
+      "title": "METANOIA",
+      "artist": "Ysrael Barajas",
+      "url": "https://music.apple.com/jp/album/metanoia/6797588303?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/a5/4a/6aa54aae-bb50-f3f0-166f-7043c5340867/196874538432.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-20",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin",
+        "Música Mexicana"
+      ],
+      "tagline": null
     },
     {
       "id": "6798465915",
