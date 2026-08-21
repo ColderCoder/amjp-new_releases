@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:00:44.491Z",
+  "generatedAt": "2026-08-21T09:00:38.284Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2140,25 +2140,6 @@
       "tagline": "New EP"
     },
     {
-      "id": "6793085727",
-      "title": "We Are Everyone (Edited Version)",
-      "artist": "Tenniscoats",
-      "url": "https://music.apple.com/jp/album/we-are-everyone-edited-version/6793085727?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/ad/cc/3eadcce9-195e-f206-e042-1f80f0aeeec4/4070209008448_3000.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-21",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music",
-        "Rock",
-        "Alternative",
-        "Indie Rock"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6782100320",
       "title": "Live from the Road - Vol. 1",
       "artist": "Clay Street Unit",
@@ -2875,6 +2856,55 @@
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796874528",
+      "title": "R&B ONLY, Global R&B, London, UK: DJ Pineapplez (DJ Mix)",
+      "artist": "DJ Pineapplez",
+      "url": "https://music.apple.com/jp/album/r-b-only-global-r-b-london-uk-dj-pineapplez-dj-mix/6796874528?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/d3/44/96d344be-42eb-e338-3cec-016b412adabe/8433ea16-59a8-4d35-93a0-f975009b3aa1.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 56,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music",
+        "Contemporary R&B"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6791405581",
+      "title": "Beauty Will Save The World",
+      "artist": "Malachy Breen",
+      "url": "https://music.apple.com/jp/album/beauty-will-save-the-world/6791405581?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/59/c0/4f59c0b8-acfa-198c-ca10-27a64ecbb9a4/66213.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779748666",
+      "title": "Hellbender",
+      "artist": "Mason Cole",
+      "url": "https://music.apple.com/jp/album/hellbender/6779748666?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/9b/eb/619beb8a-eb19-771a-51c1-9b31cb9865c4/808391386068.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Country",
         "Music"
       ],
       "tagline": null
@@ -3841,23 +3871,6 @@
       "tagline": "Deluxe Edition"
     },
     {
-      "id": "6796763536",
-      "title": "Hues Vol. 3 - Single",
-      "artist": "wolfacejoeyy",
-      "url": "https://music.apple.com/jp/album/hues-vol-3-single/6796763536?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/94/02/8b9402eb-d4c6-bd7c-846a-aa0360c31a78/196874655573.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-19",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6796911522",
       "title": "October Records Presents: Jessi Lowkey (DJ Mix)",
       "artist": "Jessi Lowkey",
@@ -4120,22 +4133,6 @@
         "Dance",
         "Music",
         "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801238685",
-      "title": "Oye Mi Amor (Live From Apple Music Studios) - Single",
-      "artist": "Maná",
-      "url": "https://music.apple.com/jp/album/oye-mi-amor-live-from-apple-music-studios-single/6801238685?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/0d/05/920d0584-cc86-f96c-924d-17272e802067/1200214841782.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-17",
-      "trackCount": 2,
-      "kind": "single",
-      "genres": [
-        "Latin",
-        "Music"
       ],
       "tagline": null
     },
