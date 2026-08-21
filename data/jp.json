@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:00:37.239Z",
+  "generatedAt": "2026-08-21T06:00:44.491Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -916,22 +916,6 @@
         "Alternative"
       ],
       "tagline": null
-    },
-    {
-      "id": "6796004036",
-      "title": "Hazel Eyes",
-      "artist": "Sam Smith",
-      "url": "https://music.apple.com/jp/album/hazel-eyes/6796004036?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/8c/dc/118cdc66-4ad2-f0f2-8cab-9481c1f3adea/26UMGIM25261.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-21",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "New Album and Interview"
     },
     {
       "id": "6798427533",
@@ -2878,6 +2862,22 @@
         "Pop"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6779688887",
+      "title": "Details",
+      "artist": "Pierre Sonality",
+      "url": "https://music.apple.com/jp/album/details/6779688887?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/a6/99/90a69917-59f7-78ad-e858-fefe4b48860e/cover_4062851312493.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6801354081",
