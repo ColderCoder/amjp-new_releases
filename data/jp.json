@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T19:00:38.612Z",
+  "generatedAt": "2026-08-21T20:00:39.013Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1972,23 +1972,6 @@
       "tagline": null
     },
     {
-      "id": "6786312391",
-      "title": "Adrift - EP",
-      "artist": "Florist",
-      "url": "https://music.apple.com/jp/album/adrift-ep/6786312391?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/10/a1/4b10a14b-bd00-9e88-dacd-3258b83c62a3/850074887560.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-21",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6797695373",
       "title": "Hustler Mentality 2",
       "artist": "Yrn Xhris",
@@ -2871,6 +2854,22 @@
       "kind": "album",
       "genres": [
         "Country",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6773501948",
+      "title": "Hound",
+      "artist": "hey, nothing",
+      "url": "https://music.apple.com/jp/album/hound/6773501948?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/35/8d/ed358d37-4b87-e913-8955-a066518ff5ef/26UMGIM65614.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Rock",
         "Music"
       ],
       "tagline": null
@@ -4613,7 +4612,7 @@
       "title": "Tomorrowland Belgium 2026: Malugi at Mainstage, Weekend 1 (DJ Mix)",
       "artist": "Malugi",
       "url": "https://music.apple.com/jp/album/tomorrowland-belgium-2026-malugi-at-mainstage-weekend/6803208576?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/8e/be/bf8ebe5d-0a6e-781e-c263-8e2f05630288/15c6a3a0-3464-444c-85ca-28d10c73941a.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/e8/19/9be819ff-eb8a-9832-4413-fc8431c46f0c/8e7810c2-af64-4565-86db-3bd5f31e8422.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-07-19",
       "trackCount": 24,
