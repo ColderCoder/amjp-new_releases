@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:00:42.168Z",
+  "generatedAt": "2026-08-21T14:00:41.074Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1851,23 +1851,6 @@
         "Metal",
         "Music",
         "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6800426967",
-      "title": "Excuse My Manners",
-      "artist": "AK Juice",
-      "url": "https://music.apple.com/jp/album/excuse-my-manners/6800426967?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/75/65/15756540-8bcb-4837-a985-023b2ce27b18/808391398887.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-21",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
@@ -4102,6 +4085,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6795337442",
+      "title": "Draft Day",
+      "artist": "Casper TNG",
+      "url": "https://music.apple.com/jp/album/draft-day/6795337442?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/5c/ab/635cabc1-0d3c-05d0-5127-e7f0bddeac49/26UMGIM91420.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-18",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6801494081",
