@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:00:43.837Z",
+  "generatedAt": "2026-08-21T17:00:41.885Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1035,24 +1035,6 @@
       "tagline": null
     },
     {
-      "id": "6801303943",
-      "title": "HIGH + RISK",
-      "artist": "$NOT",
-      "url": "https://music.apple.com/jp/album/high-risk/6801303943?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/27/16/bc2716ef-aa66-f95a-617f-5eca1c161e08/612891189025.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-21",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Electronic",
-        "Electronica"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6783571689",
       "title": "The Seams",
       "artist": "James Ivy",
@@ -1432,8 +1414,9 @@
       "trackCount": 17,
       "kind": "album",
       "genres": [
-        "Hip-Hop/Rap",
-        "Music"
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
@@ -4101,6 +4084,22 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6800371595",
+      "title": "Type Shit - EP",
+      "artist": "Mick Jenkins",
+      "url": "https://music.apple.com/jp/album/type-shit-ep/6800371595?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/b1/a4/36b1a46e-3195-5e52-ffaa-9cb0dd33f044/193436482851_image.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-18",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6801494081",
