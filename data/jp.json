@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T03:00:13.661Z",
+  "generatedAt": "2026-08-21T04:00:14.961Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -409,7 +409,7 @@
       "title": "The Breakdown",
       "artist": "Keb' Mo'",
       "url": "https://music.apple.com/jp/album/the-breakdown/6767762511?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/a1/46/2ca1465e-442f-3f1d-57b3-827c53884be8/26CRGIM54100.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/c3/40/5bc34089-599c-3cc4-6e91-b9065ed1154d/26CRGIM54100.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-08-21",
       "trackCount": 10,
@@ -562,6 +562,23 @@
       "genres": [
         "Pop",
         "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6800143024",
+      "title": "ROADRUNNER",
+      "artist": "DESTIN CONRAD",
+      "url": "https://music.apple.com/jp/album/roadrunner/6800143024?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/24/39/77243903-0946-5d12-fedd-da0b759d92eb/ticket.hvhvuwmj.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Reggae",
+        "Music",
+        "Modern Dancehall"
       ],
       "tagline": "New Album"
     },
@@ -2875,23 +2892,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796874528",
-      "title": "R&B ONLY, Global R&B, London, UK: DJ Pineapplez (DJ Mix)",
-      "artist": "DJ Pineapplez",
-      "url": "https://music.apple.com/jp/album/r-b-only-global-r-b-london-uk-dj-pineapplez-dj-mix/6796874528?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/d3/44/96d344be-42eb-e338-3cec-016b412adabe/8433ea16-59a8-4d35-93a0-f975009b3aa1.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-21",
-      "trackCount": 56,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music",
-        "Contemporary R&B"
       ],
       "tagline": null
     },
