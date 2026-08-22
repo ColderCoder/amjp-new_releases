@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:00:40.047Z",
+  "generatedAt": "2026-08-22T00:00:38.174Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6801344383",
+      "title": "HYPERHOUSE 091: Anna Lunoe (DJ Mix)",
+      "artist": "Anna Lunoe",
+      "url": "https://music.apple.com/jp/album/hyperhouse-091-anna-lunoe-dj-mix/6801344383?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/37/a6/c337a6a6-4b08-adb8-604c-f1b22d8f0b25/0510a2c0-8e26-4138-a9d5-92709f14683a.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-22",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": "New DJ Mix"
+    },
     {
       "id": "6797713046",
       "title": "The World",
@@ -2942,22 +2959,6 @@
         "Hip-Hop/Rap"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6778232489",
-      "title": "God Gotta Afro & Gold Hoops",
-      "artist": "Rapsody",
-      "url": "https://music.apple.com/jp/album/god-gotta-afro-gold-hoops/6778232489?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/22/41/3e/22413e06-3da0-0412-eb24-e92055dfce50/26UMGIM73972.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-20",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6798403205",
