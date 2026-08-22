@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T00:00:38.174Z",
+  "generatedAt": "2026-08-22T07:00:39.911Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2892,6 +2892,23 @@
       "tagline": null
     },
     {
+      "id": "6801708073",
+      "title": "Doof - Friends of a State of Trance, Vol. 9 (DJ Mix)",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/doof-friends-of-a-state-of-trance-vol-9-dj-mix/6801708073?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/86/46/5e864616-f745-c43b-e5b6-20c7519159d4/8718522632853.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 28,
+      "kind": "album",
+      "genres": [
+        "Trance",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6801354081",
       "title": "Tap Dancer - EP",
       "artist": "jon-YAKITORY",
@@ -4222,6 +4239,22 @@
       "tagline": null
     },
     {
+      "id": "6796684798",
+      "title": "Vox Occulta (Deluxe Edition) [feat. The Norwegian Radio Orchestra]",
+      "artist": "Einar Solberg",
+      "url": "https://music.apple.com/jp/album/vox-occulta-deluxe-edition-feat-the-norwegian-radio/6796684798?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/b1/63/a9b1632a-2e8c-cfa7-98be-bc22012d3009/196874515723.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-17",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6799086145",
       "title": "1 ในล้าน",
       "artist": "SURIYA MQT",
@@ -4233,56 +4266,6 @@
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798127491",
-      "title": "welcome to my new world",
-      "artist": "Yosuke Yamauchi",
-      "url": "https://music.apple.com/jp/album/welcome-to-my-new-world/6798127491?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/90/5f/c1905fb8-d33f-4149-dcdc-1122ff9d836c/4500000085510.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-15",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music",
-        "Fusion"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6794990050",
-      "title": "Utanonakadakedeshika,Hontonokotowaienaikara",
-      "artist": "yangskinny",
-      "url": "https://music.apple.com/jp/album/utanonakadakedeshika-hontonokotowaienaikara/6794990050?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/fc/d8/1dfcd80b-d43e-2a70-933f-ec5edc13957d/VEATP-45827.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-15",
-      "trackCount": 26,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796237938",
-      "title": "Upside down - EP",
-      "artist": "KAKI-KUU-KYAKU",
-      "url": "https://music.apple.com/jp/album/%E7%9C%9F%E3%83%83%E9%80%86%E6%A7%98-original-soundtrack-ep/6796237938?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/dc/da/3adcda50-fa1f-2778-f5f7-6ac01418684a/de39eed7-30ef-4192-89f1-d3724ab7332a.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-15",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
         "Music"
       ],
       "tagline": null
@@ -4804,6 +4787,23 @@
       "explicit": true,
       "releaseDate": "2026-06-06",
       "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Techno",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796881419",
+      "title": "FURTHER 6 Year Anniversary: Mr Andy (DJ Mix)",
+      "artist": "Mr Andy",
+      "url": "https://music.apple.com/jp/album/further-6-year-anniversary-mr-andy-dj-mix/6796881419?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/27/60/b72760e0-7ed8-e474-2283-8fc6340fee22/52201ded-52d9-474b-954b-787a49eaab80.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-06",
+      "trackCount": 31,
       "kind": "album",
       "genres": [
         "Techno",
