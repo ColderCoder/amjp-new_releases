@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:00:39.911Z",
+  "generatedAt": "2026-08-23T07:00:40.692Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2909,6 +2909,22 @@
       "tagline": null
     },
     {
+      "id": "6781943274",
+      "title": "HAPPIEST DAY OF MY LIFE",
+      "artist": "paris jackson",
+      "url": "https://music.apple.com/jp/album/happiest-day-of-my-life/6781943274?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/b4/60/5eb46062-7702-0679-b8df-dbcdd8d82ca9/26UMGIM69106.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6801354081",
       "title": "Tap Dancer - EP",
       "artist": "jon-YAKITORY",
@@ -4250,22 +4266,6 @@
       "kind": "album",
       "genres": [
         "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6799086145",
-      "title": "1 ในล้าน",
-      "artist": "SURIYA MQT",
-      "url": "https://music.apple.com/jp/album/1-%E0%B9%83%E0%B8%99%E0%B8%A5-%E0%B8%B2%E0%B8%99/6799086145?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/1a/32/341a322a-b242-c15e-b034-7184bbdd735f/0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-16",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
         "Music"
       ],
       "tagline": null
