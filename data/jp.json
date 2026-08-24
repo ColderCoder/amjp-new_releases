@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T06:00:40.509Z",
+  "generatedAt": "2026-08-24T07:00:42.165Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2925,6 +2925,92 @@
       "tagline": "New Album"
     },
     {
+      "id": "1895397605",
+      "title": "A Hole To See The Sky Through",
+      "artist": "Mystery Jets",
+      "url": "https://music.apple.com/jp/album/a-hole-to-see-the-sky-through/1895397605?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/24/98/8e24980c-e292-b9df-186d-9137c007e364/823375124757_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Indie Rock",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6768650667",
+      "title": "Kindred North",
+      "artist": "Kindred North",
+      "url": "https://music.apple.com/jp/album/kindred-north/6768650667?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/f8/25/f8f825da-3880-97a2-8a1e-13f95e5c03f8/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Hard Rock",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6800509977",
+      "title": "DESCENDANTS: Vigro Deep in New York, 2026 (DJ Mix)",
+      "artist": "Vigro Deep",
+      "url": "https://music.apple.com/jp/album/descendants-vigro-deep-in-new-york-2026-dj-mix/6800509977?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/d4/ea/3fd4eae0-319c-2a2e-05cc-b19ae552a9d2/1d491963-e125-42ba-91c0-5dc5e909b109.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "African",
+        "Amapiano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802437674",
+      "title": "Tomorrowland Belgium 2026: Jazzy at The Great Library, Weekend 1 (DJ Mix)",
+      "artist": "Jazzy",
+      "url": "https://music.apple.com/jp/album/tomorrowland-belgium-2026-jazzy-at-the-great-library/6802437674?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/2e/17/c72e1774-ab01-d4ec-80c3-1c8c9f522a2a/995dc2f1-5723-48e5-a0c6-0e7735135b99.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778453999",
+      "title": "Hell is Evil",
+      "artist": "Deathgrave",
+      "url": "https://music.apple.com/jp/album/hell-is-evil/6778453999?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/96/8f/89968f8f-94c3-4b97-5231-eb96a7f6bf69/820233654555.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6801354081",
       "title": "Tap Dancer - EP",
       "artist": "jon-YAKITORY",
@@ -4135,56 +4221,6 @@
       "tagline": null
     },
     {
-      "id": "6801494081",
-      "title": "Live at Apple Music Radio",
-      "artist": "FLO",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6801494081?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/aa/5f/3eaa5ff3-9d1e-d7ff-7de6-0e75ecf1a6c5/26UM1IM04777.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-17",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
-      "id": "6795974263",
-      "title": "Autofreak (VER 2 Remixes)",
-      "artist": "John Selway",
-      "url": "https://music.apple.com/jp/album/autofreak-ver-2-remixes/6795974263?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/0b/65/550b6534-42bf-65d6-61eb-8bad1d1c3026/8718723324595.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-17",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6797969741",
-      "title": "Still 1st",
-      "artist": "LilDee1st",
-      "url": "https://music.apple.com/jp/album/still-1st/6797969741?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/5d/91/805d91f4-a2b3-fce7-491c-a3fe53a8a49a/808391396678.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-17",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6798798618",
       "title": "NOW IS THE TIME 011: Allies for Everyone (DJ Mix)",
       "artist": "Allies for Everyone",
@@ -4198,41 +4234,6 @@
         "Electronic",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793876970",
-      "title": "That Feeling - EP",
-      "artist": "MarekSPolzki",
-      "url": "https://music.apple.com/jp/album/that-feeling-ep/6793876970?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/fe/f2/61fef2d7-46c7-ad00-172f-91f7912032c9/8718723326209.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-17",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6800156140",
-      "title": "ÖRBITAL",
-      "artist": "Marv",
-      "url": "https://music.apple.com/jp/album/%C3%B6rbital/6800156140?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/52/9f/13529ff8-ca67-557a-38b6-1d6c96cc6d67/8800388636639_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-17",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Korean Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap",
-        "R&B/Soul"
       ],
       "tagline": null
     },
@@ -4251,22 +4252,6 @@
         "Music",
         "R&B/Soul",
         "Disco"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796684798",
-      "title": "Vox Occulta (Deluxe Edition) [feat. The Norwegian Radio Orchestra]",
-      "artist": "Einar Solberg",
-      "url": "https://music.apple.com/jp/album/vox-occulta-deluxe-edition-feat-the-norwegian-radio/6796684798?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/b1/63/a9b1632a-2e8c-cfa7-98be-bc22012d3009/196874515723.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-17",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
       ],
       "tagline": null
     },
@@ -4953,6 +4938,24 @@
         "Music",
         "Dance",
         "Techno"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801267094",
+      "title": "togetherness (DJ Mix)",
+      "artist": "Temry",
+      "url": "https://music.apple.com/jp/album/togetherness-dj-mix/6801267094?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/8e/17/4d8e1722-0591-9b2b-38b7-182638cc8671/03e30251-2c83-4980-9002-a27fe98c1a4c.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2023-12-31",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music",
+        "African",
+        "Afrobeats"
       ],
       "tagline": null
     },
