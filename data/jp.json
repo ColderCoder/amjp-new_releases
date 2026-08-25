@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T07:00:35.920Z",
+  "generatedAt": "2026-08-25T15:00:38.018Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2646,6 +2646,23 @@
       "tagline": "New DJ Mix"
     },
     {
+      "id": "6801278910",
+      "title": "Night Side Songs",
+      "artist": "Night Side Songs Original Off-Broadway Company & The Lazours",
+      "url": "https://music.apple.com/jp/album/night-side-songs/6801278910?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/f6/85/66f6858a-813c-ad13-16c6-f0260150f994/732388391301.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Musicals"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6794148506",
       "title": "Back To Belle Vue - EP",
       "artist": "Arkayla",
@@ -3093,22 +3110,6 @@
         "House"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "1892061498",
-      "title": "Herzsprung",
-      "artist": "GB",
-      "url": "https://music.apple.com/jp/album/herzsprung/1892061498?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/6b/23/016b23c2-a5dd-41a1-62ae-800e42389486/191400611573.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-21",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6801354081",
