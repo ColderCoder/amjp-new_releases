@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:00:38.835Z",
+  "generatedAt": "2026-08-25T07:00:35.920Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3011,6 +3011,106 @@
       "tagline": null
     },
     {
+      "id": "6771381297",
+      "title": "American Cosmic Revival, Vol. 2: Miles From Nowhere",
+      "artist": "Christian Parker, Patrick Cleary & Earl Poole Ball",
+      "url": "https://music.apple.com/jp/album/american-cosmic-revival-vol-2-miles-from-nowhere/6771381297?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/1d/ef/891def47-02e8-a50e-4e38-ceff9a003cdf/820233456449.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779303629",
+      "title": "BLACKPRINT - EP",
+      "artist": "Miss Kaninna",
+      "url": "https://music.apple.com/jp/album/blackprint-ep/6779303629?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/0a/1a/580a1abd-6b13-babf-6f51-9fe0e382b29d/820233600767.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": "New Mixtape"
+    },
+    {
+      "id": "6785931802",
+      "title": "The Seven Dogs - EP",
+      "artist": "Rteph88 & Steve Cobby",
+      "url": "https://music.apple.com/jp/album/the-seven-dogs-ep/6785931802?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/fb/92/5bfb921d-022a-ee62-3701-c461078706ff/4062548147124.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Electronica",
+        "Music",
+        "Electronic",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801199925",
+      "title": "5 Elements - EP",
+      "artist": "Jorjiana",
+      "url": "https://music.apple.com/jp/album/5-elements-ep/6801199925?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/18/23/e61823e7-01f1-ff57-4bd1-39807395a234/075679561688.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6799142852",
+      "title": "AXEPT  Radio with Yulia Niko 007 (DJ Mix)",
+      "artist": "Yulia Niko",
+      "url": "https://music.apple.com/jp/album/axept-radio-with-yulia-niko-007-dj-mix/6799142852?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/ef/ec/fcefec49-f296-786e-5788-0447f3198a13/84fc0c72-340c-4090-9bd7-4e6c722a4875.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "1892061498",
+      "title": "Herzsprung",
+      "artist": "GB",
+      "url": "https://music.apple.com/jp/album/herzsprung/1892061498?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/6b/23/016b23c2-a5dd-41a1-62ae-800e42389486/191400611573.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6801354081",
       "title": "Tap Dancer - EP",
       "artist": "jon-YAKITORY",
@@ -4073,54 +4173,6 @@
       "tagline": null
     },
     {
-      "id": "6798753507",
-      "title": "Apple Music Nashville Sessions",
-      "artist": "Carter Faith",
-      "url": "https://music.apple.com/jp/album/apple-music-nashville-sessions/6798753507?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/00/10/89001013-90fe-6500-9bdd-55726cc6d930/26UM1IM01709.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-18",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6795578197",
-      "title": "Wait Your Turn",
-      "artist": "Gic0e",
-      "url": "https://music.apple.com/jp/album/wait-your-turn/6795578197?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/7f/4c/527f4c44-2242-36d9-e796-25a21a6e68b0/881392771385.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-18",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6789710311",
-      "title": "Water Your Life - EP",
-      "artist": "Tone Levels",
-      "url": "https://music.apple.com/jp/album/water-your-life-ep/6789710311?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/69/90/f769905e-2152-dbf6-558f-48204c5ad827/881392477577-copy-f768519e.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-18",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6792227881",
       "title": "MoodToMove: Masaki Morii (DJ Mix)",
       "artist": "Masaki Morii",
@@ -4135,88 +4187,6 @@
         "Music",
         "African",
         "Afro House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6799155854",
-      "title": "Solutions - EP",
-      "artist": "Munyunn",
-      "url": "https://music.apple.com/jp/album/solutions-ep/6799155854?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/77/e0/b077e03d-3915-af3e-c30c-1016e3b6bc1f/808391398009.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-18",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796220763",
-      "title": "Burning Up - EP",
-      "artist": "Michael Lane",
-      "url": "https://music.apple.com/jp/album/burning-up-ep/6796220763?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/52/f3/9452f380-ff13-de06-8b18-fd5c8a93c4cd/8718723326629.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-18",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801680762",
-      "title": "BLING BØI EP 2: HØSTED BY DJ HØLIDAY",
-      "artist": "diamond*",
-      "url": "https://music.apple.com/jp/album/bling-b%C3%B8i-ep-2-h%C3%B8sted-by-dj-h%C3%B8liday/6801680762?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/0b/21/d70b21dc-a7d3-47ec-214c-4d7011108af0/075679561572.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-18",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795337442",
-      "title": "Draft Day",
-      "artist": "Casper TNG",
-      "url": "https://music.apple.com/jp/album/draft-day/6795337442?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/5c/ab/635cabc1-0d3c-05d0-5127-e7f0bddeac49/26UMGIM91420.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-18",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6800371595",
-      "title": "Type Shit - EP",
-      "artist": "Mick Jenkins",
-      "url": "https://music.apple.com/jp/album/type-shit-ep/6800371595?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/b1/a4/36b1a46e-3195-5e52-ffaa-9cb0dd33f044/193436482851_image.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-18",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
@@ -4506,6 +4476,23 @@
         "Dance",
         "Music",
         "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802459222",
+      "title": "Tomorrowland Belgium 2026: HUGEL at Crystal Garden, Weekend 2 (DJ Mix)",
+      "artist": "HUGEL",
+      "url": "https://music.apple.com/jp/album/tomorrowland-belgium-2026-hugel-at-crystal-garden-weekend/6802459222?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/cc/96/c5cc9645-96f4-cfb6-bb3f-160c75c480c0/0d634e57-8a6a-4013-8574-452824fb8a37.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-25",
+      "trackCount": 28,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -5026,6 +5013,23 @@
         "Music",
         "Electronic",
         "Bass"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6800114401",
+      "title": "Charlie Sparks at Verknipt Festival 2022 (DJ Mix)",
+      "artist": "Charlie Sparks",
+      "url": "https://music.apple.com/jp/album/charlie-sparks-at-verknipt-festival-2022-dj-mix/6800114401?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e5/c3/fd/e5c3fd15-1720-c648-1e89-446a818e55f6/9d864bbf-495d-440e-840c-ef41be3d285f.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2022-06-12",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Techno",
+        "Music",
+        "Dance"
       ],
       "tagline": null
     }
