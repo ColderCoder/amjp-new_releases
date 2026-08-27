@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T19:00:33.076Z",
+  "generatedAt": "2026-08-27T20:00:34.620Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2620,10 +2620,10 @@
     },
     {
       "id": "6795570297",
-      "title": "Big Black Dick Is Back in Town",
+      "title": "big black dick is back in town",
       "artist": "Tfemi",
       "url": "https://music.apple.com/jp/album/big-black-dick-is-back-in-town/6795570297?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/14/83/fe1483c7-8190-23dc-e712-f9e7975fa0f5/881392770661.png/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e9/f8/abe9f8d4-446d-49a3-5bca-a58caedf3b94/Bbdibit_-_updated_-copy-f152ad42.png/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-08-28",
       "trackCount": 8,
@@ -3072,7 +3072,7 @@
       "title": "Club Mix 009: TEED (DJ Mix)",
       "artist": "TEED",
       "url": "https://music.apple.com/jp/album/club-mix-009-teed-dj-mix/1837746772?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/24/5b/ab245b80-5632-8f61-17d3-63b9afd58d7b/00ff2686-b5b2-448d-a12c-3ca8b1a721ff.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/4a/69/104a69ee-9293-1ad7-7c39-e14dd86d74e4/d67bddc5-42f3-45b3-8a31-0789789f5717.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-08-28",
       "trackCount": 23,
@@ -3968,6 +3968,23 @@
       "tagline": null
     },
     {
+      "id": "6797661548",
+      "title": "NAINA Presents: TSVI, Vol. 72 (DJ Mix)",
+      "artist": "TSVI",
+      "url": "https://music.apple.com/jp/album/naina-presents-tsvi-vol-72-dj-mix/6797661548?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/58/9f/0e589f9b-31bb-7c5f-42c7-1211ba431476/fb3506f2-2ebc-4992-8191-658ee6a93452.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": "Apple Music Club DJ Mix"
+    },
+    {
       "id": "6805723370",
       "title": "xperiment - cartunez",
       "artist": "Ken Carson",
@@ -3989,7 +4006,7 @@
       "artist": "Ghost",
       "url": "https://music.apple.com/jp/album/2-big-to-rig-original-motion-picture-soundtrack-live/6802781120?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/11/30/e71130a1-c7c1-d1c1-ef86-e61975e1fca5/26CRGIM55790.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-08-27",
       "trackCount": 19,
       "kind": "album",
@@ -4408,23 +4425,6 @@
         "Music"
       ],
       "tagline": null
-    },
-    {
-      "id": "6799316419",
-      "title": "Enter The REALM: Gorgon City 028 (DJ Mix)",
-      "artist": "Gorgon City",
-      "url": "https://music.apple.com/jp/album/enter-the-realm-gorgon-city-028-dj-mix/6799316419?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/06/bb/9506bbba-616a-b413-6c65-3cb44f9afff0/9bc94937-572d-460f-b86a-58601d6bc6c0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-24",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": "New DJ Mix"
     },
     {
       "id": "6795347621",
