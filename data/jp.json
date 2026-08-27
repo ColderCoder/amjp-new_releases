@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T17:00:26.434Z",
+  "generatedAt": "2026-08-27T07:00:23.191Z",
   "source": "https://music.apple.com/jp/room/6803701972?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6803701972?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3836,157 +3836,288 @@
       "tagline": null
     },
     {
-      "id": "6801354081",
-      "title": "Tap Dancer - EP",
-      "artist": "jon-YAKITORY",
-      "url": "https://music.apple.com/jp/album/tap-dancer-ep/6801354081?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/c9/8c/94c98ce1-36b2-5ee1-ab3e-0ba0bd9b4859/4550759598939_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791096537",
-      "title": "Ballad of You",
-      "artist": "Silica Gel",
-      "url": "https://music.apple.com/jp/album/ballad-of-you/6791096537?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/cc/b0/27ccb0dc-9bde-6038-0ddc-1b46ad13a401/PA00223302_0_250477_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
+      "id": "1895357999",
+      "title": "Punching the Clown",
+      "artist": "Lambchop",
+      "url": "https://music.apple.com/jp/album/punching-the-clown/1895357999?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/e0/2a/fee02a85-7e30-45d1-805b-e342165b7348/4250506852931_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
       "trackCount": 12,
       "kind": "album",
       "genres": [
+        "Indie Rock",
+        "Music",
         "Alternative",
+        "Folk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796354615",
+      "title": "Paganini",
+      "artist": "Joshua Bell & Academy of St Martin in the Fields",
+      "url": "https://music.apple.com/jp/album/paganini/6796354615?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/b6/e7/70b6e7fb-5950-7c7f-829d-a018007270ac/196874636497.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Classical",
         "Music",
+        "Orchestral",
+        "Violin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778416498",
+      "title": "In the Margins, In Shades of Pale Blue - EP",
+      "artist": "Augustine",
+      "url": "https://music.apple.com/jp/album/in-the-margins-in-shades-of-pale-blue-ep/6778416498?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/af/5c/13af5c48-0f78-f300-1b91-bee9b5ac2b73/7333591574630.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
         "Pop",
-        "K-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796213787",
-      "title": "オンゲキ「ときめきインビテーション」 - EP",
-      "artist": "ONGEKI SHOOTERS",
-      "url": "https://music.apple.com/jp/album/%E3%82%AA%E3%83%B3%E3%82%B2%E3%82%AD-%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E3%82%A4%E3%83%B3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-ep/6796213787?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/1c/a1/ce1ca15c-ee32-cb95-b7f7-80dbdcb106b4/PA00223974_0_251157_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6799659690",
-      "title": "Eminence",
-      "artist": "Beenie Man",
-      "url": "https://music.apple.com/jp/album/eminence/6799659690?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/51/26/245126c9-7afe-d2ee-e172-ae9a8149520e/490.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-20",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Reggae",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6798403205",
-      "title": "AUSENCIA - EP",
-      "artist": "Lyon la f",
-      "url": "https://music.apple.com/jp/album/ausencia-ep/6798403205?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/b9/72/8fb97220-0b68-d612-d979-7ada538d0b1b/AUSENCIA_-_final_cover-copy-6cf510cd.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6797860000",
-      "title": "Inferno",
-      "artist": "Jxggi",
-      "url": "https://music.apple.com/jp/album/inferno/6797860000?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/84/d0/ea84d056-f0dc-d573-e9d9-69bda64ff1a4/885288237689.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-20",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6797588303",
-      "title": "METANOIA",
-      "artist": "Ysrael Barajas",
-      "url": "https://music.apple.com/jp/album/metanoia/6797588303?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/a5/4a/6aa54aae-bb50-f3f0-166f-7043c5340867/196874538432.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin",
-        "Música Mexicana"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798465915",
-      "title": "Monsters Of God (Original Soundtrack)",
-      "artist": "Ari Balouzian",
-      "url": "https://music.apple.com/jp/album/monsters-of-god-original-soundtrack/6798465915?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/1e/03/671e03f7-fe4b-79aa-0e72-1d997900556e/823375355359_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 35,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6799813734",
-      "title": "Gentlewoman",
-      "artist": "Cleo Sol",
-      "url": "https://music.apple.com/jp/album/gentlewoman/6799813734?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/4b/08/424b084b-8779-45f7-7cad-602926bbdb82/859743823069_cover.jpg/632x632bb.jpg",
+      "id": "6799930800",
+      "title": "SIESTA",
+      "artist": "Cakal",
+      "url": "https://music.apple.com/jp/album/siesta/6799930800?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/8a/9b/e48a9b20-0bf5-0e0b-a80d-4476a7eebddc/885288248517.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6790819888",
+      "title": "Hope Our Paths Cross - EP",
+      "artist": "Tommy WÁ",
+      "url": "https://music.apple.com/jp/album/hope-our-paths-cross-ep/6790819888?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/df/02/55df02c5-7891-7446-e0e3-ae045c472fa6/823375310983_Cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 15,
+      "releaseDate": "2026-08-21",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New EP"
+    },
+    {
+      "id": "1891979477",
+      "title": "Decoding Birdsong",
+      "artist": "Antony Szmierek",
+      "url": "https://music.apple.com/jp/album/decoding-birdsong/1891979477?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/06/cd/5b06cd49-10b2-61ea-db25-eb55330cc688/9341004150065_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1872950666",
+      "title": "The Bloody Unknown",
+      "artist": "Adam Newling",
+      "url": "https://music.apple.com/jp/album/the-bloody-unknown/1872950666?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/e1/c0/fce1c084-8a4e-2ec5-60dd-311e792dff20/456610.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Alternative Folk",
+        "Music",
+        "Singer/Songwriter",
+        "New Acoustic"
+      ],
+      "tagline": "New EP"
+    },
+    {
+      "id": "6795101251",
+      "title": "Baddest In Der Turkeı - EP",
+      "artist": "Zern",
+      "url": "https://music.apple.com/jp/album/baddest-in-der-turke%C4%B1-ep/6795101251?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/37/cd/6237cdc5-2377-49ba-d73c-73e35262dc04/687848072965_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Alternative Rap",
+        "Music",
+        "Hip-Hop/Rap",
+        "African",
+        "Amapiano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6766353779",
+      "title": "Live July 22 – August 20, 2016",
+      "artist": "The Tragically Hip",
+      "url": "https://music.apple.com/jp/album/live-july-22-august-20-2016/6766353779?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/6e/14/296e14f9-e642-ee8c-0ce0-6ae4beff1930/26UMGIM51943.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 29,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": "New Live Album"
+    },
+    {
+      "id": "6790716309",
+      "title": "Alert!",
+      "artist": "Alter Annala",
+      "url": "https://music.apple.com/jp/album/alert/6790716309?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/f0/ea/20f0ea13-54ef-dabd-e455-14202b28cb3e/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793130531",
+      "title": "Jump And Spread Out",
+      "artist": "Johnny P",
+      "url": "https://music.apple.com/jp/album/jump-and-spread-out/6793130531?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/35/80/293580e2-3467-6233-f5cd-60af0898e69f/054645714563.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Reggae",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802300239",
+      "title": "IN THE CLUB",
+      "artist": "Batuflex",
+      "url": "https://music.apple.com/jp/album/in-the-club/6802300239?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/8b/43/fd8b4338-00ac-4c8c-47ce-01b58058d44e/885288292077.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783078139",
+      "title": "TO: SUMMER",
+      "artist": "Sean Leon & God's ALGORITHM",
+      "url": "https://music.apple.com/jp/album/to-summer/6783078139?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/14/be/d414be2f-81cf-76f3-3872-dce7373df05a/612891100921.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6797335781",
+      "title": "ORUN - EP",
+      "artist": "Zafty",
+      "url": "https://music.apple.com/jp/album/orun-ep/6797335781?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/28/f9/6f/28f96f7d-a69b-061d-1019-e89e1c179358/5064021983075_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-21",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6798491841",
+      "title": "Live Life & Prosper",
+      "artist": "D'yani",
+      "url": "https://music.apple.com/jp/album/live-life-prosper/6798491841?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/47/81/f14781b0-506e-f1c6-4956-e1eab4223bbb/075679567864.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Reggae",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6793855778",
+      "title": "AsK oYuNu",
+      "artist": "Alba",
+      "url": "https://music.apple.com/jp/album/ask-oyunu/6793855778?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/94/5c/fc945c8d-836a-2170-e263-57c93a1d90d5/687848073412_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 10,
       "kind": "album",
       "genres": [
         "R&B/Soul",
         "Music"
       ],
-      "tagline": "New Album"
+      "tagline": null
+    },
+    {
+      "id": "6768375450",
+      "title": "Ask Not What The Tremolo Beer Gut Can Do for You …",
+      "artist": "The Tremolo Beer Gut",
+      "url": "https://music.apple.com/jp/album/ask-not-what-the-tremolo-beer-gut-can-do-for-you/6768375450?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/ad/a9/b6ada9f4-5457-3796-24a9-a81cc16d3e5e/820233355841.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-21",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Surf",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
     },
     {
       "id": "6800134947",
@@ -4004,55 +4135,6 @@
         "Dance"
       ],
       "tagline": null
-    },
-    {
-      "id": "6798855031",
-      "title": "Landlocked - EP",
-      "artist": "Daniel Pineda",
-      "url": "https://music.apple.com/jp/album/landlocked-ep/6798855031?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/5e/c8/7e5ec8de-fe00-e28f-eccb-f4149965ae51/4811.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-20",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798392233",
-      "title": "ONLY ME",
-      "artist": "Tyboog",
-      "url": "https://music.apple.com/jp/album/only-me/6798392233?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/00/39/db0039e3-1850-2255-3d91-7287b1a352aa/808391397552.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-20",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801669602",
-      "title": "Smaxk Season 3: Banks House",
-      "artist": "Fatt Smaxk",
-      "url": "https://music.apple.com/jp/album/smaxk-season-3-banks-house/6801669602?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/22/08/d9220887-c67d-4c47-330d-3bcfc8b241d8/075679565495.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-20",
-      "trackCount": 41,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6797660014",
@@ -4085,88 +4167,6 @@
         "Dance",
         "Music",
         "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796042420",
-      "title": "Outer Banks: Season 5 (Soundtrack from the Netflix Series)",
-      "artist": "Fil Eisler",
-      "url": "https://music.apple.com/jp/album/outer-banks-season-5-soundtrack-from-the-netflix-series/6796042420?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/c8/53/18c8535e-115e-1920-eaed-1308892abbb0/810123169702.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802970185",
-      "title": "Cloudy",
-      "artist": "Evan Yo",
-      "url": "https://music.apple.com/jp/album/%E5%BF%AB%E4%B9%90%E6%9C%89%E6%97%B6%E6%9C%89/6802970185?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f5/9a/94/f59a942a-b2b4-c8dd-c22a-a276cc7e1f1e/1200214892036.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Mandopop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6790761562",
-      "title": "To The Ground - EP",
-      "artist": "RONA.",
-      "url": "https://music.apple.com/jp/album/to-the-ground-ep/6790761562?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/61/cf/d561cfbc-307c-2792-221e-cd555786cd7b/885288030822.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6800534335",
-      "title": "我的以太倾斜了",
-      "artist": "恶童ETON",
-      "url": "https://music.apple.com/jp/album/%E6%88%91%E7%9A%84%E4%BB%A5%E5%A4%AA%E5%80%BE%E6%96%9C%E4%BA%86/6800534335?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/66/3a/7c663a1b-924d-0ff7-9097-8a65f95e3a90/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802736861",
-      "title": "White Summer Unboxing",
-      "artist": "Terence Lam",
-      "url": "https://music.apple.com/jp/album/white-summer-unboxing/6802736861?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/fa/83/68fa837b-0128-58a2-ada4-3ba589ca44ec/754213536527.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-20",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Cantopop/HK-Pop",
-        "Music",
-        "Pop"
       ],
       "tagline": null
     },
