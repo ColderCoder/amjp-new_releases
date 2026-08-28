@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T05:00:26.800Z",
+  "generatedAt": "2026-08-28T07:00:35.692Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3166,6 +3166,22 @@
       "tagline": null
     },
     {
+      "id": "6792765406",
+      "title": "Radical Romance of Mind",
+      "artist": "Mona et Toi",
+      "url": "https://music.apple.com/jp/album/radical-romance-of-mind/6792765406?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/d4/db/24d4db3d-6e83-b129-a4d1-363b2c155960/8721628600299.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805723370",
       "title": "xperiment - cartunez",
       "artist": "Ken Carson",
@@ -4935,23 +4951,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803716095",
-      "title": "Track by Track Commentary: Shaboozey on The Outlaw Cherie Lee & Other Western Tales",
-      "artist": "Shaboozey",
-      "url": "https://music.apple.com/jp/album/track-by-track-commentary-shaboozey-on-the-outlaw/6803716095?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/72/58/6772581d-f550-b1b6-9a4e-93e0f4b469c9/tns.ppzzfnpy.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-21",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Spoken Word",
-        "Music",
-        "Country"
       ],
       "tagline": null
     },
