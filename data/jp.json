@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T04:00:32.368Z",
+  "generatedAt": "2026-08-28T05:00:26.800Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -257,6 +257,23 @@
       "tagline": null
     },
     {
+      "id": "6781873059",
+      "title": "Don't Look Down",
+      "artist": "Rod Wave",
+      "url": "https://music.apple.com/jp/album/dont-look-down/6781873059?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/67/4d/16674d50-a339-71bf-0aea-dc93b7dd8570/196874541357.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6774718027",
       "title": "Good Grief",
       "artist": "Sara Bareilles",
@@ -287,6 +304,23 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6804021807",
+      "title": "NEVER ENOUGH: VERSIONS",
+      "artist": "Turnstile",
+      "url": "https://music.apple.com/jp/album/never-enough-versions/6804021807?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/39/7a/51397ad5-74d6-f7a7-3500-049082840907/075679560636.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 36,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Metal"
+      ],
+      "tagline": "New Release"
     },
     {
       "id": "6805166464",
@@ -1555,7 +1589,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6793206232",
@@ -3128,38 +3162,6 @@
         "Dance",
         "Music",
         "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6792765406",
-      "title": "Radical Romance of Mind",
-      "artist": "Mona et Toi",
-      "url": "https://music.apple.com/jp/album/radical-romance-of-mind/6792765406?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/d4/db/24d4db3d-6e83-b129-a4d1-363b2c155960/8721628600299.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-28",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803328501",
-      "title": "Still Ain't Signed - EP",
-      "artist": "3o$ama",
-      "url": "https://music.apple.com/jp/album/still-aint-signed-ep/6803328501?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/d0/d0/97d0d0af-f207-c641-8ecf-a09ef3d23474/67003.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-28",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
