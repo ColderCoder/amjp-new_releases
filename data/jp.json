@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T07:00:35.692Z",
+  "generatedAt": "2026-08-28T09:00:34.541Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -572,15 +572,14 @@
       "title": "Pure Ecstasy",
       "artist": "Beartooth",
       "url": "https://music.apple.com/jp/album/pure-ecstasy/1893453878?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/9f/8d/1a9f8d07-e212-cd31-f4cf-edd38203ac47/26CRGIM54361.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/a0/b0/6ba0b0e2-8915-d812-6904-87fec33e2c52/ticket.ywklrehn.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-08-28",
       "trackCount": 11,
       "kind": "album",
       "genres": [
-        "Metal",
-        "Music",
-        "Rock"
+        "Rock",
+        "Music"
       ],
       "tagline": "New Album and Interview"
     },
@@ -2755,7 +2754,7 @@
       "title": "Si Las Miradas Mataran (Deluxe)",
       "artist": "La Arrolladora Banda el Limón de René Camacho",
       "url": "https://music.apple.com/jp/album/si-las-miradas-mataran-deluxe/6800564348?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/ee/80/66ee80a1-9920-6eb0-2dd6-b1ca56301a37/26UM1IM04023.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/8e/fd/568efd47-1c2f-4324-457c-689ba1e22aa9/26UM1IM04023.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-08-28",
       "trackCount": 10,
