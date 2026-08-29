@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T14:01:06.069Z",
+  "generatedAt": "2026-08-29T01:01:00.932Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -254,7 +254,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6781873059",
@@ -434,7 +434,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6797945945",
@@ -515,7 +515,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6771726136",
@@ -663,7 +663,7 @@
         "Music",
         "Hip-Hop/Rap"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6783071874",
@@ -696,7 +696,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album and Interview"
     },
     {
       "id": "6776004209",
@@ -712,7 +712,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6776244224",
@@ -894,7 +894,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6792953838",
@@ -1276,7 +1276,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6774252789",
@@ -1490,7 +1490,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6774768491",
@@ -1540,7 +1540,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6770713556",
@@ -1688,7 +1688,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6771293168",
@@ -2932,7 +2932,7 @@
     },
     {
       "id": "6786449252",
-      "title": "Phthalo - EP",
+      "title": "PHTHALO - EP",
       "artist": "Rabbitology",
       "url": "https://music.apple.com/jp/album/phthalo-ep/6786449252?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/6f/7f/5b6f7f36-2dbc-ea6e-797c-bb7f5406d19f/067003028592.png/632x632bb.jpg",
@@ -3181,6 +3181,22 @@
       "tagline": null
     },
     {
+      "id": "6803328501",
+      "title": "Still Ain't Signed - EP",
+      "artist": "3o$ama",
+      "url": "https://music.apple.com/jp/album/still-aint-signed-ep/6803328501?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/d0/d0/97d0d0af-f207-c641-8ecf-a09ef3d23474/67003.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805723370",
       "title": "xperiment - cartunez",
       "artist": "Ken Carson",
@@ -3373,22 +3389,6 @@
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784048395",
-      "title": "Disney Twisted-Wonderland Character Song Collection",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/disney-twisted-wonderland-character-song-collection/6784048395?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/6c/de/906cdedc-932a-6fda-060b-7d059ad05fce/26UMGIM79506.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-26",
-      "trackCount": 32,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
         "Music"
       ],
       "tagline": null
