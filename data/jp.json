@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T01:01:00.932Z",
+  "generatedAt": "2026-08-29T07:01:01.990Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3197,6 +3197,54 @@
       "tagline": null
     },
     {
+      "id": "6769168837",
+      "title": "Silent Strain",
+      "artist": "Secrets",
+      "url": "https://music.apple.com/jp/album/silent-strain/6769168837?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/2a/97/112a9756-b1f8-78d0-8f0f-f27ec01129fe/193436472357_SECRETS.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895777386",
+      "title": "Love Aggregates",
+      "artist": "Asher White",
+      "url": "https://music.apple.com/jp/album/love-aggregates/1895777386?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/72/4c/71724cb6-b882-fe44-e99b-581abd79c508/65683.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6785590316",
+      "title": "World In A Picture - EP",
+      "artist": "The Sway",
+      "url": "https://music.apple.com/jp/album/world-in-a-picture-ep/6785590316?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/19/8d/65198db7-69c4-988e-ad63-79af7c1f68ca/5064020702745_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805723370",
       "title": "xperiment - cartunez",
       "artist": "Ken Carson",
@@ -3370,6 +3418,22 @@
       "explicit": true,
       "releaseDate": "2026-08-27",
       "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801320191",
+      "title": "The W8 Is Over !",
+      "artist": "Stop6Jaay",
+      "url": "https://music.apple.com/jp/album/the-w8-is-over/6801320191?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/c3/ec/b4c3eca1-d432-ff20-36e7-437a55a01dc6/808391399280.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-27",
+      "trackCount": 7,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
@@ -4882,71 +4946,6 @@
       "explicit": true,
       "releaseDate": "2026-08-23",
       "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6800546613",
-      "title": "Saiko-cho - EP",
-      "artist": "チャラスマ & 掌幻 & LAYGAN",
-      "url": "https://music.apple.com/jp/album/%E6%9C%80%E9%AB%98%E6%BD%AE-ep/6800546613?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/3c/69/353c6992-22f5-43d6-d056-ac5daacbc906/4500000085589.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-22",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795465078",
-      "title": "TV Anime \"Hanaori-san Still Wants to Fight in the Next Life\" ORIGINAL SOUNDTRACK",
-      "artist": "Yukari Hashimoto & R・O・N",
-      "url": "https://music.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E8%8A%B1%E7%B9%94%E3%81%95%E3%82%93%E3%81%AF%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%A6%E3%82%82%E5%96%A7%E5%98%A9%E3%81%8C%E3%81%97%E3%81%9F%E3%81%84-original-soundtrack/6795465078?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/88/06/0788069c-625b-a41e-c427-477dc42280f0/28300.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-22",
-      "trackCount": 48,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music",
-        "Soundtrack"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801995212",
-      "title": "しあわせの定義 - EP",
-      "artist": "Bachikanshikokni_aisaretai",
-      "url": "https://music.apple.com/jp/album/%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E5%AE%9A%E7%BE%A9-ep/6801995212?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/d7/39/26d739ce-fc9d-87d0-f254-d4056343c53d/885288213980.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-22",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801380299",
-      "title": "HAETAL - EP",
-      "artist": "Seo Jaekang",
-      "url": "https://music.apple.com/jp/album/haetal-ep/6801380299?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/60/81/b16081af-bdf3-0134-9602-76e6df694cf0/888618490815.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-22",
-      "trackCount": 4,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
