@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T07:01:01.990Z",
+  "generatedAt": "2026-08-30T07:01:01.652Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3245,6 +3245,23 @@
       "tagline": null
     },
     {
+      "id": "6801689891",
+      "title": "Desde Antes De Nacer",
+      "artist": "Kurt",
+      "url": "https://music.apple.com/jp/album/desde-antes-de-nacer/6801689891?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/6e/b9/516eb9a1-313b-dd3d-dfef-f943414dd427/26UMGIM71540.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Pop in Spanish",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805723370",
       "title": "xperiment - cartunez",
       "artist": "Ken Carson",
@@ -4934,22 +4951,6 @@
         "Electronic",
         "Music",
         "Downtempo"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795347621",
-      "title": "Boss Talk (Nation Business)",
-      "artist": "Breadwinner Kane",
-      "url": "https://music.apple.com/jp/album/boss-talk-nation-business/6795347621?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/af/eb/21afeb61-7162-0bbe-777f-076bc9c45bde/612891162189.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-23",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
