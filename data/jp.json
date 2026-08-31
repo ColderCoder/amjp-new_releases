@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T07:01:01.652Z",
+  "generatedAt": "2026-08-31T07:00:42.207Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3262,6 +3262,142 @@
       "tagline": null
     },
     {
+      "id": "6799240951",
+      "title": "Algo-Rhythm - EP",
+      "artist": "Drayko",
+      "url": "https://music.apple.com/jp/album/algo-rhythm-ep/6799240951?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/9b/f7/d79bf752-dbf5-3e31-2e4b-be7de14c2230/808391398160.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801008940",
+      "title": "The Equation - EP",
+      "artist": "AceMo & Swami Sound",
+      "url": "https://music.apple.com/jp/album/the-equation-ep/6801008940?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/24/52/4d2452d4-8470-9d94-0959-0e73b0c9dd06/840200579971_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6800843817",
+      "title": "Chess Moves 2",
+      "artist": "Tha God Fahim & NicoJP",
+      "url": "https://music.apple.com/jp/album/chess-moves-2/6800843817?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/c4/bd/2dc4bd13-97e4-1f1f-87a4-6f861bf45a48/792278140013.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6792017654",
+      "title": "strangers in our skin",
+      "artist": "negativespace",
+      "url": "https://music.apple.com/jp/album/strangers-in-our-skin/6792017654?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/52/45/10524575-97b6-db59-800f-a7cc01d3d0a1/820233838412.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779390857",
+      "title": "Through Line",
+      "artist": "Smallie",
+      "url": "https://music.apple.com/jp/album/through-line/6779390857?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cd/ff/83cdff2f-c02b-cecd-1e4b-6cdb15f077eb/3663729455024_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Indie Rock",
+        "Music",
+        "Alternative",
+        "Country",
+        "Americana"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6766719014",
+      "title": "Every Star in Rockingham County",
+      "artist": "Dogwood Tales",
+      "url": "https://music.apple.com/jp/album/every-star-in-rockingham-county/6766719014?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/2a/15/792a1586-1623-f4d9-1589-5a0686fa5534/126655.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Indie Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1837746772",
+      "title": "Club Mix 009: TEED (DJ Mix)",
+      "artist": "TEED",
+      "url": "https://music.apple.com/jp/album/club-mix-009-teed-dj-mix/1837746772?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/4a/69/104a69ee-9293-1ad7-7c39-e14dd86d74e4/d67bddc5-42f3-45b3-8a31-0789789f5717.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": "Exclusive DJ Mix"
+    },
+    {
+      "id": "6805218785",
+      "title": "Summertime Sounds 2026: Bryce Alakai (DJ Mix)",
+      "artist": "Bryce Alakai",
+      "url": "https://music.apple.com/jp/album/summertime-sounds-2026-bryce-alakai-dj-mix/6805218785?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/5a/f4/715af43e-ade7-f470-d19c-7f6bf4018a5d/f0a6aee7-9c86-40c9-b470-3f834393e720.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "Made for Summer"
+    },
+    {
       "id": "6805723370",
       "title": "xperiment - cartunez",
       "artist": "Ken Carson",
@@ -3455,6 +3591,24 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802731635",
+      "title": "Prosecution (Original Motion Picture Soundtrack)",
+      "artist": "Gabríel Ólafs",
+      "url": "https://music.apple.com/jp/album/prosecution-original-motion-picture-soundtrack/6802731635?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/b5/55/19b55567-da19-7ada-860d-e0d4c30a0cb1/607.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-27",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Electronic",
+        "Ambient"
       ],
       "tagline": null
     },
@@ -4788,169 +4942,19 @@
       "tagline": null
     },
     {
-      "id": "6802879262",
-      "title": "AMENITY",
-      "artist": "Snow Man",
-      "url": "https://music.apple.com/jp/album/amenity/6802879262?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0a/6e/ab0a6ec4-38a9-d18a-109b-f67758daf7cb/ANTCD-A0000020952.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-24",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798913850",
-      "title": "BLINGY - The 7th Album",
-      "artist": "NCT 127",
-      "url": "https://music.apple.com/jp/album/blingy-the-7th-album/6798913850?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/d6/a8/a7d6a882-9d53-b9ed-6271-7869f805fbc5/888735956515.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-24",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6799799709",
-      "title": "Takara - EP",
-      "artist": "TAKARA",
-      "url": "https://music.apple.com/jp/album/takara-ep/6799799709?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/8e/83/a08e8388-3a5c-94cb-d53c-9d88b9dc8cb5/26UMGIM94621.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-24",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803316030",
-      "title": "GREENGREEN_playextended",
-      "artist": "CORTIS",
-      "url": "https://music.apple.com/jp/album/greengreen-playextended/6803316030?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/e5/ca/e0e5caed-e7c6-21dd-85c1-1e7354926648/26UM1IM06740.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-24",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796542777",
-      "title": "SAUCIN' - EP",
-      "artist": "NEXZ",
-      "url": "https://music.apple.com/jp/album/saucin-ep/6796542777?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/dd/28/18dd28c5-87d3-2cb4-73f4-4af54b302974/8809928957166.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-24",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796242508",
-      "title": "UNBREAKABLE : SHONEN BEAST",
-      "artist": "ALPHA DRIVE ONE",
-      "url": "https://music.apple.com/jp/album/unbreakable-%E5%B0%91%E5%B9%B4beast/6796242508?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/ea/48/ecea48e7-ab97-069e-cb06-e5c318bd2bf8/888272185416.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-24",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Mini Album"
-    },
-    {
-      "id": "6803315375",
-      "title": "TUIDE The 1st EP [TUNE & PLAY] - EP",
-      "artist": "TUIDE",
-      "url": "https://music.apple.com/jp/album/tuide-the-1st-ep-tune-play-ep/6803315375?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/59/50/f6595017-02c4-7a23-811f-124ef49b4cca/26UM1IM06731.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-24",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802977775",
-      "title": "060824 - EP",
-      "artist": "SoleSquad",
-      "url": "https://music.apple.com/jp/album/060824-ep/6802977775?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/0f/e6/200fe6ae-ed44-cb4d-1d28-bcd17efe7769/8800388639203_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-24",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Korean Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803601181",
-      "title": "Rich Shooter",
-      "artist": "GmoneyDt",
-      "url": "https://music.apple.com/jp/album/rich-shooter/6803601181?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/3d/89/413d8978-ffa9-5dc1-7d64-0a915baf1ded/612891200546.jpg/632x632bb.jpg",
+      "id": "6803705086",
+      "title": "Lightning in a Bottle 2026: Mochakk (DJ Mix)",
+      "artist": "Mochakk",
+      "url": "https://music.apple.com/jp/album/lightning-in-a-bottle-2026-mochakk-dj-mix/6803705086?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/3d/66/263d6647-b6eb-d23c-a70a-cc492884fd4f/5afbd27f-4a68-4c96-a57f-f3b75a93b11e.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-08-24",
-      "trackCount": 14,
+      "releaseDate": "2026-05-24",
+      "trackCount": 21,
       "kind": "album",
       "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6787989988",
-      "title": "ICI - EP",
-      "artist": "Oceanic",
-      "url": "https://music.apple.com/jp/album/ici-ep/6787989988?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/11/0a/17110adb-fb77-6b15-d9a5-b2612581cb5b/8718723316118.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-24",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronic",
+        "Dance",
         "Music",
-        "Downtempo"
+        "House"
       ],
       "tagline": null
     },
