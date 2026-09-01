@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:00:50.383Z",
+  "generatedAt": "2026-09-01T07:00:51.134Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3398,6 +3398,24 @@
       "tagline": "Made for Summer"
     },
     {
+      "id": "6804777808",
+      "title": "9PM Mix: Tinie Tempah b2b Skepsis (DJ Mix)",
+      "artist": "Skepsis & Tinie Tempah",
+      "url": "https://music.apple.com/jp/album/9pm-mix-tinie-tempah-b2b-skepsis-dj-mix/6804777808?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/a9/e7/81a9e7b1-2753-5781-3503-b110c4ccdf38/0faa79cc-e61c-4986-aa06-9a86d12832e7.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance",
+        "Jungle/Drum'n'bass"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805723370",
       "title": "xperiment - cartunez",
       "artist": "Ken Carson",
@@ -4876,68 +4894,53 @@
       "tagline": null
     },
     {
-      "id": "6798083852",
-      "title": "zION (Special Edition)",
-      "artist": "ExWHYZ",
-      "url": "https://music.apple.com/jp/album/zion-special-edition/6798083852?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/ec/07/c0ec0733-6c42-1108-c8ed-6ad8edd4a511/26UMGIM99408.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-25",
-      "trackCount": 26,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803287713",
-      "title": "DILLAGENCE II",
-      "artist": "Busta Rhymes & J Dilla",
-      "url": "https://music.apple.com/jp/album/dillagence-ii/6803287713?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/2d/de/322dde7b-771b-4313-ab8b-f1092c95edf4/199316717419_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-25",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6801265323",
-      "title": "200 Days 200 Nights - EP",
-      "artist": "Babyriskk",
-      "url": "https://music.apple.com/jp/album/200-days-200-nights-ep/6801265323?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/20/08/c8200806-73fb-f49f-3a08-e7584080ea08/808391399228.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-25",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793952198",
-      "title": "I Burnt The Voice Coil - EP",
-      "artist": "BUFFEE",
-      "url": "https://music.apple.com/jp/album/i-burnt-the-voice-coil-ep/6793952198?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/4e/16/ab4e16f6-8a2e-16de-3949-ec92bc473feb/17042.jpg/632x632bb.jpg",
+      "id": "6802785421",
+      "title": "Tomorrowland Belgium 2026: Korolova at Freedom, Weekend 2 (DJ Mix)",
+      "artist": "Korolova",
+      "url": "https://music.apple.com/jp/album/tomorrowland-belgium-2026-korolova-at-freedom-weekend/6802785421?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/a4/2a/6ba42a9d-a00e-4741-43d9-3a50df74f77c/e193a4ca-456b-466f-99ec-17453c59d0c3.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-25",
-      "trackCount": 5,
+      "releaseDate": "2026-07-26",
+      "trackCount": 24,
       "kind": "album",
       "genres": [
-        "Alternative",
+        "Dance",
         "Music",
-        "Pop"
+        "Techno"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6803568952",
+      "title": "Tomorrowland Belgium 2026: Blond:ish at Crystal Garden, Weekend 1 (DJ Mix)",
+      "artist": "BLOND:ISH",
+      "url": "https://music.apple.com/jp/album/tomorrowland-belgium-2026-blond-ish-at-crystal-garden/6803568952?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/3b/2f/e83b2f45-ab75-f8e6-229f-600cfd429f3c/48cac8a2-1c74-418b-a92a-cb67ff2df15d.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 24,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804043681",
+      "title": "Tomorrowland Belgium 2026: Da Tweekaz at The Great Library, Weekend 1 (DJ Mix)",
+      "artist": "Da Tweekaz",
+      "url": "https://music.apple.com/jp/album/tomorrowland-belgium-2026-da-tweekaz-at-the-great/6804043681?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/5f/5f/585f5f3a-5085-f41f-b87d-d5b4a58a1f89/4fb39969-896c-4dba-852b-da778a144c89.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-17",
+      "trackCount": 30,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Hardcore"
       ],
       "tagline": null
     },
