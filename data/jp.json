@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T21:00:51.708Z",
+  "generatedAt": "2026-09-01T00:00:50.383Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -198,7 +198,7 @@
       "artist": "Alex Warren",
       "url": "https://music.apple.com/jp/album/wildchild/6773456078?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/1e/25/4d1e2526-aaf4-f95d-4200-fef4dcfa88ed/075679574220.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-08-28",
       "trackCount": 13,
       "kind": "album",
