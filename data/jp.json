@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:00:52.027Z",
+  "generatedAt": "2026-09-02T22:00:50.974Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -393,7 +393,7 @@
       "artist": "Mastodon",
       "url": "https://music.apple.com/jp/album/marrow-deep/6781040477?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/23/94/6623944e-7da0-597a-7413-b6c3d1e2c32f/26CRGIM53906.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-08-28",
       "trackCount": 12,
       "kind": "album",
