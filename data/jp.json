@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T07:00:50.196Z",
+  "generatedAt": "2026-09-02T13:00:52.027Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4200,7 +4200,7 @@
       "artist": "Ryan Mack",
       "url": "https://music.apple.com/jp/album/better-late-than-never/6798315551?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/55/3d/d7553dbf-6b2f-305f-aa30-172193270849/7333591872965.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-08-28",
       "trackCount": 10,
       "kind": "album",
