@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:00:50.974Z",
+  "generatedAt": "2026-09-03T07:00:51.633Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4448,63 +4448,14 @@
       "tagline": null
     },
     {
-      "id": "6805723370",
-      "title": "xperiment - cartunez",
-      "artist": "Ken Carson",
-      "url": "https://music.apple.com/jp/album/xperiment-cartunez/6805723370?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/74/05/ca7405a9-6750-d3fa-310b-589c959542f3/26UMGIM91431.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-27",
-      "trackCount": 35,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New Release"
-    },
-    {
-      "id": "6802781120",
-      "title": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
-      "artist": "Ghost",
-      "url": "https://music.apple.com/jp/album/2-big-to-rig-original-motion-picture-soundtrack-live/6802781120?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/11/30/e71130a1-c7c1-d1c1-ef86-e61975e1fca5/26CRGIM55790.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-27",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": "New Soundtrack"
-    },
-    {
-      "id": "6799165341",
-      "title": "EURO-COUNTRY (Live at St Anne's) - EP",
-      "artist": "CMAT",
-      "url": "https://music.apple.com/jp/album/euro-country-live-at-st-annes-ep/6799165341?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/61/15/b66115b4-a275-9e34-38ca-3cd4b8f38adb/885288225723.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-27",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793246073",
-      "title": "Star Wars: Zero Company (Original Video Game Soundtrack)",
-      "artist": "Gordy Haab",
-      "url": "https://music.apple.com/jp/album/star-wars-zero-company-original-video-game-soundtrack/6793246073?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/04/4d/43044d60-b51b-345a-8fde-e6dccfcecb61/26UMGIM94536.rgb.jpg/632x632bb.jpg",
+      "id": "6798303872",
+      "title": "Piano Legacy",
+      "artist": "Ben Berkenbosch",
+      "url": "https://music.apple.com/jp/album/piano-legacy/6798303872?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/f3/a3/ebf3a3ec-cf7c-6a8c-b9bd-cae99dffd5dd/cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-27",
-      "trackCount": 25,
+      "releaseDate": "2026-08-28",
+      "trackCount": 10,
       "kind": "album",
       "genres": [
         "Soundtrack",
@@ -4513,98 +4464,147 @@
       "tagline": null
     },
     {
-      "id": "1896395918",
-      "title": "Augen Husky 3",
-      "artist": "Olexesh",
-      "url": "https://music.apple.com/jp/album/augen-husky-3/1896395918?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/3b/d7/7c3bd797-c4cc-c0a4-8353-e092295300c9/26UMGIM55735.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-27",
-      "trackCount": 16,
+      "id": "6794312004",
+      "title": "j'me demande - EP",
+      "artist": "Ambre",
+      "url": "https://music.apple.com/jp/album/jme-demande-ep/6794312004?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/3a/ff/c03affc0-5b32-0bb6-fca7-f8844a4c1e5e/196874631287.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 4,
       "kind": "album",
       "genres": [
-        "Hip-Hop/Rap",
+        "Pop",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6796122365",
-      "title": "ciclos",
-      "artist": "Elsa y Elmar",
-      "url": "https://music.apple.com/jp/album/ciclos/6796122365?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/fd/05/c9fd05cd-f504-dced-8ebf-299a13967c52/196873038568.jpg/632x632bb.jpg",
+      "id": "6802713656",
+      "title": "Les routines, Vol. 2 (l'éveil)",
+      "artist": "Juliette Magnevasoa",
+      "url": "https://music.apple.com/jp/album/les-routines-vol-2-l%C3%A9veil/6802713656?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ea/46/11ea4676-d04d-3961-6626-f9ab0211f974/885288312461.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-27",
+      "releaseDate": "2026-08-28",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Folk",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6799165499",
+      "title": "Jusqu'à ce que l'amour nous sépare",
+      "artist": "Jeady Jay",
+      "url": "https://music.apple.com/jp/album/jusqu%C3%A0-ce-que-lamour-nous-s%C3%A9pare/6799165499?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/61/a1/cb61a111-f51b-4a67-1d29-a28c4e0c5dc3/3596975144599_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
       "trackCount": 10,
       "kind": "album",
       "genres": [
-        "Latin",
-        "Music",
-        "Pop"
+        "R&B/Soul",
+        "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6800034103",
-      "title": "Mis Corridos Y Algo Más (En Vivo) - EP",
-      "artist": "Grupo Los de Chiwas",
-      "url": "https://music.apple.com/jp/album/mis-corridos-y-algo-m%C3%A1s-en-vivo-ep/6800034103?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/60/a0/f860a0a9-588b-a709-bebc-9d96743fc06d/885288070743.jpg/632x632bb.jpg",
+      "id": "6773292017",
+      "title": "My Kind of Drama",
+      "artist": "Isolde Lasoen",
+      "url": "https://music.apple.com/jp/album/my-kind-of-drama/6773292017?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/2b/51/2f2b51ac-8cad-f7a9-7dd2-ff3bda9af090/3663729448125_cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-27",
-      "trackCount": 6,
+      "releaseDate": "2026-08-28",
+      "trackCount": 10,
       "kind": "album",
       "genres": [
-        "Música Mexicana",
+        "Indie Pop",
         "Music",
-        "Latin"
+        "Alternative",
+        "Electronic"
       ],
       "tagline": null
     },
     {
-      "id": "6800501784",
-      "title": "Entre Covers y Recuerdos - EP",
-      "artist": "Sebastian Esquivel & Eugenio Esquivel",
-      "url": "https://music.apple.com/jp/album/entre-covers-y-recuerdos-ep/6800501784?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/12/68/68126833-ea90-b829-df82-f062f3f70c3c/820233963497.jpg/632x632bb.jpg",
+      "id": "6777113656",
+      "title": "Django Celebration #03",
+      "artist": "Angelo Debarre, Adrien Moignard & William Brunard",
+      "url": "https://music.apple.com/jp/album/django-celebration-03/6777113656?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/0a/f0/d10af00c-1041-6911-2fde-72b698971e99/3560530410023_cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-27",
-      "trackCount": 6,
+      "releaseDate": "2026-08-28",
+      "trackCount": 8,
       "kind": "album",
       "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
+        "Jazz",
+        "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6797804963",
-      "title": "La Otra Cara - EP",
-      "artist": "Grupo Arriesgado",
-      "url": "https://music.apple.com/jp/album/la-otra-cara-ep/6797804963?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/44/fa/2e44fa41-617c-3d3b-7dea-4ab33ad27986/cover.jpg/632x632bb.jpg",
+      "id": "6798810949",
+      "title": "LA MESSAGERIE EP04 - EP",
+      "artist": "Eric Neveux",
+      "url": "https://music.apple.com/jp/album/la-messagerie-ep04-ep/6798810949?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/35/89/bf3589b1-9e00-3d28-f09b-2a22e9c602e6/3663729464781_cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-08-27",
-      "trackCount": 6,
+      "releaseDate": "2026-08-28",
+      "trackCount": 4,
       "kind": "album",
       "genres": [
-        "Música Mexicana",
+        "Electronic",
         "Music",
-        "Latin"
+        "Alternative",
+        "Indie Rock"
       ],
       "tagline": null
     },
     {
-      "id": "6796390552",
-      "title": "VIAJE DE IDA - EP",
-      "artist": "Bhavi",
-      "url": "https://music.apple.com/jp/album/viaje-de-ida-ep/6796390552?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/ba/29/bcba2947-c163-5d88-31e7-a9e78e62e482/885288152753.jpg/632x632bb.jpg",
+      "id": "6791655919",
+      "title": "Voyage Pentatonique",
+      "artist": "Arnaud Roulin",
+      "url": "https://music.apple.com/jp/album/voyage-pentatonique/6791655919?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/74/29/057429ae-8d28-38b4-f1f0-64e78b0995b9/3663729456564_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6798658885",
+      "title": "AfroWide Summer",
+      "artist": "AfroWide",
+      "url": "https://music.apple.com/jp/album/afrowide-summer/6798658885?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/1b/79/811b7959-938d-d66d-ae22-e82e0c5c2500/885288273311.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Afro-Beat",
+        "Music",
+        "African"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6798238354",
+      "title": "13 LIFE",
+      "artist": "Kalif Hardcore",
+      "url": "https://music.apple.com/jp/album/13-life/6798238354?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/50/de/5350deac-9c92-f14e-1038-99f32428a190/cover.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-08-27",
-      "trackCount": 6,
+      "releaseDate": "2026-08-28",
+      "trackCount": 30,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
@@ -4613,14 +4613,14 @@
       "tagline": null
     },
     {
-      "id": "6794408701",
-      "title": "ROPE BURN",
-      "artist": "JIREH",
-      "url": "https://music.apple.com/jp/album/rope-burn/6794408701?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/5a/e3/635ae3e6-ae79-5617-1cc0-61860747bda2/881392725081-copy-11425fd3.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-27",
-      "trackCount": 12,
+      "id": "6801551700",
+      "title": "VIVANT - EP",
+      "artist": "N3MS",
+      "url": "https://music.apple.com/jp/album/vivant-ep/6801551700?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/1c/d9/7c1cd936-fa48-85a3-3d11-ce4dc3190f16/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-08-28",
+      "trackCount": 5,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
@@ -4629,36 +4629,34 @@
       "tagline": null
     },
     {
-      "id": "6801320191",
-      "title": "The W8 Is Over !",
-      "artist": "Stop6Jaay",
-      "url": "https://music.apple.com/jp/album/the-w8-is-over/6801320191?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/c3/ec/b4c3eca1-d432-ff20-36e7-437a55a01dc6/808391399280.jpg/632x632bb.jpg",
+      "id": "6802374976",
+      "title": "NEA AVGI (WAWALAND)",
+      "artist": "Oskoow",
+      "url": "https://music.apple.com/jp/album/nea-avgi-wawaland/6802374976?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/e7/8a/f2e78a56-e981-8934-d0d0-fac6ea73144b/cover.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-08-27",
+      "releaseDate": "2026-08-28",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802330020",
+      "title": "Summer Love",
+      "artist": "SenSey'",
+      "url": "https://music.apple.com/jp/album/summer-love/6802330020?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/a3/7d/78a37d57-76ae-94b4-76cd-2841cbda039f/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-08-28",
       "trackCount": 7,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802731635",
-      "title": "Prosecution (Original Motion Picture Soundtrack)",
-      "artist": "Gabríel Ólafs",
-      "url": "https://music.apple.com/jp/album/prosecution-original-motion-picture-soundtrack/6802731635?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/b5/55/19b55567-da19-7ada-860d-e0d4c30a0cb1/607.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-27",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Electronic",
-        "Ambient"
       ],
       "tagline": null
     },
