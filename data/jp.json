@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T19:00:53.154Z",
+  "generatedAt": "2026-09-03T20:00:51.879Z",
   "source": "https://music.apple.com/jp/room/6806057548?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6806057548?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2802,7 +2802,7 @@
     {
       "id": "6807196526",
       "title": "Crimson Moon (Original Video Game Soundtrack)",
-      "artist": "Christopher Wilson & Probably Monsters",
+      "artist": "Christopher Wilson & ProbablyMonsters",
       "url": "https://music.apple.com/jp/album/crimson-moon-original-video-game-soundtrack/6807196526?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/e2/71/f8e2717c-95a6-3f97-c4aa-756b2919cf2b/196874734377.jpg/632x632bb.jpg",
       "explicit": false,
@@ -4048,7 +4048,7 @@
       "title": "Growing Pains",
       "artist": "Dono",
       "url": "https://music.apple.com/jp/album/growing-pains/6803570015?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/cc/12/2dcc12d0-93d2-8772-5635-85bbbc26d4be/888193178603.png/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5d/06/05/5d06057e-9ead-4f97-d434-3eb967d26b67/GROWING_PAINS_ART_FINAL-copy-e672de37.png/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-02",
       "trackCount": 18,
