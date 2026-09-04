@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T05:01:01.719Z",
+  "generatedAt": "2026-09-04T08:00:54.498Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -405,22 +405,6 @@
         "Music"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6804866243",
-      "title": "Gates Flow 2 (She Don't Wanna) [Alternate Versions] - Single",
-      "artist": "Fredo Bang",
-      "url": "https://music.apple.com/jp/album/gates-flow-2-she-dont-wanna-alternate-versions-single/6804866243?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/96/a8/1896a8f2-1a88-031b-1ad1-bbf1af312717/199316745719_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-04",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "1895269739",
@@ -3001,6 +2985,39 @@
       "tagline": null
     },
     {
+      "id": "6785977719",
+      "title": "HANDCRAFTED",
+      "artist": "Myles Erlick",
+      "url": "https://music.apple.com/jp/album/handcrafted/6785977719?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b1/90/71b190e4-60d4-d2a5-3d02-9643be7a3db1/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804629100",
+      "title": "Hand On Heart",
+      "artist": "Mowgs",
+      "url": "https://music.apple.com/jp/album/hand-on-heart/6804629100?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/0f/d7/480fd709-c6ff-13cb-4638-ffd8dd5e89c3/5064022775525_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Release"
+    },
+    {
       "id": "6803273580",
       "title": "La Universidad del Perreo",
       "artist": "Wisin",
@@ -3066,22 +3083,6 @@
         "Latin"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6801130215",
-      "title": "reckless and arranged - day 56 (extended) - Single",
-      "artist": "Ethan French",
-      "url": "https://music.apple.com/jp/album/reckless-and-arranged-day-56-extended-single/6801130215?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/34/74/f434742e-7fa5-c128-6926-4b4f421f1ef1/26UM1IM04592.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-03",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6792864184",
