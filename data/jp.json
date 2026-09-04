@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:00:48.515Z",
+  "generatedAt": "2026-09-04T15:00:47.876Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1877,6 +1877,23 @@
       "tagline": null
     },
     {
+      "id": "6801196388",
+      "title": "LAS QUE SUENAN EN MI TROCA",
+      "artist": "Victor Cibrian",
+      "url": "https://music.apple.com/jp/album/las-que-suenan-en-mi-troca/6801196388?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/8d/94/9d8d9427-6d5e-484f-9040-99cd16f6de9c/612735137557_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6776409818",
       "title": "Free Electricity",
       "artist": "The Go",
@@ -2955,7 +2972,7 @@
     {
       "id": "6804711106",
       "title": "BLACK AND WHITE",
-      "artist": "Various Artists",
+      "artist": "Wazir Patar",
       "url": "https://music.apple.com/jp/album/black-and-white/6804711106?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/6a/71/736a7169-98e3-c7a0-f4f9-ce464e9a417a/1200214943523.jpg/632x632bb.jpg",
       "explicit": false,
@@ -3000,22 +3017,6 @@
         "Music"
       ],
       "tagline": "New Release"
-    },
-    {
-      "id": "6793598110",
-      "title": "Made With Love",
-      "artist": "ZACSREVENGE",
-      "url": "https://music.apple.com/jp/album/made-with-love/6793598110?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/1a/73/5e1a73f6-3c2b-a556-0014-b0d50a62cecd/881392674891-copy-19de1bf4.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-04",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6803273580",
