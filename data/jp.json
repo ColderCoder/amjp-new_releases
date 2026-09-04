@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T08:00:54.498Z",
+  "generatedAt": "2026-09-04T09:00:51.017Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3448,22 +3448,6 @@
       "tagline": null
     },
     {
-      "id": "6791017310",
-      "title": "INPUT OUTPUT",
-      "artist": "Tomohiro Kamiyama",
-      "url": "https://music.apple.com/jp/album/input-output/6791017310?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/c2/b0/7bc2b093-9df3-0eb7-b341-0fc88c2cad26/4517331101635.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-02",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6797808203",
       "title": "lull",
       "artist": "Spangle Call Lilli Line",
@@ -4451,6 +4435,22 @@
       "explicit": false,
       "releaseDate": "2026-09-01",
       "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6791017310",
+      "title": "INPUT OUTPUT",
+      "artist": "Tomohiro Kamiyama",
+      "url": "https://music.apple.com/jp/album/input-output/6791017310?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/c2/b0/7bc2b093-9df3-0eb7-b341-0fc88c2cad26/4517331101635.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-01",
+      "trackCount": 12,
       "kind": "album",
       "genres": [
         "J-Pop",
