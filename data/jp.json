@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T01:01:00.915Z",
+  "generatedAt": "2026-09-04T02:00:59.200Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -608,7 +608,7 @@
       "title": "NOT DA 2",
       "artist": "KARRAHBOOO",
       "url": "https://music.apple.com/jp/album/not-da-2/6802837751?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/92/9d/ce929df6-a8a3-3001-9d7b-c08de942a134/26UMGIM50129.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/9b/d0/109bd0a8-b4a2-178c-2851-bfe1f93bab89/26UMGIM50129.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-04",
       "trackCount": 11,
