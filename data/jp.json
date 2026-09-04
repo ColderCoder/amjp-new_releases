@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:01:02.353Z",
+  "generatedAt": "2026-09-04T11:00:58.426Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1608,22 +1608,6 @@
       "tagline": null
     },
     {
-      "id": "6796044296",
-      "title": "Originally Mr. Clarke",
-      "artist": "Johnny Clarke",
-      "url": "https://music.apple.com/jp/album/originally-mr-clarke/6796044296?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/2c/2e/282c2ece-2926-b33b-be6d-d889ff01e9a7/054645426763.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-04",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Reggae",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6798668426",
       "title": "sketches for my beloved - EP",
       "artist": "Leaving Laurel",
@@ -3016,6 +3000,22 @@
         "Music"
       ],
       "tagline": "New Release"
+    },
+    {
+      "id": "6793598110",
+      "title": "Made With Love",
+      "artist": "ZACSREVENGE",
+      "url": "https://music.apple.com/jp/album/made-with-love/6793598110?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/1a/73/5e1a73f6-3c2b-a556-0014-b0d50a62cecd/881392674891-copy-19de1bf4.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6803273580",
