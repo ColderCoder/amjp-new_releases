@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T03:00:50.355Z",
+  "generatedAt": "2026-09-04T04:01:03.386Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -372,6 +372,22 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6804866243",
+      "title": "Gates Flow 2 (She Don't Wanna) [Alternate Versions] - Single",
+      "artist": "Fredo Bang",
+      "url": "https://music.apple.com/jp/album/gates-flow-2-she-dont-wanna-alternate-versions-single/6804866243?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/96/a8/1896a8f2-1a88-031b-1ad1-bbf1af312717/199316745719_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "1895269739",
@@ -802,7 +818,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Release"
     },
     {
       "id": "1891738053",
@@ -1035,7 +1051,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6800388536",
@@ -2412,7 +2428,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6788765812",
@@ -2523,7 +2539,7 @@
       "title": "Song Of Songs (Remastered 2026)",
       "artist": "Woody Shaw",
       "url": "https://music.apple.com/jp/album/song-of-songs-remastered-2026/6778203184?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/19/60/dc1960e4-9a39-1331-fd38-53c2aac382c2/25CRGIM52973.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/93/45/8e93459a-9a5e-326c-869f-53717878890b/25CRGIM52973.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-09-04",
       "trackCount": 4,
@@ -2980,22 +2996,6 @@
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6807196526",
-      "title": "Crimson Moon (Original Video Game Soundtrack)",
-      "artist": "Christopher Wilson & ProbablyMonsters",
-      "url": "https://music.apple.com/jp/album/crimson-moon-original-video-game-soundtrack/6807196526?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/e2/71/f8e2717c-95a6-3f97-c4aa-756b2919cf2b/196874734377.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-04",
-      "trackCount": 34,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
         "Music"
       ],
       "tagline": null
