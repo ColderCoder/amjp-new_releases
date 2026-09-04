@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T09:00:51.017Z",
+  "generatedAt": "2026-09-04T10:01:02.353Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4250,7 +4250,7 @@
       "title": "Still The Biggest",
       "artist": "Fuego Base & Black Soprano Family",
       "url": "https://music.apple.com/jp/album/still-the-biggest/6802343181?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/25/06/d925063c-c7ec-69b6-9479-04a2f949b89e/820233922029.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/b1/84/ccb184e0-6b5b-1387-3274-c84d10bcd596/820233922029.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-02",
       "trackCount": 11,
