@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:00:50.004Z",
+  "generatedAt": "2026-09-04T01:01:00.915Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2032,6 +2032,25 @@
       "tagline": null
     },
     {
+      "id": "6807498146",
+      "title": "The Agenda: August 2026 (DJ Mix)",
+      "artist": "DJ Puffy",
+      "url": "https://music.apple.com/jp/album/the-agenda-august-2026-dj-mix/6807498146?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/43/29/2d43296d-cc04-3257-4e70-62e79468aa47/8b0cd933-1fb2-44d8-b6a6-d66f3cb35c5b.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 67,
+      "kind": "album",
+      "genres": [
+        "Modern Dancehall",
+        "Music",
+        "Reggae",
+        "Worldwide",
+        "Soca"
+      ],
+      "tagline": null
+    },
+    {
       "id": "1886143354",
       "title": "Throw The Dice",
       "artist": "Soft Loft",
@@ -2982,40 +3001,6 @@
       "tagline": null
     },
     {
-      "id": "6774150991",
-      "title": "Bad Bunch",
-      "artist": "Black Bananas",
-      "url": "https://music.apple.com/jp/album/bad-bunch/6774150991?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/45/ef/6e45ef80-2c53-8199-c1c5-1a6b54ca49db/809236005793_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-04",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6783096550",
-      "title": "What's Up",
-      "artist": "Told Slant",
-      "url": "https://music.apple.com/jp/album/whats-up/6783096550?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/35/8c/19358c63-24ed-c4a7-677d-013b1139fc83/66868.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-04",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Indie Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6803273580",
       "title": "La Universidad del Perreo",
       "artist": "Wisin",
@@ -3064,6 +3049,23 @@
         "Music"
       ],
       "tagline": "New EP"
+    },
+    {
+      "id": "6803590213",
+      "title": "QUE SIGAN LLEGANDO LAS PACAS V.2",
+      "artist": "Chino Pacas",
+      "url": "https://music.apple.com/jp/album/que-sigan-llegando-las-pacas-v-2/6803590213?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/a4/47/0aa44783-ea80-9ea6-3cf9-9abc56270306/1200214910631.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-03",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6801130215",
@@ -3161,6 +3163,23 @@
         "Hard Rock",
         "Music",
         "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805207823",
+      "title": "El Primer Album de Low Clika",
+      "artist": "Low Clika",
+      "url": "https://music.apple.com/jp/album/el-primer-album-de-low-clika/6805207823?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/a8/2d/0ca82df1-d63f-00cf-b5f5-8d7899d9d0e8/823375400202_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-03",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -4805,23 +4824,6 @@
         "Rock",
         "Music",
         "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801562367",
-      "title": "The Simulacrum - EP",
-      "artist": "Ghosts of MIDI",
-      "url": "https://music.apple.com/jp/album/the-simulacrum-ep/6801562367?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/06/cd/ca06cd0b-ca87-16c8-eebd-d155e7f8ef4d/5063817013705_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-28",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Jungle/Drum'n'bass",
-        "Music",
-        "Dance"
       ],
       "tagline": null
     },
