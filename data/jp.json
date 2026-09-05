@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T18:01:08.475Z",
+  "generatedAt": "2026-09-05T07:00:29.531Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3019,6 +3019,22 @@
       "tagline": "New Release"
     },
     {
+      "id": "6793598110",
+      "title": "Made With Love",
+      "artist": "ZACSREVENGE",
+      "url": "https://music.apple.com/jp/album/made-with-love/6793598110?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/1a/73/5e1a73f6-3c2b-a556-0014-b0d50a62cecd/881392674891-copy-19de1bf4.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6803273580",
       "title": "La Universidad del Perreo",
       "artist": "Wisin",
@@ -4809,23 +4825,6 @@
         "Korean Hip-Hop",
         "Music",
         "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798524688",
-      "title": "YAMINOALBUMURA - EP",
-      "artist": "WATSUTAKE WORKS",
-      "url": "https://music.apple.com/jp/album/yaminoalbumura-ep/6798524688?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/1e/48/ef1e48b6-d8d3-5ae0-7112-07a722289129/15799600.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-29",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "J-Pop"
       ],
       "tagline": null
     },
