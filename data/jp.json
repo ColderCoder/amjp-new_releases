@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T07:00:29.531Z",
+  "generatedAt": "2026-09-06T07:00:23.433Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3035,6 +3035,39 @@
       "tagline": null
     },
     {
+      "id": "6807196526",
+      "title": "Crimson Moon (Original Video Game Soundtrack)",
+      "artist": "Christopher Wilson & ProbablyMonsters",
+      "url": "https://music.apple.com/jp/album/crimson-moon-original-video-game-soundtrack/6807196526?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/e2/71/f8e2717c-95a6-3f97-c4aa-756b2919cf2b/196874734377.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 34,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6774150991",
+      "title": "Bad Bunch",
+      "artist": "Black Bananas",
+      "url": "https://music.apple.com/jp/album/bad-bunch/6774150991?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/45/ef/6e45ef80-2c53-8199-c1c5-1a6b54ca49db/809236005793_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6803273580",
       "title": "La Universidad del Perreo",
       "artist": "Wisin",
@@ -4792,39 +4825,6 @@
         "Dance",
         "Music",
         "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795046811",
-      "title": "Let's Live Like Runidre! - EP",
-      "artist": "RUNIDRE",
-      "url": "https://music.apple.com/jp/album/lets-live-like-runidre-ep/6795046811?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/18/80/b31880bd-b4ca-0cf3-a474-93f31e62bd92/4550758970361_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-30",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803362472",
-      "title": "Love u Anyway",
-      "artist": "Churry",
-      "url": "https://music.apple.com/jp/album/love-u-anyway/6803362472?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/5d/33/bb5d33e0-0b99-8310-617d-2ab16193fdaf/8800388639265_cover.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-30",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Korean Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
