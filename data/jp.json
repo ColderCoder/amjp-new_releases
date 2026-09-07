@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T07:00:22.716Z",
+  "generatedAt": "2026-09-07T10:00:30.143Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2569,22 +2569,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6778203184",
-      "title": "Song Of Songs (Remastered 2026)",
-      "artist": "Woody Shaw",
-      "url": "https://music.apple.com/jp/album/song-of-songs-remastered-2026/6778203184?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/93/45/8e93459a-9a5e-326c-869f-53717878890b/25CRGIM52973.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-04",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6804698765",
       "title": "The Dark Wizard (Soundtrack from the Docuseries)",
       "artist": "Dan Deacon",
@@ -4978,6 +4962,23 @@
       "kind": "album",
       "genres": [
         "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804852784",
+      "title": "HY Radio: Prïa, Jul 18, 2025 (DJ Mix)",
+      "artist": "Prïa",
+      "url": "https://music.apple.com/jp/album/hy-radio-pr%C3%AFa-jul-18-2025-dj-mix/6804852784?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/97/d7/fa97d75a-0033-fc9f-10bd-41034a697bdf/c702eb4b-17eb-411b-9de2-47b8ce4526ba.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2025-07-18",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Electronic",
         "Music",
         "Dance"
       ],
