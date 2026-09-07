@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T07:00:23.433Z",
+  "generatedAt": "2026-09-07T07:00:22.716Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3068,6 +3068,173 @@
       "tagline": null
     },
     {
+      "id": "6783096550",
+      "title": "What's Up",
+      "artist": "Told Slant",
+      "url": "https://music.apple.com/jp/album/whats-up/6783096550?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/35/8c/19358c63-24ed-c4a7-677d-013b1139fc83/66868.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Indie Rock",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802470288",
+      "title": "Aliens: Fireteam Elite 2 (Original Video Game Soundtrack)",
+      "artist": "Austin Wintory",
+      "url": "https://music.apple.com/jp/album/aliens-fireteam-elite-2-original-video-game-soundtrack/6802470288?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/66/ca/ad66caa9-e544-0eed-aa98-91faa6096f47/26UM1IM04495.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804826958",
+      "title": "Youngest In Charge",
+      "artist": "Lul Rell",
+      "url": "https://music.apple.com/jp/album/youngest-in-charge/6804826958?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/94/9a/70949ae6-3cd4-7118-fa6e-78a7ffe41a37/808391400702.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805602261",
+      "title": "Chai and Chill: Marco Weibel (DJ Mix)",
+      "artist": "Marco Weibel",
+      "url": "https://music.apple.com/jp/album/chai-and-chill-marco-weibel-dj-mix/6805602261?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/8a/6f/6d8a6fa2-e6f2-e4d0-acfc-faf8718e1179/4a5cd248-8a54-4552-8d54-644632425b14.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music",
+        "Worldwide"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6791252357",
+      "title": "Hot Summers - EP",
+      "artist": "Wákø & Yinoluu",
+      "url": "https://music.apple.com/jp/album/hot-summers-ep/6791252357?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/4d/55/934d55ed-0ea1-2198-fd11-0d1b65516351/766214709978.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779278270",
+      "title": "We Want Bass",
+      "artist": "Dizzee Rascal",
+      "url": "https://music.apple.com/jp/album/we-want-bass/6779278270?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/e3/86/fde38662-722d-dd83-80f3-ec95e76b058b/5064020076006_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6806250809",
+      "title": "MINDHELMET 27",
+      "artist": "GRIGGY",
+      "url": "https://music.apple.com/jp/album/mindhelmet-27/6806250809?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/ae/ce/efaece42-3da3-68ab-6687-fb9bf7a00e55/8718723327961.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786895185",
+      "title": "A Light That Guides Weary Travelers Home",
+      "artist": "Andrew Bayer",
+      "url": "https://music.apple.com/jp/album/a-light-that-guides-weary-travelers-home/6786895185?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/9d/c0/439dc01e-5649-f9d5-1692-a830bac7a81a/612891083231.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Trance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786870502",
+      "title": "Radio Is Dead - EP",
+      "artist": "Ups and Downs",
+      "url": "https://music.apple.com/jp/album/radio-is-dead-ep/6786870502?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/d0/db/d5d0db4f-e3ca-4a15-9e8f-1622a4be0627/128475.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Indie Rock",
+        "Music",
+        "Alternative",
+        "Indie Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786039654",
+      "title": "The Pain and The Power",
+      "artist": "Logan Lynn",
+      "url": "https://music.apple.com/jp/album/the-pain-and-the-power/6786039654?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/35/95/f335954c-fe73-ccc4-9de0-04a1e23ffa0e/67114.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6803273580",
       "title": "La Universidad del Perreo",
       "artist": "Wisin",
@@ -3250,6 +3417,24 @@
         "Hip-Hop"
       ],
       "tagline": null
+    },
+    {
+      "id": "6807440505",
+      "title": "Beats In Space 219: Tim Sweeney (DJ Mix)",
+      "artist": "Tim Sweeney",
+      "url": "https://music.apple.com/jp/album/beats-in-space-219-tim-sweeney-dj-mix/6807440505?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/db/be/4adbbee6-ed12-8e88-a628-d4f0ee0540a2/c7e8cb30-62e2-46f0-b5cd-6f513dfd366c.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-03",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "African",
+        "Kwaito"
+      ],
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6795752569",
@@ -4626,174 +4811,6 @@
       "tagline": null
     },
     {
-      "id": "6805396850",
-      "title": "PHASE 1 : Soft Violence",
-      "artist": "TAEMIN",
-      "url": "https://music.apple.com/jp/album/phase-1-soft-violence/6805396850?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/9e/3f/8d9e3f88-0de6-37d5-922d-36d3540fa097/ANTCD-A0000021044.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-31",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805473899",
-      "title": "(y)our cassette - EP",
-      "artist": "SWAPNOTES & PeanutsKun",
-      "url": "https://music.apple.com/jp/album/y-our-cassette-ep/6805473899?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/72/18/b1721881-53f4-5f72-4910-221f42b67639/4550759976614_cover.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-31",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802744626",
-      "title": "Tropicaluxe - EP",
-      "artist": "Tevral",
-      "url": "https://music.apple.com/jp/album/tropicaluxe-ep/6802744626?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/41/ef/2741efe6-dbab-3517-24a5-05a14dcf055d/8thEP_Tropicaluxe_jacket.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-31",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Instrumental",
-        "Music",
-        "Worldwide"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6800227453",
-      "title": "Dutch Masters",
-      "artist": "Blooky Jeeky",
-      "url": "https://music.apple.com/jp/album/dutch-masters/6800227453?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/99/a3/6199a3d6-252f-8d33-7f70-f4a1aa7dedc4/4550759503704_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-31",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Instrumental"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6806003127",
-      "title": "Live at Apple Music Radio",
-      "artist": "Jai'Len Josey",
-      "url": "https://music.apple.com/jp/album/live-at-apple-music-radio/6806003127?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/2f/03/212f0396-db26-8e86-06df-4ea172671065/26UMGIM93709.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-31",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "Live at Apple Music Radio"
-    },
-    {
-      "id": "6801310621",
-      "title": "femme fatale",
-      "artist": "skaiwater",
-      "url": "https://music.apple.com/jp/album/femme-fatale/6801310621?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/3e/a7/833ea758-bf6b-a3a9-1f85-e856ff9102b6/612891189131.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-31",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6804889035",
-      "title": "31Rockstar",
-      "artist": "Odd95",
-      "url": "https://music.apple.com/jp/album/31rockstar/6804889035?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/08/2e/d2082ef2-1e79-0043-d2c1-a67b74eca745/8800388639425_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-31",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Korean Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805442554",
-      "title": "Abyssus (Original Game Soundtrack)",
-      "artist": "Remi Gallego",
-      "url": "https://music.apple.com/jp/album/abyssus-original-game-soundtrack/6805442554?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/cb/1c/a9cb1c04-15d2-5841-2cb0-35ecfc1f43c3/3663729464866_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-31",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801462648",
-      "title": "Ladybug 2 - EP",
-      "artist": "The Bug & Friday Night Plans",
-      "url": "https://music.apple.com/jp/album/ladybug-2-ep/6801462648?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/0c/18/c00c1805-c30c-dda8-5871-58731f27fca6/17129.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-31",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Reggae",
-        "Dub"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805252670",
-      "title": "Furious (Original Score)",
-      "artist": "Ariel Marx",
-      "url": "https://music.apple.com/jp/album/furious-original-score/6805252670?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/bb/8b/82bb8b54-17a7-df1d-0681-01fc82dcc3eb/26UM1IM09022.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-08-31",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6805158429",
       "title": "Suelta Selects: Ma-Less (DJ Mix)",
       "artist": "Ma-Less",
@@ -4808,23 +4825,6 @@
         "Music",
         "Latin",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776959182",
-      "title": "SCALENE - EP",
-      "artist": "MARIVS",
-      "url": "https://music.apple.com/jp/album/scalene-ep/6776959182?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/9b/11/ab9b1145-107f-b21e-e67a-46441d0024f3/8718723322034.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-08-31",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
       ],
       "tagline": null
     },
