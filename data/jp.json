@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:00:18.426Z",
+  "generatedAt": "2026-09-07T22:00:17.863Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3102,23 +3102,6 @@
       "tagline": null
     },
     {
-      "id": "6805602261",
-      "title": "Chai and Chill: Marco Weibel (DJ Mix)",
-      "artist": "Marco Weibel",
-      "url": "https://music.apple.com/jp/album/chai-and-chill-marco-weibel-dj-mix/6805602261?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/8a/6f/6d8a6fa2-e6f2-e4d0-acfc-faf8718e1179/4a5cd248-8a54-4552-8d54-644632425b14.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-04",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music",
-        "Worldwide"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6791252357",
       "title": "Hot Summers - EP",
       "artist": "Wákø & Yinoluu",
@@ -3215,6 +3198,23 @@
       "genres": [
         "Dance",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805694698",
+      "title": "Afrobeats: September 2026 (DJ Mix)",
+      "artist": "Crowd Kontroller",
+      "url": "https://music.apple.com/jp/album/afrobeats-september-2026-dj-mix/6805694698?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/37/9b/cb379bd9-1603-f506-dd21-a9dc44ff5ae8/fe8336cf-886a-479d-b346-353574bf51db.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 31,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African"
       ],
       "tagline": null
     },
