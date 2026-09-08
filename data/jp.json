@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:00:18.799Z",
+  "generatedAt": "2026-09-08T22:00:15.796Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3271,9 +3271,9 @@
     },
     {
       "id": "6802421872",
-      "title": "Audiotree From Nothing (Audiotree Version) - EP",
+      "title": "From Nothing (Audiotree Version) - EP",
       "artist": "La Dispute",
-      "url": "https://music.apple.com/jp/album/audiotree-from-nothing-audiotree-version-ep/6802421872?l=en-US",
+      "url": "https://music.apple.com/jp/album/from-nothing-audiotree-version-ep/6802421872?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/c0/4b/d7c04b0d-84e3-43ce-dfc1-23b985af7c0c/0045778814145.png/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-04",
