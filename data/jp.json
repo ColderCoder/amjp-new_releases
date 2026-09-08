@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T22:00:17.863Z",
+  "generatedAt": "2026-09-08T07:00:19.789Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3219,6 +3219,106 @@
       "tagline": null
     },
     {
+      "id": "6801218536",
+      "title": "Future Bubblers 9.0",
+      "artist": "Future Bubblers",
+      "url": "https://music.apple.com/jp/album/future-bubblers-9-0/6801218536?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/ad/bc/e9adbcfe-9b12-1b77-8f76-1b2002071e42/5060180328139.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6800740205",
+      "title": "Dirt Box",
+      "artist": "Pig",
+      "url": "https://music.apple.com/jp/album/dirt-box/6800740205?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/95/a4/e095a446-a9aa-9a1c-385b-75933b07cf50/782388147361_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Industrial",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6770977136",
+      "title": "Fire & Vengeance",
+      "artist": "Ricky Warwick",
+      "url": "https://music.apple.com/jp/album/fire-vengeance/6770977136?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/4c/d4/804cd45a-e337-73b9-a013-a84c4daa3166/Ricky_Warwick_-_Fire_Vengeance_Packshot_3000.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Hard Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802421872",
+      "title": "Audiotree From Nothing (Audiotree Version) - EP",
+      "artist": "La Dispute",
+      "url": "https://music.apple.com/jp/album/audiotree-from-nothing-audiotree-version-ep/6802421872?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/c0/4b/d7c04b0d-84e3-43ce-dfc1-23b985af7c0c/0045778814145.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779242861",
+      "title": "Forsaker",
+      "artist": "Doomcrusher",
+      "url": "https://music.apple.com/jp/album/forsaker/6779242861?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/a5/3e/89a53e8d-fd3d-e090-1c09-f3d78d5ac4f0/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-04",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895782338",
+      "title": "Obsessions",
+      "artist": "Hot Since 82",
+      "url": "https://music.apple.com/jp/album/obsessions/1895782338?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/54/0f/05540f06-0a33-cae9-4231-5f3317170bfb/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-04",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6803273580",
       "title": "La Universidad del Perreo",
       "artist": "Wisin",
@@ -3419,6 +3519,41 @@
         "Kwaito"
       ],
       "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6804893934",
+      "title": "Beats In Space 219: DJ Maphorisa (DJ Mix)",
+      "artist": "DJ Maphorisa",
+      "url": "https://music.apple.com/jp/album/beats-in-space-219-dj-maphorisa-dj-mix/6804893934?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/53/1b/5b531be5-1b8c-011f-edb4-ad20c9e8286b/8dd28032-2f1d-4141-ad7b-0b5f901ebe70.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-03",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Amapiano",
+        "Music",
+        "African",
+        "Afro House"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6789589035",
+      "title": "Foreword",
+      "artist": "Keath Osk",
+      "url": "https://music.apple.com/jp/album/foreword/6789589035?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/1e/e8/0a1ee812-c64f-23ff-8609-b44501450fdc/1200214522025.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-03",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Folk",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6795752569",
@@ -4642,138 +4777,6 @@
       "genres": [
         "Soundtrack",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6797407951",
-      "title": "So Honey EP",
-      "artist": "King & Prince",
-      "url": "https://music.apple.com/jp/album/so-honey-ep/6797407951?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/b0/52/edb0527d-a559-5a0d-207b-6d7241eeffd5/26UM1IM00708.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-01",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791017310",
-      "title": "INPUT OUTPUT",
-      "artist": "Tomohiro Kamiyama",
-      "url": "https://music.apple.com/jp/album/input-output/6791017310?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/c2/b0/7bc2b093-9df3-0eb7-b341-0fc88c2cad26/4517331101635.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-01",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802516054",
-      "title": "Nobody's Station II",
-      "artist": "O.A.KLAY",
-      "url": "https://music.apple.com/jp/album/nobodys-station-ii/6802516054?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/d8/07/86d8070b-d88a-6801-1d6a-324ff6d8ade9/4550759737758_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-01",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801477648",
-      "title": "55 RED",
-      "artist": "大黒摩季",
-      "url": "https://music.apple.com/jp/album/55-red/6801477648?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/94/60/4f9460b9-86d5-bccf-eae3-55e85c2e3e88/ticket.xnpyfrts.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-01",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6806261672",
-      "title": "Apple Music Nashville Sessions",
-      "artist": "Myles Smith",
-      "url": "https://music.apple.com/jp/album/apple-music-nashville-sessions/6806261672?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/ef/df/93efdf0c-95cd-66d8-9bea-ededd85d76bd/196874733547.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-01",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music"
-      ],
-      "tagline": "New EP "
-    },
-    {
-      "id": "6807149389",
-      "title": "Sessions",
-      "artist": "XCOMM",
-      "url": "https://music.apple.com/jp/album/sessions/6807149389?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/a9/96/33a9965e-07bd-21ba-4512-9ea55e890267/1200214982904.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-01",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Rock"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6796741977",
-      "title": "Out in the Water",
-      "artist": "Turn of Phrase",
-      "url": "https://music.apple.com/jp/album/out-in-the-water/6796741977?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/eb/6b/b6eb6b61-9f53-2c2c-59fd-abc06a3889dd/885288220339.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-01",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Punk",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802804746",
-      "title": "From There To There... - EP",
-      "artist": "Sacred holes & wackoes",
-      "url": "https://music.apple.com/jp/album/from-there-to-there-ep/6802804746?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/72/ad/7d72adfd-c0c9-1221-4e85-1b28996c0a5f/4869.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-01",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
