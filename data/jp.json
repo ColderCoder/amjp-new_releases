@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T21:00:58.655Z",
+  "generatedAt": "2026-09-10T22:00:56.954Z",
   "source": "https://music.apple.com/jp/room/6808413626?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6808413626?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -188,7 +188,7 @@
         "Music",
         "House"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6770821444",
@@ -2196,23 +2196,6 @@
       "tagline": null
     },
     {
-      "id": "6787836253",
-      "title": "Tristan Generation",
-      "artist": "Juliette Journaux",
-      "url": "https://music.apple.com/jp/album/tristan-generation/6787836253?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e4/3a/67e43ae0-7e3f-4e6e-f1f7-cf17b634939c/3701624512654.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-11",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Piano"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6804045698",
       "title": "Disc 2 - EP",
       "artist": "Rochelle Jordan",
@@ -2242,6 +2225,22 @@
         "Pop",
         "Music",
         "Alternative"
+      ],
+      "tagline": "New EP"
+    },
+    {
+      "id": "6806375409",
+      "title": "as in progress - EP",
+      "artist": "alexsucks",
+      "url": "https://music.apple.com/jp/album/as-in-progress-ep/6806375409?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/fe/ed/1bfeed90-c502-a6b9-1359-245607d992ea/093624814078.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-10",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
       ],
       "tagline": "New EP"
     },
@@ -2729,7 +2728,7 @@
         "Music",
         "Latin"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6803635606",
