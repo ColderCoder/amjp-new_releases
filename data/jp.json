@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T00:00:59.576Z",
+  "generatedAt": "2026-09-11T01:00:57.268Z",
   "source": "https://music.apple.com/jp/room/6810861226?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6810861226?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -169,7 +169,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1895408368",
@@ -583,6 +583,23 @@
         "House",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6806339478",
+      "title": "Por Salud Mental (Deluxe)",
+      "artist": "Banda Los Sebastianes De Saúl Plata",
+      "url": "https://music.apple.com/jp/album/por-salud-mental-deluxe/6806339478?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/af/02/22af0280-e0bc-85cf-1d07-06aa26667058/26UM1IM10947.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-11",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -2630,7 +2647,7 @@
       "title": "Una Raya Más Al Tigre",
       "artist": "Camila Fernández",
       "url": "https://music.apple.com/jp/album/una-raya-m%C3%A1s-al-tigre/6806424972?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/0b/37/680b37eb-9ab8-cadb-2d5e-ebffcc11213e/26UM1IM03518.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/0e/c4/ee0ec49e-443f-58b1-9331-e159f86fee95/26UM1IM03518.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-09-10",
       "trackCount": 9,
@@ -2739,6 +2756,23 @@
         "Dance",
         "Music",
         "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805674577",
+      "title": "B@BOSAAA 60",
+      "artist": "Reynaldos De La Sierra",
+      "url": "https://music.apple.com/jp/album/b-bosaaa-60/6805674577?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/85/e6/4285e653-f621-26a0-d774-71efd79c9ee1/885288384055.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-10",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -2974,39 +3008,6 @@
       "genres": [
         "Alternative",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805972982",
-      "title": "Carisma Secreto",
-      "artist": "El príncipe idiota",
-      "url": "https://music.apple.com/jp/album/carisma-secreto/6805972982?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/48/74/74487420-a925-abd0-f695-96d75ad63b4e/885288434200.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-10",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803916301",
-      "title": "Sin La Piel",
-      "artist": "Las Pelotas",
-      "url": "https://music.apple.com/jp/album/sin-la-piel/6803916301?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/fb/dd/78fbdda6-e43f-5712-9df6-51abe34b9fea/885288373325.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-10",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Rock y Alternativo",
-        "Music",
-        "Latin"
       ],
       "tagline": null
     },
