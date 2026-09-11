@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:01:00.148Z",
+  "generatedAt": "2026-09-11T06:00:59.423Z",
   "source": "https://music.apple.com/jp/room/6810861226?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6810861226?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -145,7 +145,7 @@
       "title": "Westside Whimsy",
       "artist": "Jhené Aiko",
       "url": "https://music.apple.com/jp/album/westside-whimsy/6810715695?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/67/7c/63677c9f-b30b-15de-2abe-80ad80e05536/26UM1IM17017.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/51/9f/5f519f49-44c1-6aeb-f289-5b14c677abb1/26UM1IM17017.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-11",
       "trackCount": 20,
