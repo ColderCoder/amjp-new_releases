@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:00:57.268Z",
+  "generatedAt": "2026-09-11T02:00:57.995Z",
   "source": "https://music.apple.com/jp/room/6810861226?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6810861226?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -57,6 +57,23 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6801819193",
+      "title": "エミエミ (emi emi)",
+      "artist": "エミエミ (emi emi)",
+      "url": "https://music.apple.com/jp/album/%E3%82%A8%E3%83%9F%E3%82%A8%E3%83%9F-emi-emi/6801819193?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/d4/9f/f3d49f93-2610-646d-976e-365ac55dddfb/469335.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-11",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6770821444",
@@ -591,7 +608,7 @@
       "title": "Por Salud Mental (Deluxe)",
       "artist": "Banda Los Sebastianes De Saúl Plata",
       "url": "https://music.apple.com/jp/album/por-salud-mental-deluxe/6806339478?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/af/02/22af0280-e0bc-85cf-1d07-06aa26667058/26UM1IM10947.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/31/b4/fa31b4bd-2851-5d19-04be-f05d03d88894/26UM1IM10947.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-11",
       "trackCount": 12,
@@ -1959,7 +1976,7 @@
       "title": "L'Ultrableu (Réédition)",
       "artist": "Benjamin Biolay",
       "url": "https://music.apple.com/jp/album/lultrableu-r%C3%A9%C3%A9dition/6808707303?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/4b/cd/524bcd93-d23a-e279-8622-9a7fd6d8fdd0/26UMGIM98347.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/9a/55/319a557c-4bd1-0950-99fa-0453657fac64/26UMGIM98347.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-11",
       "trackCount": 30,
@@ -2144,7 +2161,7 @@
       "title": "Nike After Dark Tour Sydney: DJ Mix Relay (DJ Mix)",
       "artist": "Mincy",
       "url": "https://music.apple.com/jp/album/nike-after-dark-tour-sydney-dj-mix-relay-dj-mix/6806052117?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/8a/10/208a100a-37e6-d061-4da8-52399feadc23/47f61b50-37db-41bc-ab14-72f9cbd726f6.png/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/d1/a9/95d1a933-5800-766e-ab95-ef65254b1212/42c00589-5439-40c2-9a2e-ae4304247bd1.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-11",
       "trackCount": 29,
@@ -2988,22 +3005,6 @@
       "explicit": false,
       "releaseDate": "2026-09-10",
       "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6804833243",
-      "title": "Vaho",
-      "artist": "Asia Menor",
-      "url": "https://music.apple.com/jp/album/vaho/6804833243?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/39/f2/1839f2ee-eeff-5484-57a0-febd2a07db03/885288351590.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-10",
-      "trackCount": 8,
       "kind": "album",
       "genres": [
         "Alternative",
