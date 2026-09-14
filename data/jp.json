@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T20:01:00.881Z",
+  "generatedAt": "2026-09-14T11:00:06.859Z",
   "source": "https://music.apple.com/jp/room/6810861226?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6810861226?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4003,8 +4003,9 @@
       "trackCount": 28,
       "kind": "album",
       "genres": [
-        "Classical",
+        "Soundtrack",
         "Music",
+        "Classical",
         "Classical Crossover"
       ],
       "tagline": "New Soundtrack"
