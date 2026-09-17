@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T21:00:29.753Z",
+  "generatedAt": "2026-09-17T22:00:28.610Z",
   "source": "https://music.apple.com/jp/room/6810861226?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6810861226?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -192,7 +192,7 @@
         "Music",
         "Alternative"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6770725355",
@@ -825,7 +825,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "1887644619",
@@ -1888,7 +1888,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6786804133",
@@ -1921,7 +1921,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6788956584",
@@ -1937,7 +1937,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6791793736",
@@ -1969,7 +1969,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1895607382",
@@ -2034,7 +2034,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6771079925",
@@ -2426,7 +2426,7 @@
         "Music",
         "Latin"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6808174204",
@@ -3995,6 +3995,22 @@
       "tagline": null
     },
     {
+      "id": "6800777291",
+      "title": "Nuova Luce - EP",
+      "artist": "Chiara Galiazzo",
+      "url": "https://music.apple.com/jp/album/nuova-luce-ep/6800777291?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/f1/a9/b6f1a9e6-eddf-8383-b831-d96240d6994d/885288262490.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6809921994",
       "title": "RUA OU GLAMOUR",
       "artist": "LEO2745",
@@ -4023,40 +4039,6 @@
       "genres": [
         "Pop",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802286792",
-      "title": "Maison témoin",
-      "artist": "Gaëlle Joly",
-      "url": "https://music.apple.com/jp/album/maison-t%C3%A9moin/6802286792?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/09/36/da0936fc-2539-6499-dcea-fa76459af519/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-18",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791798325",
-      "title": "Best Service",
-      "artist": "Il Est Vilaine",
-      "url": "https://music.apple.com/jp/album/best-service/6791798325?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/aa/45/6eaa45d6-473d-4fd9-84cd-abce5ddc181c/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-18",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "New Wave",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
@@ -4225,7 +4207,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6809906499",
@@ -4241,6 +4223,22 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6805425284",
+      "title": "Quando Viaggi da Sola",
+      "artist": "Benji & Fede",
+      "url": "https://music.apple.com/jp/album/quando-viaggi-da-sola/6805425284?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/3f/17/243f1704-2f2a-eaea-0221-8d681a7a2d58/1200214944445.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-17",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
       ],
       "tagline": null
     },
@@ -4258,7 +4256,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Album"
     },
     {
       "id": "6806903675",
