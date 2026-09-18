@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:00:32.783Z",
+  "generatedAt": "2026-09-18T15:00:31.228Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -141,9 +141,9 @@
     },
     {
       "id": "6807637456",
-      "title": "LOON EP - EP",
+      "title": "LOON EP",
       "artist": "80kidz",
-      "url": "https://music.apple.com/jp/album/loon-ep-ep/6807637456?l=en-US",
+      "url": "https://music.apple.com/jp/album/loon-ep/6807637456?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/04/86/bd048686-96fb-89a4-77db-ae224e38d4ed/4500000094345.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-09-18",
@@ -3312,6 +3312,25 @@
       "tagline": null
     },
     {
+      "id": "6802238435",
+      "title": "alles im bauch",
+      "artist": "DVDna",
+      "url": "https://music.apple.com/jp/album/alles-im-bauch/6802238435?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/61/c6/bb61c661-ecd7-8e29-dac6-d57abb8bbb6f/21999.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-18",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Underground Rap",
+        "Music",
+        "Hip-Hop/Rap",
+        "Alternative",
+        "Indie Pop"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6807687715",
       "title": "Sam Smith: Music Room",
       "artist": "Sam Smith",
@@ -3672,23 +3691,6 @@
       "genres": [
         "Alternative",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776927230",
-      "title": "Who's Who",
-      "artist": "Yosuke Inoue",
-      "url": "https://music.apple.com/jp/album/whos-who/6776927230?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/14/d6/1514d645-cdde-15cc-709b-a79dc55513ca/27305.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-16",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music",
-        "Fusion"
       ],
       "tagline": null
     },
