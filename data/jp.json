@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:00:31.862Z",
+  "generatedAt": "2026-09-18T01:04:08.816Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -821,6 +821,23 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6812011280",
+      "title": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+      "artist": "Feid",
+      "url": "https://music.apple.com/jp/album/el-green-print-la-saga-disc-2-el-club-de-las-19-flores/6812011280?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/cc/de/0dccde20-c315-7a58-01d0-e836c683f4e1/26UM1IM12670.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-18",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New EP"
     },
     {
       "id": "6810267820",
@@ -1917,6 +1934,23 @@
       "genres": [
         "Rock",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6809988507",
+      "title": "Raymix X",
+      "artist": "Raymix",
+      "url": "https://music.apple.com/jp/album/raymix-x/6809988507?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/83/30/f1833092-6b71-bce1-abb9-20e6235dfdde/26UM1IM12658.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -3280,73 +3314,6 @@
       "tagline": null
     },
     {
-      "id": "6809908489",
-      "title": "FLOW ROCKSTAR - Single",
-      "artist": "Grupo Privado",
-      "url": "https://music.apple.com/jp/album/flow-rockstar-single/6809908489?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/ee/15/baee157a-2b8c-2e6a-025e-af1854779e72/122097.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-18",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Latin",
-        "Music",
-        "Música Mexicana"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6804672074",
-      "title": "Plateau Alone EP (feat. Zopelar) - Single",
-      "artist": "Dr Dunks",
-      "url": "https://music.apple.com/jp/album/plateau-alone-ep-feat-zopelar-single/6804672074?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/ed/d5/2dedd534-7026-fe95-4980-bbe55e9f5eb0/885288389548.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-18",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6788225085",
-      "title": "Monteverdi: Vespro della beata Vergine",
-      "artist": "InAlto & Lambert Colson",
-      "url": "https://music.apple.com/jp/album/monteverdi-vespro-della-beata-vergine/6788225085?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/f2/49/4ff24973-3e25-fc2f-1a48-93d37f474ade/5400439004924.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-18",
-      "trackCount": 35,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Vocal",
-        "Baroque Era"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805186891",
-      "title": "REPUBE - Single",
-      "artist": "Victor Cibrian & Máxima Ventaja",
-      "url": "https://music.apple.com/jp/album/repube-single/6805186891?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/5f/c6/835fc69e-6bcb-03a6-458d-cf5e8d8a3820/4341842.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-18",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6807687715",
       "title": "Sam Smith: Music Room",
       "artist": "Sam Smith",
@@ -3463,6 +3430,23 @@
       "tagline": null
     },
     {
+      "id": "6807191143",
+      "title": "Pa' Que No Me Anden Contando (Remix) - Single",
+      "artist": "Jessi Uribe, Juan Pablo Marquez & Voz de Mando",
+      "url": "https://music.apple.com/jp/album/pa-que-no-me-anden-contando-remix-single/6807191143?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/31/92/703192b5-c0f0-21b1-f358-c93c6c79b632/823375409656_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-17",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6802433676",
       "title": "Live at The Hordern Pavilion",
       "artist": "Spacey Jane",
@@ -3477,6 +3461,23 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6797958207",
+      "title": "Ley De Vida",
+      "artist": "Grupo Los de la O",
+      "url": "https://music.apple.com/jp/album/ley-de-vida/6797958207?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/dd/d4/79ddd40a-42e6-0fa8-7c7c-66a1e1862078/885288067330.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-17",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
     },
     {
       "id": "1885427631",
