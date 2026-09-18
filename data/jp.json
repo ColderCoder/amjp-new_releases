@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T19:00:29.654Z",
+  "generatedAt": "2026-09-18T20:00:29.005Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -611,22 +611,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6798861110",
-      "title": "Canciones De Amor - EP",
-      "artist": "Maria Usbeck",
-      "url": "https://music.apple.com/jp/album/canciones-de-amor-ep/6798861110?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/e7/a5/bfe7a573-fea2-ddbf-d589-5e447d7a0874/68046.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-18",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6808352564",
       "title": "Resident Evil (Original Motion Picture Soundtrack)",
       "artist": "Hays Holladay & Ryan Holladay",
@@ -887,7 +871,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1895607382",
@@ -1018,7 +1002,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6768716931",
@@ -2689,7 +2673,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6800086579",
@@ -3327,6 +3311,22 @@
         "Hip-Hop/Rap",
         "Alternative",
         "Indie Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895592655",
+      "title": "NAJI",
+      "artist": "Kareen Lomax",
+      "url": "https://music.apple.com/jp/album/naji/1895592655?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/e6/16/f0e6160d-ba1b-9d28-596d-59715a238267/823375143673_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-18",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
       ],
       "tagline": null
     },
@@ -4559,9 +4559,9 @@
     },
     {
       "id": "6804805262",
-      "title": "Who Is The Sky? (Digital Deluxe Edition)",
+      "title": "Who Is The Sky? (Deluxe Edition)",
       "artist": "David Byrne",
-      "url": "https://music.apple.com/jp/album/who-is-the-sky-digital-deluxe-edition/6804805262?l=en-US",
+      "url": "https://music.apple.com/jp/album/who-is-the-sky-deluxe-edition/6804805262?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/6a/aa/456aaa83-66a7-a141-6f10-c217f2f7ed83/191401226172.png/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-16",
