@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T03:00:31.011Z",
+  "generatedAt": "2026-09-18T04:00:40.482Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -73,7 +73,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6804928434",
@@ -128,7 +128,7 @@
       "title": "Odoru Daisousasen N.E.W. Metropolis Wo Kakenukero (Original Motion Picture Soundtrack)",
       "artist": "Akihiko Matsumoto",
       "url": "https://music.apple.com/jp/album/odoru-daisousasen-n-e-w-metropolis-wo-kakenukero-original/6810156088?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/53/83/1a53836c-8eff-6f1d-af11-530988fdb5ed/26UM1IM15506.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/fd/80/48fd8012-9c3a-8e38-c495-296163c3f91e/26UM1IM15506.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-09-18",
       "trackCount": 40,
