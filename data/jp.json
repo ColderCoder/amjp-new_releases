@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T23:00:27.321Z",
+  "generatedAt": "2026-09-19T00:00:28.765Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6810733554",
+      "title": "HYPERHOUSE 092: Anna Lunoe (DJ Mix)",
+      "artist": "Anna Lunoe",
+      "url": "https://music.apple.com/jp/album/hyperhouse-092-anna-lunoe-dj-mix/6810733554?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/47/72/3e4772af-9ac3-d978-d481-9cde013d8f76/dd6100f7-b212-4261-9bdd-5523bb11eba8.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-19",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "New DJ Mix"
+    },
     {
       "id": "6794262922",
       "title": "WATCH ME - EP",
@@ -657,7 +674,7 @@
         "Music",
         "Singer/Songwriter"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6785027277",
@@ -1101,7 +1118,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6786804133",
@@ -3311,22 +3328,6 @@
         "Hip-Hop/Rap",
         "Alternative",
         "Indie Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1895592655",
-      "title": "NAJI",
-      "artist": "Kareen Lomax",
-      "url": "https://music.apple.com/jp/album/naji/1895592655?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/e6/16/f0e6160d-ba1b-9d28-596d-59715a238267/823375143673_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-18",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
       ],
       "tagline": null
     },
