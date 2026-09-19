@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:00:29.437Z",
+  "generatedAt": "2026-09-19T07:00:29.491Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3332,6 +3332,39 @@
       "tagline": null
     },
     {
+      "id": "1895592655",
+      "title": "NAJI",
+      "artist": "Kareen Lomax",
+      "url": "https://music.apple.com/jp/album/naji/1895592655?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/e6/16/f0e6160d-ba1b-9d28-596d-59715a238267/823375143673_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-18",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6809908489",
+      "title": "FLOW ROCKSTAR - Single",
+      "artist": "Grupo Privado",
+      "url": "https://music.apple.com/jp/album/flow-rockstar-single/6809908489?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/ee/15/baee157a-2b8c-2e6a-025e-af1854779e72/122097.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Latin",
+        "Music",
+        "Música Mexicana"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6807687715",
       "title": "Sam Smith: Music Room",
       "artist": "Sam Smith",
@@ -4898,38 +4931,6 @@
       "kind": "album",
       "genres": [
         "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6804181566",
-      "title": "AEROPHILE - EP",
-      "artist": "S/HE",
-      "url": "https://music.apple.com/jp/album/aerophile-ep/6804181566?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/25/89/e2258912-57a3-f34f-e8fa-0374f9a699d7/S_HE_AEROPHILE.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-12",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6807278304",
-      "title": "Look Back (Original Soundtrack)",
-      "artist": "Yuta Bandoh",
-      "url": "https://music.apple.com/jp/album/look-back-original-soundtrack/6807278304?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/33/b4/d2/33b4d29e-86f6-a6ec-9cff-5dd7f9d31b45/ticket.jptfsvvp.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-12",
-      "trackCount": 30,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
         "Music"
       ],
       "tagline": null
