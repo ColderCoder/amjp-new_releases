@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T07:00:29.491Z",
+  "generatedAt": "2026-09-21T07:00:08.420Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3365,6 +3365,156 @@
       "tagline": null
     },
     {
+      "id": "6804672074",
+      "title": "Plateau Alone EP (feat. Zopelar) - Single",
+      "artist": "Dr Dunks",
+      "url": "https://music.apple.com/jp/album/plateau-alone-ep-feat-zopelar-single/6804672074?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/ed/d5/2dedd534-7026-fe95-4980-bbe55e9f5eb0/885288389548.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 3,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788225085",
+      "title": "Monteverdi: Vespro della beata Vergine",
+      "artist": "InAlto & Lambert Colson",
+      "url": "https://music.apple.com/jp/album/monteverdi-vespro-della-beata-vergine/6788225085?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/f2/49/4ff24973-3e25-fc2f-1a48-93d37f474ade/5400439004924.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 35,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Vocal",
+        "Baroque Era"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805186891",
+      "title": "REPUBE - Single",
+      "artist": "Máxima Ventaja & Victor Cibrian",
+      "url": "https://music.apple.com/jp/album/repube-single/6805186891?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/16/30/951630fa-c40d-b9d1-60aa-02b7f57a47bd/4358857.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-18",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Latin",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1895883334",
+      "title": "Picnic at the Cemetery",
+      "artist": "Bella Poarch",
+      "url": "https://music.apple.com/jp/album/picnic-at-the-cemetery/1895883334?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/86/29/dc862917-149d-a498-1bc6-1ee9ebf5f6c5/32542.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-18",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Pop"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6811154278",
+      "title": "c",
+      "artist": "Lucy Bedroque",
+      "url": "https://music.apple.com/jp/album/c/6811154278?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/7d/96/467d9687-f8ed-b060-5a90-4bfd2069f962/075679556868.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-18",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802361720",
+      "title": "RELAX - EP",
+      "artist": "BLUE BOYS CLUB",
+      "url": "https://music.apple.com/jp/album/relax-ep/6802361720?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/96/e6/1196e6db-4c24-38e1-fb2e-5694f8c1e6ed/3596975172592_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-18",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6769654035",
+      "title": "Yearning",
+      "artist": "Larissa Lambert",
+      "url": "https://music.apple.com/jp/album/yearning/6769654035?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/03/bc/8e03bcea-21da-1b2b-100a-d647310b5466/823375183297_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-18",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6793863975",
+      "title": "From Space Between - EP",
+      "artist": "fka boursin",
+      "url": "https://music.apple.com/jp/album/from-space-between-ep/6793863975?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/2a/23/bc2a23c1-a8ca-45b5-92ad-e00cc5217e4a/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 2,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance",
+        "Electronic",
+        "Electronica"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805674409",
+      "title": "April X (Original Motion Picture Soundtrack)",
+      "artist": "Matthew Atticus Berger",
+      "url": "https://music.apple.com/jp/album/april-x-original-motion-picture-soundtrack/6805674409?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/8e/a8/dd8ea885-5bd8-ceef-6ef0-1a35be434933/196874702086.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6807687715",
       "title": "Sam Smith: Music Room",
       "artist": "Sam Smith",
@@ -4784,153 +4934,6 @@
       "kind": "album",
       "genres": [
         "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796662137",
-      "title": "ANTHEM - EP",
-      "artist": "INI",
-      "url": "https://music.apple.com/jp/album/anthem-ep/6796662137?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/5f/a1/755fa1f8-5f9d-e1e8-3647-f506ee6dba21/26UMGIM99547.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-14",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6806960014",
-      "title": "Because you know me as if you know everything about me",
-      "artist": "FUMINO",
-      "url": "https://music.apple.com/jp/album/because-you-know-me-as-if-you-know-everything-about-me/6806960014?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/0d/7b/570d7b8d-f305-53f0-2a60-a80627e117f6/26UM1IM06252.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-14",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6806922119",
-      "title": "Kessenzenya - EP",
-      "artist": "enogu",
-      "url": "https://music.apple.com/jp/album/%E6%B1%BA%E6%88%A6%E5%89%8D%E5%A4%9C-ep/6806922119?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/ee/c0/e0eec09d-d108-0d57-d68a-ec4a94567a9a/bigup14565171.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-14",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6804580563",
-      "title": "I'm home, anew.",
-      "artist": "Koyoi Matsuda",
-      "url": "https://music.apple.com/jp/album/%E6%96%B0%E3%81%97%E3%81%84%E3%81%8A%E3%81%8B%E3%81%88%E3%82%8A/6804580563?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/39/b1/5c39b16f-2aa0-43cb-3587-768b01caa704/4522197169224.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-14",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808550171",
-      "title": "SYNK : COMPLaeXITY - 2026 Special Digital Single - EP",
-      "artist": "aespa",
-      "url": "https://music.apple.com/jp/album/synk-complaexity-2026-special-digital-single-ep/6808550171?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/e6/f2/dbe6f2d4-11d5-d4ef-0337-ef79abb110e0/888735956799.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-14",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6811402784",
-      "title": "Sessions",
-      "artist": "Evil Island",
-      "url": "https://music.apple.com/jp/album/sessions/6811402784?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/4d/e0/174de0dd-990d-db08-d288-025e211be8ed/1200220114153.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-14",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Punk",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6807330923",
-      "title": "Perfect High - EP",
-      "artist": "Andi & Curses",
-      "url": "https://music.apple.com/jp/album/perfect-high-ep/6807330923?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/46/ed/f146edd9-6532-eb8b-995b-78149e1c621d/8718723329125.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-14",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808513266",
-      "title": "Black Spring - EP",
-      "artist": "SOBERSLODWN",
-      "url": "https://music.apple.com/jp/album/black-spring-ep/6808513266?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/04/22/72042295-2fbf-5dcf-6948-b525d742354f/888618492727.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-14",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802711297",
-      "title": "Days Like This - EP",
-      "artist": "Ana Rs",
-      "url": "https://music.apple.com/jp/album/days-like-this-ep/6802711297?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e9/67/65e967e6-fdf7-e6af-a093-f010452a4dc1/8721554302342.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-14",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Electronic",
         "Music"
       ],
       "tagline": null
