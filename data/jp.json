@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T19:00:07.613Z",
+  "generatedAt": "2026-09-22T07:00:08.049Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -26,6 +26,23 @@
         "House"
       ],
       "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6811080519",
+      "title": "¡COOL GIRL! - Single",
+      "artist": "Delilah",
+      "url": "https://music.apple.com/jp/album/cool-girl-single/6811080519?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/6a/ce/ad6ace1f-ca21-50f1-d139-52514aabcb5c/823375438335_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-19",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Pop in Spanish",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
     },
     {
       "id": "6794262922",
@@ -3515,6 +3532,74 @@
       "tagline": null
     },
     {
+      "id": "6781299043",
+      "title": "The House",
+      "artist": "Elis Floreen",
+      "url": "https://music.apple.com/jp/album/the-house/6781299043?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/de/5a/7ede5a13-84dc-235b-c72c-e011a07b1ecb/5414166689538.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780264368",
+      "title": "Dream Death",
+      "artist": "Hanging Garden",
+      "url": "https://music.apple.com/jp/album/dream-death/6780264368?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/2a/6b/a02a6b54-cb06-eec0-a1b9-f9706cab4cc8/612789666683.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801636705",
+      "title": "Asadito Pa No Llorar (En Vivo)",
+      "artist": "TIMØ",
+      "url": "https://music.apple.com/jp/album/asadito-pa-no-llorar-en-vivo/6801636705?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/cb/f1/94cbf16f-7a17-9428-ca84-576f25399e88/26UMGIM99123.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Pop in Spanish",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6807825409",
+      "title": "Jolene 17 - Single",
+      "artist": "Danny Parton & Mike Parton",
+      "url": "https://music.apple.com/jp/album/jolene-17-single/6807825409?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/3b/6d/393b6df7-ec4b-db92-8801-9a500637f9b6/4255940803556_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-18",
+      "trackCount": 3,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Dance",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6807687715",
       "title": "Sam Smith: Music Room",
       "artist": "Sam Smith",
@@ -3710,6 +3795,23 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805199856",
+      "title": "Ahí Anduviera Yo (En Vivo) - Single",
+      "artist": "Giovanny Ayala & Diferente Nivel",
+      "url": "https://music.apple.com/jp/album/ah%C3%AD-anduviera-yo-en-vivo-single/6805199856?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/a6/9b/bda69b18-5813-5ec7-6e72-e36df4a6879f/885288397314.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-17",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -4836,104 +4938,6 @@
       "kind": "album",
       "genres": [
         "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6807293292",
-      "title": "Shunkei - EP",
-      "artist": "BNSI",
-      "url": "https://music.apple.com/jp/album/%E6%97%AC%E6%99%AF-ep/6807293292?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/bc/78/4fbc78fe-8739-d772-7d87-4470168b5a87/bigup14567161.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-15",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802872349",
-      "title": "Sessions",
-      "artist": "The Pretty Reckless",
-      "url": "https://music.apple.com/jp/album/sessions/6802872349?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/eb/4d/afeb4de6-8811-2178-2d32-e988c1836710/26CRGIM56337.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-15",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6810957153",
-      "title": "True Colors (40th Anniversary Expanded Edition)",
-      "artist": "Cyndi Lauper",
-      "url": "https://music.apple.com/jp/album/true-colors-40th-anniversary-expanded-edition/6810957153?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/91/83/e1918381-270f-dde1-bd1c-da3ef9946dc5/196874698914.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-15",
-      "trackCount": 29,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6800459970",
-      "title": "Tributo al Rey Con Banda (Grandes Duetos), Vol. 2",
-      "artist": "Vicente Fernández",
-      "url": "https://music.apple.com/jp/album/tributo-al-rey-con-banda-grandes-duetos-vol-2/6800459970?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/ef/32/dcef32b9-8fa5-a0e2-fd09-85cabdcfce95/196874567654.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-15",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6807859339",
-      "title": "fill de la mar (2026)",
-      "artist": "Rels B",
-      "url": "https://music.apple.com/jp/album/fill-de-la-mar-2026/6807859339?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/fb/28/47fb2885-dd76-7b66-c824-c817dbe3519c/885288502831.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-15",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Pop in Spanish",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6798765602",
-      "title": "No Rules 2 This (Instrumentals)",
-      "artist": "Gengis Don",
-      "url": "https://music.apple.com/jp/album/no-rules-2-this-instrumentals/6798765602?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/ac/a1/bcaca124-267e-97e8-97bd-a1f27869a62e/881392942891-copy-2f43cad1.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-15",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Jazz",
         "Music"
       ],
       "tagline": null
