@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:00:07.663Z",
+  "generatedAt": "2026-09-24T22:00:07.544Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -73,7 +73,7 @@
         "Children's Music",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6794460856",
@@ -105,7 +105,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album and Interview"
     },
     {
       "id": "6799213591",
@@ -169,7 +169,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6771009439",
@@ -251,7 +251,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6793616720",
@@ -333,7 +333,7 @@
         "Music",
         "Dance"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6768765527",
@@ -381,7 +381,7 @@
         "Electronic",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6783586553",
@@ -462,7 +462,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6789770938",
@@ -559,7 +559,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6807207334",
@@ -594,7 +594,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Live Album"
     },
     {
       "id": "6806417514",
@@ -1052,7 +1052,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6804847125",
@@ -2675,7 +2675,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Mixtape"
     },
     {
       "id": "6805107500",
@@ -4056,22 +4056,6 @@
       "tagline": null
     },
     {
-      "id": "6796448157",
-      "title": "Old Fashioned - EP",
-      "artist": "Chayce Beckham",
-      "url": "https://music.apple.com/jp/album/old-fashioned-ep/6796448157?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/de/ed/e4deed37-3bff-ed21-d97e-d66526ff2f74/4099964280340.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6810312248",
       "title": "THIS IS SPA TOWN!",
       "artist": "300SkullsAndCounting & Jenny Sparks",
@@ -4085,7 +4069,7 @@
         "Electronic",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1887536729",
@@ -4236,6 +4220,23 @@
         "Alternative",
         "Music",
         "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6808396683",
+      "title": "Surya",
+      "artist": "SubLife",
+      "url": "https://music.apple.com/jp/album/surya/6808396683?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/ed/b6/aaedb645-7736-1a39-0ae3-4db777886938/26SYMIM35023.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-24",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Afro House",
+        "Music",
+        "African"
       ],
       "tagline": null
     },
