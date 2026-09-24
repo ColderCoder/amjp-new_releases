@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T07:00:07.440Z",
+  "generatedAt": "2026-09-24T15:00:07.626Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,55 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6809563378",
+      "title": "Primetime (Original Soundtrack)",
+      "artist": "Ari Balouzian",
+      "url": "https://music.apple.com/jp/album/primetime-original-soundtrack/6809563378?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/15/cd/6115cd86-cde3-9077-f3b8-21033dcf652e/823375422471_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 25,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6799254121",
+      "title": "Gradient Guestmix 019: Dennis Free (DJ Mix)",
+      "artist": "Dennis Free",
+      "url": "https://music.apple.com/jp/album/gradient-guestmix-019-dennis-free-dj-mix/6799254121?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/a0/e6/25a0e699-33af-55a2-24ef-b3b5f8abf55f/359cf08f-91c8-4441-9d9e-3ad49b8f0ba1.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-25",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6810716762",
+      "title": "OKAY - Single",
+      "artist": "DreamDoll",
+      "url": "https://music.apple.com/jp/album/okay-single/6810716762?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/0a/52/530a52c7-5e20-caeb-8be8-4d6cb748630a/33844.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-25",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
     {
       "id": "6810733554",
       "title": "HYPERHOUSE 092: Anna Lunoe (DJ Mix)",
@@ -4809,55 +4858,6 @@
       "kind": "album",
       "genres": [
         "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791798325",
-      "title": "Best Service",
-      "artist": "Il Est Vilaine",
-      "url": "https://music.apple.com/jp/album/best-service/6791798325?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/aa/45/6eaa45d6-473d-4fd9-84cd-abce5ddc181c/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-18",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "New Wave",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6773483756",
-      "title": "FARM FAITH FAMILY",
-      "artist": "Drew Baldridge",
-      "url": "https://music.apple.com/jp/album/farm-faith-family/6773483756?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e8/fa/bd/e8fabd56-009a-a820-712f-33c7f645e5fe/4099964266665.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-18",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802455337",
-      "title": "Firestorm (Remastered 2025) - EP",
-      "artist": "Earth Crisis",
-      "url": "https://music.apple.com/jp/album/firestorm-remastered-2025-ep/6802455337?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/4d/17/c14d17b3-96d0-5ca2-5990-eb10b916bd36/26CRGIM56111.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-18",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Rock",
         "Music"
       ],
       "tagline": null
