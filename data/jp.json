@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T22:00:07.544Z",
+  "generatedAt": "2026-09-24T23:00:08.496Z",
   "source": "https://music.apple.com/jp/room/6813250721?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6813250721?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -25,7 +25,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6778607425",
@@ -365,7 +365,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6786357340",
@@ -413,7 +413,7 @@
         "Soundtrack",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Soundtrack"
     },
     {
       "id": "6810048215",
@@ -494,7 +494,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6794460586",
@@ -510,7 +510,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6779721992",
@@ -697,7 +697,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6778012849",
@@ -746,7 +746,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6795648795",
@@ -833,7 +833,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6783325943",
@@ -851,6 +851,22 @@
         "Rock"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6805535617",
+      "title": "MUSTANG",
+      "artist": "Biagio Antonacci",
+      "url": "https://music.apple.com/jp/album/mustang/6805535617?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/4b/c2/4e4bc2ad-cab9-ed78-7bf4-4efbadd8a339/196874733677.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6780627854",
@@ -1573,7 +1589,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6796363930",
@@ -2073,7 +2089,7 @@
         "Music",
         "Alternative"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6777141220",
@@ -2188,7 +2204,7 @@
         "Electronic",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6781755804",
@@ -2222,7 +2238,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6809225719",
@@ -3323,7 +3339,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6807876460",
@@ -4024,38 +4040,6 @@
       "tagline": null
     },
     {
-      "id": "6769169996",
-      "title": "Pullin' Out",
-      "artist": "Wheeler Walker Jr.",
-      "url": "https://music.apple.com/jp/album/pullin-out/6769169996?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/29/35/6f2935aa-863f-c318-c734-f9c183e44729/712758989352_WWJPullinOutAlbumCoverFINAL.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-25",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795147000",
-      "title": "3 Minute Summer",
-      "artist": "Adam Doleac",
-      "url": "https://music.apple.com/jp/album/3-minute-summer/6795147000?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/e3/74/f9e37487-c37f-17cb-ffb8-15b71c30726f/193436481052_ADMSFINAL.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6810312248",
       "title": "THIS IS SPA TOWN!",
       "artist": "300SkullsAndCounting & Jenny Sparks",
@@ -4102,7 +4086,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6806408571",
@@ -4121,6 +4105,22 @@
         "Pop"
       ],
       "tagline": null
+    },
+    {
+      "id": "6809754889",
+      "title": "WpointM",
+      "artist": "Tiakola",
+      "url": "https://music.apple.com/jp/album/wpointm/6809754889?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/43/1c/8d431c7d-6d86-f830-d914-0a18c497e02a/1200214616663.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-24",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6807945476",
@@ -4987,7 +4987,7 @@
         "Music",
         "Dance"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6804034104",
@@ -5004,7 +5004,7 @@
         "Music",
         "Dance"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     }
   ]
 }
