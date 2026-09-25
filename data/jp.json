@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T02:00:08.799Z",
+  "generatedAt": "2026-09-25T03:00:08.258Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3360,7 +3360,7 @@
       "title": "All My Demons Greeting Me As A Friend (The Moth Tapes)",
       "artist": "AURORA",
       "url": "https://music.apple.com/jp/album/all-my-demons-greeting-me-as-a-friend-the-moth-tapes/6807476071?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/6d/45/926d451c-e9cd-6ed0-eb93-288938f44f9d/26UM1IM04354.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/aa/61/8eaa6198-6616-cac4-b91a-51d5682a4bad/26UM1IM04354.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-09-25",
       "trackCount": 18,
@@ -3843,24 +3843,6 @@
       "tagline": null
     },
     {
-      "id": "6787836209",
-      "title": "Chopin: The Complete Études",
-      "artist": "Aaron Pilsan",
-      "url": "https://music.apple.com/jp/album/chopin-the-complete-%C3%A9tudes/6787836209?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/29/05/e32905bf-90e5-c26d-8946-afe94f6be175/3701624512708.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 27,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Romantic Era",
-        "Piano"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6810536417",
       "title": "The House Of",
       "artist": "Wendy Wander",
@@ -3892,6 +3874,23 @@
         "Dance"
       ],
       "tagline": null
+    },
+    {
+      "id": "6814609062",
+      "title": "Ranchero de Corazón - EP",
+      "artist": "Julión Álvarez y su Norteño Banda",
+      "url": "https://music.apple.com/jp/album/ranchero-de-corazo-n-ep/6814609062?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/99/02/e29902c1-85fc-df70-0a28-453caef140f0/885288613001.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-24",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New EP"
     },
     {
       "id": "6804826027",
