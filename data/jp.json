@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T07:00:08.307Z",
+  "generatedAt": "2026-09-25T09:00:07.813Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3191,6 +3191,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "1884339777",
+      "title": "Until You're Satisfied (Deluxe Edition)",
+      "artist": "YONAKA",
+      "url": "https://music.apple.com/jp/album/until-youre-satisfied-deluxe-edition/1884339777?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/d1/3a/26d13a1f-da5f-572f-b667-20e7d8cc2dc7/820200480996.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-25",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6780488806",
       "title": "Bodies & Ideas",
       "artist": "Léon Phal",
@@ -3823,22 +3839,6 @@
         "Music",
         "Classical",
         "Classical Crossover"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6800312987",
-      "title": "Lost & Found",
-      "artist": "TOKUNBO",
-      "url": "https://music.apple.com/jp/album/lost-found/6800312987?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/93/81/aa938170-7838-e44c-0e40-d9512fdf0e39/cover_4068992710730.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
       ],
       "tagline": null
     },
