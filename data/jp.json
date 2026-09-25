@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:00:08.264Z",
+  "generatedAt": "2026-09-25T01:00:07.805Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6804087555",
+      "title": "El Rey Del Glam",
+      "artist": "Disco Bahía",
+      "url": "https://music.apple.com/jp/album/el-rey-del-glam/6804087555?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/6c/3e/376c3edd-f077-e73e-9d5a-92d54505a293/823375394556_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-26",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Rock y Alternativo",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Album"
+    },
     {
       "id": "6809710581",
       "title": "You (feat. UMI) - EP",
@@ -1148,6 +1165,23 @@
       "tagline": null
     },
     {
+      "id": "6805742578",
+      "title": "Intermedio (En Vivo)",
+      "artist": "Carolina Ross",
+      "url": "https://music.apple.com/jp/album/intermedio-en-vivo/6805742578?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/c4/06/03c406d1-d9da-8841-1f7a-e2870dc40f40/26UM1IM00639.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop in Spanish",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6783181754",
       "title": "Galashiels",
       "artist": "The Catburgers",
@@ -1501,6 +1535,23 @@
       "tagline": null
     },
     {
+      "id": "6812475385",
+      "title": "Endeble (II) - EP",
+      "artist": "Fátima Campo",
+      "url": "https://music.apple.com/jp/album/endeble-ii-ep/6812475385?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/3f/f4/fa3ff4f5-cca1-58ab-3f1d-bfa0ac4039cf/26UM1IM15349.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-25",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6774359718",
       "title": "at least you know what you're laughing at",
       "artist": "Gash",
@@ -1531,7 +1582,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6776303779",
@@ -1717,7 +1768,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6783483739",
@@ -1916,6 +1967,23 @@
         "Death Metal/Black Metal",
         "Music",
         "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6808440235",
+      "title": "Borracho y Medio",
+      "artist": "Nathan Galante",
+      "url": "https://music.apple.com/jp/album/borracho-y-medio/6808440235?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/9d/30/5c9d30b0-18aa-0c8e-9869-c7f97c5eb492/26UMGIM72083.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-25",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -3793,75 +3861,6 @@
       "tagline": null
     },
     {
-      "id": "6798295887",
-      "title": "R. Schumann: Piano Concerto in A Minor, Op. 54 - EP",
-      "artist": "Philharmonia Orchestra, Christoph von Dohnányi & Lars Vogt",
-      "url": "https://music.apple.com/jp/album/r-schumann-piano-concerto-in-a-minor-op-54-ep/6798295887?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/33/07/fe330725-1692-ce48-225c-edd8c6c4c37f/635212103715.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Piano",
-        "Romantic Era",
-        "Orchestral"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6782938970",
-      "title": "Lost Cause",
-      "artist": "Oskar Haag",
-      "url": "https://music.apple.com/jp/album/lost-cause/6782938970?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/ea/97/ddea9725-987c-2ac7-ba56-c3fe3a7a6cb5/196874542538.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803506319",
-      "title": "BLNDE FOR PRESIDENT",
-      "artist": "BLNDE",
-      "url": "https://music.apple.com/jp/album/blnde-for-president/6803506319?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/85/28/d38528c9-64a6-dd1d-baac-8448c75c4c83/885288383263.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-25",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Afrobeats",
-        "Music",
-        "African"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6799161264",
-      "title": "NØ FØRMAT! (Live Paris Théâtre Silvia Monfort)",
-      "artist": "Vincent Segal",
-      "url": "https://music.apple.com/jp/album/n%C3%B8-f%C3%B8rmat-live-paris-th%C3%A9%C3%A2tre-silvia-monfort/6799161264?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/86/39/478639b3-78cc-9c18-588b-4bd6b7f088dd/3663729461193_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Contemporary Singer/Songwriter",
-        "Music",
-        "Singer/Songwriter"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6810536417",
       "title": "The House Of",
       "artist": "Wendy Wander",
@@ -3895,6 +3894,23 @@
       "tagline": null
     },
     {
+      "id": "6804826027",
+      "title": "Pop Pesado",
+      "artist": "EMJAY",
+      "url": "https://music.apple.com/jp/album/pop-pesado/6804826027?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/56/e6/5856e60e-0ddc-dba7-11bf-1c8236a3a716/1200214925017.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-24",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6810312248",
       "title": "THIS IS SPA TOWN!",
       "artist": "300SkullsAndCounting & Jenny Sparks",
@@ -3907,6 +3923,23 @@
       "genres": [
         "Electronic",
         "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6808354493",
+      "title": "LA AMENAZA",
+      "artist": "FANTA ROSARIO",
+      "url": "https://music.apple.com/jp/album/la-amenaza/6808354493?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/e9/3e/95e93e5f-8620-5f6b-02fd-6045e7016bae/1200220050437.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-24",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
       ],
       "tagline": "New Album"
     },
@@ -4075,39 +4108,6 @@
         "Afro House",
         "Music",
         "African"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814576733",
-      "title": "INTELIGENCIA ARTESANAL - EP",
-      "artist": "TOBIKA",
-      "url": "https://music.apple.com/jp/album/inteligencia-artesanal-ep/6814576733?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/7a/3e/127a3e7c-39c6-7c4c-e4f9-db854eb64d75/823375460152_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-24",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6812676648",
-      "title": "OH MY GHOST! OH MY GOD! (Original Motion Picture Soundtrack)",
-      "artist": "Baobu Badulu & Chill Qin",
-      "url": "https://music.apple.com/jp/album/%E6%80%8E%E9%BA%BC%E5%8F%AF%E8%83%BD%E6%88%91%E5%AE%B6%E7%9A%84%E7%A5%96%E5%85%88%E6%98%AF%E4%BD%A0%E5%AE%B6%E7%9A%84%E9%AC%BC-%E9%9B%BB%E5%BD%B1%E5%8E%9F%E8%81%B2%E5%B8%B6/6812676648?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/75/74/4e757489-8ca3-1ac0-55ae-d3f841b380a4/VOYU-2602.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-24",
-      "trackCount": 27,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
       ],
       "tagline": null
     },
