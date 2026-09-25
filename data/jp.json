@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T18:00:07.597Z",
+  "generatedAt": "2026-09-25T19:00:07.460Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3207,22 +3207,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "1884339777",
-      "title": "Until You're Satisfied (Deluxe Edition)",
-      "artist": "YONAKA",
-      "url": "https://music.apple.com/jp/album/until-youre-satisfied-deluxe-edition/1884339777?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/d1/3a/26d13a1f-da5f-572f-b667-20e7d8cc2dc7/820200480996.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-25",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
       "id": "6780488806",
       "title": "Bodies & Ideas",
       "artist": "Léon Phal",
@@ -3839,6 +3823,24 @@
         "House"
       ],
       "tagline": "Recommended DJ Mix"
+    },
+    {
+      "id": "6795267879",
+      "title": "Songs from the North Country",
+      "artist": "Rosemary Standley, Les Musiciens de Saint-Julien & François Lazarevitch",
+      "url": "https://music.apple.com/jp/album/songs-from-the-north-country/6795267879?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/b5/38/d6b538da-45e2-bd18-3432-6ae7706e12a1/3701624512685.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Folk",
+        "Music",
+        "Classical",
+        "Classical Crossover"
+      ],
+      "tagline": null
     },
     {
       "id": "6810536417",
