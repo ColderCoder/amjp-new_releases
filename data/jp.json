@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T05:00:07.653Z",
+  "generatedAt": "2026-09-25T07:00:08.307Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3827,6 +3827,22 @@
       "tagline": null
     },
     {
+      "id": "6800312987",
+      "title": "Lost & Found",
+      "artist": "TOKUNBO",
+      "url": "https://music.apple.com/jp/album/lost-found/6800312987?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/93/81/aa938170-7838-e44c-0e40-d9512fdf0e39/cover_4068992710730.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6810536417",
       "title": "The House Of",
       "artist": "Wendy Wander",
@@ -4937,22 +4953,6 @@
         "J-Pop",
         "Music",
         "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1891726658",
-      "title": "Instant Validation",
-      "artist": "Meg Lui",
-      "url": "https://music.apple.com/jp/album/instant-validation/1891726658?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/7b/76/a37b762e-964a-977a-f582-8927b45a4d37/65159.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-18",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
       ],
       "tagline": null
     },
