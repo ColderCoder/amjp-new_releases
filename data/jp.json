@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T03:00:08.258Z",
+  "generatedAt": "2026-09-25T04:00:07.436Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3827,22 +3827,6 @@
       "tagline": null
     },
     {
-      "id": "6805133996",
-      "title": "H.I (Human Intelligence)",
-      "artist": "Mohombi",
-      "url": "https://music.apple.com/jp/album/h-i-human-intelligence/6805133996?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/f7/ef/c0f7ef0c-b486-d91a-2fde-eb35411a00cf/820233585095.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6810536417",
       "title": "The House Of",
       "artist": "Wendy Wander",
@@ -3872,6 +3856,22 @@
         "Techno",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814997249",
+      "title": "The Life of a Showgirl: The Encore",
+      "artist": "Taylor Swift",
+      "url": "https://music.apple.com/jp/album/the-life-of-a-showgirl-the-encore/6814997249?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-24",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
       ],
       "tagline": null
     },
