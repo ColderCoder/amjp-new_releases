@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T04:00:07.436Z",
+  "generatedAt": "2026-09-25T05:00:07.653Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2470,6 +2470,22 @@
       "tagline": null
     },
     {
+      "id": "6801309650",
+      "title": "They Forgot",
+      "artist": "Tee Grizzley",
+      "url": "https://music.apple.com/jp/album/they-forgot/6801309650?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/6f/01/626f01e2-1553-99b7-58b9-c44a374c7e83/075679565679.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-25",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6769520101",
       "title": "Line Before the Event Horizon",
       "artist": "Theosophy",
@@ -3811,22 +3827,6 @@
       "tagline": null
     },
     {
-      "id": "6800312987",
-      "title": "Lost & Found",
-      "artist": "TOKUNBO",
-      "url": "https://music.apple.com/jp/album/lost-found/6800312987?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/93/81/aa938170-7838-e44c-0e40-d9512fdf0e39/cover_4068992710730.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6810536417",
       "title": "The House Of",
       "artist": "Wendy Wander",
@@ -3873,7 +3873,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Release"
     },
     {
       "id": "6814609062",
