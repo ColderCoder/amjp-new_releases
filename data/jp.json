@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:00:07.460Z",
+  "generatedAt": "2026-09-26T07:00:20.960Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3843,6 +3843,38 @@
       "tagline": null
     },
     {
+      "id": "6800312987",
+      "title": "Lost & Found",
+      "artist": "TOKUNBO",
+      "url": "https://music.apple.com/jp/album/lost-found/6800312987?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/93/81/aa938170-7838-e44c-0e40-d9512fdf0e39/cover_4068992710730.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805133996",
+      "title": "H.I (Human Intelligence)",
+      "artist": "Mohombi",
+      "url": "https://music.apple.com/jp/album/h-i-human-intelligence/6805133996?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/f7/ef/c0f7ef0c-b486-d91a-2fde-eb35411a00cf/820233585095.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6810536417",
       "title": "The House Of",
       "artist": "Wendy Wander",
@@ -4920,39 +4952,6 @@
       "genres": [
         "Anime",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786149992",
-      "title": "GIRLFRIEND, NEW WAVE, WEEKEND.",
-      "artist": "creeps",
-      "url": "https://music.apple.com/jp/album/girlfriend-new-wave-weekend/6786149992?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/c9/c7/5dc9c7cf-097c-8187-5b92-769338fbf18b/4526180763857.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-19",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803322277",
-      "title": "Ao Wo Komete",
-      "artist": "uyuki",
-      "url": "https://music.apple.com/jp/album/ao-wo-komete/6803322277?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/73/e7/4573e722-4e9d-fd96-a746-2d4c3f8f9627/PA00225720_0_252582_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-19",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Pop"
       ],
       "tagline": null
     },
