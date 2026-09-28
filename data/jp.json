@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T08:00:21.064Z",
+  "generatedAt": "2026-09-28T14:00:24.091Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2620,9 +2620,9 @@
     },
     {
       "id": "6779079413",
-      "title": "Speakers Don’t Speak",
+      "title": "Asylum Variations",
       "artist": "The Wolfgang Press",
-      "url": "https://music.apple.com/jp/album/speakers-dont-speak/6779079413?l=en-US",
+      "url": "https://music.apple.com/jp/album/asylum-variations/6779079413?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/5e/53/c45e5379-fc0e-c181-19f3-43e7f67c44e3/8718723322874.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-09-25",
