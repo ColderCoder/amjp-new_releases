@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T07:00:17.261Z",
+  "generatedAt": "2026-09-28T07:00:20.969Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3912,6 +3912,39 @@
       "tagline": null
     },
     {
+      "id": "6782938970",
+      "title": "Lost Cause",
+      "artist": "Oskar Haag",
+      "url": "https://music.apple.com/jp/album/lost-cause/6782938970?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/ea/97/ddea9725-987c-2ac7-ba56-c3fe3a7a6cb5/196874542538.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6803506319",
+      "title": "BLNDE FOR PRESIDENT",
+      "artist": "BLNDE",
+      "url": "https://music.apple.com/jp/album/blnde-for-president/6803506319?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/85/28/d38528c9-64a6-dd1d-baac-8448c75c4c83/885288383263.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-25",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African"
+      ],
+      "tagline": "New EP"
+    },
+    {
       "id": "6810536417",
       "title": "The House Of",
       "artist": "Wendy Wander",
@@ -4209,6 +4242,22 @@
         "Urbano latino",
         "Music",
         "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812676648",
+      "title": "OH MY GHOST! OH MY GOD! (Original Motion Picture Soundtrack)",
+      "artist": "Baobu Badulu & Chill Qin",
+      "url": "https://music.apple.com/jp/album/%E6%80%8E%E9%BA%BC%E5%8F%AF%E8%83%BD%E6%88%91%E5%AE%B6%E7%9A%84%E7%A5%96%E5%85%88%E6%98%AF%E4%BD%A0%E5%AE%B6%E7%9A%84%E9%AC%BC-%E9%9B%BB%E5%BD%B1%E5%8E%9F%E8%81%B2%E5%B8%B6/6812676648?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/75/74/4e757489-8ca3-1ac0-55ae-d3f841b380a4/VOYU-2602.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-24",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
       ],
       "tagline": null
     },
@@ -4911,54 +4960,6 @@
         "Music"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6803800168",
-      "title": "Oide yo! Ishikawa Daikanko Ⅱ - EP",
-      "artist": "Hasu no Sora Jogakuin School Idol Club",
-      "url": "https://music.apple.com/jp/album/%E3%81%8A%E3%81%84%E3%81%A7%E3%82%88-%E7%9F%B3%E5%B7%9D%E5%A4%A7%E8%A6%B3%E5%85%89-ep/6803800168?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/c2/4d/8ac24d16-c532-932a-75a6-27ea76327d1f/4540774253005.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-21",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6810541205",
-      "title": "Tv Anime 'Though I Am an Inept Villainess' (Original Soundtrack 1)",
-      "artist": "Yukari Hashimoto",
-      "url": "https://music.apple.com/jp/album/tv-anime-though-i-am-an-inept-villainess-original/6810541205?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/45/6d/0c456dd5-8d5e-917d-3bb0-4868462e3975/PA00227815_0_254619_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-21",
-      "trackCount": 45,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6810049076",
-      "title": "Restart remixed",
-      "artist": "E.G.G.MAN, KOYANMUSIC",
-      "url": "https://music.apple.com/jp/album/restart-remixed/6810049076?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/a2/4b/c7a24b25-82a8-efd3-dbc7-5d5ce4eef9ee/4500000098558.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-21",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6804012567",
