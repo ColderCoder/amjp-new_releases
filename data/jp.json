@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T17:00:21.382Z",
+  "generatedAt": "2026-09-28T23:00:20.611Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2520,9 +2520,9 @@
     },
     {
       "id": "6781755804",
-      "title": "Cloch's Claí",
+      "title": "Cloch 's Claí",
       "artist": "Trá Pháidín",
-      "url": "https://music.apple.com/jp/album/clochs-cla%C3%AD/6781755804?l=en-US",
+      "url": "https://music.apple.com/jp/album/cloch-s-cla%C3%AD/6781755804?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/32/1b/31321ba2-9a23-a961-8b3b-9603d6864307/5037300007670.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-09-25",
