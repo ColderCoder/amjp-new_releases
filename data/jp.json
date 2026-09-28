@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:00:20.969Z",
+  "generatedAt": "2026-09-28T08:00:21.064Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4736,7 +4736,7 @@
     },
     {
       "id": "6810071126",
-      "title": "BUNIN: THE SILENCE AND REBIRTH OF A GENIUS PIANIST - Original Soundtrack",
+      "title": "Bunin - The Silence and Rebirth of a Genius Pianist - Original Soundtrack",
       "artist": "Stanislav Bunin",
       "url": "https://music.apple.com/jp/album/%E6%98%A0%E7%94%BB-%E3%83%96%E3%83%BC%E3%83%8B%E3%83%B3-%E5%A4%A9%E6%89%8D%E3%83%94%E3%82%A2%E3%83%8B%E3%82%B9%E3%83%88%E3%81%AE%E6%B2%88%E9%BB%99%E3%81%A8%E5%86%8D%E7%94%9F-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/6810071126?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/ff/5a/21ff5a94-61ad-c669-5dc1-3648d8f6e275/4547366852837.jpg/632x632bb.jpg",
@@ -4746,7 +4746,8 @@
       "kind": "album",
       "genres": [
         "Classical",
-        "Music"
+        "Music",
+        "Piano"
       ],
       "tagline": null
     },
