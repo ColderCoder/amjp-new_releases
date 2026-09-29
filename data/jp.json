@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:00:20.611Z",
+  "generatedAt": "2026-09-29T07:00:24.472Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3945,6 +3945,57 @@
       "tagline": "New EP"
     },
     {
+      "id": "6799161264",
+      "title": "NØ FØRMAT! (Live Paris Théâtre Silvia Monfort)",
+      "artist": "Vincent Segal",
+      "url": "https://music.apple.com/jp/album/n%C3%B8-f%C3%B8rmat-live-paris-th%C3%A9%C3%A2tre-silvia-monfort/6799161264?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/86/39/478639b3-78cc-9c18-588b-4bd6b7f088dd/3663729461193_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Contemporary Singer/Songwriter",
+        "Music",
+        "Singer/Songwriter"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795147463",
+      "title": "Almost There",
+      "artist": "Espen Eriksen Trio",
+      "url": "https://music.apple.com/jp/album/almost-there/6795147463?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/4d/48/0a4d48f3-f66e-9c4e-76c2-4793733efc74/7033662022397.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Contemporary Jazz",
+        "Music",
+        "Jazz"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6800713642",
+      "title": "Live at Real World Studios",
+      "artist": "Alfa Mist",
+      "url": "https://music.apple.com/jp/album/live-at-real-world-studios/6800713642?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/62/57/fd/6257fd57-5881-7c85-9726-3ca758657cf5/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-09-25",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Contemporary Jazz",
+        "Music",
+        "Jazz"
+      ],
+      "tagline": "New Release"
+    },
+    {
       "id": "6810536417",
       "title": "The House Of",
       "artist": "Wendy Wander",
@@ -4913,54 +4964,6 @@
         "Electronic"
       ],
       "tagline": "Exclusive DJ Mix"
-    },
-    {
-      "id": "6808115328",
-      "title": "MASTERPIECES",
-      "artist": "Masayuki Suzuki",
-      "url": "https://music.apple.com/jp/album/masterpieces/6808115328?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/33/14/553314db-40fc-42da-4c2c-ca276b116dbb/4547366851649.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-22",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808323815",
-      "title": "Re:idol - EP",
-      "artist": "LIGHTSUM",
-      "url": "https://music.apple.com/jp/album/re-idol-ep/6808323815?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a3/8d/36/a38d36b9-e11b-a411-d222-85afb9b9cf0f/1200220045419.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-22",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6795629739",
-      "title": "Hen's Teeth (Deluxe Edition)",
-      "artist": "Iron & Wine",
-      "url": "https://music.apple.com/jp/album/hens-teeth-deluxe-edition/6795629739?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/0a/4b/810a4bd9-55b0-11ae-5266-3f5f87f71d1f/098787176162.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-22",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6804012567",
