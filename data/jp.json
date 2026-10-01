@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:00:20.904Z",
+  "generatedAt": "2026-10-01T15:00:26.629Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4647,6 +4647,22 @@
       "tagline": null
     },
     {
+      "id": "6813167237",
+      "title": "Your Turn In Blue (Deluxe)",
+      "artist": "Yasin",
+      "url": "https://music.apple.com/jp/album/your-turn-in-blue-deluxe/6813167237?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/3e/67/683e675e-19d5-7d0c-b6d1-160629b62228/075679555403.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-25",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6795473777",
       "title": "Goodbye For Now",
       "artist": "Frankie Stew and Harvey Gunn",
@@ -4936,22 +4952,6 @@
       "kind": "album",
       "genres": [
         "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6794576385",
-      "title": "Bill & Gloria Gaither and their Homecoming Friends Present You Are Loved: A Tribute to the Songs of Bill & Gloria (Live) [Deluxe]",
-      "artist": "Gaither",
-      "url": "https://music.apple.com/jp/album/bill-gloria-gaither-and-their-homecoming-friends/6794576385?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/6a/a8/016aa8e0-0197-9f07-60ac-2670b358b151/617884965143_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-25",
-      "trackCount": 34,
-      "kind": "album",
-      "genres": [
-        "Christian",
         "Music"
       ],
       "tagline": null
