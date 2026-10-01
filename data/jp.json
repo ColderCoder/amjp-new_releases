@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T21:00:20.478Z",
+  "generatedAt": "2026-10-01T22:00:22.924Z",
   "source": "https://music.apple.com/jp/room/6815870333?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6815870333?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -188,7 +188,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6786286188",
@@ -204,7 +204,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6798788764",
@@ -986,7 +986,7 @@
         "Music",
         "Pop"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6813197683",
@@ -1002,7 +1002,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6779295723",
@@ -1018,7 +1018,7 @@
         "Electronic",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "1890182100",
@@ -2310,7 +2310,7 @@
         "Singer/Songwriter",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6813658497",
