@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T13:00:22.626Z",
+  "generatedAt": "2026-10-02T15:00:23.031Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3154,6 +3154,23 @@
       "tagline": null
     },
     {
+      "id": "6786291606",
+      "title": "The Blacklight Sessions",
+      "artist": "Valley of the Sun",
+      "url": "https://music.apple.com/jp/album/the-blacklight-sessions/6786291606?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/9b/c7/7a9bc7bc-cfa6-6bc9-b480-7026b9a518a9/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805017831",
       "title": "Legacy Rewired -Dub Transmission - EP",
       "artist": "G-Conkarah & Sugar Minott",
@@ -3921,22 +3938,6 @@
       "explicit": false,
       "releaseDate": "2026-09-30",
       "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6810161950",
-      "title": "TOKYOPOP3 - EP",
-      "artist": "URBANGARDE",
-      "url": "https://music.apple.com/jp/album/tokyopop3-ep/6810161950?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/e2/dd/a0e2dded-9532-e6a3-9768-6f305a024cc5/4573697697298.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-30",
-      "trackCount": 6,
       "kind": "album",
       "genres": [
         "J-Pop",
