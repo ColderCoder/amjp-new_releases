@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T18:00:24.733Z",
+  "generatedAt": "2026-10-02T20:00:27.268Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -360,7 +360,7 @@
       "title": "Il Caos a New York - EP",
       "artist": "Victor Victor Presents, Judah Weston & Cash Cobain",
       "url": "https://music.apple.com/jp/album/il-caos-a-new-york-ep/6817941862?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/6b/f6/766bf66c-ab78-b386-4398-b5ba2cdc55a8/26CRGIM56260.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/6e/1d/7c6e1d08-4c9b-8906-3a1a-931e182900ce/ticket.ulryzzmw.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-02",
       "trackCount": 4,
