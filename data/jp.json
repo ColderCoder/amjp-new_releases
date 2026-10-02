@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:00:21.399Z",
+  "generatedAt": "2026-10-02T17:00:30.605Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -393,7 +393,7 @@
       "title": "We Were Only Young",
       "artist": "Kodaline",
       "url": "https://music.apple.com/jp/album/we-were-only-young/6771898058?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/c8/d0/5ec8d03d-9671-16e6-4017-a6ccacb87b64/26CRGIM54664.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/2b/b4/6f2bb4ae-5f50-cdce-d59d-5887fb2df7ef/ticket.ybqvnvge.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-02",
       "trackCount": 12,
