@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T20:00:27.268Z",
+  "generatedAt": "2026-10-02T21:00:21.614Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -547,7 +547,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6802840008",
@@ -647,7 +647,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6774548162",
@@ -745,7 +745,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6783076811",
@@ -761,7 +761,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6816208115",
@@ -911,23 +911,6 @@
         "Indie Pop",
         "Music",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6809096447",
-      "title": "Suntub extras - EP",
-      "artist": "ML Buch",
-      "url": "https://music.apple.com/jp/album/suntub-extras-ep/6809096447?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/e4/ac/dee4acce-4205-8014-ec2e-d9a009670ff5/840200580724_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Rock"
       ],
       "tagline": null
     },
@@ -3171,6 +3154,23 @@
       "tagline": null
     },
     {
+      "id": "6808573739",
+      "title": "100",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/100/6808573739?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/ce/70/f2ce7099-55c4-8dec-d1c5-6811e94c873d/8718723329569.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805017831",
       "title": "Legacy Rewired -Dub Transmission - EP",
       "artist": "G-Conkarah & Sugar Minott",
@@ -4546,7 +4546,7 @@
         "Music",
         "Latin"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6815771874",
