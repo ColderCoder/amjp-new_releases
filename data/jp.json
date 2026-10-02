@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:00:19.289Z",
+  "generatedAt": "2026-10-02T08:00:25.607Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1632,23 +1632,6 @@
       "tagline": null
     },
     {
-      "id": "6800445883",
-      "title": "Incandescence - Single",
-      "artist": "Arkajo",
-      "url": "https://music.apple.com/jp/album/incandescence-single/6800445883?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/42/9d/42/429d4279-dda8-6ff5-1d0e-028c2bc95f30/8718723319201.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 2,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6812047313",
       "title": "Bottled Up - EP",
       "artist": "Asha Banks",
@@ -1934,23 +1917,6 @@
       "tagline": null
     },
     {
-      "id": "6769953262",
-      "title": "Mi Corazón No Espera - Single",
-      "artist": "Conjunto Relincho",
-      "url": "https://music.apple.com/jp/album/mi-coraz%C3%B3n-no-espera-single/6769953262?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/3e/8b/833e8b99-9422-4c3c-8780-d59ab35473cf/196032616866.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6810694843",
       "title": "96 Era",
       "artist": "Cory Gunz",
@@ -1962,22 +1928,6 @@
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813259841",
-      "title": "let me be - Single",
-      "artist": "Dalton Mauldin",
-      "url": "https://music.apple.com/jp/album/let-me-be-single/6813259841?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/59/0f/a9590fb3-7a19-4742-ade1-61bea293b812/artwork.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Pop",
         "Music"
       ],
       "tagline": null
@@ -2134,23 +2084,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6816150232",
-      "title": "Reflect The Technique / Conundrum - Single",
-      "artist": "Dom & Roland & Paradox",
-      "url": "https://music.apple.com/jp/album/reflect-the-technique-conundrum-single/6816150232?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/8a/3a/ae8a3abf-f06f-99ab-7ac7-d2fd079cfa8a/5063817015778_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 2,
-      "kind": "album",
-      "genres": [
-        "Jungle/Drum'n'bass",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
       "id": "1896356752",
       "title": "The Worst In Me - EP",
       "artist": "Dystopica",
@@ -2164,22 +2097,6 @@
         "Metal",
         "Music",
         "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6809986423",
-      "title": "Tactico - Single",
-      "artist": "Eddy Tovar",
-      "url": "https://music.apple.com/jp/album/tactico-single/6809986423?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/c7/15/95c7156f-60f2-bc9d-e39e-738dad249893/4303870.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-02",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Latin",
-        "Music"
       ],
       "tagline": null
     },
@@ -2318,22 +2235,6 @@
       "tagline": null
     },
     {
-      "id": "6805076834",
-      "title": "Lefta Fm - Single",
-      "artist": "frankydrama",
-      "url": "https://music.apple.com/jp/album/lefta-fm-single/6805076834?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/21/21/742121ed-30ca-5395-f82c-cd4b33032843/4062548151923.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6796824950",
       "title": "Moments Before The Wind (Deluxe)",
       "artist": "Free Throw",
@@ -2411,57 +2312,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813061453",
-      "title": "La Situación - Single",
-      "artist": "Grupo La Revo",
-      "url": "https://music.apple.com/jp/album/la-situaci%C3%B3n-single/6813061453?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/b0/e7/1fb0e7b1-1b8f-169e-84fa-e0e36724fa5d/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6810873209",
-      "title": "El Vaso Derrama (En Vivo) - Single",
-      "artist": "Grupo Los de Chiwas & Grupo Nuevo Concepto",
-      "url": "https://music.apple.com/jp/album/el-vaso-derrama-en-vivo-single/6810873209?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/2d/1f/3c2d1f5e-01c0-60e7-0b70-70905636b773/885288413885.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813264416",
-      "title": "Pink - Single",
-      "artist": "Grupo MM & Juanpa Salazar",
-      "url": "https://music.apple.com/jp/album/pink-single/6813264416?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/13/3b/b2133b1e-ed1c-3633-9e98-5a539ffe11b5/199316781779_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-02",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Latin",
-        "Music",
-        "Música Mexicana"
       ],
       "tagline": null
     },
@@ -2768,23 +2618,6 @@
       "tagline": null
     },
     {
-      "id": "6809626534",
-      "title": "UNO PARA EL OTRO - Single",
-      "artist": "La Pocima Norteña",
-      "url": "https://music.apple.com/jp/album/uno-para-el-otro-single/6809626534?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/06/60/ce066095-7f1b-348c-448d-2a7ecb2a33d7/1200220066032.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6814623981",
       "title": "East Of Eden (Soundtrack From The Netflix Series)",
       "artist": "Laura Karpman",
@@ -2831,23 +2664,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6806316020",
-      "title": "Depth Charge / Kairos / Cloven - Single",
-      "artist": "LK Drumsystem",
-      "url": "https://music.apple.com/jp/album/depth-charge-kairos-cloven-single/6806316020?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/69/00/7969000c-56d2-2a4b-823e-a578abc46fe2/5063817014863_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Techno",
-        "Music",
-        "Dance"
       ],
       "tagline": null
     },
@@ -3049,6 +2865,291 @@
       "genres": [
         "Pop",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814980141",
+      "title": "Africa Earth's Wild Home (Original Series Soundtrack)",
+      "artist": "Pinar Toprak & National Geographic",
+      "url": "https://music.apple.com/jp/album/africa-earths-wild-home-original-series-soundtrack/6814980141?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/e2/21/a8e22146-46bf-536f-46e1-d852c8c30db6/26UM1IM19995.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 36,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811174316",
+      "title": "Hamilton Honey: Part 2 - EP",
+      "artist": "Presley Haile",
+      "url": "https://music.apple.com/jp/album/hamilton-honey-part-2-ep/6811174316?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/26/a6/5326a661-aa5d-b7d8-a5c9-034852ca350b/196874772720.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Americana",
+        "Music",
+        "Country"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6794521420",
+      "title": "Leading The Blind",
+      "artist": "Pudgee Tha Phat Bastard & Parental",
+      "url": "https://music.apple.com/jp/album/leading-the-blind/6794521420?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/f9/7e/4cf97e56-2786-67da-1a10-04031a53117f/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6803557040",
+      "title": "Next Day Air.",
+      "artist": "Rockitneedspace & SURF GANG",
+      "url": "https://music.apple.com/jp/album/next-day-air/6803557040?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/3a/67/073a6796-71c7-3953-35b8-c73480fd09e0/5056818811456.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6786277831",
+      "title": "Soleil Noir - EP",
+      "artist": "Sansera",
+      "url": "https://music.apple.com/jp/album/soleil-noir-ep/6786277831?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/43/c8/2043c87c-455d-7557-e5a0-bb9c2db317a3/823375276951_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786220503",
+      "title": "Lux Ex Inferis",
+      "artist": "Servant",
+      "url": "https://music.apple.com/jp/album/lux-ex-inferis/6786220503?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/6e/1c/036e1cd7-0d68-66fc-20dc-6a406179cba3/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812088281",
+      "title": "Awaiting Trial",
+      "artist": "sincity",
+      "url": "https://music.apple.com/jp/album/awaiting-trial/6812088281?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/22/e1/0c22e1e5-c625-2698-0062-c4d1170997ed/808391404717.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805638953",
+      "title": "The Rest Of",
+      "artist": "Sivert Høyem",
+      "url": "https://music.apple.com/jp/album/the-rest-of/6805638953?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/fc/ef/9ffcef40-437f-58fe-4dd6-4c2102330284/1200214960667.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6770497500",
+      "title": "Arcade",
+      "artist": "Souls Of Diotima",
+      "url": "https://music.apple.com/jp/album/arcade/6770497500?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/df/ce/34dfcee3-5a4c-8119-00a3-6ed9f7d948b0/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6789554313",
+      "title": "Cathedral Speech",
+      "artist": "Spirit Possession",
+      "url": "https://music.apple.com/jp/album/cathedral-speech/6789554313?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/89/66/358966e1-855a-c0e2-2d99-07906fc5ee50/840526514717.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock",
+        "Metal"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6797908017",
+      "title": "Dancing While the World Is Ending",
+      "artist": "Stanley Simmons",
+      "url": "https://music.apple.com/jp/album/dancing-while-the-world-is-ending/6797908017?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/af/80/3baf8038-a895-4ab6-a16d-fbab431343b5/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Singer/Songwriter",
+        "Folk-Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788163199",
+      "title": "Squirm",
+      "artist": "TEAR DUNGEON",
+      "url": "https://music.apple.com/jp/album/squirm/6788163199?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/09/0c/0f090c6d-5e64-8b45-1577-90021a637ada/1200214480554.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Dance",
+        "Hardcore"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6781817989",
+      "title": "Ceiba",
+      "artist": "TEMIC",
+      "url": "https://music.apple.com/jp/album/ceiba/6781817989?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/bd/fb/3abdfbd1-e1b1-d6a9-9ed9-d4b891545130/822603020656.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6809866019",
+      "title": "Kenjataimu - EP",
+      "artist": "Tfemi",
+      "url": "https://music.apple.com/jp/album/kenjataimu-ep/6809866019?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/86/66/ce8666a5-06e5-be6d-1a92-875578d071ad/Official_cover_art_A2smuJY-copy-ddeec37b.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802809545",
+      "title": "Nets to Catch the Wind (Deluxe)",
+      "artist": "Tigercub",
+      "url": "https://music.apple.com/jp/album/nets-to-catch-the-wind-deluxe/6802809545?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/4b/12/734b123f-b0d5-b016-d4a7-6a84cfb6c426/885288248371.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6801522743",
+      "title": "3AM - EP",
+      "artist": "Tinie Tempah",
+      "url": "https://music.apple.com/jp/album/3am-ep/6801522743?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/e7/d7/43e7d785-6940-dc76-596a-b53f478a5d2b/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6807078324",
+      "title": "'Till Death Do Us Part - EP",
+      "artist": "Trixie Mattel",
+      "url": "https://music.apple.com/jp/album/till-death-do-us-part-ep/6807078324?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/7f/4f/6e7f4f5f-c7a9-3393-fc97-e404c85e1059/1200214841003.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Alternative Folk",
+        "Music",
+        "Singer/Songwriter"
       ],
       "tagline": null
     },
@@ -3289,58 +3390,6 @@
       "tagline": null
     },
     {
-      "id": "6810786153",
-      "title": "Cuestión Que Quieras - Single",
-      "artist": "La Ventaja",
-      "url": "https://music.apple.com/jp/album/cuestio-n-que-quieras-single/6810786153?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/88/a3/1f88a3c1-cd3a-fd8a-eec2-07ce49f01e72/885288553291.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-01",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808370231",
-      "title": "Esta Vez - Single",
-      "artist": "Ms. Ambar & Grim Solo",
-      "url": "https://music.apple.com/jp/album/esta-vez-single/6808370231?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/ae/a6/f8aea6d6-49fd-f5d1-5c68-3bda0c0eece5/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-01",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Pop in Spanish",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808305473",
-      "title": "Pon Time Again (Club Remixes) - Single",
-      "artist": "Orange Hill, Vybz Kartel, Idris Elba & Yung Alpha",
-      "url": "https://music.apple.com/jp/album/pon-time-again-club-remixes-single/6808305473?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/8e/9e/e58e9e0c-9aa9-9862-feac-03fb9a815777/5059449449517.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-01",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Afrobeats",
-        "Music",
-        "African",
-        "Reggae"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6804538194",
       "title": "Welcome To The Madhouse",
       "artist": "Queen Butterfly",
@@ -3370,23 +3419,6 @@
         "Sertanejo",
         "Music",
         "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814639837",
-      "title": "Una Y Otra Vez (En Vivo) - Single",
-      "artist": "Yng Naz",
-      "url": "https://music.apple.com/jp/album/una-y-otra-vez-en-vivo-single/6814639837?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/8f/70/ac8f70e5-9df7-8272-4993-59f0163d5683/823375469933_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-01",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
       ],
       "tagline": null
     },
@@ -4615,23 +4647,6 @@
       "tagline": null
     },
     {
-      "id": "6809833581",
-      "title": "Augmentations - Single",
-      "artist": "Optic Nerve",
-      "url": "https://music.apple.com/jp/album/augmentations-single/6809833581?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/c1/12/d2c11236-9881-aa34-8f47-04767aeb82bb/8718723329637.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-30",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6804795108",
       "title": "FAMINE THE DESOLATE - EP",
       "artist": "Sleep Nation",
@@ -4881,23 +4896,6 @@
         "Latin"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6805610377",
-      "title": "Crush On My Stalker - Single",
-      "artist": "Mikrotakt",
-      "url": "https://music.apple.com/jp/album/crush-on-my-stalker-single/6805610377?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/fc/94/39fc94ad-90c4-1288-eba0-8c6e6fa25714/8718723328807.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-28",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
     },
     {
       "id": "6809778939",
