@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T03:00:27.963Z",
+  "generatedAt": "2026-10-02T04:00:19.609Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -322,6 +322,38 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6776432217",
+      "title": "Heaven on Mars",
+      "artist": "NoCap",
+      "url": "https://music.apple.com/jp/album/heaven-on-mars/6776432217?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/87/41/ae874195-6c56-cc5a-332b-13e677f4bd66/075679572530.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802879203",
+      "title": "The Divine Feminine (10th Anniversary)",
+      "artist": "Mac Miller",
+      "url": "https://music.apple.com/jp/album/the-divine-feminine-10th-anniversary/6802879203?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/f7/d9/a5f7d909-56a4-813b-15ce-fc50e32afb7d/093624817154.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6817941862",
@@ -3000,39 +3032,6 @@
       "genres": [
         "Pop",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814980141",
-      "title": "Africa Earth's Wild Home (Original Series Soundtrack)",
-      "artist": "Pinar Toprak & National Geographic",
-      "url": "https://music.apple.com/jp/album/africa-earths-wild-home-original-series-soundtrack/6814980141?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a8/e2/21/a8e22146-46bf-536f-46e1-d852c8c30db6/26UM1IM19995.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 36,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6811174316",
-      "title": "Hamilton Honey: Part 2 - EP",
-      "artist": "Presley Haile",
-      "url": "https://music.apple.com/jp/album/hamilton-honey-part-2-ep/6811174316?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/26/a6/5326a661-aa5d-b7d8-a5c9-034852ca350b/196874772720.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Americana",
-        "Music",
-        "Country"
       ],
       "tagline": null
     },
