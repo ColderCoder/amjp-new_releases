@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:00:23.428Z",
+  "generatedAt": "2026-10-02T02:00:19.838Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -84,7 +84,7 @@
       "title": "REFRESH: One - EP",
       "artist": "Crystal Kay",
       "url": "https://music.apple.com/jp/album/refresh-one-ep/6816085300?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/2c/b0/742cb07d-6579-8a6f-03c0-2ac7a54f5629/26UM1IM15407.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/bd/39/d4bd391f-917e-aa2b-c9d3-ea3c5fb853f4/26UM1IM15407.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-02",
       "trackCount": 4,
@@ -247,7 +247,7 @@
       "title": "HABIBTI (FOMO)",
       "artist": "Drake",
       "url": "https://music.apple.com/jp/album/habibti-fomo/6818209777?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/2b/6d/f12b6d67-8fb7-ef07-7829-2b5bc771ff51/26UMGIM63616.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-02",
       "trackCount": 24,
@@ -582,7 +582,7 @@
         "Electronic",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6798788764",
@@ -1701,7 +1701,7 @@
       "title": "A Simple Man",
       "artist": "Boney James",
       "url": "https://music.apple.com/jp/album/a-simple-man/6789769477?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/96/25/3a962522-347c-e94e-530e-23b2c468ab5b/26CRGIM55416.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/8d/dc/3f8ddcdc-6e3f-7c60-26dd-07efd4c274a4/26CRGIM55416.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-02",
       "trackCount": 10,
@@ -4529,7 +4529,7 @@
         "Latin",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6780933997",
