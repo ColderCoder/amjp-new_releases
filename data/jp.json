@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:00:20.139Z",
+  "generatedAt": "2026-10-02T07:00:19.289Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3037,6 +3037,22 @@
       "tagline": "New EP"
     },
     {
+      "id": "6780956232",
+      "title": "Nashville",
+      "artist": "Peter Maffay & Johannes Oerding",
+      "url": "https://music.apple.com/jp/album/nashville/6780956232?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/f9/fa/4ef9fae3-2bc8-8934-5085-a3cd18555423/196874335994.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805017831",
       "title": "Legacy Rewired -Dub Transmission - EP",
       "artist": "G-Conkarah & Sugar Minott",
@@ -4963,22 +4979,6 @@
         "Music"
       ],
       "tagline": null
-    },
-    {
-      "id": "6813167237",
-      "title": "Your Turn In Blue (Deluxe)",
-      "artist": "Yasin",
-      "url": "https://music.apple.com/jp/album/your-turn-in-blue-deluxe/6813167237?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/3e/67/683e675e-19d5-7d0c-b6d1-160629b62228/075679555403.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-25",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New Deluxe Edition"
     }
   ]
 }
