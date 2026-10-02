@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:00:19.609Z",
+  "generatedAt": "2026-10-02T05:00:20.139Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1564,6 +1564,23 @@
       "tagline": null
     },
     {
+      "id": "6810749846",
+      "title": "Adventure Time: Side Quests - Seasons 1 & 2 (Soundtrack from the Animated Series)",
+      "artist": "Adventure Time & Matthew Janszen",
+      "url": "https://music.apple.com/jp/album/adventure-time-side-quests-seasons-1-2-soundtrack-from/6810749846?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/de/3f/a2de3f9e-c611-5e65-86f7-daae370ca5e5/794043228483.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 39,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6808402788",
       "title": "The Me That Remains (Deluxe Edition)",
       "artist": "Amy Grant",
@@ -3018,22 +3035,6 @@
         "Pop"
       ],
       "tagline": "New EP"
-    },
-    {
-      "id": "6780956232",
-      "title": "Nashville",
-      "artist": "Peter Maffay & Johannes Oerding",
-      "url": "https://music.apple.com/jp/album/nashville/6780956232?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/f9/fa/4ef9fae3-2bc8-8934-5085-a3cd18555423/196874335994.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
     },
     {
       "id": "6805017831",
