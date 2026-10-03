@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T02:00:19.646Z",
+  "generatedAt": "2026-10-03T07:00:20.273Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3171,6 +3171,55 @@
       "tagline": null
     },
     {
+      "id": "6783417206",
+      "title": "walt disco",
+      "artist": "walt disco",
+      "url": "https://music.apple.com/jp/album/walt-disco/6783417206?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/dc/dd/ffdcdda5-a01c-bd1f-177f-3d85f1f75aaf/26UMGIM56988.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6798325085",
+      "title": "when no one's watching",
+      "artist": "wilt",
+      "url": "https://music.apple.com/jp/album/when-no-ones-watching/6798325085?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/01/f7/a201f799-0ca2-0ce5-1c13-fb64b370f112/885288148183.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780478058",
+      "title": "Open to Misinterpretation",
+      "artist": "Xasthur",
+      "url": "https://music.apple.com/jp/album/open-to-misinterpretation/6780478058?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/7c/55/9e7c55e8-c476-b024-ffbb-ab6e7fb025a9/2931.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "IDM/Experimental",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805017831",
       "title": "Legacy Rewired -Dub Transmission - EP",
       "artist": "G-Conkarah & Sugar Minott",
@@ -4928,54 +4977,6 @@
         "J-Pop",
         "Music",
         "Anime"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808468215",
-      "title": "SUPERNOVA - EP",
-      "artist": "GRIPHAGE",
-      "url": "https://music.apple.com/jp/album/supernova-ep/6808468215?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/9f/37/649f37ee-a5bd-6d4e-708c-d5f26e64e435/1200220035748.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-26",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6810088572",
-      "title": "Female",
-      "artist": "LonePi",
-      "url": "https://music.apple.com/jp/album/female/6810088572?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/af/73/cfaf730a-189b-353d-b810-2f35bbe4852e/885288531411.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-26",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6812762101",
-      "title": "ERROR CODE 404",
-      "artist": "Not Found",
-      "url": "https://music.apple.com/jp/album/error-code-404/6812762101?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/c1/c6/21c1c61a-9d40-ff0a-2f8a-d256a124c469/4580789788024.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-26",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
       ],
       "tagline": null
     }
