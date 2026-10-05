@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:00:26.112Z",
+  "generatedAt": "2026-10-05T07:00:20.539Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3254,6 +3254,90 @@
       "tagline": null
     },
     {
+      "id": "6809492396",
+      "title": "Brel",
+      "artist": "Ycare",
+      "url": "https://music.apple.com/jp/album/brel/6809492396?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/d6/a5/efd6a526-d028-9c89-18fa-fdb0156a98d5/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "French Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6809960017",
+      "title": "Even If E De Pain Yôu - EP",
+      "artist": "Yôrkk",
+      "url": "https://music.apple.com/jp/album/even-if-e-de-pain-y%C3%B4u-ep/6809960017?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/26/03/84260326-290f-b683-3593-a49988f3d871/5064089399566_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Afro-fusion",
+        "Music",
+        "African",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6789643708",
+      "title": "Volatil",
+      "artist": "Zazie",
+      "url": "https://music.apple.com/jp/album/volatil/6789643708?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/ee/6b/aeee6b25-303a-ed20-8309-a3a5bf745ea5/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "French Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "1893812233",
+      "title": "Descending into Madness",
+      "artist": "Zornheym",
+      "url": "https://music.apple.com/jp/album/descending-into-madness/1893812233?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/62/f9/5162f9c4-abec-603e-c41d-2c069fd7496b/4070335066893.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6817410694",
+      "title": "KILL. BURY. PRINT. (Original Soundtrack)",
+      "artist": "Eli Keszler",
+      "url": "https://music.apple.com/jp/album/kill-bury-print-original-soundtrack/6817410694?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/7f/b0/dc7fb0f3-653e-c6af-addc-61d71bb652a7/780163704020.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 34,
+      "kind": "album",
+      "genres": [
+        "Original Score",
+        "Music",
+        "Soundtrack"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805017831",
       "title": "Legacy Rewired -Dub Transmission - EP",
       "artist": "G-Conkarah & Sugar Minott",
@@ -3551,6 +3635,40 @@
       "genres": [
         "Alternative",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814635313",
+      "title": "Aquí Estoy Yo",
+      "artist": "Pipe Bueno",
+      "url": "https://music.apple.com/jp/album/aqu%C3%AD-estoy-yo/6814635313?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/2c/35/052c3592-123a-fdcf-fbe4-bea26538b15a/1200220156412.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-01",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814939139",
+      "title": "DESSIENTO",
+      "artist": "Kevin Cuadras",
+      "url": "https://music.apple.com/jp/album/dessiento/6814939139?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/58/a4/de58a426-3516-1bf4-a14c-8c9a17ce81ff/196874776711.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-01",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -4863,123 +4981,6 @@
         "Latin"
       ],
       "tagline": null
-    },
-    {
-      "id": "6813722408",
-      "title": "HOME: DELUXE",
-      "artist": "BOYNEXTDOOR",
-      "url": "https://music.apple.com/jp/album/home-deluxe/6813722408?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/53/75/b05375f4-3a99-fec7-2d7e-802504a8f54c/26UM1IM17922.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-28",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6807076333",
-      "title": "Sour Grapes - EP",
-      "artist": "NiziU",
-      "url": "https://music.apple.com/jp/album/sour-grapes-ep/6807076333?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/20/75/f5/2075f5fc-05d4-5f89-b4fb-b5f499592e09/8809928956732.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-28",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6809189168",
-      "title": "Lovey-Dovey - EP",
-      "artist": "OWV",
-      "url": "https://music.apple.com/jp/album/lovey-dovey-ep/6809189168?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/84/e3/0784e3c0-2640-e762-2257-e68b8eac2e30/26UM1IM03743.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-28",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6815899419",
-      "title": "You and I Are Polar Opposites (Original Soundtrack) Vol. 2",
-      "artist": "tofubeats",
-      "url": "https://music.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E6%AD%A3%E5%8F%8D%E5%AF%BE%E3%81%AA%E5%90%9B%E3%81%A8%E5%83%95-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-vol-02/6815899419?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/94/a5/9094a5eb-31a5-daac-d648-71cd3e3c66df/4580305821983.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-28",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6812943593",
-      "title": "Mushoku Tensei Jobless Reincarnation Season3 (Original Soundtrack 1)",
-      "artist": "Yoshiaki Fujisawa",
-      "url": "https://music.apple.com/jp/album/mushoku-tensei-jobless-reincarnation-season3-original/6812943593?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/2c/8e/1b2c8eb4-530f-1c2c-61b3-e2f2189ae7fb/PA00228171_0_255183_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-28",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Anime"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814643845",
-      "title": "Sessions",
-      "artist": "Chuwi",
-      "url": "https://music.apple.com/jp/album/sessions/6814643845?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/e2/b9/9fe2b9b9-3695-aec0-5b7a-ba729408db1b/885288621129.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-28",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Música tropical",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6813665244",
-      "title": "La Fórmula",
-      "artist": "El Rabbanito",
-      "url": "https://music.apple.com/jp/album/la-f%C3%B3rmula/6813665244?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/d9/ba/5cd9bab8-7d2f-98f2-4901-1f754038e5da/1138.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-28",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
     }
   ]
 }
