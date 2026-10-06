@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:01:07.633Z",
+  "generatedAt": "2026-10-06T07:00:48.543Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3337,6 +3337,106 @@
       "tagline": null
     },
     {
+      "id": "6817410694",
+      "title": "KILL. BURY. PRINT. (Original Soundtrack)",
+      "artist": "Eli Keszler",
+      "url": "https://music.apple.com/jp/album/kill-bury-print-original-soundtrack/6817410694?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/7f/b0/dc7fb0f3-653e-c6af-addc-61d71bb652a7/780163704020.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 34,
+      "kind": "album",
+      "genres": [
+        "Original Score",
+        "Music",
+        "Soundtrack"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812937462",
+      "title": "A Lil More Jayne EP (Deluxe)",
+      "artist": "Just Jayne",
+      "url": "https://music.apple.com/jp/album/a-lil-more-jayne-ep-deluxe/6812937462?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/5f/26/4b5f267b-1218-bb03-80d0-83373f2289b9/26UM1IM19508.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811207142",
+      "title": "REBIRTH",
+      "artist": "GHENGAR",
+      "url": "https://music.apple.com/jp/album/rebirth/6811207142?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/72/21/e3722132-7c35-4a26-da6b-c63c08bf631d/612891239799.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-02",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Dubstep"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6813566755",
+      "title": "La Double vie de Théophraste Longuet (Bande originale de la série TV réalisée par Yannick Andréi avec Jean Carmet)",
+      "artist": "Vladimir Cosma",
+      "url": "https://music.apple.com/jp/album/la-double-vie-de-th%C3%A9ophraste-longuet-bande-originale/6813566755?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/9b/56/8a9b563c-4841-62d0-021e-2aed9255589f/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "TV Soundtrack",
+        "Music",
+        "Soundtrack"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6817408349",
+      "title": "La Bola Negra (Original Motion Picture Soundtrack)",
+      "artist": "Raül Refree",
+      "url": "https://music.apple.com/jp/album/la-bola-negra-original-motion-picture-soundtrack/6817408349?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/2c/45/312c4554-3a68-7c34-3ab1-709cd18baefe/780163703924.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Original Score",
+        "Music",
+        "Soundtrack"
+      ],
+      "tagline": "New Soundtrack"
+    },
+    {
+      "id": "6809601526",
+      "title": "A Place Within Yourself",
+      "artist": "Sugar Candy",
+      "url": "https://music.apple.com/jp/album/a-place-within-yourself/6809601526?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/5f/f7/685ff7eb-3aa5-a219-c76e-28ea3038efc9/SCDD-1844.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-02",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Worldwide",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6805017831",
       "title": "Legacy Rewired -Dub Transmission - EP",
       "artist": "G-Conkarah & Sugar Minott",
@@ -3668,6 +3768,22 @@
         "Música Mexicana",
         "Music",
         "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6816909204",
+      "title": "Ground Floor (Original Motion Pictures Soundtrack) [feat. VAN filmzenekar]",
+      "artist": "Gábor Reisz & András Kálmán",
+      "url": "https://music.apple.com/jp/album/ground-floor-original-motion-pictures-soundtrack-feat/6816909204?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/19/1d/b8191de4-a6d1-0cd5-0fe4-1afe48cdfe9f/8052691493090.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-01",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
       ],
       "tagline": null
     },
@@ -4860,124 +4976,6 @@
       "genres": [
         "Rock",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813045619",
-      "title": "Road to Major (7 PROLOGUE version) - EP",
-      "artist": "Wings of Artemis",
-      "url": "https://music.apple.com/jp/album/road-to-major-7-prologue-version-ep/6813045619?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/46/f2/2946f230-7e34-db52-410e-7d3c4bcef20d/1200220150649.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-29",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6809986165",
-      "title": "Apple Music Nashville Sessions",
-      "artist": "Kashus Culpepper",
-      "url": "https://music.apple.com/jp/album/apple-music-nashville-sessions/6809986165?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/5c/f0/255cf00a-ef97-6b08-45a7-9c7dcf1e4bce/26UM1IM10354.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-29",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6807169507",
-      "title": "Welcome to the Shower",
-      "artist": "Tanner York",
-      "url": "https://music.apple.com/jp/album/welcome-to-the-shower/6807169507?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/19/c2/7419c2a3-acb3-63de-1597-1526008f0208/68619.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-29",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Indie Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6812392762",
-      "title": "LIVE TWICE",
-      "artist": "Kluu!",
-      "url": "https://music.apple.com/jp/album/live-twice/6812392762?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/e1/40/d0e14077-4a18-e06c-6e72-a4965cdc43cf/823375440284_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-29",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798903845",
-      "title": "The Center Eye - EP",
-      "artist": "Telemakus",
-      "url": "https://music.apple.com/jp/album/the-center-eye-ep/6798903845?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/a1/25/23a125b8-99af-3765-be87-735d20f53b6a/25.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-09-29",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music",
-        "Electronic",
-        "IDM/Experimental"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813006138",
-      "title": "HIATUS - EP",
-      "artist": "XTACY",
-      "url": "https://music.apple.com/jp/album/hiatus-ep/6813006138?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/80/7b/5e807b88-d2ad-0439-c871-c7f16f5610ea/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-29",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Alternative Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805238172",
-      "title": "PPYPQ",
-      "artist": "ElArturo",
-      "url": "https://music.apple.com/jp/album/ppypq/6805238172?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/be/28/16be2841-ecf3-b277-4029-7fb5b6afcb32/1200214929909.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-09-29",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
       ],
       "tagline": null
     }
