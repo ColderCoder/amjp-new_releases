@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T15:00:48.797Z",
+  "generatedAt": "2026-10-06T16:00:51.754Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -932,7 +932,7 @@
     {
       "id": "6781759872",
       "title": "PREMATURE NOSTALGIA",
-      "artist": "Phoebe Green",
+      "artist": "Phoebe Green & elucyve",
       "url": "https://music.apple.com/jp/album/premature-nostalgia/6781759872?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/64/48/c96448bf-98cc-5d8f-87f2-e31376aea415/5037300011868.jpg/632x632bb.jpg",
       "explicit": false,
