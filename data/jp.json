@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T13:01:31.549Z",
+  "generatedAt": "2026-10-08T15:01:09.105Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -28,6 +28,38 @@
         "Solo Instrumental"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6802692234",
+      "title": "Generic Everything",
+      "artist": "Chase & Status",
+      "url": "https://music.apple.com/jp/album/generic-everything/6802692234?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/ab/0c/2eab0c4f-68b1-2427-6e23-47ef81bfbbbb/1200214837747.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-09",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": "New Album and Interview"
+    },
+    {
+      "id": "6766221826",
+      "title": "A Kind Wave",
+      "artist": "Kid Francescoli",
+      "url": "https://music.apple.com/jp/album/a-kind-wave/6766221826?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/9c/68/5b9c68f7-a726-890f-4e1f-1a2f13d69302/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6815607953",
@@ -4630,39 +4662,6 @@
       "kind": "album",
       "genres": [
         "Folk",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808634545",
-      "title": "L'HOMME TOURNESOL",
-      "artist": "MORAM",
-      "url": "https://music.apple.com/jp/album/lhomme-tournesol/6808634545?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/8a/39/568a39e0-4f3c-a7cf-4504-4f813a47e977/3667007264216_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "French Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808709339",
-      "title": "Passage - EP",
-      "artist": "Solar Project",
-      "url": "https://music.apple.com/jp/album/passage-ep/6808709339?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/b9/7e/d2b97eee-c5df-f12a-22ab-a66b94166c38/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "French Pop",
         "Music"
       ],
       "tagline": null
