@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T22:00:57.514Z",
+  "generatedAt": "2026-10-08T23:01:03.713Z",
   "source": "https://music.apple.com/jp/room/6818340880?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6818340880?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -172,7 +172,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6808618720",
@@ -239,7 +239,7 @@
         "Music",
         "Pop"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6805676802",
@@ -273,7 +273,7 @@
         "Music",
         "Hip-Hop/Rap"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6804892827",
@@ -422,7 +422,7 @@
         "Music",
         "Metal"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6806305498",
@@ -536,7 +536,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6793971469",
@@ -668,7 +668,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6800787744",
@@ -783,7 +783,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6781414752",
@@ -1067,7 +1067,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6769767715",
@@ -1101,7 +1101,7 @@
         "Music",
         "Jazz"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6813681027",
@@ -1184,7 +1184,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6765502204",
@@ -1201,7 +1201,7 @@
         "Music",
         "Singer/Songwriter"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6809899055",
@@ -1720,7 +1720,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6794005679",
@@ -1870,6 +1870,23 @@
         "Electronic",
         "Music",
         "Electronica"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6807440751",
+      "title": "Zarathustra Style",
+      "artist": "Fabri Fibra, Neffa & Zarathustra",
+      "url": "https://music.apple.com/jp/album/zarathustra-style/6807440751?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/c6/15/45c6152f-c008-5415-463a-1df65338c9f6/196874550076.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
@@ -2341,7 +2358,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6812519718",
@@ -2626,7 +2643,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6783417145",
@@ -3071,7 +3088,7 @@
         "French Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6773663614",
@@ -3697,7 +3714,7 @@
         "Music",
         "Pop"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6804604887",
@@ -3796,24 +3813,6 @@
         "Pop",
         "Music",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6807893232",
-      "title": "Beethoven: Piano Concerto No. 3 and No. 5 \"Emperor\"",
-      "artist": "Royal Philharmonic Orchestra, Dmitry Yablonsky & Elena Ulyanova",
-      "url": "https://music.apple.com/jp/album/beethoven-piano-concerto-no-3-and-no-5-emperor/6807893232?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/c7/7e/d9c77e85-c339-e192-b6de-a5ecb6404966/5060310640285_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-09",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Orchestral",
-        "Piano"
       ],
       "tagline": null
     },
@@ -4729,7 +4728,7 @@
         "Music",
         "Dance"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6806126381",
