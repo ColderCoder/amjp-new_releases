@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T21:01:02.553Z",
+  "generatedAt": "2026-10-09T23:01:01.550Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -909,7 +909,7 @@
       "title": "Happy To Be Here (Deluxe)",
       "artist": "Benjamin William Hastings & Aodhán King",
       "url": "https://music.apple.com/jp/album/happy-to-be-here-deluxe/6814620474?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/5b/b9/a45bb9c9-6b85-b98e-5666-0291d83334de/26SYMIM28314.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/27/38/2527383d-d176-ddbb-5792-0c79cde41c10/26UM1IM10378.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-09",
       "trackCount": 15,
