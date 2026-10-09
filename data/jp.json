@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T00:01:11.728Z",
+  "generatedAt": "2026-10-09T01:01:01.593Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,40 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6814890752",
+      "title": "Desde La México Capítulo 5 (Boleros De Siempre) [En Vivo]",
+      "artist": "PALOMAZO NORTEÑO",
+      "url": "https://music.apple.com/jp/album/desde-la-m%C3%A9xico-cap%C3%ADtulo-5-boleros-de-siempre-en-vivo/6814890752?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/ea/3b/81ea3bdc-a1b7-9f7c-8102-d3b93870c6cf/823375473169_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-10",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6818576575",
+      "title": "Con los camaradas Vol.1 - EP",
+      "artist": "LZDO",
+      "url": "https://music.apple.com/jp/album/con-los-camaradas-vol-1-ep/6818576575?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/b9/0e/b7b90ee6-618d-eeca-d187-fb0c5eee91bb/823375511397_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-10",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
     {
       "id": "6808618720",
       "title": "Piano Book 2 – Modern Encores - EP",
@@ -258,6 +292,23 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6816266301",
+      "title": "MudaH",
+      "artist": "Carín León",
+      "url": "https://music.apple.com/jp/album/mudah/6816266301?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/ac/e5/65ace57c-50ef-b5bd-b1c0-63e1a1228c88/823375490685_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-09",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6784811773",
@@ -3364,74 +3415,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6783396227",
-      "title": "Rymdsonden",
-      "artist": "Sagor & Swing",
-      "url": "https://music.apple.com/jp/album/rymdsonden/6783396227?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/45/e6/cf45e6c7-d009-c3d7-3c6a-df8d3e7232df/128128.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-09",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6784388975",
-      "title": "John Coltrane With The Red Garland Trio (Remastered 2026) [feat. The Red Garland Trio]",
-      "artist": "John Coltrane",
-      "url": "https://music.apple.com/jp/album/john-coltrane-with-the-red-garland-trio-remastered/6784388975?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3b/78/d23b78f8-1b3b-daaa-1fb4-09f07244bb50/25CRGIM51690.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-09",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6785959049",
-      "title": "When The Night Hits - EP",
-      "artist": "Solong",
-      "url": "https://music.apple.com/jp/album/when-the-night-hits-ep/6785959049?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/62/96/666296ec-be42-c7ca-c354-0b038b9144f6/7640337190260.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-09",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786199755",
-      "title": "Noctunes",
-      "artist": "Clemens Christian Poetzsch",
-      "url": "https://music.apple.com/jp/album/noctunes/6786199755?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/ea/54/31ea5409-5eb5-75fb-0d10-e13c429ae07e/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-09",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Classical Crossover",
-        "Music",
-        "Classical",
-        "Piano"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6814879502",
       "title": "Winnie the Pooh 100th Anniversary Songbook",
       "artist": "Various Artists",
@@ -3446,6 +3429,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6818296743",
+      "title": "Vallenatico pa la Disco",
+      "artist": "Maisak",
+      "url": "https://music.apple.com/jp/album/vallenatico-pa-la-disco/6818296743?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/51/71/d85171d7-302f-2c71-bc5c-520f793f531a/885288757163.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-08",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6818316497",
@@ -4616,7 +4615,7 @@
         "Music",
         "Dance"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6812461037",
