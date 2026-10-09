@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T03:01:03.880Z",
+  "generatedAt": "2026-10-09T05:01:01.025Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6813629385",
+      "title": "Marcando La Línea II - EP",
+      "artist": "Linea Personal",
+      "url": "https://music.apple.com/jp/album/marcando-la-l%C3%ADnea-ii-ep/6813629385?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/ac/0c/17ac0cf5-662c-77f9-a059-b5f37bccc73f/823375457190_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-10",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
     {
       "id": "6814890752",
       "title": "Desde La México Capítulo 5 (Boleros De Siempre) [En Vivo]",
@@ -3395,24 +3412,6 @@
         "Music"
       ],
       "tagline": null
-    },
-    {
-      "id": "6782992488",
-      "title": "Amour",
-      "artist": "Esther Abrami, The City of Prague Philharmonic Orchestra & Irene Delgado-Jiménez",
-      "url": "https://music.apple.com/jp/album/amour/6782992488?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/db/f6/c4dbf674-87fe-a0ae-feca-0acee4a83a12/196874493533.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-09",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Orchestral",
-        "Violin"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6814879502",
