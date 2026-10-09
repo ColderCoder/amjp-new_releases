@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:01:01.950Z",
+  "generatedAt": "2026-10-09T03:01:03.880Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -382,7 +382,7 @@
       "title": "Day and Night (Continued)",
       "artist": "Carly Rae Jepsen",
       "url": "https://music.apple.com/jp/album/day-and-night-continued/6813657190?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/b7/7b/2eb77bfe-7576-a8db-92bc-d4650b26acd3/26UM1IM19913.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/3c/11/0e3c11b4-21f9-6d93-59ca-dc8cece0b379/26UM1IM19913.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-09",
       "trackCount": 32,
