@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T05:01:01.025Z",
+  "generatedAt": "2026-10-09T07:01:08.278Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3414,6 +3414,41 @@
       "tagline": null
     },
     {
+      "id": "6782992488",
+      "title": "Amour",
+      "artist": "Esther Abrami, The City of Prague Philharmonic Orchestra & Irene Delgado-Jiménez",
+      "url": "https://music.apple.com/jp/album/amour/6782992488?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c4/db/f6/c4dbf674-87fe-a0ae-feca-0acee4a83a12/196874493533.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Orchestral",
+        "Violin"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6783396227",
+      "title": "Rymdsonden",
+      "artist": "Sagor & Swing",
+      "url": "https://music.apple.com/jp/album/rymdsonden/6783396227?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/45/e6/cf45e6c7-d009-c3d7-3c6a-df8d3e7232df/128128.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6814879502",
       "title": "Winnie the Pooh 100th Anniversary Songbook",
       "artist": "Various Artists",
@@ -4861,38 +4896,6 @@
       "kind": "album",
       "genres": [
         "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813615157",
-      "title": "not my home",
-      "artist": "i don't like mirrors",
-      "url": "https://music.apple.com/jp/album/not-my-home/6813615157?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/c1/7b/17c17b18-ea23-8674-638a-ef308e9c1df5/820233905657.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-02",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1878845153",
-      "title": "When Daylight's Gone - EP",
-      "artist": "Emilia Ora",
-      "url": "https://music.apple.com/jp/album/when-daylights-gone-ep/1878845153?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/5f/a6/285fa6fd-ebe9-d68e-eb9f-5b6407deba59/823375021926_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-02",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Pop",
         "Music"
       ],
       "tagline": null
