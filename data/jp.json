@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:01:06.270Z",
+  "generatedAt": "2026-10-10T13:00:59.101Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -26,6 +26,22 @@
         "Latin"
       ],
       "tagline": "New EP"
+    },
+    {
+      "id": "6818667776",
+      "title": "Batman: Gargoyle of Gotham (Original Soundtrack)",
+      "artist": "Paranoid Pilgrim & Lucas Mayer",
+      "url": "https://music.apple.com/jp/album/batman-gargoyle-of-gotham-original-soundtrack/6818667776?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/72/46/36724667-e903-7299-59ee-7fe7c77d7943/794043227509.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-10",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6814890752",
@@ -3461,23 +3477,6 @@
       "genres": [
         "Jazz",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6785959049",
-      "title": "When The Night Hits - EP",
-      "artist": "Solong",
-      "url": "https://music.apple.com/jp/album/when-the-night-hits-ep/6785959049?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/62/96/666296ec-be42-c7ca-c354-0b038b9144f6/7640337190260.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-09",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
