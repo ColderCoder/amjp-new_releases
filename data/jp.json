@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T23:01:01.550Z",
+  "generatedAt": "2026-10-10T00:00:59.225Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4505,7 +4505,7 @@
       "title": "Fragmentos – A Experiência (Ao Vivo)",
       "artist": "LUDMILLA",
       "url": "https://music.apple.com/jp/album/fragmentos-a-experi%C3%AAncia-ao-vivo/6816197183?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/03/c0/9103c037-a5e7-c469-ec37-61e5f75fee66/1200220197569.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/47/19/6a4719fc-0005-e319-bbed-62800fc7227f/1200220197569.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-07",
       "trackCount": 16,
