@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T13:00:59.101Z",
+  "generatedAt": "2026-10-11T07:00:57.269Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3481,6 +3481,41 @@
       "tagline": null
     },
     {
+      "id": "6785959049",
+      "title": "When The Night Hits - EP",
+      "artist": "Solong",
+      "url": "https://music.apple.com/jp/album/when-the-night-hits-ep/6785959049?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/62/96/666296ec-be42-c7ca-c354-0b038b9144f6/7640337190260.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Singer/Songwriter",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786199755",
+      "title": "Noctunes",
+      "artist": "Clemens Christian Poetzsch",
+      "url": "https://music.apple.com/jp/album/noctunes/6786199755?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/ea/54/31ea5409-5eb5-75fb-0d10-e13c429ae07e/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6814879502",
       "title": "Winnie the Pooh 100th Anniversary Songbook",
       "artist": "Various Artists",
@@ -4863,39 +4898,6 @@
         "Dance",
         "Music",
         "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6811766054",
-      "title": "VERTEX FORCE Original Soundtrack Vol.1",
-      "artist": "NOBUAKI NOBUSAWA",
-      "url": "https://music.apple.com/jp/album/%E3%83%90%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-vol-1/6811766054?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/91/b7/3491b79c-4bb8-0a60-bfdb-5a6bc09e740e/4534530166869.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-04",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808768682",
-      "title": "Lanterns: Season 1 (Soundtrack from the HBO Max® Original Series)",
-      "artist": "Stephanie Economou",
-      "url": "https://music.apple.com/jp/album/lanterns-season-1-soundtrack-from-the-hbo-max/6808768682?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/86/a6/8386a654-6107-d327-6eb0-6f86a25df8e8/794043228810.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-04",
-      "trackCount": 24,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Pop"
       ],
       "tagline": null
     },
