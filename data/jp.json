@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T07:00:57.269Z",
+  "generatedAt": "2026-10-12T07:00:57.518Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3516,6 +3516,90 @@
       "tagline": null
     },
     {
+      "id": "6787888340",
+      "title": "Shape of My Heart",
+      "artist": "Laura Lootens",
+      "url": "https://music.apple.com/jp/album/shape-of-my-heart/6787888340?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/a7/fb/16a7fb2f-5b60-c51f-cbc4-aafdc766d4ea/ticket.yynomvxl.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Guitar"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788497706",
+      "title": "WA SANGI",
+      "artist": "Les Mamans du Congo & RRobin",
+      "url": "https://music.apple.com/jp/album/wa-sangi/6788497706?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/1d/3d/5b1d3d3b-ecbf-4e1b-f6c8-aea7eb919c34/3760238262676_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788760706",
+      "title": "the Sound of Art",
+      "artist": "Ferdi",
+      "url": "https://music.apple.com/jp/album/the-sound-of-art/6788760706?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/fe/aa/e7feaad8-b59a-6508-c9ff-bf012681818e/5400863216047_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6789185511",
+      "title": "Glimmerence",
+      "artist": "Mirna Bogdanović",
+      "url": "https://music.apple.com/jp/album/glimmerence/6789185511?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/f5/35/bdf53563-c89c-c6b7-3cc6-d8e3cf9fb127/21792.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Vocal Jazz",
+        "Music",
+        "Jazz",
+        "Singer/Songwriter"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793119760",
+      "title": "Le Jazz",
+      "artist": "Gaétan Nonchalant",
+      "url": "https://music.apple.com/jp/album/le-jazz/6793119760?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/c0/a2/c9c0a273-467b-f246-ad2a-81dccfc5b287/3700398742113_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "French Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6814879502",
       "title": "Winnie the Pooh 100th Anniversary Songbook",
       "artist": "Various Artists",
@@ -4814,90 +4898,6 @@
         "Indie Pop",
         "Music",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6811790602",
-      "title": "Future Nature Teenager",
-      "artist": "harha",
-      "url": "https://music.apple.com/jp/album/future-nature-teenager/6811790602?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/79/37/3b7937f6-3a45-3441-34e0-781be27e7b5a/PA00227914_0_254741_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-05",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6812594127",
-      "title": "Insert Song from \"l the Magical Revolution of the Reincarnated Princess and the Genius Young Lady\" - EP",
-      "artist": "Hanatan, Annisphia(CV:Sayaka Senbongi) & Euphilia(CV:Manaka Iwami)",
-      "url": "https://music.apple.com/jp/album/insert-song-from-l-the-magical-revolution/6812594127?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/dc/fc/16dcfc9a-7135-f3da-72d5-cbf5fbb89d8b/PA00227939_0_254851_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-05",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6816996862",
-      "title": "Sessions",
-      "artist": "Iceage",
-      "url": "https://music.apple.com/jp/album/sessions/6816996862?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9e/fb/83/9efb83c4-20e0-6722-5b91-e18912ff001f/184923139532_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-05",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6803939305",
-      "title": "WWE: Beyond Belief",
-      "artist": "Joe Hendry",
-      "url": "https://music.apple.com/jp/album/wwe-beyond-belief/6803939305?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/4c/fe/ab4cfe11-65f1-d92f-ef21-6dae1d58d903/651191009749.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-05",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6812013201",
-      "title": "Some Tools 1 - EP",
-      "artist": "Jacob Stoy",
-      "url": "https://music.apple.com/jp/album/some-tools-1-ep/6812013201?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/04/0e/72040e3e-362c-fc40-8d37-05bb4704fbf5/8718723330039.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-05",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
       ],
       "tagline": null
     },
