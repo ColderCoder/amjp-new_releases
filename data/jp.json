@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:01:05.148Z",
+  "generatedAt": "2026-10-13T14:01:15.158Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4754,9 +4754,9 @@
     },
     {
       "id": "6818604928",
-      "title": "Hypercorridos Vol1",
+      "title": "Hypercorridos, Vol. 1",
       "artist": "FLVCKKA",
-      "url": "https://music.apple.com/jp/album/hypercorridos-vol1/6818604928?l=en-US",
+      "url": "https://music.apple.com/jp/album/hypercorridos-vol-1/6818604928?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/5e/f8/7e5ef830-142d-0a11-3420-592732dd4a02/1200220240364.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-07",
