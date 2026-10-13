@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T17:01:22.676Z",
+  "generatedAt": "2026-10-13T18:01:18.545Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -258,6 +258,22 @@
         "Classical",
         "Opera",
         "Worldwide"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6810555701",
+      "title": "映画『オキシジェン・ステーション』オリジナル・サウンドトラック",
+      "artist": "Jun Miyake",
+      "url": "https://music.apple.com/jp/album/%E6%98%A0%E7%94%BB-%E3%82%AA%E3%82%AD%E3%82%B7%E3%82%B8%E3%82%A7%E3%83%B3-%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/6810555701?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f4/2c/b8f42cb0-3625-3f60-c012-81fdc6e7e756/DGP-1740.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
       ],
       "tagline": null
     },
@@ -768,7 +784,8 @@
       "genres": [
         "Soundtrack",
         "Music",
-        "Soundtrack"
+        "Soundtrack",
+        "Classical"
       ],
       "tagline": null
     },
@@ -3698,22 +3715,6 @@
         "Folk-Rock",
         "Music",
         "Singer/Songwriter"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796125560",
-      "title": "Raging Of The Night - EP",
-      "artist": "Dylan Flynn and the Dead Poets",
-      "url": "https://music.apple.com/jp/album/raging-of-the-night-ep/6796125560?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/2c/a8/a32ca821-ffec-17d4-0302-fef00fa98ef6/067003034371.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-09",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
       ],
       "tagline": null
     },
