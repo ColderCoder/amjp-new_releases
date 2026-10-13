@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T07:00:57.518Z",
+  "generatedAt": "2026-10-13T07:01:05.148Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3600,6 +3600,124 @@
       "tagline": null
     },
     {
+      "id": "6793133608",
+      "title": "Dja Dja",
+      "artist": "Marina Herlop",
+      "url": "https://music.apple.com/jp/album/dja-dja/6793133608?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2c/c9/a7/2cc9a7fa-a71f-25a0-6875-1605f36a74a7/4062548148619.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793983917",
+      "title": "Mahler: Lieder",
+      "artist": "Andrè Schuen & Daniel Heide",
+      "url": "https://music.apple.com/jp/album/mahler-lieder/6793983917?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/a9/d5/39a9d5c3-d341-8091-d22d-6ba5aed8dc3f/26UMGIM55176.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Romantic Era",
+        "Art Song",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795117698",
+      "title": "Spaghetti Soul",
+      "artist": "Sunnan",
+      "url": "https://music.apple.com/jp/album/spaghetti-soul/6795117698?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/fb/70/9efb708c-6b44-5560-f012-757e76dfc3f1/885288137781.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795416358",
+      "title": "From Genesis To Revelation (2026 Mix)",
+      "artist": "Genesis",
+      "url": "https://music.apple.com/jp/album/from-genesis-to-revelation-2026-mix/6795416358?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/d0/8d/bed08d4e-9e62-0279-f4e3-f5dcd6bf55e6/885890726700.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Prog-Rock/Art Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795593871",
+      "title": "Women Composers & The Piano",
+      "artist": "Susan Tomes",
+      "url": "https://music.apple.com/jp/album/women-composers-the-piano/6795593871?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/5d/8b/d25d8b9a-5452-80a3-b61c-342269b7b79b/26UMGIM66831.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796046958",
+      "title": "Setting Record in Nashville",
+      "artist": "Talisco",
+      "url": "https://music.apple.com/jp/album/setting-record-in-nashville/6796046958?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/b7/26/71b726a1-f595-9c4e-1b08-778d333d5b22/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Folk-Rock",
+        "Music",
+        "Singer/Songwriter"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796125560",
+      "title": "Raging Of The Night - EP",
+      "artist": "Dylan Flynn and the Dead Poets",
+      "url": "https://music.apple.com/jp/album/raging-of-the-night-ep/6796125560?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/2c/a8/a32ca821-ffec-17d4-0302-fef00fa98ef6/067003034371.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6814879502",
       "title": "Winnie the Pooh 100th Anniversary Songbook",
       "artist": "Various Artists",
@@ -4782,122 +4900,6 @@
         "Contemporary Country",
         "Music",
         "Country"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796002394",
-      "title": "Are You Still You?",
-      "artist": "Cloonee",
-      "url": "https://music.apple.com/jp/album/are-you-still-you/6796002394?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/6e/14/c06e1421-70b6-8cda-0ac3-6c125be70e15/13915.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-06",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6812461037",
-      "title": "Star Wars: Galactic Racer (Original Video Game Soundtrack)",
-      "artist": "Gordy Haab",
-      "url": "https://music.apple.com/jp/album/star-wars-galactic-racer-original-video-game-soundtrack/6812461037?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/58/ae/bb58ae3c-0d5a-6816-4985-0e93f91b95a8/26UM1IM16394.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-06",
-      "trackCount": 21,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813685806",
-      "title": "Sessions",
-      "artist": "Social Distortion",
-      "url": "https://music.apple.com/jp/album/sessions/6813685806?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/2b/e2/942be216-05a2-f7fb-e135-8b605107f645/0045778818990.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-06",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6812896001",
-      "title": "Apple Music Nashville Sessions",
-      "artist": "Josiah and the Bonnevilles",
-      "url": "https://music.apple.com/jp/album/apple-music-nashville-sessions/6812896001?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/85/5f/77855fc6-1727-d7d2-c73b-be91e9040133/26CRGIM56445.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-06",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Folk",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6815077037",
-      "title": "Where We Are - The 2nd Album",
-      "artist": "YESUNG",
-      "url": "https://music.apple.com/jp/album/where-we-are-the-2nd-album/6815077037?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/d6/1f/70d61f41-8a15-e4d5-7f0b-366435786bbd/Where_We_Are_COVER.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-06",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817513677",
-      "title": "Desde Denver (En Vivo) - EP",
-      "artist": "Los K-Bros",
-      "url": "https://music.apple.com/jp/album/desde-denver-en-vivo-ep/6817513677?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/d3/b2/55d3b27f-baa8-d7bb-a2c6-3c428619912b/612735169282_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-06",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6766812935",
-      "title": "4 life",
-      "artist": "Rigmor",
-      "url": "https://music.apple.com/jp/album/4-life/6766812935?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/9e/c1/ba9ec1bf-e33f-2446-9ac4-e0c7861344ba/820200260116.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-06",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
