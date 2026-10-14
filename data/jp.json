@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T07:01:02.799Z",
+  "generatedAt": "2026-10-14T11:01:09.402Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -530,7 +530,7 @@
       "title": "MACHIKO",
       "artist": "Joyce Wrice",
       "url": "https://music.apple.com/jp/album/machiko/6804892827?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/e5/c8/08e5c87a-3b50-2bd0-cd13-e45851578a88/4099964288018.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/91/29/fb912998-350f-e8ef-9f11-22086e87b3a9/4099964288018.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-09",
       "trackCount": 14,
