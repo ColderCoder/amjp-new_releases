@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:01:09.402Z",
+  "generatedAt": "2026-10-14T22:00:59.977Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -94,22 +94,6 @@
         "Piano"
       ],
       "tagline": "New EP"
-    },
-    {
-      "id": "6799851049",
-      "title": "She’s the Best",
-      "artist": "Troye Sivan",
-      "url": "https://music.apple.com/jp/album/shes-the-best/6799851049?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/e7/92/1be79297-2ced-d845-f3c2-31b30eb2bac2/26UM1IM00508.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-09",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6817272345",
@@ -4368,6 +4352,22 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811909257",
+      "title": "For Seasons: Love in a Time of War - EP",
+      "artist": "Merna",
+      "url": "https://music.apple.com/jp/album/for-seasons-love-in-a-time-of-war-ep/6811909257?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/a6/4e/bda64e36-ba0d-270b-e2f4-e2bd3947c4ab/199316771077_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
       ],
       "tagline": null
     },
