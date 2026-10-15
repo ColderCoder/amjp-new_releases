@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T07:01:01.119Z",
+  "generatedAt": "2026-10-15T15:01:02.957Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6815408515",
+      "title": "raws",
+      "artist": "tommy ragen archive",
+      "url": "https://music.apple.com/jp/album/raws/6815408515?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/29/1c/27291c02-d604-fc77-78a8-c5475633965c/075679557179.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
     {
       "id": "6813629385",
       "title": "Marcando La Línea II - EP",
@@ -4586,22 +4603,6 @@
         "Rap",
         "Music",
         "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6815202378",
-      "title": "Wir sind am Leben - Das Berlin Musical (Deluxe Version)",
-      "artist": "Peter Plate, Ulf Sommer & Joshua Lange",
-      "url": "https://music.apple.com/jp/album/wir-sind-am-leben-das-berlin-musical-deluxe-version/6815202378?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/b7/1e/f4b71e67-64d0-4ee2-4d07-2f989b4c7258/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-09",
-      "trackCount": 48,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
       ],
       "tagline": null
     },
