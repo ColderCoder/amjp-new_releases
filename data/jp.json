@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:01:07.423Z",
+  "generatedAt": "2026-10-15T23:00:59.965Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -544,7 +544,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6769883506",
@@ -1035,7 +1035,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6792960696",
@@ -2296,7 +2296,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6810938183",
@@ -4064,7 +4064,7 @@
         "Music",
         "Electronica"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6811063998",
@@ -4195,22 +4195,6 @@
       "explicit": false,
       "releaseDate": "2026-10-16",
       "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6812394288",
-      "title": "Blonde Rose",
-      "artist": "Blonde Rose",
-      "url": "https://music.apple.com/jp/album/blonde-rose/6812394288?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/3b/b2/f33bb273-7ef1-cade-66e7-340927fa9d5b/823375444930_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-16",
-      "trackCount": 6,
       "kind": "album",
       "genres": [
         "Rock",
@@ -4385,6 +4369,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6811251407",
+      "title": "ZUKO!",
+      "artist": "Fireboy DML",
+      "url": "https://music.apple.com/jp/album/zuko/6811251407?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/f3/a7/e6f3a7b3-56c8-66d8-c19b-8e615f713000/199316775273_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-15",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Worldwide",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6818577203",
