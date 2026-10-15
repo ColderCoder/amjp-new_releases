@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T22:00:59.977Z",
+  "generatedAt": "2026-10-15T07:01:01.119Z",
   "source": "https://music.apple.com/jp/room/6820750292?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6820750292?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4372,37 +4372,238 @@
       "tagline": null
     },
     {
-      "id": "6814879502",
-      "title": "Winnie the Pooh 100th Anniversary Songbook",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/winnie-the-pooh-100th-anniversary-songbook/6814879502?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/6c/ad/ed6cadc4-95d0-5cc3-333c-9499f446b4a1/26UM1IM20443.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 24,
+      "id": "6811910549",
+      "title": "VM 18",
+      "artist": "L'Officina della Camomilla",
+      "url": "https://music.apple.com/jp/album/vm-18/6811910549?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/a3/b2/4ca3b2ad-4e8b-c634-e02a-e61dc98af457/8057715137011.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-09",
+      "trackCount": 10,
       "kind": "album",
       "genres": [
-        "Soundtrack",
+        "Alternative",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6818296743",
-      "title": "Vallenatico pa la Disco",
-      "artist": "Maisak",
-      "url": "https://music.apple.com/jp/album/vallenatico-pa-la-disco/6818296743?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/51/71/d85171d7-302f-2c71-bc5c-520f793f531a/885288757163.jpg/632x632bb.jpg",
+      "id": "6812047676",
+      "title": "In The Key Of Sinatra",
+      "artist": "Laurent Courthaliac",
+      "url": "https://music.apple.com/jp/album/in-the-key-of-sinatra/6812047676?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/1a/7f/371a7fda-03d2-d880-2f3c-15fa4de0864e/3701828402058_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812432272",
+      "title": "UK LOVE: Date Night In Soho (DJ Mix)",
+      "artist": "Dönch",
+      "url": "https://music.apple.com/jp/album/uk-love-date-night-in-soho-dj-mix/6812432272?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/61/af/4d61afed-32b6-3610-d41d-5b3f5a7e3cf7/0c262ba5-2674-4290-afa3-00737b9c6cc4.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-10-08",
+      "releaseDate": "2026-10-09",
+      "trackCount": 44,
+      "kind": "album",
+      "genres": [
+        "Contemporary R&B",
+        "Music",
+        "R&B/Soul",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812495636",
+      "title": "Libérés",
+      "artist": "SEB & JESS",
+      "url": "https://music.apple.com/jp/album/lib%C3%A9r%C3%A9s/6812495636?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/f3/f8/dcf3f835-13e1-7735-cd4b-41d624ea2a9c/808131386822.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "French Pop",
+        "Music",
+        "Folk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812779069",
+      "title": "Ellas låt - EP",
+      "artist": "Jacob Douglas",
+      "url": "https://music.apple.com/jp/album/ellas-l%C3%A5t-ep/6812779069?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/ea/48/e3ea4894-e77d-0349-1733-6538deb5c5bb/7350110874200.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812811435",
+      "title": "Skategoat (Original Soundtrack)",
+      "artist": "Luke Howard",
+      "url": "https://music.apple.com/jp/album/skategoat-original-soundtrack/6812811435?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/f0/d8/72f0d826-3d9f-2306-858b-c6d6d3c7db62/20UMGIM10303.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Classical",
+        "Classical Crossover"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6813270712",
+      "title": "CARLO ACUTIS. THE MILLENNIAL SAINT (Original Motion Picture Soundtrack)",
+      "artist": "Remo Anzovino",
+      "url": "https://music.apple.com/jp/album/carlo-acutis-the-millennial-saint-original-motion/6813270712?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/75/88/5e758813-6796-3eb7-7ce4-c9036de1909b/26UM1IM15125.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
       "trackCount": 17,
       "kind": "album",
       "genres": [
-        "Latin",
+        "Classical Crossover",
         "Music",
-        "Urbano latino"
+        "Classical"
       ],
-      "tagline": "New Album"
+      "tagline": null
+    },
+    {
+      "id": "6813271506",
+      "title": "Debussy: Estampes — Chopin: 3 Nouvelles études & Scherzo No. 2 (Live)",
+      "artist": "Nelson Freire",
+      "url": "https://music.apple.com/jp/album/debussy-estampes-chopin-3-nouvelles-%C3%A9tudes-scherzo/6813271506?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/52/f6/b552f628-5851-4ad1-eaa2-5ac9cb16d7d4/26UM1IM12185.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814348515",
+      "title": "Solang die Sonne scheint - EP",
+      "artist": "Kosta",
+      "url": "https://music.apple.com/jp/album/solang-die-sonne-scheint-ep/6814348515?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/30/a7/ff/30a7ff66-dcfd-6792-fe5c-768e8426eb3e/196874753187.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-09",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814758186",
+      "title": "Rose Kill Prince - EP",
+      "artist": "Lushe",
+      "url": "https://music.apple.com/jp/album/rose-kill-prince-ep/6814758186?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/b0/00/9fb00019-fdc5-26c1-a130-43a84f865fbe/885288719727.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-09",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814806383",
+      "title": "City Sketches - EP",
+      "artist": "Kerem Seckin",
+      "url": "https://music.apple.com/jp/album/city-sketches-ep/6814806383?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/04/39/d804391c-73cb-1f56-f767-e745853209f0/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6815003664",
+      "title": "Risuona",
+      "artist": "Perturbazione",
+      "url": "https://music.apple.com/jp/album/risuona/6815003664?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/0f/d9/820fd93d-74ba-9c0d-9e12-529a3b2ab4e4/8032484388246.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-09",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6815192271",
+      "title": "Après L'Éclipse",
+      "artist": "Beendo Z",
+      "url": "https://music.apple.com/jp/album/apr%C3%A8s-l%C3%A9clipse/6815192271?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/79/b5/5079b58c-c0db-e8ca-e614-889fa4936137/885288658934.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-09",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6815202378",
+      "title": "Wir sind am Leben - Das Berlin Musical (Deluxe Version)",
+      "artist": "Peter Plate, Ulf Sommer & Joshua Lange",
+      "url": "https://music.apple.com/jp/album/wir-sind-am-leben-das-berlin-musical-deluxe-version/6815202378?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/b7/1e/f4b71e67-64d0-4ee2-4d07-2f989b4c7258/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-09",
+      "trackCount": 48,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6818316497",
@@ -4424,141 +4625,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6813273972",
-      "title": "KARL (Original Soundtrack)",
-      "artist": "Johnny Jewel",
-      "url": "https://music.apple.com/jp/album/karl-original-soundtrack/6813273972?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/d6/88/61d68827-0bd3-d857-0dbc-6eff6965d2b7/434.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 25,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Electronic",
-        "Ambient"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793273469",
-      "title": "OCHO",
-      "artist": "ALOISIO",
-      "url": "https://music.apple.com/jp/album/ocho/6793273469?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/bd/31/41bd31ba-05ae-ced5-c20e-5b203a3c7fdc/3757826.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-08",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6812488738",
-      "title": "Mitos y Leyendas de las Américas",
-      "artist": "Canticuentos & Cantiaventuras",
-      "url": "https://music.apple.com/jp/album/mitos-y-leyendas-de-las-am%C3%A9ricas/6812488738?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/a4/ee/c0a4ee8e-64e9-1a05-df4d-4fb60a79639e/7703770352630.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817904330",
-      "title": "Live At NPR's Tiny Desk - EP",
-      "artist": "Carla Morrison",
-      "url": "https://music.apple.com/jp/album/live-at-nprs-tiny-desk-ep/6817904330?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/7c/30/ed7c3015-3aa9-a5d6-2873-2250e17ffe3c/196874729526.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop in Spanish",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814771386",
-      "title": "Time Waits For No Man",
-      "artist": "Type-303",
-      "url": "https://music.apple.com/jp/album/time-waits-for-no-man/6814771386?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/c4/e7/23c4e755-8493-db66-f97c-91a6c99a5918/8718723330787.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805845923",
-      "title": "Couch Potatoes: Batch 1 - EP",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/couch-potatoes-batch-1-ep/6805845923?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/fc/c3/95fcc3ce-900d-7078-9664-0567edc62ab7/5063817014498_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Jungle/Drum'n'bass",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808405786",
-      "title": "Bajón Emocional - EP",
-      "artist": "Yuridia",
-      "url": "https://music.apple.com/jp/album/baj%C3%B3n-emocional-ep/6808405786?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/53/d0/2c53d034-b575-801d-570e-dacbc2a8c219/196874731246.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6810763227",
-      "title": "Heartbeats",
-      "artist": "Effin",
-      "url": "https://music.apple.com/jp/album/heartbeats/6810763227?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/6b/fe/706bfe70-899e-7d53-1089-653f934c34be/612891236781.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-08",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Dubstep"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6812569848",
       "title": "Beats In Space 224: Kitty Amor (DJ Mix)",
       "artist": "Kitty Amor",
@@ -4577,87 +4643,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6798105634",
-      "title": "Trouble",
-      "artist": "Louis Baker",
-      "url": "https://music.apple.com/jp/album/trouble/6798105634?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/79/8a/56798a23-0bc8-5e0d-e284-2049009f7913/466228.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Soul",
-        "Music",
-        "R&B/Soul"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6812693282",
-      "title": "Pretty Club Girl",
-      "artist": "Jimi The Kween",
-      "url": "https://music.apple.com/jp/album/pretty-club-girl/6812693282?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/c2/3c/55c23ce9-5917-e98b-2710-ffb9f7685ff1/885288534993.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-08",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808178267",
-      "title": "ANOMIA",
-      "artist": "RUSLANA",
-      "url": "https://music.apple.com/jp/album/anomia/6808178267?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/5b/83/375b832c-70ec-e721-6460-4770c7c41397/26UM1IM01134.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6810679667",
-      "title": "Quebranto",
-      "artist": "IOLANDA",
-      "url": "https://music.apple.com/jp/album/quebranto/6810679667?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/65/f3/f565f3e6-a29c-eccd-87b9-028d06c9cfbb/885288496406.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-08",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6811004341",
-      "title": "DELL'AMORE IL FALLIMENTO E ALTRI PASSI DI DANZA",
-      "artist": "Levante",
-      "url": "https://music.apple.com/jp/album/dellamore-il-fallimento-e-altri-passi-di-danza/6811004341?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/c6/fa/c8c6fa75-388d-4167-b1b0-9e8c1edae6d4/1200214674311.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-08",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6810776790",
       "title": "Lift Me Up Presents: ANDJACK (DJ Mix)",
       "artist": "ANDJACK",
@@ -4671,6 +4656,23 @@
         "Dance",
         "Music",
         "House"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6812508062",
+      "title": "Re:versal Presents... Paths Of Sound Mix 001 (DJ Mix)",
+      "artist": "Professor Yes",
+      "url": "https://music.apple.com/jp/album/re-versal-presents-paths-of-sound-mix-001-dj-mix/6812508062?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/2b/c0/772bc03e-0edd-8938-ddaf-a9033aa1b695/a553ce7d-aa12-4593-b6f5-e1263509659d.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-05",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
       ],
       "tagline": "New DJ Mix"
     },
