@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:01:18.295Z",
+  "generatedAt": "2026-10-16T18:01:06.159Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1068,7 +1068,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Release"
     },
     {
       "id": "6821161926",
@@ -2247,7 +2247,7 @@
         "Music",
         "Singer/Songwriter"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6804020942",
@@ -2382,9 +2382,9 @@
     },
     {
       "id": "6814609740",
-      "title": "Live in Los Angeles (Live in Los Angeles)",
-      "artist": "The Hill City Collective & Deitrick Haddon",
-      "url": "https://music.apple.com/jp/album/live-in-los-angeles-live-in-los-angeles/6814609740?l=en-US",
+      "title": "Live in Los Angeles",
+      "artist": "Deitrick Haddon & The Hill City Collective",
+      "url": "https://music.apple.com/jp/album/live-in-los-angeles/6814609740?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/92/dc/5692dc42-66ed-bf1b-2f4f-76dd4596e3f9/0.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-16",
