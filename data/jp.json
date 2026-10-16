@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T19:01:05.473Z",
+  "generatedAt": "2026-10-16T20:01:03.706Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1084,7 +1084,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6815007772",
@@ -4557,7 +4557,7 @@
     },
     {
       "id": "6817133746",
-      "title": "We'll Swap It Out, Vol. 2",
+      "title": "We'll Swap It out, Vol. 2",
       "artist": "Mutant Academy",
       "url": "https://music.apple.com/jp/album/well-swap-it-out-vol-2/6817133746?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fd/71/43/fd7143ca-ecdd-99b2-7b47-e228d0aaa630/8721639105028.png/632x632bb.jpg",
