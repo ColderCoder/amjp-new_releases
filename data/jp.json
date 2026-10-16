@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T02:01:00.314Z",
+  "generatedAt": "2026-10-16T04:01:02.262Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -274,6 +274,23 @@
         "Music"
       ],
       "tagline": "New Soundtrack"
+    },
+    {
+      "id": "6819733025",
+      "title": "<THIS IS FOR> WORLD TOUR FINALE in SEOUL - LIVE",
+      "artist": "TWICE",
+      "url": "https://music.apple.com/jp/album/this-is-for-world-tour-finale-in-seoul-live/6819733025?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/da/89/17da89eb-e4f3-0dc1-43a4-efc3bd399c53/8809928956671.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 26,
+      "kind": "album",
+      "genres": [
+        "K-Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
     },
     {
       "id": "6815431107",
@@ -1038,6 +1055,54 @@
       "tagline": null
     },
     {
+      "id": "6818634785",
+      "title": "The X Tape 2",
+      "artist": "Babyfxce E",
+      "url": "https://music.apple.com/jp/album/the-x-tape-2/6818634785?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/06/14/7f06149f-a9d5-4a2d-5d1a-9047f16168ab/075679553652.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 21,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6821161926",
+      "title": "Against All Odds",
+      "artist": "Gucci Mane",
+      "url": "https://music.apple.com/jp/album/against-all-odds/6821161926?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/ac/32/36ac32fd-98d6-8ca1-0d17-038e439a4dde/075679559159.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6815007772",
+      "title": "Laugh Now Cry Later",
+      "artist": "Fredo Bang",
+      "url": "https://music.apple.com/jp/album/laugh-now-cry-later/6815007772?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/81/27/7781272d-f39d-f453-6afc-9da03093bd6f/199316779264_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6816213695",
       "title": "BOYZ 2 MEN - EP",
       "artist": "R2R Moe",
@@ -1166,6 +1231,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6815831824",
+      "title": "ALOUD!",
+      "artist": "Lucky Daye",
+      "url": "https://music.apple.com/jp/album/aloud/6815831824?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/1e/a5/341ea54e-9d83-75b3-e4db-861facb919d4/093624820109.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6811046844",
@@ -3345,71 +3426,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6791161522",
-      "title": "EST",
-      "artist": "MaMaMa",
-      "url": "https://music.apple.com/jp/album/est/6791161522?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/d5/a2/a1d5a2ea-9f39-f275-fb61-4eb6396cfda4/8721555931572.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-16",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791802536",
-      "title": "TRACK 2",
-      "artist": "NOVO Quartet",
-      "url": "https://music.apple.com/jp/album/track-2/6791802536?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/04/e9/4104e975-667c-e619-d0de-95c669a5e488/5051083237581_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-16",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Chamber Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793296156",
-      "title": "P****N",
-      "artist": "Jwles",
-      "url": "https://music.apple.com/jp/album/p-n/6793296156?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/a4/ad/53a4ad1f-abf3-8076-5094-a74b5abaf168/5400863216450_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-16",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793539198",
-      "title": "How Long Will It Take?",
-      "artist": "Nieve Ella",
-      "url": "https://music.apple.com/jp/album/how-long-will-it-take/6793539198?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0d/d9/50/0dd95079-0f14-ff3f-13c3-01ca12e8ddb8/8721555854567.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-16",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
       "id": "6817954155",
       "title": "Good for Me - EP",
       "artist": "Hyelyn Joo",
@@ -4584,22 +4600,6 @@
       "kind": "album",
       "genres": [
         "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793532337",
-      "title": "moment - EP",
-      "artist": "Ray Lozano",
-      "url": "https://music.apple.com/jp/album/moment-ep/6793532337?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/15/95/51159501-b151-2fa0-f06f-d5068a58ef00/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-14",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
         "Music"
       ],
       "tagline": null
