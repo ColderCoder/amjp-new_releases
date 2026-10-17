@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:00:59.711Z",
+  "generatedAt": "2026-10-17T00:00:59.490Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1100,7 +1100,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6816213695",
@@ -1170,9 +1170,9 @@
     },
     {
       "id": "6812521682",
-      "title": "Caged Birds Don’t Sing - EP",
+      "title": "CAGED BIRDS DON’T SING",
       "artist": "Brother Tom Sos",
-      "url": "https://music.apple.com/jp/album/caged-birds-dont-sing-ep/6812521682?l=en-US",
+      "url": "https://music.apple.com/jp/album/caged-birds-dont-sing/6812521682?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/c9/5b/35c95bb6-fd2e-c280-6100-d22341d9b875/888193605789.png/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-16",
