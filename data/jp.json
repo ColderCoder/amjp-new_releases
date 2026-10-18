@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T07:00:31.738Z",
+  "generatedAt": "2026-10-18T07:00:32.579Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3492,6 +3492,24 @@
       "tagline": null
     },
     {
+      "id": "6794980145",
+      "title": "¡A la fiesta!",
+      "artist": "Cantoría & Jorge Losana",
+      "url": "https://music.apple.com/jp/album/a-la-fiesta/6794980145?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/43/12/ed4312a3-12d0-604b-921a-bcd6fa2aef49/3701624512791.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 25,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Baroque Era",
+        "Vocal"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6817954155",
       "title": "Good for Me - EP",
       "artist": "Hyelyn Joo",
@@ -4946,22 +4964,6 @@
       "kind": "album",
       "genres": [
         "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6815997362",
-      "title": "TV Animation \"mono\" Original Soundtrack",
-      "artist": "Hajime Hyakkoku",
-      "url": "https://music.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-mono-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/6815997362?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/bf/14/e2bf1480-41a8-7d21-adb1-8b283ba490c6/4534530166890.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-11",
-      "trackCount": 42,
-      "kind": "album",
-      "genres": [
-        "Anime",
         "Music"
       ],
       "tagline": null
