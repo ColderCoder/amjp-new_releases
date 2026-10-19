@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T09:00:31.234Z",
+  "generatedAt": "2026-10-19T07:00:55.668Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3510,6 +3510,126 @@
       "tagline": null
     },
     {
+      "id": "6795062747",
+      "title": "Box Box Revolution (Reworked) - EP",
+      "artist": "Chrometoaster, Rural Tapes, Matt McBane & Adrien Pallot",
+      "url": "https://music.apple.com/jp/album/box-box-revolution-reworked-ep/6795062747?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/dd/d9/77ddd955-09c7-9f97-8ed1-7670eb7b938d/823375327578_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795344309",
+      "title": "Patkop & Say",
+      "artist": "Patricia Kopatchinskaja & Fazıl Say",
+      "url": "https://music.apple.com/jp/album/patkop-say/6795344309?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/31/ff/cc/31ffcc4d-a33a-ea0b-d993-5834eef69303/3701624512784.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music",
+        "Piano",
+        "Violin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795920550",
+      "title": "The World Is Not Good Enough (Deluxe)",
+      "artist": "Sean Solomon",
+      "url": "https://music.apple.com/jp/album/the-world-is-not-good-enough-deluxe/6795920550?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/d0/a8/73d0a8ee-d4f2-e6e2-fffb-87c174a04ff5/0045778818761.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796438548",
+      "title": "Double",
+      "artist": "Timothy Chooi & Nikki Chooi",
+      "url": "https://music.apple.com/jp/album/double/6796438548?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/9e/74/4d9e74d0-76c8-ecd2-aa22-870391fe16b6/5060189569649_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6797773514",
+      "title": "Eleven Conditions of Responsibility",
+      "artist": "Octandre Ensemble & Jonathan Hargreaves",
+      "url": "https://music.apple.com/jp/album/eleven-conditions-of-responsibility/6797773514?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/3f/be/ea3fbe4e-a95f-2489-3f16-b2f45a346f69/809730715129.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Orchestral",
+        "Electronic",
+        "Contemporary Era"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6797886621",
+      "title": "Følgefeil",
+      "artist": "Reolo",
+      "url": "https://music.apple.com/jp/album/f%C3%B8lgefeil/6797886621?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/18/cd/f518cd72-0880-155c-d85b-445248171dbc/885288212396.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Contemporary Folk",
+        "Music",
+        "Singer/Songwriter"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6798214819",
+      "title": "Soft Season - EP",
+      "artist": "Malou Lovis",
+      "url": "https://music.apple.com/jp/album/soft-season-ep/6798214819?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/63/f0/8063f0c1-d802-a7a0-1d54-f4b5c4eee0db/4066004972275_3000.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6817954155",
       "title": "Good for Me - EP",
       "artist": "Hyelyn Joo",
@@ -4849,121 +4969,6 @@
       "kind": "album",
       "genres": [
         "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6818484063",
-      "title": "HYPERDRIVE - EP",
-      "artist": "PLAVE",
-      "url": "https://music.apple.com/jp/album/hyperdrive-ep/6818484063?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/97/5b/77/975b77ed-efb0-a243-112a-d9e8824e6518/26UM1IM19590.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-12",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817993878",
-      "title": "My Sweet Revenger - EP",
-      "artist": "KDHR",
-      "url": "https://music.apple.com/jp/album/my-sweet-revenger-ep/6817993878?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/12/fb/bc12fb05-823c-4860-885f-78319e63ea7c/PA00229356_0_255909_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-12",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6816827241",
-      "title": "Riot In Hell - EP",
-      "artist": "Coakira, OZIGIRI",
-      "url": "https://music.apple.com/jp/album/riot-in-hell-ep/6816827241?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/22/01/5b220184-7269-3cb6-3207-b9a802ec5b86/4500000096516.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-12",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819577931",
-      "title": "PARTY TUNE - BEST SELECTION - (25th Anniversary Deluxe Edition)",
-      "artist": "EXILE",
-      "url": "https://music.apple.com/jp/album/party-tune-best-selection-25th-anniversary-deluxe-edition/6819577931?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ce/a5/50/cea550ad-3577-67d0-1a9c-8d71cde2d932/ANTCD-A0000021408.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-12",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813844039",
-      "title": "Tandem - EP",
-      "artist": "Cari Lekebusch & Steve Stoll",
-      "url": "https://music.apple.com/jp/album/tandem-ep/6813844039?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/3b/e2/7b3be2be-92b5-aedf-e645-8975b65964bb/8718723330695.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-12",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6816372140",
-      "title": "Breakthrough - EP",
-      "artist": "Signal Type",
-      "url": "https://music.apple.com/jp/album/breakthrough-ep/6816372140?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/2f/48/e42f4888-cb5e-c654-4bf1-851592d4c4c1/8718723331142.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-12",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814708671",
-      "title": "MARBLES - EP",
-      "artist": "Marbles",
-      "url": "https://music.apple.com/jp/album/marbles-ep/6814708671?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/dd/4f/47dd4f33-f8f1-708d-9a37-94bd3e086568/26UM1IM19595.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-12",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Pop",
         "Music"
       ],
       "tagline": null
