@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:00:55.668Z",
+  "generatedAt": "2026-10-19T22:00:49.697Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3630,6 +3630,22 @@
       "tagline": null
     },
     {
+      "id": "6798222318",
+      "title": "Kein Zurück",
+      "artist": "Florian Paul & Die Kapelle der letzten Hoffnung",
+      "url": "https://music.apple.com/jp/album/kein-zur%C3%BCck/6798222318?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/99/ef/0499ef4c-9930-fdc1-c0fb-60d2e05709ae/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6817954155",
       "title": "Good for Me - EP",
       "artist": "Hyelyn Joo",
@@ -4724,22 +4740,6 @@
         "Rap",
         "Music",
         "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817601709",
-      "title": "8oh8 (LUXURIOHUS)",
-      "artist": "Ohmien",
-      "url": "https://music.apple.com/jp/album/8oh8-luxuriohus/6817601709?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/8a/be/4d8abe04-9d5e-ba87-676a-4a15259dad09/075679553270.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-14",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
