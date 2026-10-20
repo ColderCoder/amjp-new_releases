@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:00:49.697Z",
+  "generatedAt": "2026-10-20T07:00:50.007Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3646,6 +3646,157 @@
       "tagline": null
     },
     {
+      "id": "6798250222",
+      "title": "Duologues",
+      "artist": "Rachel Podger, Lucie Horsch, Jane Rogers & Alex Rolton",
+      "url": "https://music.apple.com/jp/album/duologues/6798250222?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/0a/7b/200a7b14-989a-8088-946e-071c1b22dddd/723385495260.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 34,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6798271346",
+      "title": "trackytracks",
+      "artist": "harrry",
+      "url": "https://music.apple.com/jp/album/trackytracks/6798271346?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/6a/12/5f6a129b-c61c-21e6-7d39-eb3023cdd38d/3663729465696_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6798563343",
+      "title": "Ulven Inom",
+      "artist": "Ursprung",
+      "url": "https://music.apple.com/jp/album/ulven-inom/6798563343?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/33/2d/d0332d46-cf3a-324d-14d0-1431acbc4fe9/7333591883435.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Folk",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6799524972",
+      "title": "Flatlands",
+      "artist": "John Zorn",
+      "url": "https://music.apple.com/jp/album/flatlands/6799524972?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/3f/72/303f72bf-fc71-fba5-faf3-754949afcc0d/129224.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6799974977",
+      "title": "Love Gets Bigger",
+      "artist": "Mathilda Homer",
+      "url": "https://music.apple.com/jp/album/love-gets-bigger/6799974977?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/ca/0e/eaca0ef6-f6fa-26df-3257-d036a8c91941/196874685440.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6800675955",
+      "title": "Salaputia Brass Quintet",
+      "artist": "Salaputia Brass, Peter Dörpinghaus, Lukas Reis, Felix Baur & Joel Zimmermann",
+      "url": "https://music.apple.com/jp/album/salaputia-brass-quintet/6800675955?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/9b/d8/769bd891-42c9-14ca-f86b-5d73b1d10988/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Brass & Woodwinds",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801082386",
+      "title": "Isosisko",
+      "artist": "F",
+      "url": "https://music.apple.com/jp/album/isosisko/6801082386?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/8c/e1/3b8ce168-0d5c-b7f5-3f69-ded33e102081/885288277265.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801177177",
+      "title": "Kaddish",
+      "artist": "Carl-Johan Vallgren",
+      "url": "https://music.apple.com/jp/album/kaddish/6801177177?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/a5/53/68a553f9-1b6c-b97e-13ec-2da9b3f5020c/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Singer/Songwriter",
+        "Music",
+        "Folk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801299534",
+      "title": "Como Estou Dirigindo?",
+      "artist": "Guto Brant",
+      "url": "https://music.apple.com/jp/album/como-estou-dirigindo/6801299534?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/ba/1d/9eba1d0f-93aa-5f9d-13a5-0b6c282a3fbd/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6817954155",
       "title": "Good for Me - EP",
       "artist": "Hyelyn Joo",
@@ -4821,154 +4972,6 @@
       "kind": "album",
       "genres": [
         "R&B/Soul",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817568441",
-      "title": "Zunozu",
-      "artist": "Kabanagu",
-      "url": "https://music.apple.com/jp/album/zunozu/6817568441?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/32/5f/13325f11-2256-1bce-a822-285d1bc1a0c4/4550795054543_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-13",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6821196192",
-      "title": "Sessions",
-      "artist": "Show Me the Body",
-      "url": "https://music.apple.com/jp/album/sessions/6821196192?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/b2/39/38b23942-5e62-eb9d-ee3d-55b353f4dbdc/26CRGIM57211.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-13",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6818601129",
-      "title": "Pilgrims (Original Animation Film Soundtrack)",
-      "artist": "Hwang Soyoon",
-      "url": "https://music.apple.com/jp/album/pilgrims-original-animation-film-soundtrack/6818601129?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/2e/ad/582ead05-7094-5c10-46bd-e7f5a95cac7a/196874806357.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-13",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814481215",
-      "title": "I Love 304s - EP",
-      "artist": "KenTheMan",
-      "url": "https://music.apple.com/jp/album/i-love-304s-ep/6814481215?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/5e/06/4a5e0660-3d71-4788-20a0-97eef7cf7046/823375462217_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-13",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6818537875",
-      "title": "#ZEDDY",
-      "artist": "Zeddy Will",
-      "url": "https://music.apple.com/jp/album/zeddy/6818537875?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/f0/b5/70f0b518-7c9f-a39e-1851-14c74598b0c1/712132201872_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-13",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817469576",
-      "title": "FATO",
-      "artist": "SteppaG",
-      "url": "https://music.apple.com/jp/album/fato/6817469576?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/34/e3/f234e35d-9dd2-edf0-b943-15fc28b78131/808391407305.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-13",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819200955",
-      "title": "UNDERCHECK",
-      "artist": "Kruzzo",
-      "url": "https://music.apple.com/jp/album/undercheck/6819200955?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/b0/93/8bb09368-0c69-062c-41e2-ebfc699fa033/5907983632714.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-13",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6809311797",
-      "title": "The NIGHTS",
-      "artist": "Dayoung",
-      "url": "https://music.apple.com/jp/album/the-nights/6809311797?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/6c/3b/dd6c3b41-3ae0-c33b-b1c8-5ab5d4786a7c/840200580465_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-13",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6821114267",
-      "title": "Live From Sound City",
-      "artist": "Parker McCollum",
-      "url": "https://music.apple.com/jp/album/live-from-sound-city/6821114267?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/0f/43/8e0f4364-db6a-9b33-c2d3-769fb0bcefeb/26UM1IM21565.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-13",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Country",
         "Music"
       ],
       "tagline": null
