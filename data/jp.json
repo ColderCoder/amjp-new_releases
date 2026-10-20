@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T07:00:50.007Z",
+  "generatedAt": "2026-10-20T20:00:50.087Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2676,23 +2676,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6798479464",
-      "title": "Fishing is not about fishing",
-      "artist": "Ruby Gill",
-      "url": "https://music.apple.com/jp/album/fishing-is-not-about-fishing/6798479464?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/b7/a5/efb7a577-7374-c628-f147-4d52efa79af3/5064022107807_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-16",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Folk",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": "New Album"
-    },
-    {
       "id": "6817870957",
       "title": "EG.0",
       "artist": "Ellie Goulding",
@@ -3510,22 +3493,6 @@
       "tagline": null
     },
     {
-      "id": "6795062747",
-      "title": "Box Box Revolution (Reworked) - EP",
-      "artist": "Chrometoaster, Rural Tapes, Matt McBane & Adrien Pallot",
-      "url": "https://music.apple.com/jp/album/box-box-revolution-reworked-ep/6795062747?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/dd/d9/77ddd955-09c7-9f97-8ed1-7670eb7b938d/823375327578_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-16",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6795344309",
       "title": "Patkop & Say",
       "artist": "Patricia Kopatchinskaja & Fazıl Say",
@@ -3797,6 +3764,56 @@
       "tagline": null
     },
     {
+      "id": "6801450624",
+      "title": "Paradise Lost",
+      "artist": "MARTA",
+      "url": "https://music.apple.com/jp/album/paradise-lost/6801450624?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/ff/78/80ff7869-758e-66a1-2b6f-ec6f65a47cd8/808857311436.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802310089",
+      "title": "Corners",
+      "artist": "Enrico Rava & Fearless Five",
+      "url": "https://music.apple.com/jp/album/corners/6802310089?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/0c/b5/dc0cb573-db0e-fba4-3a45-d3ee2e05e00f/26UMGIM42769.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802792916",
+      "title": "When Saturn Returns",
+      "artist": "Grace Carter",
+      "url": "https://music.apple.com/jp/album/when-saturn-returns/6802792916?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/1d/93/661d93ce-5d7e-661c-e372-8862822a1f0a/888193142208-copy-15b2eb58.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6817954155",
       "title": "Good for Me - EP",
       "artist": "Hyelyn Joo",
@@ -3912,22 +3929,6 @@
       "tagline": null
     },
     {
-      "id": "6814561350",
-      "title": "Hollywood Arts (Soundtrack from the series)",
-      "artist": "Hollywood Arts Cast",
-      "url": "https://music.apple.com/jp/album/hollywood-arts-soundtrack-from-the-series/6814561350?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/d1/ba/50d1ba77-870e-19be-c142-6285a2038721/26UM1IM13765.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-15",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6778808756",
       "title": "The Neverending Story",
       "artist": "Ola Englund",
@@ -3994,23 +3995,6 @@
         "Contemporary R&B"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6805521030",
-      "title": "The Traveller's Guide - EP",
-      "artist": "Jakamo",
-      "url": "https://music.apple.com/jp/album/the-travellers-guide-ep/6805521030?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/c3/bb/69c3bb19-7bb8-fe46-eb4f-4c72fde47919/8721554398802.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-15",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
     },
     {
       "id": "6811039718",
@@ -4973,6 +4957,24 @@
       "genres": [
         "R&B/Soul",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802445805",
+      "title": "Teilipyörä",
+      "artist": "Kallomäki",
+      "url": "https://music.apple.com/jp/album/teilipy%C3%B6r%C3%A4/6802445805?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/de/cc/43deccff-2eec-2188-73af-2bf5a87d57a6/artwork.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-14",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock",
+        "Folk"
       ],
       "tagline": null
     },
