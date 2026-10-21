@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:00:52.811Z",
+  "generatedAt": "2026-10-21T15:00:53.870Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3493,6 +3493,22 @@
       "tagline": null
     },
     {
+      "id": "6795062747",
+      "title": "Box Box Revolution (Reworked) - EP",
+      "artist": "Chrometoaster",
+      "url": "https://music.apple.com/jp/album/box-box-revolution-reworked-ep/6795062747?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/dd/d9/77ddd955-09c7-9f97-8ed1-7670eb7b938d/823375327578_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6795344309",
       "title": "Patkop & Say",
       "artist": "Patricia Kopatchinskaja & Fazıl Say",
@@ -4747,23 +4763,6 @@
       "genres": [
         "Jazz",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814617985",
-      "title": "Rotation Sound System Presents Everything You’re About to Hear Is True, Vol. 2",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/rotation-sound-system-presents-everything-youre-about/6814617985?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/f8/f7/bef8f7d3-dcc3-f705-f7d7-72d1bcc01bf6/5050580879652.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-16",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Downtempo",
-        "Music",
-        "Electronic"
       ],
       "tagline": null
     },
