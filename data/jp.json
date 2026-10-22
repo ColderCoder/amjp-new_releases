@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:00:52.272Z",
+  "generatedAt": "2026-10-22T07:00:53.084Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4767,30 +4767,47 @@
       "tagline": null
     },
     {
-      "id": "6817954155",
-      "title": "Good for Me - EP",
-      "artist": "Hyelyn Joo",
-      "url": "https://music.apple.com/jp/album/good-for-me-ep/6817954155?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/53/b2/4b53b21b-246b-84d9-2731-c07ed584c7fa/4550795094440_cover.jpg/632x632bb.jpg",
+      "id": "6814975187",
+      "title": "Alegría",
+      "artist": "Anni B Sweet",
+      "url": "https://music.apple.com/jp/album/alegr%C3%ADa/6814975187?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/b1/4e/5eb14edb-db59-5d53-58d8-605b280afd6d/8436614295044.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-15",
-      "trackCount": 4,
+      "releaseDate": "2026-10-16",
+      "trackCount": 12,
       "kind": "album",
       "genres": [
-        "Electronic",
+        "Alternative",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6817173691",
-      "title": "Dry Mesh",
-      "artist": "DJ KENTAROU",
-      "url": "https://music.apple.com/jp/album/dry-mesh/6817173691?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/28/54/68285455-3c1f-39d0-b98b-81856d853766/4500000096530.jpg/632x632bb.jpg",
+      "id": "6815340782",
+      "title": "Ei Mitään Järkeä",
+      "artist": "Sinppa",
+      "url": "https://music.apple.com/jp/album/ei-mit%C3%A4%C3%A4n-j%C3%A4rke%C3%A4/6815340782?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/11/93/3a1193e8-3047-382f-8eda-d03a96e9ae3c/885000512742.png/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-15",
-      "trackCount": 13,
+      "releaseDate": "2026-10-16",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Folk-Rock",
+        "Music",
+        "Singer/Songwriter"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6815707093",
+      "title": "DJUNGELNS LAGAR - EP",
+      "artist": "Sticky & 01an",
+      "url": "https://music.apple.com/jp/album/djungelns-lagar-ep/6815707093?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/99/21/2399211e-da1a-9184-276b-b3bedcec9b0f/4379433.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 6,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
@@ -4799,203 +4816,181 @@
       "tagline": null
     },
     {
-      "id": "6816822111",
-      "title": "Once More , Once More",
-      "artist": "shenome",
-      "url": "https://music.apple.com/jp/album/once-more-once-more/6816822111?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/fb/45/19fb4536-e902-87f8-2ef7-4d6e559ea983/4522197169651.png/632x632bb.jpg",
+      "id": "6815718173",
+      "title": "Kalevankatu 36 - EP",
+      "artist": "Ilkka Niemi",
+      "url": "https://music.apple.com/jp/album/kalevankatu-36-ep/6815718173?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2e/f6/0f/2ef60f88-377e-98e8-c1f5-c592192d156b/6417698043556.png/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-15",
-      "trackCount": 10,
+      "releaseDate": "2026-10-16",
+      "trackCount": 5,
       "kind": "album",
       "genres": [
-        "Alternative",
+        "Pop",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6820040745",
-      "title": "shytaupe last oneman live - LA LA BYE -",
-      "artist": "shytaupe",
-      "url": "https://music.apple.com/jp/album/shytaupe-last-oneman-live-la-la-bye/6820040745?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/98/81/f19881fe-9ce1-0ac2-4019-6ecf8873fcfc/4547366860443.jpg/632x632bb.jpg",
+      "id": "6815769799",
+      "title": "Da Tutta La Vita (Original Motion Picture Score)",
+      "artist": "Iosonouncane",
+      "url": "https://music.apple.com/jp/album/da-tutta-la-vita-original-motion-picture-score/6815769799?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/70/2e/a9702ea1-1c1d-38d3-472c-4b3aa1a093ab/885288685640.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-15",
-      "trackCount": 30,
+      "releaseDate": "2026-10-16",
+      "trackCount": 26,
       "kind": "album",
       "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6818026253",
-      "title": "shaking",
-      "artist": "DPR CREAM",
-      "url": "https://music.apple.com/jp/album/shaking/6818026253?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/30/04/3a3004b6-7e61-fa2a-3d97-0fa17e1b5d58/885288593280.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-15",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
+        "Original Score",
         "Music",
-        "Pop"
+        "Soundtrack"
       ],
       "tagline": null
     },
     {
-      "id": "6820226238",
-      "title": "El Inicio De Un Legado",
-      "artist": "Juan Freer",
-      "url": "https://music.apple.com/jp/album/el-inicio-de-un-legado/6820226238?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/a7/8d/41a78daf-a290-a581-1c07-6085bcac759e/4464686.jpg/632x632bb.jpg",
+      "id": "6815895032",
+      "title": "Semitrópico",
+      "artist": "NAPA",
+      "url": "https://music.apple.com/jp/album/semitr%C3%B3pico/6815895032?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/37/d5/4d37d516-bbd5-10e3-705c-8329b30404ec/26UM1IM22401.rgb.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-15",
+      "releaseDate": "2026-10-16",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6816024184",
+      "title": "TWO ENTITIES",
+      "artist": "Mario Biondi",
+      "url": "https://music.apple.com/jp/album/two-entities/6816024184?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8c/02/fd/8c02fdec-634e-ecd7-d3a4-bf514528e3f1/196874779606.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
       "trackCount": 11,
       "kind": "album",
       "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817399308",
-      "title": "LEI tus LAbios",
-      "artist": "JZTA",
-      "url": "https://music.apple.com/jp/album/lei-tus-labios/6817399308?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/cd/65/51cd6525-749e-d8e3-577d-d3a4d6abd8d3/712132207980_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-15",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Pop in Spanish",
+        "Soul",
         "Music",
-        "Latin",
         "R&B/Soul"
       ],
       "tagline": null
     },
     {
-      "id": "6778808756",
-      "title": "The Neverending Story",
-      "artist": "Ola Englund",
-      "url": "https://music.apple.com/jp/album/the-neverending-story/6778808756?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/6d/97/6a6d9714-8008-f84a-5d4e-471a4287f46f/cover.jpg/632x632bb.jpg",
+      "id": "6816150161",
+      "title": "G+1",
+      "artist": "Giorgia",
+      "url": "https://music.apple.com/jp/album/g-1/6816150161?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e6/0c/6e/e60c6ee1-f163-bf33-82e6-43d807238fb1/196874809235.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-15",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817131911",
-      "title": "FTG GENERAL - EP",
-      "artist": "EBK Djay",
-      "url": "https://music.apple.com/jp/album/ftg-general-ep/6817131911?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/de/8c/ebde8cdd-d000-6ccf-3b6b-60daa9304f7c/808391407183.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-15",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813688010",
-      "title": "The Demise Of Planet X (Deluxe)",
-      "artist": "Sleaford Mods",
-      "url": "https://music.apple.com/jp/album/the-demise-of-planet-x-deluxe/6813688010?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/6e/c6/e86ec653-81df-2383-40c8-d96fe999c14f/191402068276.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-15",
-      "trackCount": 22,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813004902",
-      "title": "PRAISE",
-      "artist": "Yel",
-      "url": "https://music.apple.com/jp/album/praise/6813004902?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/75/62/bd7562ef-b9d5-d433-a62e-cf81bc53d2b4/ticket.rpfubeqv.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-15",
-      "trackCount": 7,
+      "releaseDate": "2026-10-16",
+      "trackCount": 20,
       "kind": "album",
       "genres": [
         "Pop",
-        "Music",
-        "R&B/Soul",
-        "Contemporary R&B"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6811251407",
-      "title": "ZUKO!",
-      "artist": "Fireboy DML",
-      "url": "https://music.apple.com/jp/album/zuko/6811251407?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/f3/a7/e6f3a7b3-56c8-66d8-c19b-8e615f713000/199316775273_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-15",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Worldwide",
         "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6812735483",
-      "title": "Ari Colares e a Canoa",
-      "artist": "Ari Colares",
-      "url": "https://music.apple.com/jp/album/ari-colares-e-a-canoa/6812735483?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/26/e9/7526e9a0-f155-af34-4d2b-e959e3eceec3/8721554912886.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-15",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Brazilian",
-        "Music",
-        "Latin"
       ],
       "tagline": null
     },
     {
-      "id": "6813703157",
-      "title": "sempre sente",
-      "artist": "Perdón Amor",
-      "url": "https://music.apple.com/jp/album/sempre-sente/6813703157?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/48/42/36484267-0c66-7bb0-e88d-c4fd2e678457/1200220167609.jpg/632x632bb.jpg",
+      "id": "6816151195",
+      "title": "un peu quand même - EP",
+      "artist": "D'accord Simon",
+      "url": "https://music.apple.com/jp/album/un-peu-quand-m%C3%AAme-ep/6816151195?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/db/2a/79/db2a7972-5173-c731-2241-0f0eeffb8e5d/3596975193993_cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-15",
-      "trackCount": 7,
+      "releaseDate": "2026-10-16",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6816252263",
+      "title": "Pitty",
+      "artist": "Pitty",
+      "url": "https://music.apple.com/jp/album/pitty/6816252263?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/e1/46/ebe146e1-8378-b827-e51f-6c217fb03cbc/7898324332364.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6816260160",
+      "title": "Rihmasto",
+      "artist": "Ruissalo Amping",
+      "url": "https://music.apple.com/jp/album/rihmasto/6816260160?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/d6/06/40d606b7-6ace-24cb-eb76-0a140b977da6/885288715972.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6816951965",
+      "title": "Tän piti olla salaisuus",
+      "artist": "Amilia",
+      "url": "https://music.apple.com/jp/album/t%C3%A4n-piti-olla-salaisuus/6816951965?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/18/03/d618036f-869e-3abe-a0fa-3d9823f777db/artwork.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 12,
       "kind": "album",
       "genres": [
         "Alternative",
         "Music",
-        "Latin"
+        "Singer/Songwriter"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6817003919",
+      "title": "Silence Radio",
+      "artist": "La Fouine",
+      "url": "https://music.apple.com/jp/album/silence-radio/6817003919?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7b/71/52/7b71520b-43a1-34a1-54e8-b3a0aa3c3d5a/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-16",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6817032102",
+      "title": "Fljótið",
+      "artist": "Haraldur",
+      "url": "https://music.apple.com/jp/album/flj%C3%B3ti%C3%B0/6817032102?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/82/62/188262d0-d7c6-83d6-70f2-cdbf2d0bbdf2/208733.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
       ],
       "tagline": null
     },
