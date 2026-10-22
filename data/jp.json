@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:00:55.364Z",
+  "generatedAt": "2026-10-22T18:00:50.248Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1833,7 +1833,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6817732808",
@@ -2438,7 +2438,7 @@
       "artist": "girl in red",
       "url": "https://music.apple.com/jp/album/blue-ep/6822855701?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/aa/47/67aa47f5-d394-8269-9571-5b464a367481/196874792438.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-10-23",
       "trackCount": 4,
       "kind": "album",
