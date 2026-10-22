@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:00:49.480Z",
+  "generatedAt": "2026-10-22T22:00:35.457Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3841,23 +3841,6 @@
       "tagline": null
     },
     {
-      "id": "6819780134",
-      "title": "Meninos de Roça (Ao Vivo)",
-      "artist": "Chitãozinho & Xororó",
-      "url": "https://music.apple.com/jp/album/meninos-de-ro%C3%A7a-ao-vivo/6819780134?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/47/64/614764cd-8aaf-112c-d9a0-9d15fac21950/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Sertanejo",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6814925419",
       "title": "The Story of My Life",
       "artist": "MC Eiht",
@@ -3987,6 +3970,22 @@
         "Latin",
         "Music",
         "Pop in Spanish"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6820941380",
+      "title": "Amateur",
+      "artist": "Cesare Cremonini",
+      "url": "https://music.apple.com/jp/album/amateur/6820941380?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/56/5b/27565b63-5eaf-a927-5729-d4f08c3b4fc5/26UM1IM15888.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-22",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
       ],
       "tagline": null
     },
