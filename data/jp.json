@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:00:53.870Z",
+  "generatedAt": "2026-10-22T03:00:52.272Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1602,23 +1602,6 @@
         "Music"
       ],
       "tagline": "New EP"
-    },
-    {
-      "id": "6797551515",
-      "title": "Yada Yada",
-      "artist": "Le Shiv",
-      "url": "https://music.apple.com/jp/album/yada-yada/6797551515?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/28/7d/61287db4-4d4a-3ca3-c274-a35d2d5b2b33/8721554102157.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-16",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Rock"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6771447672",
@@ -4763,6 +4746,23 @@
       "genres": [
         "Jazz",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814617985",
+      "title": "Rotation Sound System Presents Everything You’re About to Hear Is True, Vol. 2",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/rotation-sound-system-presents-everything-youre-about/6814617985?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/f8/f7/bef8f7d3-dcc3-f705-f7d7-72d1bcc01bf6/5050580879652.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-16",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Downtempo",
+        "Music",
+        "Electronic"
       ],
       "tagline": null
     },
