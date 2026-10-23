@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:00:37.258Z",
+  "generatedAt": "2026-10-23T17:00:35.303Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -904,22 +904,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6820429416",
-      "title": "Foxtrot Oscar (Remixes)",
-      "artist": "Dizzee Rascal, Silencer, Swear Down & Denon Reed",
-      "url": "https://music.apple.com/jp/album/foxtrot-oscar-remixes/6820429416?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/79/74/107974c7-bf8e-dd42-ec52-76c67de8f176/5064090629263_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6803248944",
       "title": "Nicotine Dolls",
       "artist": "Nicotine Dolls",
@@ -1084,7 +1068,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6818615193",
@@ -1285,7 +1269,7 @@
         "Rock",
         "Death Metal/Black Metal"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6788088857",
@@ -1573,22 +1557,6 @@
       "tagline": null
     },
     {
-      "id": "6818466557",
-      "title": "Leave the Lights (Remixes) - Single",
-      "artist": "Marta & Tricky",
-      "url": "https://music.apple.com/jp/album/leave-the-lights-remixes-single/6818466557?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/29/12/c62912bf-2a0c-82f1-8f58-880cd2749f81/4062548153361.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 2,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6804880035",
       "title": "Christmas Stories",
       "artist": "Jason Gray",
@@ -1703,7 +1671,7 @@
         "Latin",
         "Hip-Hop/Rap"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6796604003",
@@ -3092,6 +3060,40 @@
         "Alternative"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6779302933",
+      "title": "Peace & Patience",
+      "artist": "Jazzy",
+      "url": "https://music.apple.com/jp/album/peace-patience/6779302933?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/30/9a/ac309a81-d58b-6f43-32db-f7a2edf68be6/26UMGIM68307.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6806970990",
+      "title": "Termination Sequence",
+      "artist": "Godzilla In The Kitchen",
+      "url": "https://music.apple.com/jp/album/termination-sequence/6806970990?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/d4/ff/54d4ff15-8990-27ff-939a-a1280ef978f7/22061.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock",
+        "Alternative"
+      ],
+      "tagline": null
     },
     {
       "id": "6822240980",
