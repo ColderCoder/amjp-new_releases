@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:00:35.303Z",
+  "generatedAt": "2026-10-23T18:00:33.816Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -44,23 +44,6 @@
         "Rock"
       ],
       "tagline": null
-    },
-    {
-      "id": "6818554554",
-      "title": "No Hay Ángeles Aquí",
-      "artist": "Victor Mendivil",
-      "url": "https://music.apple.com/jp/album/no-hay-%C3%A1ngeles-aqu%C3%AD/6818554554?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/d8/31/a6d831af-322c-57e3-a470-5acc23dd84c1/1963625067621_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-24",
-      "trackCount": 23,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music",
-        "Urbano latino"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6820924039",
@@ -271,7 +254,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6808358301",
@@ -548,7 +531,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6801354087",
@@ -1402,7 +1385,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6815703987",
@@ -2707,7 +2690,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6802672378",
@@ -3208,6 +3191,23 @@
         "Classical",
         "Music",
         "Orchestral"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6818554554",
+      "title": "No Hay Ángeles Aquí",
+      "artist": "Victor Mendivil",
+      "url": "https://music.apple.com/jp/album/no-hay-%C3%A1ngeles-aqu%C3%AD/6818554554?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/d8/31/a6d831af-322c-57e3-a470-5acc23dd84c1/1963625067621_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-22",
+      "trackCount": 23,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music",
+        "Urbano latino"
       ],
       "tagline": "New Album"
     },
