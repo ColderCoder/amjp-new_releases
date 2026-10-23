@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T04:00:32.754Z",
+  "generatedAt": "2026-10-23T06:00:33.743Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1458,7 +1458,7 @@
       "title": "3RD WRLD VOL. 2 - Single",
       "artist": "EZ MIL",
       "url": "https://music.apple.com/jp/album/3rd-wrld-vol-2-single/6824132968?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/7d/1e/c87d1e13-949c-2f38-7b03-e4375dcf54de/26UM1IM29159.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/d1/a5/f9d1a577-2b39-9bf3-fa89-f28578b47169/26UM1IM29159.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-23",
       "trackCount": 3,
@@ -2049,6 +2049,23 @@
       "genres": [
         "Christian",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823001949",
+      "title": "Voz De Mi Sangre",
+      "artist": "Alex Fernández",
+      "url": "https://music.apple.com/jp/album/voz-de-mi-sangre/6823001949?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/7c/d7/967cd75a-75a0-fd36-114c-fd9c2f641556/26UM1IM32152.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -3056,22 +3073,6 @@
         "Hip-Hop/Rap",
         "Music",
         "Alternative"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6779302933",
-      "title": "Peace & Patience",
-      "artist": "Jazzy",
-      "url": "https://music.apple.com/jp/album/peace-patience/6779302933?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/30/9a/ac309a81-d58b-6f43-32db-f7a2edf68be6/26UMGIM68307.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-23",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
       ],
       "tagline": "New Album"
     },
