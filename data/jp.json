@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:00:34.147Z",
+  "generatedAt": "2026-10-23T00:00:43.418Z",
   "source": "https://music.apple.com/jp/room/6823382334?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6823382334?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -286,7 +286,7 @@
         "Dance",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6801354087",
@@ -419,7 +419,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6793071123",
@@ -435,7 +435,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Live Collection "
     },
     {
       "id": "6817257114",
@@ -499,7 +499,7 @@
         "Reggae",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6797519732",
@@ -516,7 +516,7 @@
         "Music",
         "Jazz"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6790547047",
@@ -720,7 +720,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6800304597",
@@ -938,7 +938,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6803554299",
@@ -954,7 +954,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Live Album"
     },
     {
       "id": "6807528785",
@@ -1087,7 +1087,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6818328418",
@@ -1222,7 +1222,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6777135322",
@@ -1371,7 +1371,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6796604003",
@@ -1702,7 +1702,7 @@
         "Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6821221542",
@@ -2069,7 +2069,7 @@
         "Country",
         "Americana"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6800069442",
@@ -2154,6 +2154,23 @@
         "Metal"
       ],
       "tagline": null
+    },
+    {
+      "id": "6821183893",
+      "title": "EL GATITO NEGRO",
+      "artist": "Danny Felix",
+      "url": "https://music.apple.com/jp/album/el-gatito-negro/6821183893?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/de/24/d4de2462-e377-7f6a-fd47-1e07365d8e65/26UM1IM30891.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6818133914",
@@ -3726,6 +3743,22 @@
       "tagline": null
     },
     {
+      "id": "6820546046",
+      "title": "NAJLEPSZE LATA",
+      "artist": "René",
+      "url": "https://music.apple.com/jp/album/najlepsze-lata/6820546046?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/ef/63/b0ef6363-aee5-cb85-acda-cfabbb58e157/196874872505.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6819147868",
       "title": "Myśli pisane",
       "artist": "Martyna Wrochna",
@@ -3940,6 +3973,40 @@
       "tagline": null
     },
     {
+      "id": "6816234741",
+      "title": "Las P*tas Aman También",
+      "artist": "Yeri Mua",
+      "url": "https://music.apple.com/jp/album/las-p-tas-aman-tambi%C3%A9n/6816234741?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/ce/98/9fce9885-3e51-4d5a-6a04-fa3459a5e177/196874830512.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-22",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6821176124",
+      "title": "Simples Assim (Ao Vivo)",
+      "artist": "Mumuzinho",
+      "url": "https://music.apple.com/jp/album/simples-assim-ao-vivo/6821176124?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/76/51/f87651b9-dd45-5b09-43f4-a92c1afbeefb/25UM1IM72121.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-22",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Pagode",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6821013570",
       "title": "iTheku eThekwini",
       "artist": "Okmalumkoolkat",
@@ -4123,39 +4190,6 @@
       "tagline": null
     },
     {
-      "id": "6822895784",
-      "title": "Ao Vivo em Goiânia .2 - EP",
-      "artist": "Lu & Rayane",
-      "url": "https://music.apple.com/jp/album/ao-vivo-em-goi%C3%A2nia-2-ep/6822895784?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/8b/26/ec8b261e-6833-636f-c2d6-25f0511f690c/4517628.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805073115",
-      "title": "Fogaréu",
-      "artist": "Cornucópia Desvairada",
-      "url": "https://music.apple.com/jp/album/fogar%C3%A9u/6805073115?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/49/d7/e949d773-5454-0617-0d4a-7f153cc6989b/8721554394606.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Brazilian",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6817561215",
       "title": "99 Overall",
       "artist": "FullyChop",
@@ -4186,7 +4220,7 @@
         "Music",
         "Electronic"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6786830517",
@@ -4270,7 +4304,7 @@
         "Music",
         "Pop"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6814529239",
@@ -4453,7 +4487,7 @@
         "R&B/Soul",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6822129015",
@@ -4559,22 +4593,6 @@
       "tagline": null
     },
     {
-      "id": "6822932845",
-      "title": "NUNK MAIS QUEBRADO",
-      "artist": "Nebrugg",
-      "url": "https://music.apple.com/jp/album/nunk-mais-quebrado/6822932845?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/60/d7/8260d7ba-fcdb-2d56-9b8a-c09fcf422db5/4518297.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-20",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6823431921",
       "title": "on: our noise - EP",
       "artist": "EVNNE",
@@ -4654,23 +4672,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6818523661",
-      "title": "17",
-      "artist": "Настя Юнка",
-      "url": "https://music.apple.com/jp/album/17/6818523661?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/86/fb/9986fb02-0208-1738-1869-4d40a152e0a8/4069472011750_3000.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-17",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
