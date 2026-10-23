@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:00:41.247Z",
+  "generatedAt": "2026-10-23T04:00:32.754Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -290,6 +290,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "6801692287",
+      "title": "Heavy Is The Crown",
+      "artist": "Anderson .Paak & Cordae",
+      "url": "https://music.apple.com/jp/album/heavy-is-the-crown/6801692287?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/81/23/2b8123af-f191-32ea-e856-fc4ad33599b6/199316732108_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6820996322",
       "title": "Race Day Rev-Up: Austin (DJ Mix)",
       "artist": "Diplo",
@@ -519,6 +535,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "6815855019",
+      "title": "We'll Never Be This Young Again",
+      "artist": "Laila!",
+      "url": "https://music.apple.com/jp/album/well-never-be-this-young-again/6815855019?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/0d/15/470d15e3-071f-0157-0175-fc97053ca6af/093624821212.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6801354087",
       "title": "Watertown",
       "artist": "Brothers Osborne",
@@ -682,6 +714,24 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6819863931",
+      "title": "La Parranda Es Nuestra",
+      "artist": "Victor Manuelle",
+      "url": "https://music.apple.com/jp/album/la-parranda-es-nuestra/6819863931?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/c6/a2/5cc6a210-4c0b-c7ff-3f14-8fc429361b37/196874708170.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Holiday",
+        "Music",
+        "Latin",
+        "Música tropical"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6814885746",
@@ -1404,6 +1454,23 @@
       "tagline": null
     },
     {
+      "id": "6824132968",
+      "title": "3RD WRLD VOL. 2 - Single",
+      "artist": "EZ MIL",
+      "url": "https://music.apple.com/jp/album/3rd-wrld-vol-2-single/6824132968?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/7d/1e/c87d1e13-949c-2f38-7b03-e4375dcf54de/26UM1IM29159.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 3,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6791799100",
       "title": "And It Wants",
       "artist": "Sulfate",
@@ -1602,6 +1669,24 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6820641210",
+      "title": "Trap Island 2",
+      "artist": "Noriel",
+      "url": "https://music.apple.com/jp/album/trap-island-2/6820641210?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/94/b8/1d94b87f-b13d-987b-43fe-d1da359dd31b/196874773451.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
     },
     {
       "id": "6796604003",
@@ -2506,6 +2591,22 @@
       "tagline": null
     },
     {
+      "id": "6822022269",
+      "title": "Colony Season",
+      "artist": "B.U.G Antman",
+      "url": "https://music.apple.com/jp/album/colony-season/6822022269?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/24/ac/4024ac74-43b9-a656-bd33-f4f4be23368c/093624814269.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6819821492",
       "title": "Red Passion I - Single",
       "artist": "Robert Hood",
@@ -2679,7 +2780,7 @@
       "title": "Love Is Everywhere",
       "artist": "Raffi",
       "url": "https://music.apple.com/jp/album/love-is-everywhere/6792941095?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/00/b0/5700b0d7-b08e-4f99-ff88-9e00e1527d51/26CRGIM54092.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/52/ec/6652ec2d-dfcd-3d1f-c3e3-8e63db01a7c1/26CRGIM54092.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-23",
       "trackCount": 13,
@@ -2736,6 +2837,22 @@
         "Metal",
         "Music",
         "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6820178434",
+      "title": "WHOVILLE",
+      "artist": "Surf7",
+      "url": "https://music.apple.com/jp/album/whoville/6820178434?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/8a/61/758a61c9-fa82-f32d-decd-bf4ef7e10512/075679553171.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
       ],
       "tagline": null
     },
@@ -2959,124 +3076,6 @@
       "tagline": "New Album"
     },
     {
-      "id": "6806970990",
-      "title": "Termination Sequence",
-      "artist": "Godzilla In The Kitchen",
-      "url": "https://music.apple.com/jp/album/termination-sequence/6806970990?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/d4/ff/54d4ff15-8990-27ff-939a-a1280ef978f7/22061.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822043661",
-      "title": "Season Won",
-      "artist": "Queen Key",
-      "url": "https://music.apple.com/jp/album/season-won/6822043661?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/e9/59/1ae959a3-c8c9-2bbd-f05c-acff31ceea2b/0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-23",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Worldwide"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6778547810",
-      "title": "Shaving A Dead Man",
-      "artist": "JP Harris",
-      "url": "https://music.apple.com/jp/album/shaving-a-dead-man/6778547810?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/b1/ef/29b1ef5b-17ed-76aa-6053-3889067e063e/127859.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music",
-        "Americana"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6803682811",
-      "title": "We'll All Be Okay - EP",
-      "artist": "Marfa",
-      "url": "https://music.apple.com/jp/album/well-all-be-okay-ep/6803682811?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/67/49/fb67496d-ef5f-dc09-a1ac-b7e83ddc7973/26BMR0008292.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6818189188",
-      "title": "NO SHADOWS (feat. The Veer Union & 2 Shadows) - Single",
-      "artist": "UNGOTHLY PLACES",
-      "url": "https://music.apple.com/jp/album/no-shadows-feat-the-veer-union-2-shadows-single/6818189188?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/3e/36/783e3620-6e08-d46b-6409-d4589f7eefda/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6785659016",
-      "title": "Popfly",
-      "artist": "Michael Nau",
-      "url": "https://music.apple.com/jp/album/popfly/6785659016?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/df/ae/38dfaea8-a3bc-29e7-65d1-40fed5bb66ef/67082.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6800128922",
-      "title": "Trauma",
-      "artist": "Nasty",
-      "url": "https://music.apple.com/jp/album/trauma/6800128922?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/6e/c9/e76ec9fd-4fdd-28b3-7f83-ee7026df8d26/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-23",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Death Metal/Black Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6822240980",
       "title": "EN",
       "artist": "Yuki Chiba",
@@ -3091,6 +3090,23 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6816805547",
+      "title": "Watch Dis",
+      "artist": "Yung Miami",
+      "url": "https://music.apple.com/jp/album/watch-dis/6816805547?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/2d/71/d32d7140-6086-8a5f-a8df-2dfb5dfabf98/26UM1IM06145.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-22",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6814925419",
@@ -4656,23 +4672,6 @@
         "Korean Hip-Hop",
         "Music",
         "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819483528",
-      "title": "Deathwish - EP",
-      "artist": "Northlane",
-      "url": "https://music.apple.com/jp/album/deathwish-ep/6819483528?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/e5/d8/9be5d816-4a67-0fbc-4157-a76c4b0b8624/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-21",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
       ],
       "tagline": null
     },
