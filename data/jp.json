@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T01:00:37.347Z",
+  "generatedAt": "2026-10-23T02:00:41.247Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,24 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6821141121",
+      "title": "PH19",
+      "artist": "Marcos Villalobos",
+      "url": "https://music.apple.com/jp/album/ph19/6821141121?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/47/4d/3a474dd4-b773-179a-ce0c-2d23c319d2e3/196874575246.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-19",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin",
+        "Música Mexicana"
+      ],
+      "tagline": null
+    },
     {
       "id": "6803537211",
       "title": "Rúin",
@@ -147,7 +165,7 @@
       "title": "New Ground (feat. Devaloop) - EP",
       "artist": "Seizan Ishigaki & Lola",
       "url": "https://music.apple.com/jp/album/new-ground-feat-devaloop-ep/6820066088?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/4c/c3/f84cc34f-f6ba-94a8-6c19-b71f43af678b/26UM1IM13276.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/31/09/62310932-8502-e1fe-add4-a4701ca740ef/26UM1IM13276.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-23",
       "trackCount": 5,
@@ -423,7 +441,7 @@
       "title": "Cucuy",
       "artist": "That Mexican OT",
       "url": "https://music.apple.com/jp/album/cucuy/6823798932?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/ea/ad/85eaadb5-11c1-705f-f394-4410a66c2bf8/26UM1IM16949.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/2a/88/932a8887-b6ad-609f-a698-be431e2626b1/26UM1IM16949.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-23",
       "trackCount": 17,
@@ -538,7 +556,7 @@
       "title": "Poster Child (Deluxe)",
       "artist": "Taylor Acorn",
       "url": "https://music.apple.com/jp/album/poster-child-deluxe/6814939569?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/f5/fc/03f5fc69-664e-1833-b11e-45b017a2c869/26CRGIM55373.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/d5/86/40d586e6-c72c-1b84-2f73-bc2b399ccf62/26CRGIM55373.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-23",
       "trackCount": 16,
@@ -906,7 +924,7 @@
       "title": "Who Iz I? (Original Motion Picture Soundtrack)",
       "artist": "Various Artists",
       "url": "https://music.apple.com/jp/album/who-iz-i-original-motion-picture-soundtrack/6823397667?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/1b/db/781bdbbd-5570-f99d-ff42-ab6af2f691de/26UM1IM33746.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/3e/42/093e428d-5417-b03a-c473-3bed59482dcf/26UM1IM33746.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-23",
       "trackCount": 10,
@@ -991,7 +1009,7 @@
       "title": "KIDZ BOP 25 Biggest Hits",
       "artist": "KIDZ BOP Kids",
       "url": "https://music.apple.com/jp/album/kidz-bop-25-biggest-hits/6814640108?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/c1/b5/92c1b5e3-af65-5da1-2755-2c9be87b815f/26CRGIM56115.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/fa/18/3cfa18c7-c8c8-86d6-b4d0-6bc6856ad5e2/26CRGIM56115.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-23",
       "trackCount": 25,
@@ -2372,7 +2390,7 @@
       "title": "EL GATITO NEGRO",
       "artist": "Danny Felix",
       "url": "https://music.apple.com/jp/album/el-gatito-negro/6821183893?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/de/24/d4de2462-e377-7f6a-fd47-1e07365d8e65/26UM1IM30891.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/6c/2f/506c2f4c-b8ab-197c-e46a-f59bdf8653e3/26UM1IM30891.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-23",
       "trackCount": 11,
@@ -3059,41 +3077,6 @@
       "tagline": null
     },
     {
-      "id": "6810686546",
-      "title": "The Angst",
-      "artist": "James Bangura",
-      "url": "https://music.apple.com/jp/album/the-angst/6810686546?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/58/1f/09581f4a-9280-fab0-b8fe-92763d680dd6/4062548152753.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Techno",
-        "Music",
-        "Dance",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6818200811",
-      "title": "file_1",
-      "artist": "Nori",
-      "url": "https://music.apple.com/jp/album/file-1/6818200811?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/81/90/6781909f-4d89-01a7-bee4-3c9b07daa79c/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-23",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "UK Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6822240980",
       "title": "EN",
       "artist": "Yuki Chiba",
@@ -3342,6 +3325,23 @@
         "Latin"
       ],
       "tagline": "New Deluxe Edition"
+    },
+    {
+      "id": "6821068891",
+      "title": "Chama no Bregão 2 | Vol. 2 (Ao Vivo)",
+      "artist": "Raphaela Santos",
+      "url": "https://music.apple.com/jp/album/chama-no-breg%C3%A3o-2-vol-2-ao-vivo/6821068891?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/df/39/96df39a4-0ab2-3078-6f98-4ff397cca084/196874871843.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-22",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Forró",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
     },
     {
       "id": "6813318544",
