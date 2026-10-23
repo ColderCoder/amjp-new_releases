@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:00:43.841Z",
+  "generatedAt": "2026-10-23T14:00:32.756Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4299,7 +4299,7 @@
     },
     {
       "id": "6820014087",
-      "title": "Philharmonia Winds TOKYO 2026 Live",
+      "title": "Philharmonia Winds TOKYO 2026 (Live)",
       "artist": "Philharmonia Winds TOKYO",
       "url": "https://music.apple.com/jp/album/philharmonia-winds-tokyo-2026-live/6820014087?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/e8/47/13e8472f-ea77-a7e2-be3a-618d6e21947a/NOPA-8484.jpg/632x632bb.jpg",
@@ -4309,7 +4309,8 @@
       "kind": "album",
       "genres": [
         "Classical",
-        "Music"
+        "Music",
+        "Brass & Woodwinds"
       ],
       "tagline": null
     },
