@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:00:39.629Z",
+  "generatedAt": "2026-10-24T07:00:36.292Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4669,7 +4669,7 @@
       "title": "Catch a Vibe",
       "artist": "Young Chris",
       "url": "https://music.apple.com/jp/album/catch-a-vibe/6817159692?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/74/b8/2874b82f-8a47-dc41-c38e-f3069358b1c5/885288702781.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/ff/32/70ff32ae-a698-5bdd-5d84-8cfe9cb41254/885288702781.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-21",
       "trackCount": 7,
@@ -4695,6 +4695,23 @@
         "Korean Hip-Hop",
         "Music",
         "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6819483528",
+      "title": "Deathwish - EP",
+      "artist": "Northlane",
+      "url": "https://music.apple.com/jp/album/deathwish-ep/6819483528?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/e5/d8/9be5d816-4a67-0fbc-4157-a76c4b0b8624/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-21",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
       ],
       "tagline": null
     },
@@ -4962,22 +4979,6 @@
         "Anime",
         "Music",
         "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817627067",
-      "title": "OKAMOTO'S 15th Anniversary FORTY SEVEN LIVE TOUR -SPECIAL FINAL- at Hibiyayagaidaiongakudou",
-      "artist": "OKAMOTO'S",
-      "url": "https://music.apple.com/jp/album/okamotos-15th-anniversary-forty-seven-live-tour-special/6817627067?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/79/1e/76791ec4-260f-a137-9882-7938333c195f/4547366857306.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-17",
-      "trackCount": 21,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
       ],
       "tagline": null
     },
