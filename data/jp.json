@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:00:36.292Z",
+  "generatedAt": "2026-10-25T07:00:42.554Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3079,6 +3079,23 @@
       "tagline": null
     },
     {
+      "id": "6822043661",
+      "title": "Season Won",
+      "artist": "Queen Key",
+      "url": "https://music.apple.com/jp/album/season-won/6822043661?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1a/e9/59/1ae959a3-c8c9-2bbd-f05c-acff31ceea2b/0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Worldwide"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6822240980",
       "title": "EN",
       "artist": "Yuki Chiba",
@@ -4964,23 +4981,6 @@
         "Breakbeat"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6816874716",
-      "title": "Akari Kito Billboard Live 2026",
-      "artist": "Akari Kito",
-      "url": "https://music.apple.com/jp/album/akari-kito-billboard-live-2026/6816874716?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/b4/44/a0b444e1-1281-d148-c1c2-0273f9613693/28934.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-18",
-      "trackCount": 22,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
     },
     {
       "id": "6819432998",
