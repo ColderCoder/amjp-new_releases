@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T07:00:42.554Z",
+  "generatedAt": "2026-10-26T07:00:35.539Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3096,6 +3096,89 @@
       "tagline": null
     },
     {
+      "id": "6778547810",
+      "title": "Shaving A Dead Man",
+      "artist": "JP Harris",
+      "url": "https://music.apple.com/jp/album/shaving-a-dead-man/6778547810?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/b1/ef/29b1ef5b-17ed-76aa-6053-3889067e063e/127859.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music",
+        "Americana"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6803682811",
+      "title": "We'll All Be Okay - EP",
+      "artist": "Marfa",
+      "url": "https://music.apple.com/jp/album/well-all-be-okay-ep/6803682811?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/67/49/fb67496d-ef5f-dc09-a1ac-b7e83ddc7973/26BMR0008292.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6818189188",
+      "title": "NO SHADOWS (feat. The Veer Union & 2 Shadows) - Single",
+      "artist": "UNGOTHLY PLACES",
+      "url": "https://music.apple.com/jp/album/no-shadows-feat-the-veer-union-2-shadows-single/6818189188?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/78/3e/36/783e3620-6e08-d46b-6409-d4589f7eefda/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6785659016",
+      "title": "Popfly",
+      "artist": "Michael Nau",
+      "url": "https://music.apple.com/jp/album/popfly/6785659016?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/df/ae/38dfaea8-a3bc-29e7-65d1-40fed5bb66ef/67082.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6800128922",
+      "title": "Trauma",
+      "artist": "Nasty",
+      "url": "https://music.apple.com/jp/album/trauma/6800128922?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/6e/c9/e76ec9fd-4fdd-28b3-7f83-ee7026df8d26/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6822240980",
       "title": "EN",
       "artist": "Yuki Chiba",
@@ -4896,89 +4979,6 @@
         "Jazz",
         "Music",
         "Alternative"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6823166840",
-      "title": "DREAMSCAPE",
-      "artist": "JEONGHAN & JOSHUA",
-      "url": "https://music.apple.com/jp/album/dreamscape/6823166840?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/eb/a2/3feba289-7d8f-ead4-9df0-7593bf1e7dae/26UM1IM33265.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-19",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6820350322",
-      "title": "Strange Muse - EP",
-      "artist": "NMIXX",
-      "url": "https://music.apple.com/jp/album/strange-muse-ep/6820350322?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/68/66/d66866d7-41a4-c199-ace4-4b341b11240e/8809928956848.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-19",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6823431921",
-      "title": "on: our noise - EP",
-      "artist": "EVNNE",
-      "url": "https://music.apple.com/jp/album/on-our-noise-ep/6823431921?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/2a/49/902a49dc-da26-bbce-03b5-4a450a513095/888272190755_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-19",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819916816",
-      "title": "All Of My Life - The 3rd Mini Album - EP",
-      "artist": "MAX CHANGMIN",
-      "url": "https://music.apple.com/jp/album/all-of-my-life-the-3rd-mini-album-ep/6819916816?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/a9/3f/a3a93f8b-251c-2a4c-9a23-b6421391421f/888735957246.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-19",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813844215",
-      "title": "Alchemical Sisters",
-      "artist": "Alchemical Sisters",
-      "url": "https://music.apple.com/jp/album/alchemical-sisters/6813844215?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/15/0f/9a150fb2-0160-4508-76be-6ca2e71a8b60/8718723326339.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-19",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Breakbeat"
       ],
       "tagline": "New Album"
     },
