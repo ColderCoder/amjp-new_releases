@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:00:34.009Z",
+  "generatedAt": "2026-10-27T07:00:32.636Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3179,6 +3179,158 @@
       "tagline": null
     },
     {
+      "id": "6810686546",
+      "title": "The Angst",
+      "artist": "James Bangura",
+      "url": "https://music.apple.com/jp/album/the-angst/6810686546?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/58/1f/09581f4a-9280-fab0-b8fe-92763d680dd6/4062548152753.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Techno",
+        "Music",
+        "Dance",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6818200811",
+      "title": "file_1",
+      "artist": "Nori",
+      "url": "https://music.apple.com/jp/album/file-1/6818200811?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/81/90/6781909f-4d89-01a7-bee4-3c9b07daa79c/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "UK Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6785948495",
+      "title": "Forbidden",
+      "artist": "Forbidden",
+      "url": "https://music.apple.com/jp/album/forbidden/6785948495?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/c3/ea/82c3ea92-4908-564b-8102-8854abbd239f/820233884341.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6795584890",
+      "title": "From the Toolkit of Lovers",
+      "artist": "Loidis",
+      "url": "https://music.apple.com/jp/album/from-the-toolkit-of-lovers/6795584890?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/f9/d9/c8f9d9c0-9acc-72a7-1cc3-83ce7a0e3c84/4062548149920.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6791571802",
+      "title": "Float & Aperture",
+      "artist": "Boss Keloid",
+      "url": "https://music.apple.com/jp/album/float-aperture/6791571802?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/55/c5/1f55c5c2-02df-7626-bb8b-fbea1780f01e/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Prog-Rock/Art Rock",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793323486",
+      "title": "That Spirit of Christmas",
+      "artist": "Dustin Kensrue",
+      "url": "https://music.apple.com/jp/album/that-spirit-of-christmas/6793323486?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/17/42/d91742b4-3130-5be1-67f9-49763a76fe66/4099964273564.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6781722488",
+      "title": "Kein Streit den man nicht lösen kann",
+      "artist": "SOFFIE",
+      "url": "https://music.apple.com/jp/album/kein-streit-den-man-nicht-l%C3%B6sen-kann/6781722488?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/63/8f/b3638fad-de00-34a1-d7ad-9e167fcee332/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6785556129",
+      "title": "Of Fire And Bloodshed",
+      "artist": "Saprobiontic",
+      "url": "https://music.apple.com/jp/album/of-fire-and-bloodshed/6785556129?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/66/97/4d669792-2f35-89b7-0a1a-12975b5aba37/820233854467.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6806004860",
+      "title": "It's A Good Life If You Don't Weaken (Original Cast Recording)",
+      "artist": "'It's A Good Life If You Don't Weaken' Original Cast & The Tragically Hip",
+      "url": "https://music.apple.com/jp/album/its-a-good-life-if-you-dont-weaken-original-cast-recording/6806004860?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/07/e0/3307e01e-fd6a-a537-85a4-acd12a796963/26UM1IM10752.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": "New Release"
+    },
+    {
       "id": "6822240980",
       "title": "EN",
       "artist": "Yuki Chiba",
@@ -3476,6 +3628,23 @@
         "Forró",
         "Music",
         "Brazilian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805847212",
+      "title": "Couch Potatoes: Batch 2 - EP",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/couch-potatoes-batch-2-ep/6805847212?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/4d/ae/994dae9c-aad6-afba-9371-acea3e815797/5063817014559_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-22",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Jungle/Drum'n'bass",
+        "Music",
+        "Dance"
       ],
       "tagline": null
     },
@@ -4814,173 +4983,6 @@
         "Rock"
       ],
       "tagline": null
-    },
-    {
-      "id": "6813356998",
-      "title": "Mangsangrok",
-      "artist": "Wonjin",
-      "url": "https://music.apple.com/jp/album/mangsangrok/6813356998?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/a4/08/b3a40817-79b2-9f41-6eb1-fbbc69d534c8/PA00228244_0_255241_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-20",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824662934",
-      "title": "Apple Music Sessions",
-      "artist": "Dylan Gossett",
-      "url": "https://music.apple.com/jp/album/apple-music-sessions/6824662934?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/8a/23/a58a2336-24e5-c69b-33db-35e17a2f8768/26UM1IM35537.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-20",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6819831901",
-      "title": "Ruff & Tuff (From \"The Drop: A Snowfall Saga\") - EP",
-      "artist": "The Drop - Cast",
-      "url": "https://music.apple.com/jp/album/ruff-tuff-from-the-drop-a-snowfall-saga-ep/6819831901?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/90/1e/bd901ebc-f35e-ceed-e31b-d2620498dbd1/26UM1IM28118.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-20",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823237344",
-      "title": "Cyberpunk: Edgerunners 2 (Original Series Soundtrack)",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/cyberpunk-edgerunners-2-original-series-soundtrack/6823237344?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/91/f3/8991f3f2-e261-1885-568d-1d35f71fcc4a/196874707302.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-20",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6820875865",
-      "title": "PINK GUN",
-      "artist": "MIRIAH.",
-      "url": "https://music.apple.com/jp/album/pink-gun/6820875865?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/e8/f0/40e8f0ec-9ce9-a36b-b315-583e67653315/808391408647.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-20",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6822129015",
-      "title": "The Last Sipper",
-      "artist": "Bally Baby",
-      "url": "https://music.apple.com/jp/album/the-last-sipper/6822129015?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/14/3e/a4143e79-2c36-ca2e-b3ea-241f51fd4526/808391408722.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-20",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6820615862",
-      "title": "Planet Crafter (Original Game Soundtrack)",
-      "artist": "Benjamin Young",
-      "url": "https://music.apple.com/jp/album/planet-crafter-original-game-soundtrack/6820615862?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/5d/bc/be5dbc1d-c3f9-cc3d-42a9-00de3db48c6b/3663729474902_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-20",
-      "trackCount": 31,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Electronic",
-        "Ambient"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6806249931",
-      "title": "FOUND ON ROAD DEAD - EP",
-      "artist": "BIG ASS TRUCK I.E.",
-      "url": "https://music.apple.com/jp/album/found-on-road-dead-ep/6806249931?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/de/80/49de8049-b734-caa1-a9bf-b3c3f1661a50/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-20",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819493275",
-      "title": "STILL HERE",
-      "artist": "E3",
-      "url": "https://music.apple.com/jp/album/still-here/6819493275?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/71/21/e47121e9-7ae8-4986-f9c9-bdc2109bc4a5/808391408319.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-20",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6786428949",
-      "title": "Eight Ring Revival",
-      "artist": "Telemakus",
-      "url": "https://music.apple.com/jp/album/eight-ring-revival/6786428949?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/10/7a/91107a06-4520-ad2d-8abe-c99c79cdee61/23.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-20",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6819432998",
