@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T07:00:32.636Z",
+  "generatedAt": "2026-10-27T12:00:34.329Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -44,6 +44,22 @@
         "Rock"
       ],
       "tagline": null
+    },
+    {
+      "id": "6826510650",
+      "title": "Apple Music Live",
+      "artist": "Skye Newman",
+      "url": "https://music.apple.com/jp/album/apple-music-live/6826510650?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/35/b6/3e35b64b-28ed-ccab-b9fa-b5b9c2462adb/196874886113.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-26",
+      "trackCount": 30,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": "Exclusive Album"
     },
     {
       "id": "6820924039",
@@ -3313,22 +3329,6 @@
         "Rock"
       ],
       "tagline": null
-    },
-    {
-      "id": "6806004860",
-      "title": "It's A Good Life If You Don't Weaken (Original Cast Recording)",
-      "artist": "'It's A Good Life If You Don't Weaken' Original Cast & The Tragically Hip",
-      "url": "https://music.apple.com/jp/album/its-a-good-life-if-you-dont-weaken-original-cast-recording/6806004860?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/07/e0/3307e01e-fd6a-a537-85a4-acd12a796963/26UM1IM10752.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-23",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": "New Release"
     },
     {
       "id": "6822240980",
