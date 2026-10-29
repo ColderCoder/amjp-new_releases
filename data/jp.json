@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:00:31.833Z",
+  "generatedAt": "2026-10-29T07:00:33.062Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4541,413 +4541,299 @@
       "tagline": null
     },
     {
-      "id": "6822240980",
-      "title": "EN",
-      "artist": "Yuki Chiba",
-      "url": "https://music.apple.com/jp/album/en/6822240980?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/09/a8/6609a8bc-aa7b-1891-5052-a73687d5ac69/1200220298693.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-22",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814925419",
-      "title": "The Story of My Life",
-      "artist": "MC Eiht",
-      "url": "https://music.apple.com/jp/album/the-story-of-my-life/6814925419?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/10/6e/d6/106ed6f9-c8d5-cce0-81ab-1e8b3322bfb0/885288435832.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-22",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824675056",
-      "title": "VisionQuest - Vol. 1 (Episodes 1-4) [Original Soundtrack]",
-      "artist": "Mick Giacchino",
-      "url": "https://music.apple.com/jp/album/visionquest-vol-1-episodes-1-4-original-soundtrack/6824675056?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f7/13/f3/f713f3ec-58d9-381d-be52-483a8fe5cd7a/26UM1IM31445.rgb.jpg/632x632bb.jpg",
+      "id": "6781825780",
+      "title": "Here is Donato!",
+      "artist": "Ryan Keberle’s Collectiv do Brasil",
+      "url": "https://music.apple.com/jp/album/here-is-donato/6781825780?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/d0/d2/53d0d29c-ce8b-e2fe-0249-d009ea036f60/820233813426.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 23,
+      "releaseDate": "2026-10-23",
+      "trackCount": 10,
       "kind": "album",
       "genres": [
-        "Soundtrack",
+        "Latin Jazz",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6783041344",
+      "title": "Mientras el Guadalquivir fluye y fluye y fluye",
+      "artist": "Viva Belgrado",
+      "url": "https://music.apple.com/jp/album/mientras-el-guadalquivir-fluye-y-fluye-y-fluye/6783041344?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/db/7f/fedb7f0d-aaad-517a-51ba-95f2181a4d82/820233847537.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Indie Rock",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6784045156",
+      "title": "Mi plan",
+      "artist": "Sarria",
+      "url": "https://music.apple.com/jp/album/mi-plan/6784045156?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/e2/ec/b2e2ece7-66d8-7753-ede1-761d5a3e5780/823375257509_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Pop/Rock",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6785639615",
+      "title": "Fortæl Om Dit Døgn - EP",
+      "artist": "henfald",
+      "url": "https://music.apple.com/jp/album/fort%C3%A6l-om-dit-d%C3%B8gn-ep/6785639615?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/09/4c/fa094c59-a4d7-2e98-f6b2-f24b9b7adf10/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Rock",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6821198768",
-      "title": "Dangerously Misunderstood",
-      "artist": "Saint Crook",
-      "url": "https://music.apple.com/jp/album/dangerously-misunderstood/6821198768?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/d6/15/9fd61506-f2cc-4558-516b-b2feaaeefa46/075679554499.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-22",
-      "trackCount": 8,
+      "id": "6786453782",
+      "title": "I Wish I Was A Single Girl Again",
+      "artist": "Dida Pelled",
+      "url": "https://music.apple.com/jp/album/i-wish-i-was-a-single-girl-again/6786453782?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/94/1e/98941eeb-5233-5e49-39b4-55b8e61d56a7/820233903981.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 9,
       "kind": "album",
       "genres": [
-        "Hip-Hop/Rap",
+        "Vocal Jazz",
+        "Music",
+        "Jazz"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786455056",
+      "title": "Something's Gotta Give",
+      "artist": "Maria Kim",
+      "url": "https://music.apple.com/jp/album/somethings-gotta-give/6786455056?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/c7/af/3bc7afad-24f6-26bd-ea06-dae6c9ac89a3/820233911375.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Vocal Jazz",
+        "Music",
+        "Jazz"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6786870587",
+      "title": "Altered State Police",
+      "artist": "Priest",
+      "url": "https://music.apple.com/jp/album/altered-state-police/6786870587?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/a0/5a/e0a05a52-1de2-c65a-188f-49afe023d482/128472.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788780397",
+      "title": "Countertenor",
+      "artist": "Anthony Roth Costanzo",
+      "url": "https://music.apple.com/jp/album/countertenor/6788780397?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/41/9f/f1419f98-3ece-5db9-0944-bd04b32ecce0/075597891478.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6789769614",
+      "title": "Frogs In A Pond",
+      "artist": "Surprise Chef",
+      "url": "https://music.apple.com/jp/album/frogs-in-a-pond/6789769614?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/b1/a7/80b1a781-e001-6ab3-f684-70eadb8c3cb2/26CRGIM55338.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Jazz",
         "Music"
       ],
       "tagline": "New Album"
     },
     {
-      "id": "6802763530",
-      "title": "Winterlicious D'Luxe",
-      "artist": "Debbie Gibson",
-      "url": "https://music.apple.com/jp/album/winterlicious-dluxe/6802763530?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/5d/e3/475de34c-00d3-7881-0378-3aeb6d56b531/885288296310.jpg/632x632bb.jpg",
+      "id": "6790338323",
+      "title": "World So Wonderful",
+      "artist": "Mason Hill",
+      "url": "https://music.apple.com/jp/album/world-so-wonderful/6790338323?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/72/88/45728814-9a72-1b21-0c9f-1b9fec7cdffe/1200214519759.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 20,
+      "releaseDate": "2026-10-23",
+      "trackCount": 11,
       "kind": "album",
       "genres": [
-        "Christmas",
-        "Music",
-        "Holiday"
+        "Rock",
+        "Music"
       ],
-      "tagline": "New Deluxe Edition"
+      "tagline": null
     },
     {
-      "id": "6807002181",
-      "title": "Mahler: Symphonies Nos. 1-4",
-      "artist": "Vienna Philharmonic & Andris Nelsons",
-      "url": "https://music.apple.com/jp/album/mahler-symphonies-nos-1-4/6807002181?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/f5/7d/aaf57d53-c268-a672-b114-6e50816d47bb/26UM1IM05335.rgb.jpg/632x632bb.jpg",
+      "id": "6790437018",
+      "title": "Passing the Cup of Sorrows",
+      "artist": "William Basinski",
+      "url": "https://music.apple.com/jp/album/passing-the-cup-of-sorrows/6790437018?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/1f/38/f41f381d-2aea-eca5-b195-7e68efa4c0c1/67417.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 77,
+      "releaseDate": "2026-10-23",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6792041047",
+      "title": "Kiwi avec la peau",
+      "artist": "Lakna",
+      "url": "https://music.apple.com/jp/album/kiwi-avec-la-peau/6792041047?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/3c/ac/313cacee-7e98-76cf-5cd7-9d5b1737059d/3663729455215_cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6792791020",
+      "title": "Noll personlig utveckling",
+      "artist": "Jonas Lundqvist",
+      "url": "https://music.apple.com/jp/album/noll-personlig-utveckling/6792791020?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/e0/37/b0e03710-6a1f-4cde-c1f9-d6c647458ba3/8720923064867.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6793133064",
+      "title": "Thinking Will Get You Nowhere",
+      "artist": "Surfer Dave",
+      "url": "https://music.apple.com/jp/album/thinking-will-get-you-nowhere/6793133064?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/49/c3/e049c381-7bf3-6f9a-c092-02c18abae84f/4062548149258.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Contemporary Jazz",
+        "Music",
+        "Jazz",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795529270",
+      "title": "Concert pour Paris (Baroque Oboe Concertos)",
+      "artist": "Céline Moinet, Folkwang Kammerorchester Essen & Reinhard Goebel",
+      "url": "https://music.apple.com/jp/album/concert-pour-paris-baroque-oboe-concertos/6795529270?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/76/4b/4b764be6-9678-9936-08ff-02d885364400/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 15,
       "kind": "album",
       "genres": [
         "Classical",
         "Music",
-        "Orchestral"
+        "Baroque Era",
+        "Brass & Woodwinds"
       ],
-      "tagline": "New Album"
+      "tagline": null
     },
     {
-      "id": "6818554554",
-      "title": "No Hay Ángeles Aquí",
-      "artist": "Victor Mendivil",
-      "url": "https://music.apple.com/jp/album/no-hay-%C3%A1ngeles-aqu%C3%AD/6818554554?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/d8/31/a6d831af-322c-57e3-a470-5acc23dd84c1/1963625067621_cover.jpg/632x632bb.jpg",
+      "id": "6795846927",
+      "title": "LA FOUDRE",
+      "artist": "Aloïse Sauvage",
+      "url": "https://music.apple.com/jp/album/la-foudre/6795846927?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/0e/af/f10eafcb-7d15-4f92-32fb-233260398430/cover.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-10-22",
-      "trackCount": 23,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music",
-        "Urbano latino"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6816234741",
-      "title": "Las P*tas Aman También",
-      "artist": "Yeri Mua",
-      "url": "https://music.apple.com/jp/album/las-p-tas-aman-tambi%C3%A9n/6816234741?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/ce/98/9fce9885-3e51-4d5a-6a04-fa3459a5e177/196874830512.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-22",
+      "releaseDate": "2026-10-23",
       "trackCount": 12,
       "kind": "album",
       "genres": [
-        "Urbano latino",
+        "Indie Pop",
         "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6821176124",
-      "title": "Simples Assim (Ao Vivo)",
-      "artist": "Mumuzinho",
-      "url": "https://music.apple.com/jp/album/simples-assim-ao-vivo/6821176124?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/76/51/f87651b9-dd45-5b09-43f4-a92c1afbeefb/25UM1IM72121.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Pagode",
-        "Music",
-        "Brazilian"
+        "Alternative"
       ],
       "tagline": null
     },
     {
-      "id": "6821013570",
-      "title": "iTheku eThekwini",
-      "artist": "Okmalumkoolkat",
-      "url": "https://music.apple.com/jp/album/itheku-ethekwini/6821013570?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/44/35/bd44352a-d423-1bb5-13bb-dc5fa0f8c2f4/823375526551_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-22",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6820784124",
-      "title": "Desde El Corazón",
-      "artist": "Akilatados",
-      "url": "https://music.apple.com/jp/album/desde-el-coraz%C3%B3n/6820784124?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/06/c3/6606c3e8-c69d-1e2b-45a6-fb3efbd52670/1200220272365.jpg/632x632bb.jpg",
+      "id": "6795885017",
+      "title": "Mozart: String Quintets K. 515 & 516",
+      "artist": "Takács Quartet & Timothy Ridout",
+      "url": "https://music.apple.com/jp/album/mozart-string-quintets-k-515-516/6795885017?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/dc/ae/02dcae4e-08e9-0ad8-4523-08e10bd646e7/26UMGIM69371.rgb.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819459758",
-      "title": "DÓNDE - EP",
-      "artist": "julileuro",
-      "url": "https://music.apple.com/jp/album/d%C3%B3nde-ep/6819459758?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/13/70/5113702b-9738-5e64-e727-81c1aec55406/612735176891_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music",
-        "Pop in Spanish"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6820941380",
-      "title": "Amateur",
-      "artist": "Cesare Cremonini",
-      "url": "https://music.apple.com/jp/album/amateur/6820941380?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/56/5b/27565b63-5eaf-a927-5729-d4f08c3b4fc5/26UM1IM15888.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819447275",
-      "title": "Heridas - Single",
-      "artist": "JJ",
-      "url": "https://music.apple.com/jp/album/heridas-single/6819447275?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/6e/08/946e087e-18e1-d4dc-0cc0-c74ce182f459/823375518884_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-22",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6782109968",
-      "title": "Elsewhere - EP",
-      "artist": "Akkadian",
-      "url": "https://music.apple.com/jp/album/elsewhere-ep/6782109968?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/2a/86/e52a863f-fae4-d2b8-1f4e-f2fa6635b390/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822429048",
-      "title": "PROYECTANDO (Deluxe)",
-      "artist": "Julio Caesar",
-      "url": "https://music.apple.com/jp/album/proyectando-deluxe/6822429048?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/53/67/a0536703-5d5a-86e2-6d2c-1e10f0bc39c3/196874880289.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Deluxe Edition"
-    },
-    {
-      "id": "6821068891",
-      "title": "Chama no Bregão 2 | Vol. 2 (Ao Vivo)",
-      "artist": "Raphaela Santos",
-      "url": "https://music.apple.com/jp/album/chama-no-breg%C3%A3o-2-vol-2-ao-vivo/6821068891?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/df/39/96df39a4-0ab2-3078-6f98-4ff397cca084/196874871843.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Forró",
-        "Music",
-        "Brazilian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805847212",
-      "title": "Couch Potatoes: Batch 2 - EP",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/couch-potatoes-batch-2-ep/6805847212?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/99/4d/ae/994dae9c-aad6-afba-9371-acea3e815797/5063817014559_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Jungle/Drum'n'bass",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6818574968",
-      "title": "transmutations",
-      "artist": "Purity Ring",
-      "url": "https://music.apple.com/jp/album/transmutations/6818574968?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/12/92/6e12926d-dcdc-6e45-4d30-b454204a10f6/69333.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 28,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6825085935",
-      "title": "MUNDIAL",
-      "artist": "wow popy & Dj Cham",
-      "url": "https://music.apple.com/jp/album/mundial/6825085935?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/23/b9/6d23b932-9941-6e02-c828-01287744d397/26UM1IM36390.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-22",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin",
-        "R&B/Soul"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6817352191",
-      "title": "Piosenki o miłości: nieopowiedziane historie - EP",
-      "artist": "Marcin Maciejczak",
-      "url": "https://music.apple.com/jp/album/piosenki-o-mi%C5%82o%C5%9Bci-nieopowiedziane-historie-ep/6817352191?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/dd/e4/74dde40e-2cbe-fd4c-e013-c3ced77e7c46/0001160313016.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822895784",
-      "title": "Ao Vivo em Goiânia .2 - EP",
-      "artist": "Lu & Rayane",
-      "url": "https://music.apple.com/jp/album/ao-vivo-em-goi%C3%A2nia-2-ep/6822895784?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/8b/26/ec8b261e-6833-636f-c2d6-25f0511f690c/4517628.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805073115",
-      "title": "Fogaréu",
-      "artist": "Cornucópia Desvairada",
-      "url": "https://music.apple.com/jp/album/fogar%C3%A9u/6805073115?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/49/d7/e949d773-5454-0617-0d4a-7f153cc6989b/8721554394606.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
+      "releaseDate": "2026-10-23",
       "trackCount": 8,
       "kind": "album",
       "genres": [
-        "Brazilian",
+        "Classical",
         "Music",
-        "Latin"
+        "Chamber Music",
+        "High Classical"
       ],
       "tagline": null
     },
     {
-      "id": "6822917046",
-      "title": "Breguíssimo",
-      "artist": "Grelo",
-      "url": "https://music.apple.com/jp/album/bregu%C3%ADssimo/6822917046?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/bd/e7/d7bde7e9-66ab-4160-4433-379e1cbe39ed/26UM1IM33667.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Brazilian",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822140634",
-      "title": "QUEM TEM MEDO DE TRAVESTI? VOL.I",
-      "artist": "MC DELLACROIX & Maunatrack",
-      "url": "https://music.apple.com/jp/album/quem-tem-medo-de-travesti-vol-i/6822140634?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/dc/c8/a3dcc87d-0703-128e-dade-13c54e94105b/4515831.jpg/632x632bb.jpg",
+      "id": "6795933769",
+      "title": "HATERS MAKE ME FAMOUS 5",
+      "artist": "GionnyScandal",
+      "url": "https://music.apple.com/jp/album/haters-make-me-famous-5/6795933769?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/b6/27/9fb627d8-6273-9d29-c258-9e593319d31c/cover.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-10-22",
+      "releaseDate": "2026-10-23",
       "trackCount": 10,
       "kind": "album",
       "genres": [
@@ -4957,34 +4843,156 @@
       "tagline": null
     },
     {
-      "id": "6815992182",
-      "title": "The Dom Salvador Samba Jazz Big Band",
-      "artist": "Dom Salvador",
-      "url": "https://music.apple.com/jp/album/the-dom-salvador-samba-jazz-big-band/6815992182?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f9/e1/99/f9e199c3-78a4-b42f-5b36-dc6c5d770455/0631685102224.jpg/632x632bb.jpg",
+      "id": "6797897968",
+      "title": "Beethoven: The Complete Sonatas",
+      "artist": "Viktoria Mullova, Alasdair Beatson & Kristian Bezuidenhout",
+      "url": "https://music.apple.com/jp/album/beethoven-the-complete-sonatas/6797897968?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/df/20/9adf2011-288c-35a2-d731-9f49cf83d254/635212102022.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-22",
-      "trackCount": 6,
+      "releaseDate": "2026-10-23",
+      "trackCount": 33,
       "kind": "album",
       "genres": [
-        "Jazz",
+        "Classical",
+        "Music",
+        "Violin",
+        "Piano",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6798293637",
+      "title": "mere meer",
+      "artist": "aus",
+      "url": "https://music.apple.com/jp/album/mere-meer/6798293637?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/2b/79/292b79c0-f2a8-8184-7402-98f1133d8b6a/3663729459909_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Ambient",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6798339268",
+      "title": "Kira Krash",
+      "artist": "DJ Suzy",
+      "url": "https://music.apple.com/jp/album/kira-krash/6798339268?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/fd/67/fefd67a1-0a37-3087-8619-fc1b507807b7/8721466365510.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6799087260",
+      "title": "PARADISE IF YOU CAN STAND IT",
+      "artist": "Bonaparte",
+      "url": "https://music.apple.com/jp/album/paradise-if-you-can-stand-it/6799087260?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/93/84/c69384ca-533d-3bf8-493f-66a9781593c2/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "New Wave",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6799126453",
+      "title": "I Kolde Stjerners Lys - Live",
+      "artist": "Magtens Korridorer",
+      "url": "https://music.apple.com/jp/album/i-kolde-stjerners-lys-live/6799126453?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/87/66/1c876650-c8a0-1651-f321-c767efe32e5e/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Rock",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6812499664",
-      "title": "Dez Vidas",
-      "artist": "Tuyo",
-      "url": "https://music.apple.com/jp/album/dez-vidas/6812499664?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/17/0e/84170e19-d0be-af8f-1c2a-ea69420effda/4099964294699.jpg/632x632bb.jpg",
+      "id": "6800267987",
+      "title": "Älvgång",
+      "artist": "Civilistjävel!",
+      "url": "https://music.apple.com/jp/album/%C3%A4lvg%C3%A5ng/6800267987?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/33/c3/ba33c3c6-3319-3963-4167-a076416b219f/17107.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-22",
+      "releaseDate": "2026-10-23",
       "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Ambient"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6800692037",
+      "title": "Glim",
+      "artist": "Mavi Phoenix",
+      "url": "https://music.apple.com/jp/album/glim/6800692037?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/78/bc/0578bc98-09e7-8066-79cd-7e52c1679fc0/cover_4068992798448.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-23",
+      "trackCount": 10,
       "kind": "album",
       "genres": [
         "Pop",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801569468",
+      "title": "Calling Antonín",
+      "artist": "James Brandon Lewis & Red Lily",
+      "url": "https://music.apple.com/jp/album/calling-anton%C3%ADn/6801569468?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/2a/2f/5a2a2f98-77a4-ea76-3005-b648679b534d/642623802120_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music",
+        "Folk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6802303163",
+      "title": "Live in Venice",
+      "artist": "The Tallis Scholars & Peter Phillips",
+      "url": "https://music.apple.com/jp/album/live-in-venice/6802303163?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/aa/71/8aaa71b8-06d7-1924-ab06-d317b201805a/26UMGIM83336.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-23",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Choral",
+        "Sacred"
       ],
       "tagline": null
     },
