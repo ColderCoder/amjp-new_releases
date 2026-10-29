@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:00:31.785Z",
+  "generatedAt": "2026-10-29T23:00:31.980Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -533,7 +533,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6781035140",
@@ -819,7 +819,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6808822402",
@@ -984,7 +984,7 @@
         "Music",
         "Christian"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6791335508",
@@ -2390,6 +2390,23 @@
       "tagline": null
     },
     {
+      "id": "6809906710",
+      "title": "Lumbre",
+      "artist": "Marilia Monzón",
+      "url": "https://music.apple.com/jp/album/lumbre/6809906710?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/fa/9a/adfa9a47-1b08-b1ec-b832-bac2560acc4e/823375421399_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop in Spanish",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6826403389",
       "title": "Sorbet Radio 004: Noah Selene (DJ Mix)",
       "artist": "Noah Selene",
@@ -2610,6 +2627,22 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6789563737",
+      "title": "GUTE ALTE ZEIT",
+      "artist": "FAYAN & Dalton",
+      "url": "https://music.apple.com/jp/album/gute-alte-zeit/6789563737?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/9b/0a/7a9b0af0-d5e2-9d5d-30df-09cb0c96e40f/8718521104177.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6813613039",
@@ -3524,7 +3557,7 @@
         "Dance",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6815461101",
@@ -3626,57 +3659,6 @@
         "Indie Rock",
         "Music",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6776062781",
-      "title": "Tales of Love - EP",
-      "artist": "Roman Nagel",
-      "url": "https://music.apple.com/jp/album/tales-of-love-ep/6776062781?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/8b/18/ec8b185f-fe44-e870-6f67-5249a882afb4/1200214270957.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Classical Crossover",
-        "Music",
-        "Classical",
-        "Piano"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6820628568",
-      "title": "Bundan Sonra",
-      "artist": "Çaba",
-      "url": "https://music.apple.com/jp/album/bundan-sonra/6820628568?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/64/a6/2064a6e8-5c02-9535-8635-9231ac1ebf15/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Turkish Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6791611309",
-      "title": "Lost & Found",
-      "artist": "Isaac Roux",
-      "url": "https://music.apple.com/jp/album/lost-found/6791611309?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/6d/18/616d188e-cbb8-d36c-07b1-84a4cb55bfd7/8717931357555.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
       ],
       "tagline": null
     },
@@ -3846,6 +3828,22 @@
         "House",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6821058246",
+      "title": "Max Forever Vol. 2",
+      "artist": "Max Pezzali",
+      "url": "https://music.apple.com/jp/album/max-forever-vol-2/6821058246?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/43/53/d843535a-be36-c7b0-efb4-2ecb76ffe6e8/1200220285365.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-29",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
       ],
       "tagline": null
     },
