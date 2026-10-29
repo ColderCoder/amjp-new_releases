@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:00:33.062Z",
+  "generatedAt": "2026-10-29T15:00:31.598Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -44,6 +44,39 @@
         "Rock"
       ],
       "tagline": null
+    },
+    {
+      "id": "6822939448",
+      "title": "Il Caos a Detroit",
+      "artist": "Victor Victor Presents & Lelo",
+      "url": "https://music.apple.com/jp/album/il-caos-a-detroit/6822939448?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/35/70/af357058-291b-eff1-076c-ead2f7c3ce1a/26CRGIM56131.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6785597963",
+      "title": "Traditions",
+      "artist": "Fanny Lumsden",
+      "url": "https://music.apple.com/jp/album/traditions/6785597963?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/34/99/4a349932-b902-de53-4c47-6364bde19b47/8721555639874.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": "New Album and Interview"
     },
     {
       "id": "6826510650",
@@ -4958,41 +4991,6 @@
       "genres": [
         "Pop",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801569468",
-      "title": "Calling Antonín",
-      "artist": "James Brandon Lewis & Red Lily",
-      "url": "https://music.apple.com/jp/album/calling-anton%C3%ADn/6801569468?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/2a/2f/5a2a2f98-77a4-ea76-3005-b648679b534d/642623802120_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music",
-        "Folk"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802303163",
-      "title": "Live in Venice",
-      "artist": "The Tallis Scholars & Peter Phillips",
-      "url": "https://music.apple.com/jp/album/live-in-venice/6802303163?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8a/aa/71/8aaa71b8-06d7-1924-ab06-d317b201805a/26UMGIM83336.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-23",
-      "trackCount": 16,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Choral",
-        "Sacred"
       ],
       "tagline": null
     },
