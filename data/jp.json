@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:00:38.243Z",
+  "generatedAt": "2026-10-29T21:00:32.802Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -24,7 +24,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6797444451",
@@ -40,7 +40,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album and Interview"
     },
     {
       "id": "6823404812",
@@ -586,6 +586,23 @@
       "tagline": null
     },
     {
+      "id": "6822739756",
+      "title": "Curio (Original Motion Picture Soundtrack)",
+      "artist": "Graham Coxon",
+      "url": "https://music.apple.com/jp/album/curio-original-motion-picture-soundtrack/6822739756?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/22/02/dd2202b7-23bb-28b1-afa8-78d4ded7b7f0/8721639111128.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6790817376",
       "title": "Burning Song",
       "artist": "Kali Malone",
@@ -770,7 +787,7 @@
         "Singer/Songwriter",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6800517929",
@@ -1020,7 +1037,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6814882310",
@@ -1364,6 +1381,23 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6821961619",
+      "title": "MEMBANA - Single",
+      "artist": "Critical",
+      "url": "https://music.apple.com/jp/album/membana-single/6821961619?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/0d/30/b80d30d4-5143-9f73-e0f6-dc36f69724e7/26UM1IM32291.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
@@ -3647,22 +3681,6 @@
       "tagline": null
     },
     {
-      "id": "6771488627",
-      "title": "The Orchard",
-      "artist": "Heather Nova",
-      "url": "https://music.apple.com/jp/album/the-orchard/6771488627?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/05/c6/4a05c6f1-232e-f15b-f80b-bd3f213d930c/8717931357838.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6823391382",
       "title": "M0th3r6or3d - EP",
       "artist": "quannnic",
@@ -3847,24 +3865,6 @@
         "Dance"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6825599939",
-      "title": "The view never seen before - EP",
-      "artist": "CASUALLY CONNECTED",
-      "url": "https://music.apple.com/jp/album/the-view-never-seen-before-ep/6825599939?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/c2/7c/35c27c70-dff9-4b66-c75c-b59ae55ec35a/8800422153429.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-29",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Pop",
-        "K-Pop"
-      ],
-      "tagline": null
     },
     {
       "id": "6822913810",
