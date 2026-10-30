@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:00:32.286Z",
+  "generatedAt": "2026-10-30T13:00:32.815Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1376,7 +1376,7 @@
         "Country",
         "Americana"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6819894963",
