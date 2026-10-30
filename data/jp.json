@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:00:32.815Z",
+  "generatedAt": "2026-10-30T14:00:35.148Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -125,6 +125,23 @@
         "Music",
         "Dance",
         "Techno"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811387535",
+      "title": "Colina Madre",
+      "artist": "Toshiyuki Yasuda",
+      "url": "https://music.apple.com/jp/album/colina-madre/6811387535?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/21/aa/ed21aa09-b7f4-2283-711b-509e54de83fa/cm5.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Jazz"
       ],
       "tagline": null
     },
@@ -2960,22 +2977,6 @@
       "tagline": null
     },
     {
-      "id": "6819831892",
-      "title": "Blood, Sweat and Tears",
-      "artist": "Big Celly",
-      "url": "https://music.apple.com/jp/album/blood-sweat-and-tears/6819831892?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/2a/a0/eb2aa055-0b31-491d-c9ea-87a8fbf9c1c7/075679552273.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6817324626",
       "title": "Sarracenia - EP",
       "artist": "Maebashi Witches",
@@ -4787,7 +4788,7 @@
       "title": "Head Trip (DJ Mix)",
       "artist": "FISHER & Chris Lake",
       "url": "https://music.apple.com/jp/album/head-trip-dj-mix/6828261578?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/95/d7/3a95d739-eeef-d411-787b-b740cb4a84ac/443cb741-208e-4262-988a-6163c3c77f1a.png/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/43/7c/81437c31-555e-a015-a196-7c214028a5d0/ticket.alvcbmur.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-10-10",
       "trackCount": 26,
