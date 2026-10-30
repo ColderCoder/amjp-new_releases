@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T02:00:32.898Z",
+  "generatedAt": "2026-10-30T03:00:31.731Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2068,7 +2068,7 @@
       "title": "Nu Zamrock",
       "artist": "Sampa the Great",
       "url": "https://music.apple.com/jp/album/nu-zamrock/6800037021?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/ee/3c/97ee3c83-ed6a-ba93-7528-9e6aa8102620/26CRGIM55873.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4b/16/d7/4b16d7ca-dbe3-9598-a82e-7a5f4d21d5f1/26CRGIM55873.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-30",
       "trackCount": 16,
