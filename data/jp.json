@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T23:00:31.980Z",
+  "generatedAt": "2026-10-30T00:00:34.149Z",
   "source": "https://music.apple.com/jp/room/6826008573?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6826008573?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -106,7 +106,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6798103849",
@@ -155,7 +155,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6800406753",
@@ -187,7 +187,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6820809871",
@@ -451,7 +451,7 @@
         "Alternative",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6811165088",
@@ -517,7 +517,7 @@
         "Music",
         "Urbano latino"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6805069535",
@@ -567,7 +567,7 @@
         "Music",
         "Indie Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6825548968",
@@ -835,7 +835,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6825842983",
@@ -867,7 +867,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6820434045",
@@ -1180,6 +1180,23 @@
       "tagline": null
     },
     {
+      "id": "6823788888",
+      "title": "Entre Vinos Y Rencores (Con Los Compas) [En Vivo]",
+      "artist": "Vilax",
+      "url": "https://music.apple.com/jp/album/entre-vinos-y-rencores-con-los-compas-en-vivo/6823788888?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/56/74/075674b5-9ece-d7df-da17-9647eadf1ca9/26UM1IM33236.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6822949043",
       "title": "A La Luz De El Cantoral (En Vivo)",
       "artist": "Ricardo Caballero",
@@ -1433,7 +1450,7 @@
         "Music",
         "Alternative"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6823347793",
@@ -2169,6 +2186,22 @@
       "tagline": null
     },
     {
+      "id": "6819650506",
+      "title": "Magia Bianca, Magia Nera",
+      "artist": "Francesca Michielin",
+      "url": "https://music.apple.com/jp/album/magia-bianca-magia-nera/6819650506?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/73/ce/1973ce93-45d1-e3ad-49ec-943dda9cde68/196874761038.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6823797006",
       "title": "FURTHER Guest Mix Series: DAIYAH (Hypnotic Mix) [DJ Mix]",
       "artist": "DAIYAH",
@@ -2370,7 +2403,7 @@
         "Music",
         "R&B/Soul"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6818285998",
@@ -3304,7 +3337,7 @@
         "Music",
         "Indie Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6788342513",
@@ -3578,91 +3611,6 @@
       "tagline": null
     },
     {
-      "id": "6825029177",
-      "title": "Toolroom Academy presents: Leo NXT (DJ Mix)",
-      "artist": "Leo NXT",
-      "url": "https://music.apple.com/jp/album/toolroom-academy-presents-leo-nxt-dj-mix/6825029177?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/50/c8/9450c8b4-c54d-034f-a9a9-e3f5293dd3ca/f80a569e-f2bc-48e3-b349-58d47edcae90.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824697272",
-      "title": "DEIN SPIEL IST AUS RADIO (DJ Mix)",
-      "artist": "Lilly Palmer",
-      "url": "https://music.apple.com/jp/album/dein-spiel-ist-aus-radio-dj-mix/6824697272?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/60/9d/b2609d41-166f-54f9-714d-0f2f87bdda21/ac75490d-0a84-488d-8b09-1a0155aed399.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6821887652",
-      "title": "BoomBesk",
-      "artist": "Tekir",
-      "url": "https://music.apple.com/jp/album/boombesk/6821887652?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/ee/55/19ee55b8-5dfa-495e-be1d-5b41d1076500/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music",
-        "Turkish Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6816891974",
-      "title": "POPSTAR",
-      "artist": "FELICIA",
-      "url": "https://music.apple.com/jp/album/popstar/6816891974?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/8e/ac/098eac95-4f1a-705f-3daa-08b3c3404f32/1200220143924.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817819750",
-      "title": "yeniden",
-      "artist": "Lemur",
-      "url": "https://music.apple.com/jp/album/yeniden/6817819750?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/48/fb/0c48fb9e-ca24-f9b5-480e-68a9e94590af/885288718409.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Indie Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6823391382",
       "title": "M0th3r6or3d - EP",
       "artist": "quannnic",
@@ -3693,6 +3641,23 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6822117304",
+      "title": "TRAP MEDALLO - EP",
+      "artist": "J Castle",
+      "url": "https://music.apple.com/jp/album/trap-medallo-ep/6822117304?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/94/47/cf9447f2-32eb-63c2-82cc-c4fcf7b557ca/1200220297047.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-29",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New EP"
     },
     {
       "id": "6823737992",
@@ -3797,6 +3762,23 @@
         "Dance"
       ],
       "tagline": null
+    },
+    {
+      "id": "6822029352",
+      "title": "Ángeles En El Muro (En Vivo)",
+      "artist": "Grupo Arriesgado",
+      "url": "https://music.apple.com/jp/album/%C3%A1ngeles-en-el-muro-en-vivo/6822029352?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/4f/9b/174f9bc7-b5bf-f645-f919-d1bd3b983f4b/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-29",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Live Album"
     },
     {
       "id": "6809482920",
@@ -4316,7 +4298,7 @@
         "Music",
         "Singer/Songwriter"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6823250826",
@@ -4615,6 +4597,23 @@
         "Electronic"
       ],
       "tagline": "Exclusive DJ Mix"
+    },
+    {
+      "id": "6824672238",
+      "title": "Live at Hï Ibiza: Denis Sulta, Sep 5, 2026 (DJ Mix)",
+      "artist": "Denis Sulta",
+      "url": "https://music.apple.com/jp/album/live-at-h%C3%AF-ibiza-denis-sulta-sep-5-2026-dj-mix/6824672238?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/ec/1f/58ec1fc4-0df1-ae7d-be13-39719e4a8188/3d67bda7-0e25-478e-8963-d44cd50885e9.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-05",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
     },
     {
       "id": "6822916897",
