@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T14:00:35.148Z",
+  "generatedAt": "2026-10-30T15:00:34.735Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6824670752",
+      "title": "The Crazy Return",
+      "artist": "DEE GLOKK",
+      "url": "https://music.apple.com/jp/album/the-crazy-return/6824670752?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/df/3c/13df3c3f-d40b-5cf1-6901-0b5bc956032f/808391410930.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-31",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
     {
       "id": "6798296052",
       "title": "Solo Piano",
@@ -2956,23 +2973,6 @@
         "Christian",
         "Music",
         "Classic Christian"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824723165",
-      "title": "Experts Only 065 (DJ Mix)",
-      "artist": "John Summit",
-      "url": "https://music.apple.com/jp/album/experts-only-065-dj-mix/6824723165?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/98/3d/9c983d3d-79e6-9822-93a2-cfa12300a31b/e8145631-ce3a-4bd8-9625-86bcee9fc9d2.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic"
       ],
       "tagline": null
     },
