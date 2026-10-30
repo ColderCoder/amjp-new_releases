@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T06:00:31.615Z",
+  "generatedAt": "2026-10-30T10:00:32.286Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -958,23 +958,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6817842228",
-      "title": "A/_v[a]n.’t-G_ard.’e - Single",
-      "artist": "Sakr",
-      "url": "https://music.apple.com/jp/album/a-v-a-n-t-g-ard-e-single/6817842228?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/dc/f8/a5dcf8bc-2b34-8c7a-ee68-4d77c13418f6/5059449465050.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6818329581",
       "title": "VSQ Performs Donnie Darko",
       "artist": "Vitamin String Quartet",
@@ -1567,25 +1550,6 @@
       "tagline": null
     },
     {
-      "id": "6791314444",
-      "title": "Confidential - Single",
-      "artist": "X-Cops",
-      "url": "https://music.apple.com/jp/album/confidential-single/6791314444?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/be/0d/90be0d46-0063-6fa7-1dca-c48b3a08f57e/128754.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock",
-        "Alternative",
-        "Punk"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6816987723",
       "title": "Noi un po' meglio (Colonna sonora del film Netflix)",
       "artist": "Bryan Senti",
@@ -1682,23 +1646,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6821961619",
-      "title": "MEMBANA - Single",
-      "artist": "Critical",
-      "url": "https://music.apple.com/jp/album/membana-single/6821961619?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/0d/30/b80d30d4-5143-9f73-e0f6-dc36f69724e7/26UM1IM32291.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
@@ -2963,6 +2910,72 @@
       "tagline": "New Album"
     },
     {
+      "id": "6789563737",
+      "title": "GUTE ALTE ZEIT",
+      "artist": "FAYAN & Dalton",
+      "url": "https://music.apple.com/jp/album/gute-alte-zeit/6789563737?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/9b/0a/7a9b0af0-d5e2-9d5d-30df-09cb0c96e40f/8718521104177.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6813613039",
+      "title": "Make Me Willing - EP",
+      "artist": "Chelsea Plank",
+      "url": "https://music.apple.com/jp/album/make-me-willing-ep/6813613039?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/7a/b7/df7ab754-3145-c33a-69d8-d6d3dbb7067b/196874794425.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Christian",
+        "Music",
+        "Classic Christian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6824723165",
+      "title": "Experts Only 065 (DJ Mix)",
+      "artist": "John Summit",
+      "url": "https://music.apple.com/jp/album/experts-only-065-dj-mix/6824723165?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/98/3d/9c983d3d-79e6-9822-93a2-cfa12300a31b/e8145631-ce3a-4bd8-9625-86bcee9fc9d2.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6819831892",
+      "title": "Blood, Sweat and Tears",
+      "artist": "Big Celly",
+      "url": "https://music.apple.com/jp/album/blood-sweat-and-tears/6819831892?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/2a/a0/eb2aa055-0b31-491d-c9ea-87a8fbf9c1c7/075679552273.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6817324626",
       "title": "Sarracenia - EP",
       "artist": "Maebashi Witches",
@@ -3061,23 +3074,6 @@
         "Techno"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6820571503",
-      "title": "Uh Oh - Single",
-      "artist": "Huge Jackman",
-      "url": "https://music.apple.com/jp/album/uh-oh-single/6820571503?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/82/81/8d828127-5059-9043-e933-4f2771b6c913/4070209016474_3000.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-29",
-      "trackCount": 1,
-      "kind": "single",
-      "genres": [
-        "Breakbeat",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
     },
     {
       "id": "6823421054",
@@ -4787,23 +4783,6 @@
       "tagline": null
     },
     {
-      "id": "6826470400",
-      "title": "Tina Tuesday Freestyles - Single",
-      "artist": "Megan Thee Stallion",
-      "url": "https://music.apple.com/jp/album/tina-tuesday-freestyles-single/6826470400?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/ce/62/dfce62ef-d7d2-f3b3-0ce8-5b125882b308/26UM1IM36432.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-24",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6828261578",
       "title": "Head Trip (DJ Mix)",
       "artist": "FISHER & Chris Lake",
@@ -4936,6 +4915,24 @@
         "House",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814683983",
+      "title": "Adonis Pride Live 2026: Sonikku at The Cause, London, Jul 4, 2026 (DJ Mix)",
+      "artist": "SONIKKU",
+      "url": "https://music.apple.com/jp/album/adonis-pride-live-2026-sonikku-at-the-cause-london/6814683983?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/e6/20/b3e62000-8f53-1a51-ca58-58d90d51f787/ac11bd03-5661-4f91-89cd-bd31b5a50d58.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-04",
+      "trackCount": 45,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance",
+        "Techno"
       ],
       "tagline": null
     },
