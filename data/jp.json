@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:00:31.731Z",
+  "generatedAt": "2026-10-30T04:00:31.077Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -805,6 +805,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "6824726185",
+      "title": "Can Y'all Hear Me Now?",
+      "artist": "PayGotti",
+      "url": "https://music.apple.com/jp/album/can-yall-hear-me-now/6824726185?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/ca/a9/27caa991-9ebd-5c30-2ff4-14bbcfef7e13/075679552006.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6773928610",
       "title": "Surface, Echo & Sound",
       "artist": "Editors",
@@ -826,7 +842,7 @@
       "title": "You Make It Feel Like Christmas (Deluxe Edition – 2025)",
       "artist": "Gwen Stefani",
       "url": "https://music.apple.com/jp/album/you-make-it-feel-like-christmas-deluxe-edition-2025/6825548968?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/aa/d0/c5aad02b-1293-b2cf-47b2-ff5aec85d49c/25UM1IM70951.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/06/a0/6306a053-da26-9695-4922-10b2bddca8f7/25UM1IM70951.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-30",
       "trackCount": 21,
@@ -1638,6 +1654,22 @@
       "tagline": null
     },
     {
+      "id": "6823828515",
+      "title": "1030",
+      "artist": "YSN Capo",
+      "url": "https://music.apple.com/jp/album/1030/6823828515?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/b4/d8/05b4d897-d867-c811-f8d8-e562cfbe3afd/075679551191.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6822924993",
       "title": "The Return Of The GraveDigger 2",
       "artist": "EBK Leebo",
@@ -1788,6 +1820,23 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6827309568",
+      "title": "Virginia Creeper - EP",
+      "artist": "Nettspend",
+      "url": "https://music.apple.com/jp/album/virginia-creeper-ep/6827309568?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/c0/74/b4c074d6-bbb1-ec06-d2ab-33bdbd14a6fb/26UM1IM37777.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
@@ -2912,39 +2961,6 @@
         "Music"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6789563737",
-      "title": "GUTE ALTE ZEIT",
-      "artist": "FAYAN & Dalton",
-      "url": "https://music.apple.com/jp/album/gute-alte-zeit/6789563737?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/9b/0a/7a9b0af0-d5e2-9d5d-30df-09cb0c96e40f/8718521104177.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813613039",
-      "title": "Make Me Willing - EP",
-      "artist": "Chelsea Plank",
-      "url": "https://music.apple.com/jp/album/make-me-willing-ep/6813613039?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/7a/b7/df7ab754-3145-c33a-69d8-d6d3dbb7067b/196874794425.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Christian",
-        "Music",
-        "Classic Christian"
-      ],
-      "tagline": null
     },
     {
       "id": "6817324626",
@@ -4920,24 +4936,6 @@
         "House",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814683983",
-      "title": "Adonis Pride Live 2026: Sonikku at The Cause, London, Jul 4, 2026 (DJ Mix)",
-      "artist": "SONIKKU",
-      "url": "https://music.apple.com/jp/album/adonis-pride-live-2026-sonikku-at-the-cause-london/6814683983?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/e6/20/b3e62000-8f53-1a51-ca58-58d90d51f787/ac11bd03-5661-4f91-89cd-bd31b5a50d58.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-07-04",
-      "trackCount": 45,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance",
-        "Techno"
       ],
       "tagline": null
     },
