@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:00:31.059Z",
+  "generatedAt": "2026-10-31T07:00:32.095Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2960,6 +2960,57 @@
       "tagline": null
     },
     {
+      "id": "6824723165",
+      "title": "Experts Only 065 (DJ Mix)",
+      "artist": "John Summit",
+      "url": "https://music.apple.com/jp/album/experts-only-065-dj-mix/6824723165?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/98/3d/9c983d3d-79e6-9822-93a2-cfa12300a31b/e8145631-ce3a-4bd8-9625-86bcee9fc9d2.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6819831892",
+      "title": "Blood, Sweat and Tears",
+      "artist": "Big Celly",
+      "url": "https://music.apple.com/jp/album/blood-sweat-and-tears/6819831892?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/2a/a0/eb2aa055-0b31-491d-c9ea-87a8fbf9c1c7/075679552273.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823793405",
+      "title": "FEEL TRIP 037 (DJ Mix)",
+      "artist": "DJ PAYYY",
+      "url": "https://music.apple.com/jp/album/feel-trip-037-dj-mix/6823793405?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/5f/51/aa5f51c9-11da-d452-0a48-e1daa5132bb8/c06b273f-688f-4f30-a672-94b137c3d71a.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 37,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music",
+        "Hip-Hop/Rap",
+        "Hip-Hop"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6817324626",
       "title": "Sarracenia - EP",
       "artist": "Maebashi Witches",
@@ -4731,55 +4782,6 @@
         "Dance",
         "Music",
         "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822683138",
-      "title": "If You're Not Here - EP",
-      "artist": "Riu Domura",
-      "url": "https://music.apple.com/jp/album/if-youre-not-here-ep/6822683138?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/11/e9/cd11e9da-71b5-3e35-dd0f-0c7b2905431f/4550795602713_cover.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-24",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819165306",
-      "title": "君の瞳の中には - EP",
-      "artist": "彼女が僕を殺しても",
-      "url": "https://music.apple.com/jp/album/%E5%90%9B%E3%81%AE%E7%9E%B3%E3%81%AE%E4%B8%AD%E3%81%AB%E3%81%AF-ep/6819165306?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/cf/30/bacf3034-f21c-929e-4779-484d6689b5e1/4571670607364.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-24",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813513726",
-      "title": "gravity - EP",
-      "artist": "WAKAZO & chirp×chirp",
-      "url": "https://music.apple.com/jp/album/gravity-ep/6813513726?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/8b/5c/768b5c57-2b53-f6bd-4987-993d3f44ad06/885288528909.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-24",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
       ],
       "tagline": null
     },
