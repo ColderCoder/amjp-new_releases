@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T07:00:32.095Z",
+  "generatedAt": "2026-11-01T07:00:32.092Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3011,6 +3011,57 @@
       "tagline": null
     },
     {
+      "id": "6805417375",
+      "title": "Presslufthammer",
+      "artist": "Alexander Marcus",
+      "url": "https://music.apple.com/jp/album/presslufthammer/6805417375?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/a3/85/81a385cb-949c-36b3-13fe-3670d4eb461a/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822063777",
+      "title": "LOST IN LUST: CLUB VITTAR (DJ Mix)",
+      "artist": "Pabllo Vittar",
+      "url": "https://music.apple.com/jp/album/lost-in-lust-club-vittar-dj-mix/6822063777?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/04/88/a004880b-6d6b-fb4d-8845-0ddb46edc710/4215081c-a061-49f7-9830-9846867be20d.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music",
+        "Brazilian",
+        "Baile Funk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795619726",
+      "title": "Live Blitzkrieg (Live On Skid Row, D.T.L.A 2017)",
+      "artist": "Nachtmystium",
+      "url": "https://music.apple.com/jp/album/live-blitzkrieg-live-on-skid-row-d-t-l-a-2017/6795619726?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/c0/4f/39c04f88-2748-67fa-a59e-a0c9ca8acf6e/803341636873.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6817324626",
       "title": "Sarracenia - EP",
       "artist": "Maebashi Witches",
@@ -4717,54 +4768,6 @@
         "Rap",
         "Music",
         "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822690206",
-      "title": "Rapstar 2026 Selection Cypher",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/rapstar-2026-selection-cypher/6822690206?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/8a/88/738a88ac-1c05-e562-c849-8a0870d905ea/4550795606810_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-25",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822601920",
-      "title": "Anata Wo Sukina Watashitachi - EP",
-      "artist": "Suisougurashi",
-      "url": "https://music.apple.com/jp/album/%E3%81%82%E3%81%AA%E3%81%9F%E3%82%92%E5%A5%BD%E3%81%8D%E3%81%AA%E7%A7%81%E3%81%9F%E3%81%A1-ep/6822601920?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/27/c0/7527c060-63c2-bbcd-5bc8-16f10abb83a4/bigup14606985.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-25",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822983470",
-      "title": "Memories #1 - EP",
-      "artist": "esoragoto",
-      "url": "https://music.apple.com/jp/album/memories-1-ep/6822983470?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/58/5c/7a585cef-2c6e-0f77-851e-6c654deb058e/PA00230596_0_256742_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-25",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
       ],
       "tagline": null
     },
