@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T07:00:32.092Z",
+  "generatedAt": "2026-11-02T07:00:30.629Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3062,6 +3062,126 @@
       "tagline": null
     },
     {
+      "id": "6815155202",
+      "title": "Die Falle (Soundtrack der Netflix Serie)",
+      "artist": "Volker Bertelmann & Ben Winkler",
+      "url": "https://music.apple.com/jp/album/die-falle-soundtrack-der-netflix-serie/6815155202?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/a3/1c/e2a31caa-25ab-efab-6102-0773625cbece/810123169610.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 28,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796857103",
+      "title": "Break The Jar (Live)",
+      "artist": "Southeast Worship",
+      "url": "https://music.apple.com/jp/album/break-the-jar-live/6796857103?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/0d/15/390d15b7-bfed-70de-7cbf-51da0d4a4586/5037300078403.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Praise & Worship",
+        "Music",
+        "Christian"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823470898",
+      "title": "Stay True Selection 002: Aquatone (DJ Mix)",
+      "artist": "Aquatone",
+      "url": "https://music.apple.com/jp/album/stay-true-selection-002-aquatone-dj-mix/6823470898?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/e4/bc/3ce4bcc7-8b5b-b939-3c76-27cbb42e10a9/7017ae85-04b9-4978-acb6-5fe7939cb320.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6825967364",
+      "title": "Everyday People Radio 021: DJ Moma (DJ Mix)",
+      "artist": "DJ Moma",
+      "url": "https://music.apple.com/jp/album/everyday-people-radio-021-dj-moma-dj-mix/6825967364?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/be/af/d2beaf8c-e7c3-86c8-362e-0b6949bff5e7/3136edd3-b5a6-4d95-85fd-73a22908e815.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Afro House",
+        "Music",
+        "African",
+        "Dance",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822977173",
+      "title": "Stay True Selection 001: Sooks (DJ Mix)",
+      "artist": "Sooks",
+      "url": "https://music.apple.com/jp/album/stay-true-selection-001-sooks-dj-mix/6822977173?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/ac/08/2fac0857-91cf-068d-88d2-6f87e3abffe9/2a1109fd-dbf1-422a-95ae-170a12dce7e4.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6825096392",
+      "title": "Everyday People Radio 020: Milhouse (DJ Mix)",
+      "artist": "Milhouse",
+      "url": "https://music.apple.com/jp/album/everyday-people-radio-020-milhouse-dj-mix/6825096392?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/8d/e2/d88de29c-82de-a620-0b80-b123c25289d9/7a7e97e4-f926-4ac6-851b-20e81b0dd653.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music",
+        "Hip-Hop/Rap",
+        "Hip-Hop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6800920111",
+      "title": "Imagination",
+      "artist": "Stella Cole",
+      "url": "https://music.apple.com/jp/album/imagination/6800920111?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/cd/88/b0cd88a6-816a-b6d0-b515-73bfb22103aa/26UM1IM04471.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6817324626",
       "title": "Sarracenia - EP",
       "artist": "Maebashi Witches",
@@ -3277,6 +3397,39 @@
         "Indie Pop",
         "Music",
         "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822106135",
+      "title": "Hellbent FM, Episode 017: Jay de Lys (DJ Mix)",
+      "artist": "Jay de Lys",
+      "url": "https://music.apple.com/jp/album/hellbent-fm-episode-017-jay-de-lys-dj-mix/6822106135?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/2d/22/732d223f-ce5b-5ccd-ea0d-cee08c3fb4f4/4b0ef5fa-9c9e-4951-841b-8ea27f22bda9.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-29",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6821058246",
+      "title": "Max Forever Vol. 2",
+      "artist": "Max Pezzali",
+      "url": "https://music.apple.com/jp/album/max-forever-vol-2/6821058246?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/43/53/d843535a-be36-c7b0-efb4-2ecb76ffe6e8/1200220285365.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-29",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
       ],
       "tagline": null
     },
@@ -4599,179 +4752,6 @@
       "tagline": null
     },
     {
-      "id": "6825645247",
-      "title": "Looks Can Kill - EP",
-      "artist": "IVE",
-      "url": "https://music.apple.com/jp/album/looks-can-kill-ep/6825645247?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/44/61/92446169-538b-6870-8695-960ac7d82761/885288844306.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-26",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Mini Album"
-    },
-    {
-      "id": "6823102256",
-      "title": "BREAK EVEN - EP",
-      "artist": "ILLIT",
-      "url": "https://music.apple.com/jp/album/break-even-ep/6823102256?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/33/ed/0f33ed9f-628a-e35f-41f2-4af285d9680c/26UM1IM32452.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-26",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819316835",
-      "title": "Fear Me - EP",
-      "artist": "UNDEAD CORPORATION",
-      "url": "https://music.apple.com/jp/album/fear-me-ep/6819316835?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/62/3d/2d623db0-b96b-acf8-9055-860add62f3e3/4550795261927_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-26",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock",
-        "Alternative",
-        "Punk"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823025363",
-      "title": "Bluearchive Remember Again - EP",
-      "artist": "Iroha:Misato Fukuen",
-      "url": "https://music.apple.com/jp/album/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96-remember-again-ep/6823025363?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/da/3e/dada3e50-7ddf-125d-2358-f069e558cdaf/PA00233503_0_257221_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-26",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music",
-        "Soundtrack",
-        "Video Game"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823005838",
-      "title": "Bluearchive Kagerou - EP",
-      "artist": "Niko:KazukiAsami",
-      "url": "https://music.apple.com/jp/album/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96-kagerou-ep/6823005838?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/33/d9/d933d9b5-47d3-6b2b-47c8-f2308cbd6cc1/PA00233502_0_256744_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-26",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music",
-        "Soundtrack",
-        "Video Game"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826510650",
-      "title": "Apple Music Live",
-      "artist": "Skye Newman",
-      "url": "https://music.apple.com/jp/album/apple-music-live/6826510650?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/35/b6/3e35b64b-28ed-ccab-b9fa-b5b9c2462adb/196874886113.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-26",
-      "trackCount": 30,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music"
-      ],
-      "tagline": "Exclusive Album"
-    },
-    {
-      "id": "6823491795",
-      "title": "Hey, Somebody - The 1st Mini Album - EP",
-      "artist": "XIAOJUN",
-      "url": "https://music.apple.com/jp/album/hey-somebody-the-1st-mini-album-ep/6823491795?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/c9/c4/91c9c4a2-75ea-eb60-5899-9ede50ac5e70/888735957390.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-26",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826391577",
-      "title": "Confieso - EP",
-      "artist": "Kany García",
-      "url": "https://music.apple.com/jp/album/confieso-ep/6826391577?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/94/38/ec943829-59b3-be83-d47a-f5be39d2dd42/196874876022.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-26",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Pop in Spanish",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6815082365",
-      "title": "Southern Ontario Gothic",
-      "artist": "Brat Star",
-      "url": "https://music.apple.com/jp/album/southern-ontario-gothic/6815082365?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/55/20/38552031-7887-841e-a563-2ab1a130a877/artwork.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-26",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Singer/Songwriter"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6823250826",
-      "title": "THE SMOKE SESSION",
-      "artist": "UNOBKOY A1",
-      "url": "https://music.apple.com/jp/album/the-smoke-session/6823250826?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/58/6c/43586c52-9260-3981-efff-4e3abb442e2e/808391410459.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-26",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6809627384",
       "title": "feetlys paradise, Vol. 03 (DJ Mix)",
       "artist": "Hagen Feetly",
@@ -4819,6 +4799,23 @@
         "Hip-Hop/Rap",
         "Music",
         "Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823391461",
+      "title": "Liquicity Festival 2026: Telomic (DJ Mix)",
+      "artist": "Telomic",
+      "url": "https://music.apple.com/jp/album/liquicity-festival-2026-telomic-dj-mix/6823391461?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/86/cc/5586cc93-a904-296e-5620-b391ef1d3904/d829714d-0b4e-4033-aef5-40f58609f1b9.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-25",
+      "trackCount": 42,
+      "kind": "album",
+      "genres": [
+        "Jungle/Drum'n'bass",
+        "Music",
+        "Dance"
       ],
       "tagline": null
     },
