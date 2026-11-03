@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:00:33.052Z",
+  "generatedAt": "2026-11-03T15:00:33.085Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,91 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6822988801",
+      "title": "Backlight",
+      "artist": "momokani",
+      "url": "https://music.apple.com/jp/album/backlight/6822988801?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/41/ec/c341ec22-40dd-7c0a-12c9-a115dab7a802/4525853893693.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-04",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822990921",
+      "title": "LAVENDER: Winter",
+      "artist": "Suzunosuke Nakashima",
+      "url": "https://music.apple.com/jp/album/lavender-winter/6822990921?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/3a/58/ea3a585e-fb0d-bbde-c3ce-0e8423237ded/4525853893594.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-04",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823002141",
+      "title": "Blue Tape - EP",
+      "artist": "WAZGOGG & Koshun Nakao",
+      "url": "https://music.apple.com/jp/album/blue-tape-ep/6823002141?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/4a/b0/394ab0ef-0807-b758-691e-a3dfc5b95f62/4525853893792.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-04",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823004936",
+      "title": "Blue painted on the cloudy sky",
+      "artist": "pontsuku piya",
+      "url": "https://music.apple.com/jp/album/blue-painted-on-the-cloudy-sky/6823004936?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/71/08/ba710863-f2a0-e15a-fa16-29343b613412/4525853895291.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-04",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823008828",
+      "title": "Novel Love",
+      "artist": "Akimi Morinaga",
+      "url": "https://music.apple.com/jp/album/novel-love/6823008828?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/54/04/1a54047c-0ecf-dbbe-e1a1-7c62b00a1bbb/4522197169446.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-04",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "J-Pop",
+        "Music",
+        "Brazilian"
+      ],
+      "tagline": null
+    },
     {
       "id": "6824670752",
       "title": "The Crazy Return",
@@ -3232,40 +3317,6 @@
       "tagline": null
     },
     {
-      "id": "6803430339",
-      "title": "For the Blood of Tiamat - Praxis I (XXX Years Anniversary of Magick and Metamorphosis) - EP",
-      "artist": "Acherontas",
-      "url": "https://music.apple.com/jp/album/for-the-blood-of-tiamat-praxis-i-xxx-years/6803430339?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/92/e8/9b92e838-cba9-5412-82f4-302de531c792/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Death Metal/Black Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6780537035",
-      "title": "The Ones We Follow",
-      "artist": "Sarcator",
-      "url": "https://music.apple.com/jp/album/the-ones-we-follow/6780537035?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/ed/e0/8dede00a-0754-db61-353d-cd1d2a0f90f0/4251981718378.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6817324626",
       "title": "Sarracenia - EP",
       "artist": "Maebashi Witches",
@@ -4962,23 +5013,6 @@
       "tagline": null
     },
     {
-      "id": "6826414262",
-      "title": "DNBNL: Delta Heavy Live at Treasure Island, San Francisco, Jun 7, 2026 (DJ Mix)",
-      "artist": "Delta Heavy",
-      "url": "https://music.apple.com/jp/album/dnbnl-delta-heavy-live-at-treasure-island-san-francisco/6826414262?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/82/89/fc82895e-ab91-db5f-65cb-92093cdc9f51/2540dc5e-fe57-4f95-8e33-bb79f7e21165.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-06-07",
-      "trackCount": 31,
-      "kind": "album",
-      "genres": [
-        "Jungle/Drum'n'bass",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6816292811",
       "title": "Dhol Academy Live at Dialled In London 2026 (DJ Mix)",
       "artist": "Dhol Academy",
@@ -5013,40 +5047,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6823795471",
-      "title": "মm. Live at Dialled In London 2026 (DJ Mix)",
-      "artist": "মm.",
-      "url": "https://music.apple.com/jp/album/%E0%A6%AEm-live-at-dialled-in-london-2026-dj-mix/6823795471?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/c3/0d/e6c30dbc-fbae-c3ac-137b-2a9aacbdb37e/66a24753-a67e-46ca-b32d-c525fbe23090.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-05-30",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6820770704",
-      "title": "Best of NYD: Cáit at The Cause, London, Jan 1, 2024 (DJ Mix)",
-      "artist": "Cáit",
-      "url": "https://music.apple.com/jp/album/best-of-nyd-c%C3%A1it-at-the-cause-london-jan-1-2024-dj-mix/6820770704?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/8c/a7/0b8ca72c-f0c1-509b-c708-980ff09e6e17/071dba69-0fca-4af1-bc1b-ec5bda753e8d.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2024-01-01",
-      "trackCount": 22,
-      "kind": "album",
-      "genres": [
-        "House",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
     }
   ]
 }
