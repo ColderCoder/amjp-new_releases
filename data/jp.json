@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:00:30.629Z",
+  "generatedAt": "2026-11-03T01:00:33.531Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -547,7 +547,7 @@
       "title": "Clean Slate",
       "artist": "Dustin Lynch",
       "url": "https://music.apple.com/jp/album/clean-slate/6801614205?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/f9/a6/e4f9a6f3-9954-5d03-f9c5-66ca6ba208b2/4099964287806.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/37/c6/d737c6f4-a5ef-d95e-75ff-99ef3dc00749/4099964287806.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-10-30",
       "trackCount": 12,
@@ -1686,7 +1686,7 @@
     {
       "id": "6822522117",
       "title": "keanu: Radio Rudina 2026 (DJ Mix)",
-      "artist": "keanu.",
+      "artist": "keanu",
       "url": "https://music.apple.com/jp/album/keanu-radio-rudina-2026-dj-mix/6822522117?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/fa/14/41fa140a-21b9-a3a1-2885-a7cdb43f901f/fb9f1010-193d-44b1-8698-54b21679af57.jpg/632x632bb.jpg",
       "explicit": true,
