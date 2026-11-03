@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:00:33.531Z",
+  "generatedAt": "2026-11-03T07:00:33.052Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3182,6 +3182,90 @@
       "tagline": null
     },
     {
+      "id": "6812644873",
+      "title": "People Pleaser - EP",
+      "artist": "Mollie Elizabeth",
+      "url": "https://music.apple.com/jp/album/people-pleaser-ep/6812644873?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/ff/6d/b8ff6d43-9681-9a9c-3940-6c34d6ad97d6/26UM1IM13743.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6795133830",
+      "title": "Through Bowels of Ceaseless Dissonance",
+      "artist": "Cryptorium",
+      "url": "https://music.apple.com/jp/album/through-bowels-of-ceaseless-dissonance/6795133830?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/47/d7/1647d7b2-587d-90af-ffb7-70da4494c1bd/612789666775.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6808719736",
+      "title": "When the mist falls...",
+      "artist": "RADBRAKER",
+      "url": "https://music.apple.com/jp/album/when-the-mist-falls/6808719736?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/c5/f7/0ec5f7c7-4849-db0b-6cbc-7a8c33271977/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6803430339",
+      "title": "For the Blood of Tiamat - Praxis I (XXX Years Anniversary of Magick and Metamorphosis) - EP",
+      "artist": "Acherontas",
+      "url": "https://music.apple.com/jp/album/for-the-blood-of-tiamat-praxis-i-xxx-years/6803430339?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/92/e8/9b92e838-cba9-5412-82f4-302de531c792/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6780537035",
+      "title": "The Ones We Follow",
+      "artist": "Sarcator",
+      "url": "https://music.apple.com/jp/album/the-ones-we-follow/6780537035?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/ed/e0/8dede00a-0754-db61-353d-cd1d2a0f90f0/4251981718378.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6817324626",
       "title": "Sarracenia - EP",
       "artist": "Maebashi Witches",
@@ -4621,137 +4705,6 @@
       "tagline": null
     },
     {
-      "id": "6821782134",
-      "title": "CORNERSTONE - Ruby Jubilee Edition - - EP",
-      "artist": "Junichi Kanemaru",
-      "url": "https://music.apple.com/jp/album/cornerstone-ruby-jubilee-edition-ep/6821782134?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/b3/7c/e8b37cd7-b427-4264-ecfd-35acb89e4842/823375528685_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-27",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Jazz",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6821240710",
-      "title": "Miradepa!",
-      "artist": "Qumali Depart",
-      "url": "https://music.apple.com/jp/album/miradepa/6821240710?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/41/85/1441853b-8e90-0f02-6069-66f42f99ea84/4948722904977_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-27",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822169649",
-      "title": "tomorrow - EP",
-      "artist": "KAWANISHI TAKUMI",
-      "url": "https://music.apple.com/jp/album/tomorrow-ep/6822169649?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/b3/3f/7eb33f0f-c145-c064-1ffe-a41a1e183bfa/4582109079546.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-27",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6825255543",
-      "title": "Sequence 02: Attraction - EP",
-      "artist": "AND2BLE",
-      "url": "https://music.apple.com/jp/album/sequence-02-attraction-ep/6825255543?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/5d/26/475d2641-6bef-a05a-69e9-c721917884b6/4547366859232.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-27",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826021911",
-      "title": "Sessions",
-      "artist": "Zara Larsson",
-      "url": "https://music.apple.com/jp/album/sessions/6826021911?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/81/81/a88181fc-8ef9-d7b9-c6ea-e317f2eff531/196874823675.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-27",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6822356904",
-      "title": "Remothered: Red Nun's Legacy (Original Game Soundtrack)",
-      "artist": "Akira Yamaoka & Aram Shahbazians",
-      "url": "https://music.apple.com/jp/album/remothered-red-nuns-legacy-original-game-soundtrack/6822356904?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/4e/07/744e0741-067c-8541-14d6-79bd183cd084/3663729475497_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-27",
-      "trackCount": 25,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Electronic",
-        "Ambient"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819476310",
-      "title": "First Lady",
-      "artist": "K Carbon",
-      "url": "https://music.apple.com/jp/album/first-lady/6819476310?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/b6/05/22b6051e-b671-deaf-458c-812aac946500/612891281224.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-27",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826461562",
-      "title": "The Drop: A Snowfall Saga (Original Soundtrack)",
-      "artist": "The Drop - Cast",
-      "url": "https://music.apple.com/jp/album/the-drop-a-snowfall-saga-original-soundtrack/6826461562?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/91/f5/f791f510-1a23-2c55-23f9-68470904cf2a/26UM1IM29583.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-27",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6809627384",
       "title": "feetlys paradise, Vol. 03 (DJ Mix)",
       "artist": "Hagen Feetly",
@@ -5009,6 +4962,23 @@
       "tagline": null
     },
     {
+      "id": "6826414262",
+      "title": "DNBNL: Delta Heavy Live at Treasure Island, San Francisco, Jun 7, 2026 (DJ Mix)",
+      "artist": "Delta Heavy",
+      "url": "https://music.apple.com/jp/album/dnbnl-delta-heavy-live-at-treasure-island-san-francisco/6826414262?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/82/89/fc82895e-ab91-db5f-65cb-92093cdc9f51/2540dc5e-fe57-4f95-8e33-bb79f7e21165.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-06-07",
+      "trackCount": 31,
+      "kind": "album",
+      "genres": [
+        "Jungle/Drum'n'bass",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6816292811",
       "title": "Dhol Academy Live at Dialled In London 2026 (DJ Mix)",
       "artist": "Dhol Academy",
@@ -5043,6 +5013,40 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6823795471",
+      "title": "মm. Live at Dialled In London 2026 (DJ Mix)",
+      "artist": "মm.",
+      "url": "https://music.apple.com/jp/album/%E0%A6%AEm-live-at-dialled-in-london-2026-dj-mix/6823795471?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/c3/0d/e6c30dbc-fbae-c3ac-137b-2a9aacbdb37e/66a24753-a67e-46ca-b32d-c525fbe23090.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-05-30",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6820770704",
+      "title": "Best of NYD: Cáit at The Cause, London, Jan 1, 2024 (DJ Mix)",
+      "artist": "Cáit",
+      "url": "https://music.apple.com/jp/album/best-of-nyd-c%C3%A1it-at-the-cause-london-jan-1-2024-dj-mix/6820770704?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/8c/a7/0b8ca72c-f0c1-509b-c708-980ff09e6e17/071dba69-0fca-4af1-bc1b-ec5bda753e8d.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2024-01-01",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
     }
   ]
 }
