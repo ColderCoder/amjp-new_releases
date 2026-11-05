@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:00:31.155Z",
+  "generatedAt": "2026-11-05T15:00:31.876Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,22 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6792889537",
+      "title": "Queen Budapest (Live)",
+      "artist": "Queen",
+      "url": "https://music.apple.com/jp/album/queen-budapest-live/6792889537?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/50/2c/51502c9e-de70-1100-569e-6b50cec92150/196874612422.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": "New Live Album"
+    },
     {
       "id": "6822988801",
       "title": "Backlight",
@@ -4244,120 +4260,6 @@
       "tagline": null
     },
     {
-      "id": "6789627970",
-      "title": "Songs For Sinners",
-      "artist": "Moses Boyd",
-      "url": "https://music.apple.com/jp/album/songs-for-sinners/6789627970?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/f9/40/79f9408f-0954-9da2-96eb-1b2432203347/820233948364.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6792068362",
-      "title": "GRiNDMOTHER - EP",
-      "artist": "Synvilla",
-      "url": "https://music.apple.com/jp/album/grindmother-ep/6792068362?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/43/93/c943935b-b36b-9e58-1858-21ae7f5ec397/128796.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "New Wave"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6796007844",
-      "title": "Begin Yr Singing",
-      "artist": "Yr Knives",
-      "url": "https://music.apple.com/jp/album/begin-yr-singing/6796007844?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/52/8f/a1528f04-17f6-6394-560d-4cd31945b830/67899.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Indie Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6793161511",
-      "title": "13 Songs About Monsters",
-      "artist": "Black Mekon",
-      "url": "https://music.apple.com/jp/album/13-songs-about-monsters/6793161511?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/37/e9/f537e989-fc50-138b-bd82-1dd05b2d9db1/67684.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6801312488",
-      "title": "Glitter (Deluxe Edition)",
-      "artist": "Mariah Carey",
-      "url": "https://music.apple.com/jp/album/glitter-deluxe-edition/6801312488?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/bf/5f/4cbf5fb1-45a5-d939-db28-8d8313ef800d/26UM1IM02383.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 27,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "New Deluxe Edition"
-    },
-    {
-      "id": "6792806780",
-      "title": "Fantasize",
-      "artist": "Chloe Qisha",
-      "url": "https://music.apple.com/jp/album/fantasize/6792806780?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/7a/0c/287a0c6c-9408-6758-f66e-d063a413d9f6/196874619780.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": "New Album and Interview"
-    },
-    {
-      "id": "6806207137",
-      "title": "The Who By Numbers (Super Deluxe)",
-      "artist": "The Who",
-      "url": "https://music.apple.com/jp/album/the-who-by-numbers-super-deluxe/6806207137?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/d5/9b/4ed59b6d-3604-bba7-a2ad-ad019b7b1761/26UMGIM75135.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-30",
-      "trackCount": 74,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6823737992",
       "title": "Beats In Space 227: TB-203 (DJ Mix)",
       "artist": "TB-203",
@@ -4600,6 +4502,24 @@
       "tagline": "Exclusive DJ Mix"
     },
     {
+      "id": "6826421133",
+      "title": "NU2U Radio: Lei at Harbor NYC Rooftop,  Sep 13, 2026 (DJ Mix)",
+      "artist": "Lei",
+      "url": "https://music.apple.com/jp/album/nu2u-radio-lei-at-harbor-nyc-rooftop-sep-13-2026-dj-mix/6826421133?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/25/ae/d925ae39-d86c-c5ec-a74c-9e6bda30538f/909d80a3-2568-4d24-9ddd-bab6c6c7f1e8.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-09-13",
+      "trackCount": 33,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "African",
+        "Afrobeats"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6824672238",
       "title": "Live at Hï Ibiza: Denis Sulta, Sep 5, 2026 (DJ Mix)",
       "artist": "Denis Sulta",
@@ -4700,6 +4620,25 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6825033498",
+      "title": "NU2U Radio: Ivy Guerrier at Harbor NYC Rooftop, Jul 12, 2026 (DJ Mix)",
+      "artist": "Ivy Guerrier",
+      "url": "https://music.apple.com/jp/album/nu2u-radio-ivy-guerrier-at-harbor-nyc-rooftop-jul-12/6825033498?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/26/a2/cd26a2d9-8312-39f8-27fa-62e2f1b06427/1d4190c8-ff11-4807-a2ef-d2720148650d.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-07-12",
+      "trackCount": 37,
+      "kind": "album",
+      "genres": [
+        "Caribbean",
+        "Music",
+        "Worldwide",
+        "African",
+        "Afrobeats"
       ],
       "tagline": null
     },
@@ -5047,6 +4986,82 @@
         "Dance",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823823897",
+      "title": "NU2U Radio 002: Arty Furtado (DJ Mix)",
+      "artist": "Arty Furtado",
+      "url": "https://music.apple.com/jp/album/nu2u-radio-002-arty-furtado-dj-mix/6823823897?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4c/54/95/4c5495f6-fe7f-7993-917e-c20a16f036a7/35578894-4115-4546-b9e0-a71d8a34c907.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-10-05",
+      "trackCount": 31,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African",
+        "Brazilian",
+        "Baile Funk"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823818159",
+      "title": "NU2U Radio 005: Omar ؏ (DJ Mix)",
+      "artist": "Omar ؏",
+      "url": "https://music.apple.com/jp/album/nu2u-radio-005-omar-dj-mix/6823818159?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/ab/fa/c8abfabb-756f-c5b6-6f95-41085fecc57c/1037bfc8-0b88-4ef3-8bf7-758397ff6035.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-10-05",
+      "trackCount": 36,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African",
+        "Indian",
+        "Regional Indian",
+        "Punjabi"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823413661",
+      "title": "NU2U Radio 001: DJ David (DJ Mix)",
+      "artist": "DJ David",
+      "url": "https://music.apple.com/jp/album/nu2u-radio-001-dj-david-dj-mix/6823413661?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/09/fb/f209fb5e-c7da-4617-7736-b9b7984bccd8/1416d201-e579-4f6c-afcf-03a4bce693d7.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-29",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Modern Dancehall",
+        "Music",
+        "Reggae",
+        "Worldwide",
+        "Soca"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823762971",
+      "title": "NU2U Radio 003: Nanoos (DJ Mix)",
+      "artist": "Nanoos",
+      "url": "https://music.apple.com/jp/album/nu2u-radio-003-nanoos-dj-mix/6823762971?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/2d/04/a52d04fe-a92e-7f58-3820-2d1a881c561b/737c8ef3-76f9-4bf8-88be-311bd2b73b0e.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2025-06-29",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Arabic",
+        "Music",
+        "Reggae",
+        "Modern Dancehall"
       ],
       "tagline": null
     },
