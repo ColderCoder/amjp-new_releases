@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:00:30.676Z",
+  "generatedAt": "2026-11-05T07:00:31.155Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4178,30 +4178,113 @@
       "tagline": null
     },
     {
-      "id": "6817324626",
-      "title": "Sarracenia - EP",
-      "artist": "Maebashi Witches",
-      "url": "https://music.apple.com/jp/album/%E3%82%B5%E3%83%A9%E3%82%BB%E3%83%8B%E3%82%A2-ep/6817324626?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/59/0f/89/590f890c-0523-985d-ada4-2a18df092390/4540774750634.png/632x632bb.jpg",
+      "id": "6814543348",
+      "title": "Club Bizzarre",
+      "artist": "Booka Shade & Eddie Bizzarre",
+      "url": "https://music.apple.com/jp/album/club-bizzarre/6814543348?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/4b/a2/5d4ba22a-8658-678f-67e7-15f01ff6bae4/cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-29",
-      "trackCount": 6,
+      "releaseDate": "2026-10-30",
+      "trackCount": 12,
       "kind": "album",
       "genres": [
-        "Anime",
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811938163",
+      "title": "FROM OUR REGION TO YOU",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/from-our-region-to-you/6811938163?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6f/de/f4/6fdef43e-8b30-b940-b960-bade955c28aa/hg007.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "House",
+        "Music",
+        "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822251396",
+      "title": "RPG Music Pack: Horror",
+      "artist": "Suat Can",
+      "url": "https://music.apple.com/jp/album/rpg-music-pack-horror/6822251396?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/75/55/fc7555a7-4c1e-360c-8fb1-a662463f7e7b/885288833737.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "New Age",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6825614300",
-      "title": "KOMOREBI",
-      "artist": "ADOY",
-      "url": "https://music.apple.com/jp/album/komorebi/6825614300?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/cd/32/79cd3282-2efc-8eae-0bb2-623e2e26743f/711641071525.jpg/632x632bb.jpg",
+      "id": "6769391492",
+      "title": "A Date with Depeche Mode",
+      "artist": "Nouvelle Vague",
+      "url": "https://music.apple.com/jp/album/a-date-with-depeche-mode/6769391492?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/f5/97/e8f597a2-9fa9-2feb-58e9-0d13aab0c748/5400863212391_cover.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-29",
-      "trackCount": 11,
+      "releaseDate": "2026-10-30",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6789627970",
+      "title": "Songs For Sinners",
+      "artist": "Moses Boyd",
+      "url": "https://music.apple.com/jp/album/songs-for-sinners/6789627970?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/f9/40/79f9408f-0954-9da2-96eb-1b2432203347/820233948364.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6792068362",
+      "title": "GRiNDMOTHER - EP",
+      "artist": "Synvilla",
+      "url": "https://music.apple.com/jp/album/grindmother-ep/6792068362?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/43/93/c943935b-b36b-9e58-1858-21ae7f5ec397/128796.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "New Wave"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6796007844",
+      "title": "Begin Yr Singing",
+      "artist": "Yr Knives",
+      "url": "https://music.apple.com/jp/album/begin-yr-singing/6796007844?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/52/8f/a1528f04-17f6-6394-560d-4cd31945b830/67899.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-10-30",
+      "trackCount": 6,
       "kind": "album",
       "genres": [
         "Indie Rock",
@@ -4211,53 +4294,68 @@
       "tagline": null
     },
     {
-      "id": "6823391382",
-      "title": "M0th3r6or3d - EP",
-      "artist": "quannnic",
-      "url": "https://music.apple.com/jp/album/m0th3r6or3d-ep/6823391382?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/48/71/15487167-3db5-c76d-d69f-99da2d7880ce/808391410480.jpg/632x632bb.jpg",
+      "id": "6793161511",
+      "title": "13 Songs About Monsters",
+      "artist": "Black Mekon",
+      "url": "https://music.apple.com/jp/album/13-songs-about-monsters/6793161511?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/37/e9/f537e989-fc50-138b-bd82-1dd05b2d9db1/67684.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-10-29",
-      "trackCount": 7,
+      "releaseDate": "2026-10-30",
+      "trackCount": 13,
       "kind": "album",
       "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6822518046",
-      "title": "American Horror Story: Season 13 (Original Score)",
-      "artist": "Mac Quayle",
-      "url": "https://music.apple.com/jp/album/american-horror-story-season-13-original-score/6822518046?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/57/e6/a757e679-5912-9fb4-330e-c98a24abaa13/26UM1IM29165.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-29",
-      "trackCount": 21,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
+        "Rock",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6822117304",
-      "title": "TRAP MEDALLO - EP",
-      "artist": "J Castle",
-      "url": "https://music.apple.com/jp/album/trap-medallo-ep/6822117304?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/94/47/cf9447f2-32eb-63c2-82cc-c4fcf7b557ca/1200220297047.jpg/632x632bb.jpg",
+      "id": "6801312488",
+      "title": "Glitter (Deluxe Edition)",
+      "artist": "Mariah Carey",
+      "url": "https://music.apple.com/jp/album/glitter-deluxe-edition/6801312488?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/bf/5f/4cbf5fb1-45a5-d939-db28-8d8313ef800d/26UM1IM02383.rgb.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-10-29",
-      "trackCount": 4,
+      "releaseDate": "2026-10-30",
+      "trackCount": 27,
       "kind": "album",
       "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
+        "Pop",
+        "Music"
       ],
-      "tagline": "New EP"
+      "tagline": "New Deluxe Edition"
+    },
+    {
+      "id": "6792806780",
+      "title": "Fantasize",
+      "artist": "Chloe Qisha",
+      "url": "https://music.apple.com/jp/album/fantasize/6792806780?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/7a/0c/287a0c6c-9408-6758-f66e-d063a413d9f6/196874619780.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": "New Album and Interview"
+    },
+    {
+      "id": "6806207137",
+      "title": "The Who By Numbers (Super Deluxe)",
+      "artist": "The Who",
+      "url": "https://music.apple.com/jp/album/the-who-by-numbers-super-deluxe/6806207137?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/d5/9b/4ed59b6d-3604-bba7-a2ad-ad019b7b1761/26UMGIM75135.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 74,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6823737992",
@@ -4296,40 +4394,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6822925616",
-      "title": "ESO NO ES DE ROCKSTAR",
-      "artist": "Dani Barranco",
-      "url": "https://music.apple.com/jp/album/eso-no-es-de-rockstar/6822925616?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5c/07/b2/5c07b270-eb21-4306-16b8-34ac5ce6d086/4638188.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-29",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6806385340",
-      "title": "ARC",
-      "artist": "YoJuliet",
-      "url": "https://music.apple.com/jp/album/arc/6806385340?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/20/ee/ae20ee2f-7c90-fc76-a1d4-53efbd6fdf11/129472.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-29",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Ambient",
-        "Music",
-        "Electronic",
-        "Soundtrack"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6822129966",
       "title": "Higher Ground: Ordley (DJ Mix)",
       "artist": "Ordley",
@@ -4347,56 +4411,6 @@
       "tagline": null
     },
     {
-      "id": "6822029352",
-      "title": "Ángeles En El Muro (En Vivo)",
-      "artist": "Grupo Arriesgado",
-      "url": "https://music.apple.com/jp/album/%C3%A1ngeles-en-el-muro-en-vivo/6822029352?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/4f/9b/174f9bc7-b5bf-f645-f919-d1bd3b983f4b/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-29",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Live Album"
-    },
-    {
-      "id": "6809482920",
-      "title": "BACK TO THE BRICKHOUSE",
-      "artist": "Armando Spence",
-      "url": "https://music.apple.com/jp/album/back-to-the-brickhouse/6809482920?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a9/e4/72/a9e47237-9623-f01a-aaa7-6c06db14f2a1/5064089354350_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-29",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6779714931",
-      "title": "Leben in einer Katze",
-      "artist": "Tränen",
-      "url": "https://music.apple.com/jp/album/leben-in-einer-katze/6779714931?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/b8/46/cab84691-bfe7-5915-d4a8-279754abf4ec/1200214337100.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-29",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6822106135",
       "title": "Hellbent FM, Episode 017: Jay de Lys (DJ Mix)",
       "artist": "Jay de Lys",
@@ -4410,22 +4424,6 @@
         "House",
         "Music",
         "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6821058246",
-      "title": "Max Forever Vol. 2",
-      "artist": "Max Pezzali",
-      "url": "https://music.apple.com/jp/album/max-forever-vol-2/6821058246?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/43/53/d843535a-be36-c7b0-efb4-2ecb76ffe6e8/1200220285365.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-29",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
       ],
       "tagline": null
     },
