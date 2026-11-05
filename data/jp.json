@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T15:00:31.876Z",
+  "generatedAt": "2026-11-05T16:00:32.795Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2669,6 +2669,23 @@
       "tagline": null
     },
     {
+      "id": "6824561640",
+      "title": "Come Find Your Tribe",
+      "artist": "Cool&Blak, Blaklez & Jay Jody",
+      "url": "https://music.apple.com/jp/album/come-find-your-tribe/6824561640?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/48/54/4c485478-bfba-fdf6-985f-e694dd728230/8ee129f4-fb8d-468b-9060-2ab83b18ed11.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-30",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Rap"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6798013709",
       "title": "GVA!!!!!",
       "artist": "Genevieve Artadi",
@@ -4239,22 +4256,6 @@
       "kind": "album",
       "genres": [
         "New Age",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6769391492",
-      "title": "A Date with Depeche Mode",
-      "artist": "Nouvelle Vague",
-      "url": "https://music.apple.com/jp/album/a-date-with-depeche-mode/6769391492?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/f5/97/e8f597a2-9fa9-2feb-58e9-0d13aab0c748/5400863212391_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Pop",
         "Music"
       ],
       "tagline": null
