@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:00:31.705Z",
+  "generatedAt": "2026-11-05T22:00:31.801Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -40,7 +40,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6798476482",
@@ -203,7 +203,7 @@
         "Holiday",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Holiday Album"
     },
     {
       "id": "6813060002",
@@ -383,7 +383,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6801587846",
@@ -916,7 +916,7 @@
         "Soundtrack",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Soundtrack"
     },
     {
       "id": "6815839588",
@@ -934,7 +934,7 @@
         "Classical",
         "Classical Crossover"
       ],
-      "tagline": null
+      "tagline": "New Soundtrack"
     },
     {
       "id": "6828989133",
@@ -951,7 +951,7 @@
         "Music",
         "Jazz"
       ],
-      "tagline": null
+      "tagline": "New Soundtrack"
     },
     {
       "id": "6810434868",
@@ -1083,7 +1083,7 @@
         "Christian",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6782666203",
@@ -1164,7 +1164,7 @@
         "Christian",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Holiday Album"
     },
     {
       "id": "6823433501",
@@ -1967,9 +1967,9 @@
     },
     {
       "id": "6819036608",
-      "title": "Drummer Boy (Original Motion Picture Soundtrack) [Original Motion Picture Soundtrack]",
+      "title": "Drummer Boy (Original Motion Picture Soundtrack)",
       "artist": "for KING & COUNTRY & Angel",
-      "url": "https://music.apple.com/jp/album/drummer-boy-original-motion-picture-soundtrack-original/6819036608?l=en-US",
+      "url": "https://music.apple.com/jp/album/drummer-boy-original-motion-picture-soundtrack/6819036608?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/fe/0a/35fe0aac-055d-4633-5aa0-01b0bde3a954/194646569462.png/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-11-06",
@@ -3013,7 +3013,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6799920712",
