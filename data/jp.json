@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T20:00:31.779Z",
+  "generatedAt": "2026-11-05T21:00:31.705Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -56,7 +56,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6823794712",
@@ -269,7 +269,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6808456436",
@@ -349,7 +349,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6797840335",
@@ -2654,6 +2654,22 @@
       "tagline": null
     },
     {
+      "id": "6823349542",
+      "title": "İkizler Memo-Can Dizi Müzikleri",
+      "artist": "Murat Evgin",
+      "url": "https://music.apple.com/jp/album/i-kizler-memo-can-dizi-m%C3%BCzikleri/6823349542?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/2e/fb/bb2efbe3-eaeb-1c6b-6290-5cbb2fdca2d3/26UM1IM30551.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 34,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6825879089",
       "title": "Acústico 33 Anos, Vol. 1 (Acústico)",
       "artist": "Gabriel o Pensador",
@@ -3109,22 +3125,6 @@
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823090794",
-      "title": "Quasimodo, L'âme De Paris (Bande Originale Du Film Netflix)",
-      "artist": "Marco Beltrami & Marcus Trumpp",
-      "url": "https://music.apple.com/jp/album/quasimodo-l%C3%A2me-de-paris-bande-originale-du-film-netflix/6823090794?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/03/dc/2703dc1e-b074-dc0e-1ae4-38bd5d81396d/810236330624.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 22,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
         "Music"
       ],
       "tagline": null
