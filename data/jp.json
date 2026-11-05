@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:00:31.801Z",
+  "generatedAt": "2026-11-05T23:00:32.171Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -187,7 +187,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6812789228",
@@ -285,7 +285,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6805055407",
@@ -433,7 +433,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6797957482",
@@ -466,7 +466,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Live Album"
     },
     {
       "id": "6810805501",
@@ -484,7 +484,7 @@
         "R&B/Soul",
         "Disco"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6809989036",
@@ -500,7 +500,7 @@
         "Singer/Songwriter",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6792760183",
@@ -767,7 +767,7 @@
         "Music",
         "Alternative"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6797656050",
@@ -852,7 +852,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Release"
     },
     {
       "id": "6781452778",
@@ -868,7 +868,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6823434327",
@@ -884,7 +884,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6794110715",
@@ -900,7 +900,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6828186888",
@@ -983,7 +983,7 @@
         "Jazz",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6821765044",
@@ -1000,7 +1000,7 @@
         "Music",
         "Dance"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6810418901",
@@ -1017,7 +1017,7 @@
         "Music",
         "Latin"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6810200443",
@@ -1115,7 +1115,7 @@
         "Singer/Songwriter",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6828468308",
@@ -1666,7 +1666,7 @@
         "Music",
         "Singer/Songwriter"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6827304619",
@@ -1797,7 +1797,7 @@
         "Dance",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6813517814",
@@ -3541,7 +3541,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6810259310",
@@ -4009,22 +4009,6 @@
       "tagline": "New Compilation"
     },
     {
-      "id": "6813014030",
-      "title": "Modern Moonlight (2am Version)",
-      "artist": "The Early Years",
-      "url": "https://music.apple.com/jp/album/modern-moonlight-2am-version/6813014030?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/c3/a7/44c3a776-03f2-37de-f80e-bf881517f8e7/17291.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6824971902",
       "title": "Sometimes I Rap - EP",
       "artist": "MC SQUARE & Nikhil - Swapnil",
@@ -4055,6 +4039,23 @@
         "Rap",
         "Music",
         "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823386442",
+      "title": "FORTUNA KID",
+      "artist": "Barry B",
+      "url": "https://music.apple.com/jp/album/fortuna-kid/6823386442?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/b9/82/37b9825a-1214-93ee-87f9-fae7f0311f89/26UM1IM22413.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-05",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Pop in Spanish",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
