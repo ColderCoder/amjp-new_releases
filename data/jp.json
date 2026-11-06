@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T16:00:34.702Z",
+  "generatedAt": "2026-11-06T17:00:33.634Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -255,6 +255,22 @@
         "Music"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6816116333",
+      "title": "Good Weather For Immaculate Conception",
+      "artist": "Alanis Morissette",
+      "url": "https://music.apple.com/jp/album/good-weather-for-immaculate-conception/6816116333?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/0b/05/c00b0532-1bd3-de7b-14d4-482e2f82be21/00823375487272_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Holiday",
+        "Music"
+      ],
+      "tagline": "New Holiday Album"
     },
     {
       "id": "6817874931",
@@ -3614,22 +3630,6 @@
       "tagline": null
     },
     {
-      "id": "6795568938",
-      "title": "Clear Intentions",
-      "artist": "Cristale",
-      "url": "https://music.apple.com/jp/album/clear-intentions/6795568938?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/08/78/170878a0-e7f4-3fc3-1974-4840e9896d28/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6820603530",
       "title": "Apambichao, Vol. 2",
       "artist": "Manuel Turizo",
@@ -3694,7 +3694,7 @@
         "Latin",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6823386442",
