@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T03:00:33.063Z",
+  "generatedAt": "2026-11-06T04:00:31.439Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -902,6 +902,24 @@
       "tagline": null
     },
     {
+      "id": "6824730911",
+      "title": "Kobe Brray 8",
+      "artist": "Brray",
+      "url": "https://music.apple.com/jp/album/kobe-brray-8/6824730911?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/8f/23/f08f23f8-1d15-78d2-8706-f90d09997997/26UM1IM28204.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin",
+        "R&B/Soul"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6769934903",
       "title": "In Endless Awe & Agony",
       "artist": "daine",
@@ -973,7 +991,7 @@
       "title": "Precious",
       "artist": "Girl Tones",
       "url": "https://music.apple.com/jp/album/precious/6823434327?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/86/6e/6c866e92-b86f-2c98-7e82-e58118f3200e/26UM1IM01057.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/ab/66/cdab6670-ed91-b673-5009-dadedfb7383d/26UM1IM01057.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-11-06",
       "trackCount": 10,
@@ -3540,23 +3558,6 @@
       "genres": [
         "Rock",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6811172106",
-      "title": "A Clay Walker Family Christmas",
-      "artist": "Clay Walker",
-      "url": "https://music.apple.com/jp/album/a-clay-walker-family-christmas/6811172106?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/6d/5c/4c6d5c67-34f4-c4fb-2a31-3381ec5d8159/820233845380.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Christmas: Country",
-        "Music",
-        "Holiday"
       ],
       "tagline": null
     },
