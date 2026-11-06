@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T05:00:32.052Z",
+  "generatedAt": "2026-11-06T06:00:34.232Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -956,7 +956,7 @@
       "title": "Kobe Brray 8",
       "artist": "Brray",
       "url": "https://music.apple.com/jp/album/kobe-brray-8/6824730911?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/8f/23/f08f23f8-1d15-78d2-8706-f90d09997997/26UM1IM28204.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/49/fa/3f49faa7-a786-972e-c1cf-dd4c8b9ef8eb/26UM1IM28204.rgb.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-11-06",
       "trackCount": 12,
