@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:00:32.171Z",
+  "generatedAt": "2026-11-06T00:00:32.900Z",
   "source": "https://music.apple.com/jp/room/6828645361?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6828645361?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -153,7 +153,7 @@
         "Music",
         "Rock"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6805467344",
@@ -600,7 +600,7 @@
         "Music",
         "Hip-Hop/Rap"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6829027554",
@@ -1183,6 +1183,22 @@
       "tagline": null
     },
     {
+      "id": "6812805421",
+      "title": "THE ALBUM",
+      "artist": "Rocco Hunt & Clementino",
+      "url": "https://music.apple.com/jp/album/the-album/6812805421?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/22/5a/87225a90-3f08-8d1d-1f29-89e2c1359e7c/196874794630.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6827283668",
       "title": "Christmas Girl - EP",
       "artist": "Brooke Alexx",
@@ -1714,7 +1730,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Live Album"
     },
     {
       "id": "6790890046",
@@ -3959,56 +3975,6 @@
       "tagline": null
     },
     {
-      "id": "6823711636",
-      "title": "A Different Shine - Single",
-      "artist": "Teenage Wrist",
-      "url": "https://music.apple.com/jp/album/a-different-shine-single/6823711636?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/be/14/d8be14b5-8a1c-e4e1-fb9c-9a63eb916cf9/0045778811809.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-06",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817656838",
-      "title": "El Cuarto Rosa",
-      "artist": "Cherry Chola & Chico Sonido",
-      "url": "https://music.apple.com/jp/album/el-cuarto-rosa/6817656838?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/f3/5c/81f35cec-00b6-e92f-173d-16cfeced1714/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805028091",
-      "title": "Ulterior Motives",
-      "artist": "Dirty Three",
-      "url": "https://music.apple.com/jp/album/ulterior-motives/6805028091?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/d1/c7/3ad1c76b-39ee-68cf-34ad-6bba5718a4be/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Compilation"
-    },
-    {
       "id": "6824971902",
       "title": "Sometimes I Rap - EP",
       "artist": "MC SQUARE & Nikhil - Swapnil",
@@ -4039,6 +4005,22 @@
         "Rap",
         "Music",
         "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6827229248",
+      "title": "INDIVIDUAL",
+      "artist": "Yan Block",
+      "url": "https://music.apple.com/jp/album/individual/6827229248?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/51/06/385106df-3b74-8fe1-8c74-91aa223747a9/711641083092.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-05",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music"
       ],
       "tagline": null
     },
@@ -4076,6 +4058,23 @@
       "tagline": null
     },
     {
+      "id": "6824724165",
+      "title": "Esquina 22",
+      "artist": "Leonardo Aguilar",
+      "url": "https://music.apple.com/jp/album/esquina-22/6824724165?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/ee/80/69ee8027-916c-eda6-0b99-fbac5a848ac5/823375546290_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-05",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6825491696",
       "title": "Grit - EP",
       "artist": "babirred",
@@ -4106,7 +4105,7 @@
         "Hip-Hop/Rap",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6827210406",
