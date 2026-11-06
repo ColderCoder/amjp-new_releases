@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:00:31.703Z",
+  "generatedAt": "2026-11-06T09:00:31.660Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -15,7 +15,7 @@
       "title": "Hisaishi: Symphonic Suite The Boy and the Heron for Piano and Orchestra",
       "artist": "Joe Hisaishi & Royal Philharmonic Orchestra",
       "url": "https://music.apple.com/jp/album/hisaishi-symphonic-suite-the-boy-and-the-heron/6797840335?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/d2/30/bdd23021-f97f-2c85-fb73-05ddeda6be0e/26UM1IM01394.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/78/9a/c5789a72-9624-37ac-41b1-ebaec00b15e0/ticket.fftiffbw.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-11-06",
       "trackCount": 14,
@@ -2853,6 +2853,23 @@
       "tagline": null
     },
     {
+      "id": "6823839758",
+      "title": "Possible Love (Soundtrack from the Netflix Film) - EP",
+      "artist": "Jung Jae Il",
+      "url": "https://music.apple.com/jp/album/possible-love-soundtrack-from-the-netflix-film-ep/6823839758?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/41/ef/1641ef10-7dd7-a508-f938-cd2df75ac87f/8800388626982_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Soundtrack",
+        "Music",
+        "Soundtrack"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6814586943",
       "title": "Butt Rock Billionaire",
       "artist": "Jeris Johnson",
@@ -3609,23 +3626,6 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827752603",
-      "title": "Permiso Pa' Llorar",
-      "artist": "Banda Machos",
-      "url": "https://music.apple.com/jp/album/permiso-pa-llorar/6827752603?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/ac/ce/d6acce0d-0b92-c1f6-456f-063d72172c70/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
       ],
       "tagline": null
     },
