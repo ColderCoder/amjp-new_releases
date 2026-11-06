@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:00:34.232Z",
+  "generatedAt": "2026-11-06T07:00:31.703Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2154,7 +2154,7 @@
       "title": "25 Aniversario",
       "artist": "Juanes",
       "url": "https://music.apple.com/jp/album/25-aniversario/6825044183?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/d1/4f/30d14ff5-97d2-6129-be34-a045738926e1/26UM1IM00479.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/d5/16/04d51686-2aab-e65f-5e41-b8129fbda852/26UM1IM00479.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-11-06",
       "trackCount": 25,
@@ -3597,6 +3597,39 @@
       "tagline": null
     },
     {
+      "id": "6795568938",
+      "title": "Clear Intentions",
+      "artist": "Cristale",
+      "url": "https://music.apple.com/jp/album/clear-intentions/6795568938?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/08/78/170878a0-e7f4-3fc3-1974-4840e9896d28/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6827752603",
+      "title": "Permiso Pa' Llorar",
+      "artist": "Banda Machos",
+      "url": "https://music.apple.com/jp/album/permiso-pa-llorar/6827752603?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/ac/ce/d6acce0d-0b92-c1f6-456f-063d72172c70/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6820603530",
       "title": "Apambichao, Vol. 2",
       "artist": "Manuel Turizo",
@@ -4936,48 +4969,14 @@
       "tagline": "New Album"
     },
     {
-      "id": "6805239194",
-      "title": "Lacuna",
-      "artist": "The Church",
-      "url": "https://music.apple.com/jp/album/lacuna/6805239194?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/f8/b5/4cf8b53a-39bb-884d-8e26-197dca80b7c3/129499.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Psychedelic"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6826067719",
-      "title": "The Brandenburg Concertos (Live at Alice Tully Hall, New York, NY)",
-      "artist": "The Chamber Music Society of Lincoln Center",
-      "url": "https://music.apple.com/jp/album/the-brandenburg-concertos-live-at-alice-tully-hall/6826067719?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/e3/f7/7ae3f7fa-d09f-eef1-3fbf-699b1db0bb92/8721554157492.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Classical",
-        "Music",
-        "Chamber Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6822408746",
-      "title": "Ceremony of Muzik - EP",
-      "artist": "araabMUZIK",
-      "url": "https://music.apple.com/jp/album/ceremony-of-muzik-ep/6822408746?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/b5/20/8ab52059-13f6-9053-de44-bf59d0518b47/885288850185.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-30",
-      "trackCount": 5,
+      "id": "6824670752",
+      "title": "The Crazy Return",
+      "artist": "DEE GLOKK",
+      "url": "https://music.apple.com/jp/album/the-crazy-return/6824670752?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/df/3c/13df3c3f-d40b-5cf1-6901-0b5bc956032f/808391410930.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-10-31",
+      "trackCount": 11,
       "kind": "album",
       "genres": [
         "Rap",
