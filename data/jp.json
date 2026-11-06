@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:00:33.634Z",
+  "generatedAt": "2026-11-06T18:00:36.220Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3630,6 +3630,22 @@
       "tagline": null
     },
     {
+      "id": "6795568938",
+      "title": "Clear Intentions",
+      "artist": "Cristale",
+      "url": "https://music.apple.com/jp/album/clear-intentions/6795568938?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/08/78/170878a0-e7f4-3fc3-1974-4840e9896d28/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6820603530",
       "title": "Apambichao, Vol. 2",
       "artist": "Manuel Turizo",
@@ -4967,23 +4983,6 @@
         "Music"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6824670752",
-      "title": "The Crazy Return",
-      "artist": "DEE GLOKK",
-      "url": "https://music.apple.com/jp/album/the-crazy-return/6824670752?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/df/3c/13df3c3f-d40b-5cf1-6901-0b5bc956032f/808391410930.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-31",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
     }
   ]
 }
