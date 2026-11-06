@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:00:31.439Z",
+  "generatedAt": "2026-11-06T05:00:32.052Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -159,6 +159,23 @@
       "tagline": "New Album"
     },
     {
+      "id": "6823820064",
+      "title": "FRESH",
+      "artist": "Lil Baby",
+      "url": "https://music.apple.com/jp/album/fresh/6823820064?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6802901441",
       "title": "O My Beloved",
       "artist": "Kings of Leon",
@@ -189,6 +206,23 @@
         "Music"
       ],
       "tagline": "New EP"
+    },
+    {
+      "id": "6827384345",
+      "title": "BLOW UP",
+      "artist": "P1Harmony",
+      "url": "https://music.apple.com/jp/album/blow-up/6827384345?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/cc/e3/1ecce382-cfe6-3883-ef7a-d82b42f0b9f2/8800388626814_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "K-Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
     },
     {
       "id": "6798476482",
@@ -336,6 +370,22 @@
         "Music"
       ],
       "tagline": "New Holiday Album"
+    },
+    {
+      "id": "6826385679",
+      "title": "BULLDAWG: GRAVEYARD SHIFT",
+      "artist": "Kenny Mason",
+      "url": "https://music.apple.com/jp/album/bulldawg-graveyard-shift/6826385679?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/dc/1a/b2dc1aa3-94a3-248e-c032-24a7be4e25b9/075679551115.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6813060002",
@@ -1767,6 +1817,23 @@
       "tagline": null
     },
     {
+      "id": "6828611197",
+      "title": "La Universidad del Perreo (Horario Extendido)",
+      "artist": "Wisin",
+      "url": "https://music.apple.com/jp/album/la-universidad-del-perreo-horario-extendido/6828611197?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/84/16/14841629-3864-f3f2-5d43-58f11a71573c/196874932766.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6816912489",
       "title": "Rides Again Again and Again",
       "artist": "Shawn Lee",
@@ -1879,6 +1946,23 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6830234302",
+      "title": "mi único deseo! - EP",
+      "artist": "Julio Caesar",
+      "url": "https://music.apple.com/jp/album/mi-%C3%BAnico-deseo-ep/6830234302?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/d6/20/a5d62097-e65a-5e15-f7e9-e6d841fddfe7/196874952405.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New EP"
     },
     {
       "id": "6802851482",
@@ -2064,6 +2148,23 @@
         "Rock"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6825044183",
+      "title": "25 Aniversario",
+      "artist": "Juanes",
+      "url": "https://music.apple.com/jp/album/25-aniversario/6825044183?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/30/d1/4f/30d14ff5-97d2-6129-be34-a045738926e1/26UM1IM00479.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 25,
+      "kind": "album",
+      "genres": [
+        "Pop in Spanish",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Compilation"
     },
     {
       "id": "6791639265",
@@ -3496,72 +3597,6 @@
       "tagline": null
     },
     {
-      "id": "6795568938",
-      "title": "Clear Intentions",
-      "artist": "Cristale",
-      "url": "https://music.apple.com/jp/album/clear-intentions/6795568938?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/17/08/78/170878a0-e7f4-3fc3-1974-4840e9896d28/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827752603",
-      "title": "Permiso Pa' Llorar",
-      "artist": "Banda Machos",
-      "url": "https://music.apple.com/jp/album/permiso-pa-llorar/6827752603?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d6/ac/ce/d6acce0d-0b92-c1f6-456f-063d72172c70/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "1896271596",
-      "title": "The Beast Called Ego",
-      "artist": "Moorah",
-      "url": "https://music.apple.com/jp/album/the-beast-called-ego/1896271596?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/29/af/9329af09-bd00-430a-5298-6618fe91d694/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Death Metal/Black Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6804644268",
-      "title": "Orgasmatron (40th Anniversary Edition)",
-      "artist": "Motörhead",
-      "url": "https://music.apple.com/jp/album/orgasmatron-40th-anniversary-edition/6804644268?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/e7/81/06e781d6-51c7-7e40-203f-c3ea07109d8a/4099964266795.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-06",
-      "trackCount": 28,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6820603530",
       "title": "Apambichao, Vol. 2",
       "artist": "Manuel Turizo",
@@ -3742,23 +3777,6 @@
         "Urbano latino",
         "Music",
         "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827210406",
-      "title": "Chivalware (Original Game Soundtrack)",
-      "artist": "Fat Bard",
-      "url": "https://music.apple.com/jp/album/chivalware-original-game-soundtrack/6827210406?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/da/75/7ada75de-5943-8240-c810-99eccea6fe0d/3663729475053_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-05",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Electronic"
       ],
       "tagline": null
     },
@@ -4916,23 +4934,6 @@
         "Music"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6824670752",
-      "title": "The Crazy Return",
-      "artist": "DEE GLOKK",
-      "url": "https://music.apple.com/jp/album/the-crazy-return/6824670752?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/13/df/3c/13df3c3f-d40b-5cf1-6901-0b5bc956032f/808391410930.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-31",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
     },
     {
       "id": "6805239194",
