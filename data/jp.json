@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T05:00:31.311Z",
+  "generatedAt": "2026-11-07T07:00:31.144Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3647,6 +3647,121 @@
       "tagline": null
     },
     {
+      "id": "1896271596",
+      "title": "The Beast Called Ego",
+      "artist": "Moorah",
+      "url": "https://music.apple.com/jp/album/the-beast-called-ego/1896271596?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/29/af/9329af09-bd00-430a-5298-6618fe91d694/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Death Metal/Black Metal",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804644268",
+      "title": "Orgasmatron (40th Anniversary Edition)",
+      "artist": "Motörhead",
+      "url": "https://music.apple.com/jp/album/orgasmatron-40th-anniversary-edition/6804644268?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/e7/81/06e781d6-51c7-7e40-203f-c3ea07109d8a/4099964266795.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 28,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811172106",
+      "title": "A Clay Walker Family Christmas",
+      "artist": "Clay Walker",
+      "url": "https://music.apple.com/jp/album/a-clay-walker-family-christmas/6811172106?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/6d/5c/4c6d5c67-34f4-c4fb-2a31-3381ec5d8159/820233845380.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Christmas: Country",
+        "Music",
+        "Holiday"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6771922645",
+      "title": "Doveland",
+      "artist": "Django Django",
+      "url": "https://music.apple.com/jp/album/doveland/6771922645?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/2e/8f/0a2e8f0d-4d6a-45e2-dc94-fc7d6271017d/4250795611905.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6792103257",
+      "title": "The River",
+      "artist": "Hello Shark",
+      "url": "https://music.apple.com/jp/album/the-river/6792103257?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/e4/46/2de44615-9183-6da1-4c05-240f69aec13d/67635.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823404138",
+      "title": "Verse 1 - EP",
+      "artist": "The Washboard Union",
+      "url": "https://music.apple.com/jp/album/verse-1-ep/6823404138?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/51/b0/2e51b030-a8cd-0cc3-1ab9-b9dae3023122/26SYMIM36340.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6789444108",
+      "title": "Wild Love",
+      "artist": "Passenger",
+      "url": "https://music.apple.com/jp/album/wild-love/6789444108?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/d0/04/1bd00499-92ae-244c-6e73-02d669db062e/067003029230.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Singer/Songwriter",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6820603530",
       "title": "Apambichao, Vol. 2",
       "artist": "Manuel Turizo",
@@ -4869,121 +4984,6 @@
         "Hip-Hop/Rap"
       ],
       "tagline": null
-    },
-    {
-      "id": "6825219435",
-      "title": "Lamp Eye",
-      "artist": "LAMP EYE",
-      "url": "https://music.apple.com/jp/album/lamp-eye/6825219435?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/73/05/6373055f-0c3d-9a51-5196-1bdcb58b2f4b/4550795819203_cover.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-31",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824405984",
-      "title": "newcl",
-      "artist": "newfn",
-      "url": "https://music.apple.com/jp/album/newcl/6824405984?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/dd/d0/03ddd09b-fc00-8641-4e87-bf81178632b8/bigup14612380.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-31",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824838784",
-      "title": "Wishful - EP",
-      "artist": "Collie Wave & Audioscribe",
-      "url": "https://music.apple.com/jp/album/wishful-ep/6824838784?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/8b/61/5f8b61c9-ce15-6db4-5eb0-bdf4db7a7a45/bigup14614975.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-31",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6818043928",
-      "title": "Welcome to Demon School! Iruma-kun 4th series - EP",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/%E9%AD%94%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-%E5%85%A5%E9%96%93%E3%81%8F%E3%82%93-%E7%AC%AC4%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-ep/6818043928?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/01/14/2f01148f-b413-d657-9da8-04e2490d6d74/ANTCD-A0000020876.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-10-31",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826405767",
-      "title": "WELCOME TO MURDAVILLE",
-      "artist": "1.3shawtyworld",
-      "url": "https://music.apple.com/jp/album/welcome-to-murdaville/6826405767?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/b8/07/a0b8073f-662d-8d1d-5ab8-1514f901df0a/808391412163.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-31",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6828159286",
-      "title": "Singing Songs, Vol. 1 - EP",
-      "artist": "OctobersRich",
-      "url": "https://music.apple.com/jp/album/singing-songs-vol-1-ep/6828159286?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/27/5f/04275fd7-5db5-76db-45e3-445af576b97c/708208439591_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-31",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6828441567",
-      "title": "The Hollow",
-      "artist": "Snoop Dogg & Kurupt",
-      "url": "https://music.apple.com/jp/album/the-hollow/6828441567?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/df/c1/75dfc155-0948-8371-0d66-c9edd1a2e0da/712132260381_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-10-31",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New Album"
     }
   ]
 }
