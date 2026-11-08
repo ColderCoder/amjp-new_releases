@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T07:00:31.144Z",
+  "generatedAt": "2026-11-08T07:00:31.618Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3762,6 +3762,38 @@
       "tagline": "New Album"
     },
     {
+      "id": "1894292696",
+      "title": "Old Flames",
+      "artist": "La Roux",
+      "url": "https://music.apple.com/jp/album/old-flames/1894292696?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/26/17/53261760-4064-0469-bc35-1382004806f5/26UMGIM43498.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": "New Album and Interview"
+    },
+    {
+      "id": "6779529412",
+      "title": "Requiem for a Village",
+      "artist": "Steven Wilson",
+      "url": "https://music.apple.com/jp/album/requiem-for-a-village/6779529412?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/49/86/50498649-9a81-bc78-26c4-09165c7b8779/823375169109_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6820603530",
       "title": "Apambichao, Vol. 2",
       "artist": "Manuel Turizo",
@@ -4949,41 +4981,6 @@
         "Music"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6821673233",
-      "title": "Flava",
-      "artist": "SEVEN STEP",
-      "url": "https://music.apple.com/jp/album/flava/6821673233?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/15/e4/8415e436-0841-4c8b-d831-55b50fad47a1/4550795489918_cover.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-01",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Alternative",
-        "Punk"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6825705551",
-      "title": ":D",
-      "artist": "viceversa & P. Cassady",
-      "url": "https://music.apple.com/jp/album/d/6825705551?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/06/90/a50690ec-ff9d-3a5c-d43f-20696193c604/8800388627217_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-01",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Korean Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
     }
   ]
 }
