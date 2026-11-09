@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T19:00:31.858Z",
+  "generatedAt": "2026-11-09T21:00:31.853Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1930,6 +1930,22 @@
         "Music"
       ],
       "tagline": "New Live Album"
+    },
+    {
+      "id": "6790890046",
+      "title": "Grand Ole Revival",
+      "artist": "Mark Wills",
+      "url": "https://music.apple.com/jp/album/grand-ole-revival/6790890046?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/cb/61/92cb616e-1acd-b1c7-917c-e595e9f7736e/617884964955_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Christian",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6827306708",
@@ -3874,23 +3890,6 @@
         "Music"
       ],
       "tagline": null
-    },
-    {
-      "id": "6830318984",
-      "title": "Early Hours (DJ Mix)",
-      "artist": "Empress Of",
-      "url": "https://music.apple.com/jp/album/early-hours-dj-mix/6830318984?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/44/4d/a4444d0c-181d-2a83-8061-8efb9af2bf95/343f4864-9030-424f-9077-f6f55f5f8574.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-06",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Downtempo",
-        "Music",
-        "Electronic"
-      ],
-      "tagline": "New DJ Mix"
     },
     {
       "id": "6820603530",
