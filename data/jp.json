@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:00:31.618Z",
+  "generatedAt": "2026-11-09T08:00:31.173Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3794,6 +3794,105 @@
       "tagline": "New Album"
     },
     {
+      "id": "6810259310",
+      "title": "Elvish - EP",
+      "artist": "Stephanie Gilbert",
+      "url": "https://music.apple.com/jp/album/elvish-ep/6810259310?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/02/be/d002beb5-181d-2f6e-9396-18937c622cff/68786.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6813254813",
+      "title": "Another Eden",
+      "artist": "Morgin Madison",
+      "url": "https://music.apple.com/jp/album/another-eden/6813254813?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/b6/e7/3eb6e7ae-b675-34e0-1af1-abc7fd47b055/612891252590.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6825912122",
+      "title": "Wobble Game",
+      "artist": "Ganja White Night",
+      "url": "https://music.apple.com/jp/album/wobble-game/6825912122?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/1f/e4/e31fe417-73ec-e706-a358-b6fd3e8400a4/612891312867.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Dubstep"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804833398",
+      "title": "Dream",
+      "artist": "Amtrac",
+      "url": "https://music.apple.com/jp/album/dream/6804833398?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/43/48/a8/4348a84c-f90e-be8b-0ea5-15f7db79fb24/885288309003.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6801713260",
+      "title": "Telepathy",
+      "artist": "Carlita",
+      "url": "https://music.apple.com/jp/album/telepathy/6801713260?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/00/55/b1005535-d3ea-a186-df7c-3f85e4247196/5054429210712.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6830318984",
+      "title": "Early Hours (DJ Mix)",
+      "artist": "Empress Of",
+      "url": "https://music.apple.com/jp/album/early-hours-dj-mix/6830318984?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/44/4d/a4444d0c-181d-2a83-8061-8efb9af2bf95/343f4864-9030-424f-9077-f6f55f5f8574.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Downtempo",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6820603530",
       "title": "Apambichao, Vol. 2",
       "artist": "Manuel Turizo",
@@ -3972,6 +4071,40 @@
       "kind": "album",
       "genres": [
         "Soundtrack",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6826339102",
+      "title": "Beats In Space 228: Victor Calderone (DJ Mix)",
+      "artist": "Victor Calderone",
+      "url": "https://music.apple.com/jp/album/beats-in-space-228-victor-calderone-dj-mix/6826339102?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/38/73/83387398-87be-75fa-3855-9f8f579eca80/961a37ef-2741-4f27-8d96-e20b3686e2ce.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-05",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6829020148",
+      "title": "Beats In Space 228: Tim Sweeney (DJ Mix)",
+      "artist": "Tim Sweeney",
+      "url": "https://music.apple.com/jp/album/beats-in-space-228-tim-sweeney-dj-mix/6829020148?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/8b/09/aa8b09a4-aefa-a7f6-c245-ae29441d0624/0de7263b-4560-452c-a8a1-3c66391f1744.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-05",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Dance",
         "Music",
         "Electronic"
       ],
@@ -4835,150 +4968,19 @@
       "tagline": null
     },
     {
-      "id": "6810991639",
-      "title": "Emotion (Special Edition) - EP",
-      "artist": "Ae! Group",
-      "url": "https://music.apple.com/jp/album/emotion-special-edition-ep/6810991639?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/1e/02/891e0223-3c3e-2ecf-eee7-3decb7d2aca3/26UM1IM01870.rgb.jpg/632x632bb.jpg",
+      "id": "6802383112",
+      "title": "Home",
+      "artist": "Marsh",
+      "url": "https://music.apple.com/jp/album/home/6802383112?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/86/29/5f86291c-0ea9-44d6-ce86-2fd67a64c43a/5056883510797.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-11-02",
-      "trackCount": 6,
+      "releaseDate": "2026-11-03",
+      "trackCount": 14,
       "kind": "album",
       "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6811800187",
-      "title": "COMING SOON - EP",
-      "artist": "IS:SUE",
-      "url": "https://music.apple.com/jp/album/coming-soon-ep/6811800187?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/bb/6e/70bb6ede-2e62-255b-1ca7-faa0f6528bf5/26UM1IM10047.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-02",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824778627",
-      "title": "Mr. Driller (Soundtracks Mr. Driller/Mr. Driller 2/Mr. Driller G)",
-      "artist": "Mr. DRILLER, Go Shiina & Bandai Namco Game Music",
-      "url": "https://music.apple.com/jp/album/mr-driller-soundtracks-mr-driller-mr-driller-2-mr-driller-g/6824778627?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/e3/c2/a3e3c27c-c142-215c-ed70-fa02d1fe6a5f/PA00236666_0_257244_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-02",
-      "trackCount": 66,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
+        "House",
         "Music",
-        "Video Game"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824451114",
-      "title": "ROUTE ZERO : The CALLING - EP",
-      "artist": "xikers",
-      "url": "https://music.apple.com/jp/album/route-zero-the-calling-ep/6824451114?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/7e/87/f87e878e-fc7f-3bd3-c208-10b8972cf1cb/26UM1IM28942.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-02",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824838890",
-      "title": "Mirror Mirror",
-      "artist": "Hakos Baelz",
-      "url": "https://music.apple.com/jp/album/mirror-mirror/6824838890?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/66/b8/dd66b820-f337-8dc3-2b98-27c9dbedaa96/4580883417134_art.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-02",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6825383052",
-      "title": "1% - EP",
-      "artist": "NO PLATED & Gold Digga",
-      "url": "https://music.apple.com/jp/album/1-ep/6825383052?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/52/3c/7f523cab-3e6c-a73e-9cc2-3a8c53c7ebc8/4550795843772_cover.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-02",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822135107",
-      "title": "888",
-      "artist": "XAOSX",
-      "url": "https://music.apple.com/jp/album/888/6822135107?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/20/8b/4a208b48-c6e4-0c56-76ae-eea35246f74c/4573623343893.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-02",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6828953790",
-      "title": "Sessions",
-      "artist": "Medium Build",
-      "url": "https://music.apple.com/jp/album/sessions/6828953790?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/46/06/51460689-8a74-19d8-1240-38241e234d44/26UM1IM39542.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-02",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6826297512",
-      "title": "Make It Maintain It, Pt. 1 (Deluxe)",
-      "artist": "Bugzy Malone",
-      "url": "https://music.apple.com/jp/album/make-it-maintain-it-pt-1-deluxe/6826297512?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/1a/3c/f81a3cad-23b3-47aa-6ecb-fa90555c5b7a/1200220369997.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-02",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
+        "Dance"
       ],
       "tagline": "New Album"
     }
