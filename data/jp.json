@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:00:31.853Z",
+  "generatedAt": "2026-11-10T08:00:33.236Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3892,6 +3892,174 @@
       "tagline": null
     },
     {
+      "id": "6830318984",
+      "title": "Early Hours (DJ Mix)",
+      "artist": "Empress Of",
+      "url": "https://music.apple.com/jp/album/early-hours-dj-mix/6830318984?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/44/4d/a4444d0c-181d-2a83-8061-8efb9af2bf95/343f4864-9030-424f-9077-f6f55f5f8574.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Downtempo",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6829937272",
+      "title": "Today's Hits: November 2026 (DJ Mix)",
+      "artist": "Apple Music Resident DJ",
+      "url": "https://music.apple.com/jp/album/todays-hits-november-2026-dj-mix/6829937272?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/e5/d5/0de5d5f9-a377-a8f7-d635-852a3446e3d8/35f850d7-2e0d-4c76-a247-39de11f0aeb6.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6829963647",
+      "title": "Isgubhu November 2026 (DJ Mix)",
+      "artist": "REMIXIA",
+      "url": "https://music.apple.com/jp/album/isgubhu-november-2026-dj-mix/6829963647?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/98/83/8d9883cc-0949-2d86-815e-76c378fc44a7/84e513b9-4238-44b0-8a0b-14879a8b302d.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Afro House",
+        "Music",
+        "African",
+        "Afrobeats"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6825867638",
+      "title": "Arcane Mix Series 15 (DJ Mix)",
+      "artist": "Oliver Huntemann",
+      "url": "https://music.apple.com/jp/album/arcane-mix-series-15-dj-mix/6825867638?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/82/31/09/82310959-d5ad-02fb-412e-db2d736f4555/80251688-509e-493f-b805-6d803710f769.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6827654897",
+      "title": "Everybody Loves A Mixtape, Vol. 13: Current Grooves (DJ Mix)",
+      "artist": "Fatboy Slim",
+      "url": "https://music.apple.com/jp/album/everybody-loves-a-mixtape-vol-13-current-grooves-dj-mix/6827654897?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/b0/cc/f8b0cc32-54e9-c9eb-c18d-87a9c70511a8/f8566e2f-f65f-4702-9201-952a5ce6e979.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6829055415",
+      "title": "TSZR Full Circle Mix: Rebūke (DJ Mix)",
+      "artist": "Rebūke",
+      "url": "https://music.apple.com/jp/album/tszr-full-circle-mix-reb%C5%ABke-dj-mix/6829055415?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/1f/96/611f96de-6762-e060-be64-9847b01bfe4d/195a5665-3790-4669-9d6f-da6450c0407e.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6807912029",
+      "title": "Na Dem",
+      "artist": "Seun Kuti & Egypt 80'",
+      "url": "https://music.apple.com/jp/album/na-dem/6807912029?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/f8/92/abf892aa-3cef-0331-0cb8-05f1ef28fa17/68656.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Afro-Beat",
+        "Music",
+        "African"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6822258811",
+      "title": "Anatomy Of A Brief Romance (Deluxe)",
+      "artist": "Bloc Party",
+      "url": "https://music.apple.com/jp/album/anatomy-of-a-brief-romance-deluxe/6822258811?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/3d/48/0a3d4882-e389-ce98-0247-075653a82295/823375533818_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Deluxe Edition"
+    },
+    {
+      "id": "6778595508",
+      "title": "New Entertainment",
+      "artist": "young friend",
+      "url": "https://music.apple.com/jp/album/new-entertainment/6778595508?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/36/9d/4a369de4-ee87-1873-af34-811c6a1e7c6b/067003021999.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Indie Rock",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822054534",
+      "title": "My Last Letter - EP",
+      "artist": "lace",
+      "url": "https://music.apple.com/jp/album/my-last-letter-ep/6822054534?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/65/02/416502af-1eba-9ba6-1418-f17d7bf9e055/823375531760_Cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6820603530",
       "title": "Apambichao, Vol. 2",
       "artist": "Manuel Turizo",
@@ -4798,190 +4966,21 @@
       "tagline": null
     },
     {
-      "id": "6818395362",
-      "title": "Kudanshita Folk Festival'25",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/kudanshita-folk-festival25/6818395362?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/4f/e4/684fe4bb-5b0d-d308-360b-a06bcb526d5f/VICL-66200.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-03",
-      "trackCount": 29,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6799067410",
-      "title": "Howl & Poems",
-      "artist": "the myeahns",
-      "url": "https://music.apple.com/jp/album/howl-poems/6799067410?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/3d/3c/2e3d3ca1-62a0-cd58-3791-f56e32497f98/UKCD1272.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-03",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "J-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6829656833",
-      "title": "Sessions",
-      "artist": "wave to earth",
-      "url": "https://music.apple.com/jp/album/sessions/6829656833?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ba/22/c7/ba22c7b3-e400-1b89-85ec-13f3e1b52a23/711641129356.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-03",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Indie Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6822954441",
-      "title": "QWERTY III",
-      "artist": "Saya Gray",
-      "url": "https://music.apple.com/jp/album/qwerty-iii/6822954441?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/ee/f4/afeef47b-b3f2-3958-f90e-37d3cd3c96c6/823375539995_Cover.jpg/632x632bb.jpg",
+      "id": "6828157623",
+      "title": "Tomorrowland Belgium 2026: Alok at Mainstage, Weekend 2 (DJ Mix)",
+      "artist": "Alok",
+      "url": "https://music.apple.com/jp/album/tomorrowland-belgium-2026-alok-at-mainstage-weekend/6828157623?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bb/8f/62/bb8f628a-5e05-b5b2-63ef-115886c8ec0b/a86006ed-4c33-435a-82b0-2d160c3cbe5c.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-11-03",
-      "trackCount": 7,
+      "releaseDate": "2026-07-24",
+      "trackCount": 25,
       "kind": "album",
       "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6828335122",
-      "title": "PULSE - EP",
-      "artist": "RESCENE",
-      "url": "https://music.apple.com/jp/album/pulse-ep/6828335122?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/df/b7/b3dfb7ba-715f-1f5a-5528-eb82acd5225a/888272191394_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-03",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827170990",
-      "title": "K-Pop Rising - Dream to Shine (Original Game Soundtrack)",
-      "artist": "STARWAV3",
-      "url": "https://music.apple.com/jp/album/k-pop-rising-dream-to-shine-original-game-soundtrack/6827170990?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/0d/88/6b0d8832-81ed-29ac-5ff5-fdc5ee21cb6f/3663729479778_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-03",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Soundtrack",
-        "Music",
-        "Pop",
-        "K-Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824984388",
-      "title": "Navidad Melancólica Deluxe",
-      "artist": "Thalía",
-      "url": "https://music.apple.com/jp/album/navidad-melanc%C3%B3lica-deluxe/6824984388?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/3e/03/6b3e0309-a9b8-b59c-543c-1e3d61e3c74c/196874849941.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-03",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Pop in Spanish",
-        "Music",
-        "Latin",
-        "Holiday"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827058805",
-      "title": "FREE THE MANE 4 (Deluxe Version)",
-      "artist": "B-Free & FREE THE MANE",
-      "url": "https://music.apple.com/jp/album/free-the-mane-4-deluxe-version/6827058805?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/a6/e0/42a6e094-71a4-6f90-5b18-ebb5c394312e/1200220377756.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-03",
-      "trackCount": 18,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826358741",
-      "title": "Back 2 The Ghetto",
-      "artist": "DJ Clent",
-      "url": "https://music.apple.com/jp/album/back-2-the-ghetto/6826358741?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/1e/39/321e3944-0a2d-9d04-f15b-d7cd5c339d1f/8718723332255.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-03",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822623329",
-      "title": "Tierra Viva",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/tierra-viva/6822623329?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/09/9d/34099d4a-321c-2b3e-4dd2-45c256004d91/8718723332385.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-03",
-      "trackCount": 19,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6802383112",
-      "title": "Home",
-      "artist": "Marsh",
-      "url": "https://music.apple.com/jp/album/home/6802383112?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/86/29/5f86291c-0ea9-44d6-ce86-2fd67a64c43a/5056883510797.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-03",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "House",
+        "Electronic",
         "Music",
         "Dance"
       ],
-      "tagline": "New Album"
+      "tagline": null
     }
   ]
 }
