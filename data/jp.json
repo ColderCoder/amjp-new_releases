@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T18:00:32.034Z",
+  "generatedAt": "2026-11-12T19:00:31.384Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -23,24 +23,6 @@
       "genres": [
         "J-Pop",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824888558",
-      "title": "Girl From The West",
-      "artist": "Solana",
-      "url": "https://music.apple.com/jp/album/girl-from-the-west/6824888558?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/67/0b/d9670b58-7132-a51e-cbe3-089d0fc9efad/196874906859.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-13",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music",
-        "African",
-        "Afro-Pop"
       ],
       "tagline": null
     },
@@ -627,7 +609,7 @@
         "Dance",
         "House"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6810135248",
@@ -1836,7 +1818,7 @@
         "Soundtrack",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Soundtrack"
     },
     {
       "id": "6830868644",
@@ -4335,6 +4317,23 @@
         "Jungle/Drum'n'bass",
         "Music",
         "Dance"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6830945395",
+      "title": "Echo",
+      "artist": "Ecco2k",
+      "url": "https://music.apple.com/jp/album/echo/6830945395?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/30/4f/e7304ff9-cd88-d9a4-20fc-18c6b88467a3/5158.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-12",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Alternative"
       ],
       "tagline": null
     },
