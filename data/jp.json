@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:00:34.363Z",
+  "generatedAt": "2026-11-12T08:00:32.407Z",
   "source": "https://music.apple.com/jp/room/6831386377?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6831386377?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4677,148 +4677,14 @@
       "tagline": null
     },
     {
-      "id": "6820603530",
-      "title": "Apambichao, Vol. 2",
-      "artist": "Manuel Turizo",
-      "url": "https://music.apple.com/jp/album/apambichao-vol-2/6820603530?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/48/eb/1548eb40-689d-e8b9-c15f-07e96286ccfc/196874823736.jpg/632x632bb.jpg",
+      "id": "1849480304",
+      "title": "Stoff",
+      "artist": "Steff la Cheffe",
+      "url": "https://music.apple.com/jp/album/stoff/1849480304?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/3d/09/e43d09e7-9c1f-7bce-d70d-d14bf9b961fe/cover_4062851214223.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-11-05",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6824971902",
-      "title": "Sometimes I Rap - EP",
-      "artist": "MC SQUARE & Nikhil - Swapnil",
-      "url": "https://music.apple.com/jp/album/sometimes-i-rap-ep/6824971902?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/90/97/dd90971b-40e5-5b2a-fd4d-c825c91a8caa/711641071372.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-05",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814946517",
-      "title": "The Story of My Life (The Full Story)",
-      "artist": "MC Eiht",
-      "url": "https://music.apple.com/jp/album/the-story-of-my-life-the-full-story/6814946517?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/a9/90/64a990d5-4dcd-ac4e-da60-160c47708f54/885288488937.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-05",
-      "trackCount": 28,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827229248",
-      "title": "INDIVIDUAL",
-      "artist": "Yan Block",
-      "url": "https://music.apple.com/jp/album/individual/6827229248?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/51/06/385106df-3b74-8fe1-8c74-91aa223747a9/711641083092.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-05",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "1876509416",
-      "title": "DUMAN",
-      "artist": "Summer Cem",
-      "url": "https://music.apple.com/jp/album/duman/1876509416?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/34/f1/4734f183-6963-6cc7-06a2-bbec4e2991e7/5026854691664.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-05",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824724165",
-      "title": "Esquina 22",
-      "artist": "Leonardo Aguilar",
-      "url": "https://music.apple.com/jp/album/esquina-22/6824724165?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/ee/80/69ee8027-916c-eda6-0b99-fbac5a848ac5/823375546290_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-05",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826603624",
-      "title": "Tiempo Nuevo",
-      "artist": "La Ventaja",
-      "url": "https://music.apple.com/jp/album/tiempo-nuevo/6826603624?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/63/0b/fc630b74-8e8b-f079-f292-86833a3a3465/711641067597.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-05",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6825491696",
-      "title": "Grit - EP",
-      "artist": "babirred",
-      "url": "https://music.apple.com/jp/album/grit-ep/6825491696?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/1c/a0/491ca0bc-4912-49a2-02e5-45381d6d23d2/808391411548.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-05",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823405507",
-      "title": "To All A Good Night (The King Has Come)",
-      "artist": "Blessing Offor",
-      "url": "https://music.apple.com/jp/album/to-all-a-good-night-the-king-has-come/6823405507?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/47/f8/3547f897-f4a2-2cee-4433-897d4dd3f093/26UM1IM33072.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-05",
-      "trackCount": 9,
+      "releaseDate": "2026-11-06",
+      "trackCount": 13,
       "kind": "album",
       "genres": [
         "Pop",
@@ -4827,52 +4693,238 @@
       "tagline": null
     },
     {
-      "id": "6816157297",
-      "title": "40 Acres",
-      "artist": "Camden Malik",
-      "url": "https://music.apple.com/jp/album/40-acres/6816157297?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/62/cc/e862cc66-1436-1c58-18bc-57d2e54c6f61/5056818811876.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-05",
+      "id": "1895132281",
+      "title": "Kendra",
+      "artist": "Resa Saffa Park",
+      "url": "https://music.apple.com/jp/album/kendra/1895132281?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/be/6a/f0be6abd-f274-9690-1c1d-015c47aeb701/820233074742.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6778458554",
+      "title": "Echoes of Impermanence",
+      "artist": "David Granström",
+      "url": "https://music.apple.com/jp/album/echoes-of-impermanence/6778458554?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ef/80/62/ef8062ca-9e01-de91-28a8-996278115959/66570.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "IDM/Experimental",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779359794",
+      "title": "The Sound Orchestra",
+      "artist": "Mathis Picard",
+      "url": "https://music.apple.com/jp/album/the-sound-orchestra/6779359794?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/67/cb/6a67cb30-23cd-65f1-d052-9bf726e298d4/820233753876.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Big Band",
+        "Music",
+        "Jazz"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6779697244",
+      "title": "Le plongeon",
+      "artist": "Cancre",
+      "url": "https://music.apple.com/jp/album/le-plongeon/6779697244?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/4a/74/414a74ca-9201-d454-f8de-798e5cb0688c/3760307143370_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
       "trackCount": 11,
       "kind": "album",
       "genres": [
+        "French Pop",
+        "Music",
+        "Alternative",
+        "Indie Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6782131942",
+      "title": "D. Scarlatti: Sonatas, Vol. 3",
+      "artist": "Angela Hewitt",
+      "url": "https://music.apple.com/jp/album/d-scarlatti-sonatas-vol-3/6782131942?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f5/ab/87/f5ab87f8-9cbd-bfbc-9385-223559c7366d/26UMGIM07267.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Baroque Era",
+        "Piano",
+        "Solo Instrumental"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6787107035",
+      "title": "Dance or die",
+      "artist": "David Greilsammer",
+      "url": "https://music.apple.com/jp/album/dance-or-die/6787107035?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/05/58/7d/05587ded-affb-9f24-3490-962355deff28/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6788797099",
+      "title": "Devagar Que A Vida É Curta",
+      "artist": "Ana Lua Caiano",
+      "url": "https://music.apple.com/jp/album/devagar-que-a-vida-%C3%A9-curta/6788797099?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/56/ae/1b56ae2a-e03f-3acd-c33c-3738374734e1/4030433618776_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Urbano latino",
+        "Music",
+        "Latin",
         "Hip-Hop/Rap",
+        "Alternative Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6789674708",
+      "title": "Private Page Club - EP",
+      "artist": "RANI",
+      "url": "https://music.apple.com/jp/album/private-page-club-ep/6789674708?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/dc/40/54dc40d9-f890-96f4-5ac4-459bc134092c/8721555565814.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6790503474",
+      "title": "First Light",
+      "artist": "Lover",
+      "url": "https://music.apple.com/jp/album/first-light/6790503474?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/05/41/f0054177-98a1-e43f-9d93-30fb82b44ef3/8721555869134.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6790539199",
+      "title": "Ma Waraa Al-Shaabi",
+      "artist": "Rizan Said",
+      "url": "https://music.apple.com/jp/album/ma-waraa-al-shaabi/6790539199?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/6a/bc/8f6abc39-1616-4ba6-f9c1-d0afb2f69a5e/67444.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6790852509",
+      "title": "Albatross",
+      "artist": "Katie Gregson-MacLeod",
+      "url": "https://music.apple.com/jp/album/albatross/6790852509?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/09/ea/d709eafc-d65a-6315-2069-f30208be11a7/820233312295.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Singer/Songwriter",
         "Music"
       ],
       "tagline": "New Album"
     },
     {
-      "id": "6827153500",
-      "title": "San La Flame",
-      "artist": "Austin San",
-      "url": "https://music.apple.com/jp/album/san-la-flame/6827153500?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/92/a5/fb92a5eb-f757-0898-7713-cc8b2e92c468/711641043911.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-05",
-      "trackCount": 8,
-      "kind": "album",
+      "id": "6792804219",
+      "title": "All Solids Melt Into Aether - EP",
+      "artist": "Maria w Horn",
+      "url": "https://music.apple.com/jp/album/all-solids-melt-into-aether-ep/6792804219?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/55/e7/ca55e733-794f-b13b-354f-f359858956d7/67655.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 1,
+      "kind": "single",
       "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
+        "Electronic",
+        "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6827210406",
-      "title": "Chivalware (Original Game Soundtrack)",
-      "artist": "Fat Bard",
-      "url": "https://music.apple.com/jp/album/chivalware-original-game-soundtrack/6827210406?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/da/75/7ada75de-5943-8240-c810-99eccea6fe0d/3663729475053_cover.jpg/632x632bb.jpg",
+      "id": "6792804584",
+      "title": "X3 - EP",
+      "artist": "Amina Hocine",
+      "url": "https://music.apple.com/jp/album/x3-ep/6792804584?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/94/63/e09463c3-2f40-2edf-14a2-4f4cd277de10/67656.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-11-05",
-      "trackCount": 13,
-      "kind": "album",
+      "releaseDate": "2026-11-06",
+      "trackCount": 1,
+      "kind": "single",
       "genres": [
-        "Soundtrack",
-        "Music",
-        "Electronic"
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6792806709",
+      "title": "Phonophani – Until the Fish Eyes Shine - EP",
+      "artist": "Espen Sommer Eide",
+      "url": "https://music.apple.com/jp/album/phonophani-until-the-fish-eyes-shine-ep/6792806709?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/f1/f9/d2f1f950-580c-1249-e955-0c0494c8fb57/67657.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-06",
+      "trackCount": 1,
+      "kind": "single",
+      "genres": [
+        "Electronic",
+        "Music"
       ],
       "tagline": null
     },
@@ -4909,57 +4961,6 @@
         "Electronic"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6786149786",
-      "title": "Sixteen - EP",
-      "artist": "Ruby Rodgers",
-      "url": "https://music.apple.com/jp/album/sixteen-ep/6786149786?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/15/f2/7c15f224-8413-60c5-f230-e32661c6606e/26UMGIM79021.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-05",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819669820",
-      "title": "In Loving Memory Of... - EP",
-      "artist": "Worm Girlz",
-      "url": "https://music.apple.com/jp/album/in-loving-memory-of-ep/6819669820?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/6f/58/746f5898-5870-753a-318c-566ce1e2a5f8/483132.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-05",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Alternative",
-        "Indie Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819655554",
-      "title": "#internetrnb - EP",
-      "artist": "Dylan Atlantis",
-      "url": "https://music.apple.com/jp/album/internetrnb-ep/6819655554?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/e4/56/27e456fd-5ca8-6874-cde7-5cfe8f3ae299/483265.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-05",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "R&B/Soul",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": "New EP"
     },
     {
       "id": "6827710913",
