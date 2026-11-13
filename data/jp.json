@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T05:00:31.760Z",
+  "generatedAt": "2026-11-13T07:00:32.518Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -15,7 +15,7 @@
       "title": "GOLDEN HOUR : Part.6 - EP",
       "artist": "ATEEZ",
       "url": "https://music.apple.com/jp/album/golden-hour-part-6-ep/6826099807?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/92/ec/9f92ecb1-16e3-d25e-fa5d-24bbe382dc3b/26UM1IM27842.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/48/0b/20480b6f-2bd3-9268-aa2e-a6ad53d2f87a/26UM1IM27842.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-11-13",
       "trackCount": 5,
