@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:00:30.610Z",
+  "generatedAt": "2026-11-13T05:00:31.760Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6826099807",
+      "title": "GOLDEN HOUR : Part.6 - EP",
+      "artist": "ATEEZ",
+      "url": "https://music.apple.com/jp/album/golden-hour-part-6-ep/6826099807?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/92/ec/9f92ecb1-16e3-d25e-fa5d-24bbe382dc3b/26UM1IM27842.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "K-Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
     {
       "id": "6812412381",
       "title": "Carnaval De Luz",
@@ -24,7 +41,7 @@
         "Rock",
         "Music"
       ],
-      "tagline": "New Pre-Add"
+      "tagline": "New Album and Interview"
     },
     {
       "id": "6802989626",
@@ -1302,6 +1319,39 @@
       "tagline": "New Release"
     },
     {
+      "id": "6825097873",
+      "title": "HEELMATIC",
+      "artist": "Westside Gunn",
+      "url": "https://music.apple.com/jp/album/heelmatic/6825097873?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/08/cf/e008cf0c-ef36-af3c-92cb-64263cf140d7/711641044048.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6825151344",
+      "title": "Cool",
+      "artist": "Wiz Khalifa",
+      "url": "https://music.apple.com/jp/album/cool/6825151344?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/d4/60/95d46028-a177-e197-863d-1138ff32df4f/ticket.ycnpqwog.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6827331170",
       "title": "STILL SLEEP ??",
       "artist": "Sleepy Hallow",
@@ -1350,6 +1400,38 @@
       "tagline": null
     },
     {
+      "id": "6828547440",
+      "title": "Forever Or Never",
+      "artist": "Jay Montana",
+      "url": "https://music.apple.com/jp/album/forever-or-never/6828547440?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/e7/4c/aae74c0b-42e6-adc1-9419-cb4143308bea/075679548979.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6823307414",
+      "title": "Reminiscing",
+      "artist": "Montana 700",
+      "url": "https://music.apple.com/jp/album/reminiscing/6823307414?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/29/ec/31/29ec3143-b97f-a5b0-95f8-aeaa9730c10f/075679551665.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6822402709",
       "title": "obsession",
       "artist": "Kodie Shane",
@@ -1376,6 +1458,22 @@
       "explicit": true,
       "releaseDate": "2026-11-13",
       "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6824123452",
+      "title": "Kenjataimu (Post Nut Clarity)",
+      "artist": "Tfemi",
+      "url": "https://music.apple.com/jp/album/kenjataimu-post-nut-clarity/6824123452?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/d0/19/6cd019df-d249-1403-2f3d-c3ee6099b13e/711209140106.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 7,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
@@ -1413,6 +1511,23 @@
       "genres": [
         "Hip-Hop/Rap",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6831259693",
+      "title": "Murda 'Nem (feat. J. Alphonse Nicholson) - EP",
+      "artist": "Lil Murda",
+      "url": "https://music.apple.com/jp/album/murda-nem-feat-j-alphonse-nicholson-ep/6831259693?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/37/8e/d1378e85-3a91-fb37-e8ff-c43847853a9f/093624812234.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Rap"
       ],
       "tagline": null
     },
@@ -3380,71 +3495,6 @@
       "tagline": "New DJ Mix"
     },
     {
-      "id": "6805958199",
-      "title": "Cruel World…So It Ends",
-      "artist": "Holly Humberstone",
-      "url": "https://music.apple.com/jp/album/cruel-world-so-it-ends/6805958199?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/74/d3/7d74d31c-62fe-d0b7-0cb1-a1d1aafd727e/26UM1IM09221.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-13",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Deluxe Edition"
-    },
-    {
-      "id": "6820268535",
-      "title": "Good Story (Extended)",
-      "artist": "Eliza McLamb",
-      "url": "https://music.apple.com/jp/album/good-story-extended/6820268535?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/34/28/2f3428ac-870b-737a-895d-bdb13f2f38c9/130512.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-13",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Indie Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814005630",
-      "title": "The Treehouse",
-      "artist": "Ethan Burdick",
-      "url": "https://music.apple.com/jp/album/the-treehouse/6814005630?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/a2/0d/7aa20d94-85d5-12cf-730d-4ab9228acf5f/888193684036.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-13",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Singer/Songwriter",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805930969",
-      "title": "Van Lear Rose (2026 Expanded Remaster)",
-      "artist": "Loretta Lynn",
-      "url": "https://music.apple.com/jp/album/van-lear-rose-2026-expanded-remaster/6805930969?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/30/26/bf302612-b98e-f0a0-9f44-22f22c08710e/68566.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-13",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": "New Release"
-    },
-    {
       "id": "6819527207",
       "title": "Metaphor: Refantazio Orchestral Album",
       "artist": "ATLUS GAME MUSIC, ATLUS Sound Team & The Royal Symphony Orchestra of Euchronia",
@@ -4685,55 +4735,6 @@
       "kind": "album",
       "genres": [
         "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826495427",
-      "title": "Casa del Clasico 015: Seimei (DJ Mix)",
-      "artist": "Seimei",
-      "url": "https://music.apple.com/jp/album/casa-del-clasico-015-seimei-dj-mix/6826495427?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/fe/de/ccfede42-3169-ebc6-2fee-0226d114c48d/04d62f2e-ea01-4343-9c6e-000fa1c466b0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-11",
-      "trackCount": 41,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Breakbeat"
-      ],
-      "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6812477568",
-      "title": "Fly 1111",
-      "artist": "Emma Ogier",
-      "url": "https://music.apple.com/jp/album/fly-1111/6812477568?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/a4/60/52a4608a-75cd-26a7-ad85-bc041fad6643/26UM1IM07699.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-11",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6826253221",
-      "title": "Waves and the Wind",
-      "artist": "Haley Joelle",
-      "url": "https://music.apple.com/jp/album/waves-and-the-wind/6826253221?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/01/65/61016594-79ee-86e7-72a3-9d489d1af607/885000830709.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-11",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Pop",
         "Music"
       ],
       "tagline": null
