@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T15:00:31.608Z",
+  "generatedAt": "2026-11-13T18:00:31.649Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -894,6 +894,22 @@
         "Alternative"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6807112449",
+      "title": "Living Alone (10th Anniversary Deluxe Edition)",
+      "artist": "Video Age",
+      "url": "https://music.apple.com/jp/album/living-alone-10th-anniversary-deluxe-edition/6807112449?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/73/ae/3a73ae72-ca6d-cb7b-6a3b-84d33ebbda50/68613.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
     },
     {
       "id": "6797648062",
@@ -3473,23 +3489,6 @@
         "Dance",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813357317",
-      "title": "Robotic Futuristic - EP",
-      "artist": "Plug",
-      "url": "https://music.apple.com/jp/album/robotic-futuristic-ep/6813357317?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/73/48/1e7348ff-94b5-4a00-6481-326d0988ccba/5414180240616.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-13",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Jungle/Drum'n'bass"
       ],
       "tagline": null
     },
