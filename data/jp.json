@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:00:31.362Z",
+  "generatedAt": "2026-11-14T08:00:31.822Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3493,6 +3493,41 @@
       "tagline": null
     },
     {
+      "id": "6813357317",
+      "title": "Robotic Futuristic - EP",
+      "artist": "Plug",
+      "url": "https://music.apple.com/jp/album/robotic-futuristic-ep/6813357317?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/73/48/1e7348ff-94b5-4a00-6481-326d0988ccba/5414180240616.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Jungle/Drum'n'bass"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6831846949",
+      "title": "Doggfather 30: The Long Game by DJ Green Lantern & DJ Snoopadelic (DJ Mix)",
+      "artist": "DJ Green Lantern & Snoop Dogg",
+      "url": "https://music.apple.com/jp/album/doggfather-30-the-long-game-by-dj-green-lantern-dj/6831846949?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/f8/5e/08f85eea-4516-f8bd-cc8d-7d57f47d3675/de73c57f-e3cc-41f6-ae5c-9e30be46db41.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap",
+        "Rap"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
       "id": "6819527207",
       "title": "Metaphor: Refantazio Orchestral Album",
       "artist": "ATLUS GAME MUSIC, ATLUS Sound Team & The Royal Symphony Orchestra of Euchronia",
@@ -4952,39 +4987,6 @@
         "South African Hip-Hop",
         "Music",
         "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6804539973",
-      "title": "PRISM",
-      "artist": "7thVega",
-      "url": "https://music.apple.com/jp/album/prism/6804539973?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/cc/64/3bcc641f-be56-15e9-e2c7-ecfb4d13e3bb/MMZ-11027.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-07",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827489224",
-      "title": "blue&white",
-      "artist": "Dr.マキダシ & 熊井吾郎",
-      "url": "https://music.apple.com/jp/album/%E9%9D%92%E3%81%A8%E7%99%BD/6827489224?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/91/fb/ac91fb8b-aade-d718-d8a0-b413d90dd4df/4526180786191.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-07",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     }
