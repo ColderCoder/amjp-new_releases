@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T08:00:31.822Z",
+  "generatedAt": "2026-11-15T08:00:31.291Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4773,6 +4773,39 @@
       "tagline": null
     },
     {
+      "id": "6826495427",
+      "title": "Casa del Clasico 015: Seimei (DJ Mix)",
+      "artist": "Seimei",
+      "url": "https://music.apple.com/jp/album/casa-del-clasico-015-seimei-dj-mix/6826495427?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/fe/de/ccfede42-3169-ebc6-2fee-0226d114c48d/04d62f2e-ea01-4343-9c6e-000fa1c466b0.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-11",
+      "trackCount": 41,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "Breakbeat"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6812477568",
+      "title": "Fly 1111",
+      "artist": "Emma Ogier",
+      "url": "https://music.apple.com/jp/album/fly-1111/6812477568?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/a4/60/52a4608a-75cd-26a7-ad85-bc041fad6643/26UM1IM07699.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-11",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6823080117",
       "title": "Juliet",
       "artist": "Hey! Say! JUMP",
@@ -4955,40 +4988,6 @@
         "Music"
       ],
       "tagline": "New Live Album"
-    },
-    {
-      "id": "6829155679",
-      "title": "1433 - EP",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/1433-ep/6829155679?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f2/a7/edf2a708-126e-e8e6-5580-e7427695abf4/711641040064.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-08",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823313483",
-      "title": "Die Mense Is Maal",
-      "artist": "Tshego Santana",
-      "url": "https://music.apple.com/jp/album/die-mense-is-maal/6823313483?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/72/17/657217e3-4e28-3e9f-d347-3ba8a3ae5017/ticket.lqgvtgwq.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-08",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "South African Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
     }
   ]
 }
