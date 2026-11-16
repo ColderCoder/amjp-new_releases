@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:00:32.853Z",
+  "generatedAt": "2026-11-16T08:00:31.790Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3528,6 +3528,104 @@
       "tagline": "New DJ Mix"
     },
     {
+      "id": "6805958199",
+      "title": "Cruel World…So It Ends",
+      "artist": "Holly Humberstone",
+      "url": "https://music.apple.com/jp/album/cruel-world-so-it-ends/6805958199?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7d/74/d3/7d74d31c-62fe-d0b7-0cb1-a1d1aafd727e/26UM1IM09221.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 17,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": "New Deluxe Edition"
+    },
+    {
+      "id": "6820268535",
+      "title": "Good Story (Extended)",
+      "artist": "Eliza McLamb",
+      "url": "https://music.apple.com/jp/album/good-story-extended/6820268535?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2f/34/28/2f3428ac-870b-737a-895d-bdb13f2f38c9/130512.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Indie Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6814005630",
+      "title": "The Treehouse",
+      "artist": "Ethan Burdick",
+      "url": "https://music.apple.com/jp/album/the-treehouse/6814005630?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/3c/b0/e33cb0e8-94fb-0e62-54f2-b2285c27806d/888193684036-copy-1a1fdfed.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Singer/Songwriter",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805930969",
+      "title": "Van Lear Rose (2026 Expanded Remaster)",
+      "artist": "Loretta Lynn",
+      "url": "https://music.apple.com/jp/album/van-lear-rose-2026-expanded-remaster/6805930969?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/30/26/bf302612-b98e-f0a0-9f44-22f22c08710e/68566.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Country",
+        "Music"
+      ],
+      "tagline": "New Release"
+    },
+    {
+      "id": "6830339685",
+      "title": "Fitness: Gym, November 2026 (DJ Mix)",
+      "artist": "Sam Feldt",
+      "url": "https://music.apple.com/jp/album/fitness-gym-november-2026-dj-mix/6830339685?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/82/2a/3c822a71-60d6-d0e3-9142-d8bf098c805e/107530a0-6697-4c9c-ac6f-b605a37cc0ed.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "New DJ Mix"
+    },
+    {
+      "id": "6808308148",
+      "title": "All at Once",
+      "artist": "Devon Gabriella",
+      "url": "https://music.apple.com/jp/album/all-at-once/6808308148?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/64/e3/f264e3df-36a6-edf0-b51c-872d98938856/4099964284263.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6819527207",
       "title": "Metaphor: Refantazio Orchestral Album",
       "artist": "ATLUS GAME MUSIC, ATLUS Sound Team & The Royal Symphony Orchestra of Euchronia",
@@ -4806,6 +4904,22 @@
       "tagline": "New Album"
     },
     {
+      "id": "6826253221",
+      "title": "Waves and the Wind",
+      "artist": "Haley Joelle",
+      "url": "https://music.apple.com/jp/album/waves-and-the-wind/6826253221?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/61/01/65/61016594-79ee-86e7-72a3-9d489d1af607/885000830709.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-11",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6823080117",
       "title": "Juliet",
       "artist": "Hey! Say! JUMP",
@@ -4870,124 +4984,6 @@
         "Hip-Hop/Rap"
       ],
       "tagline": null
-    },
-    {
-      "id": "6827483714",
-      "title": "DREAM AFTER DREAM",
-      "artist": "NCT DREAM",
-      "url": "https://music.apple.com/jp/album/dream-after-dream/6827483714?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/12/b9/9a12b999-8abc-b0c2-ba6e-7729562eaab6/888735957383.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-09",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6823307854",
-      "title": "Lovesick - EP",
-      "artist": "CHAERYEONG",
-      "url": "https://music.apple.com/jp/album/lovesick-ep/6823307854?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/05/83/3b058326-a05e-923e-4024-c0fa43140989/8809928956640.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-09",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Mini Album"
-    },
-    {
-      "id": "6826123146",
-      "title": "2ND EP [NA-GARI] - EP",
-      "artist": "KEYVITUP",
-      "url": "https://music.apple.com/jp/album/2nd-ep-na-gari-ep/6826123146?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/b7/ab/6cb7ab7f-27ed-9238-998d-54780ec238a8/196874911082.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-09",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6825160852",
-      "title": "Little Glee Monster Live 2025 Voice (2025.11.09)",
-      "artist": "Little Glee Monster",
-      "url": "https://music.apple.com/jp/album/little-glee-monster-live-2025-voice-2025-11-09/6825160852?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/77/a5/be77a5f6-7ccc-6256-6bfb-d10967a16cf6/4547366862621.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-09",
-      "trackCount": 24,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6830107661",
-      "title": "BAD CAT - EP",
-      "artist": "Xyche Kiddy",
-      "url": "https://music.apple.com/jp/album/bad-cat-ep/6830107661?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/75/74/cf7574be-2d42-88ed-697a-c74b491fd410/8800388627866_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-09",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Korean Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6829875678",
-      "title": "A Very Vicious Christmas",
-      "artist": "ICE NINE KILLS",
-      "url": "https://music.apple.com/jp/album/a-very-vicious-christmas/6829875678?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4a/e4/44/4ae4448c-5ddd-ddff-2d32-d810dfdbd6da/26CRGIM57169.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-09",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Holiday",
-        "Music",
-        "Rock",
-        "Metal"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6818219981",
-      "title": "CROWDS",
-      "artist": "Squid",
-      "url": "https://music.apple.com/jp/album/crowds/6818219981?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/53/9a/7d539aac-497b-d2d3-0050-7d5ae0b33c9e/5056818811654.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-09",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Live Album"
     }
   ]
 }
