@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:00:31.273Z",
+  "generatedAt": "2026-11-17T08:00:32.952Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3626,6 +3626,72 @@
       "tagline": null
     },
     {
+      "id": "6831291169",
+      "title": "PRESENT FOR YOU - EP",
+      "artist": "Lucky Daye",
+      "url": "https://music.apple.com/jp/album/present-for-you-ep/6831291169?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/dd/d3/beddd3a5-45f3-16dc-cfaa-9d9065203bc7/093624812043.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Holiday",
+        "Music",
+        "R&B/Soul"
+      ],
+      "tagline": "New Holiday EP"
+    },
+    {
+      "id": "6825470380",
+      "title": "Simulation Blue",
+      "artist": "Tanerélle",
+      "url": "https://music.apple.com/jp/album/simulation-blue/6825470380?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/36/f2/ea36f29a-fb2d-3997-441f-3ebe999b8418/34149.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music",
+        "Pop"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6770600098",
+      "title": "REBECCA",
+      "artist": "Becky Hill",
+      "url": "https://music.apple.com/jp/album/rebecca/6770600098?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/08/b9/1e08b9fd-d7c4-b286-64e1-d1ff7406db08/26UMGIM62450.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6822646081",
+      "title": "Allergy Season",
+      "artist": "Charli Lucas",
+      "url": "https://music.apple.com/jp/album/allergy-season/6822646081?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/99/66/d299662c-aacd-c716-33c5-461d2362f43d/885288755473.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6819527207",
       "title": "Metaphor: Refantazio Orchestral Album",
       "artist": "ATLUS GAME MUSIC, ATLUS Sound Team & The Royal Symphony Orchestra of Euchronia",
@@ -4916,72 +4982,6 @@
       "genres": [
         "Pop",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823080117",
-      "title": "Juliet",
-      "artist": "Hey! Say! JUMP",
-      "url": "https://music.apple.com/jp/album/juliet/6823080117?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/63/26/3b/63263b3b-ea9a-fdde-d7c1-5b43fb67188a/4517331102175.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-10",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6832650158",
-      "title": "Sessions",
-      "artist": "Wyatt Flores",
-      "url": "https://music.apple.com/jp/album/sessions/6832650158?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/12/ea/c712eacf-20a7-4ddb-7775-3d38b12b00af/26UM1IM40909.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-10",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6819434970",
-      "title": "THEHIDDENSPLASH 2",
-      "artist": "THEHIDDENCHARACTER & BoneWeso",
-      "url": "https://music.apple.com/jp/album/thehiddensplash-2/6819434970?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/c7/28/cbc728c1-0843-504c-22e5-1c3ebc906c5b/885288707106.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-10",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827659219",
-      "title": "Revive - EP",
-      "artist": "kdn",
-      "url": "https://music.apple.com/jp/album/revive-ep/6827659219?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/59/cd/c459cd1f-dc52-107c-3a7b-29147b03e37e/808391412729.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-10",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
       ],
       "tagline": null
     }
