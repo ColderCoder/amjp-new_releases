@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:00:32.952Z",
+  "generatedAt": "2026-11-17T09:00:31.868Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1356,7 +1356,7 @@
       "title": "HEELMATIC",
       "artist": "Westside Gunn",
       "url": "https://music.apple.com/jp/album/heelmatic/6825097873?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/08/cf/e008cf0c-ef36-af3c-92cb-64263cf140d7/711641044048.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/52/57/b0525718-8b45-0dbc-5ca8-fa839ad1707a/711641044048.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-11-13",
       "trackCount": 16,
