@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:00:32.000Z",
+  "generatedAt": "2026-11-19T23:00:32.159Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -173,7 +173,7 @@
         "Dance",
         "House"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6823562787",
@@ -318,7 +318,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Live Album"
     },
     {
       "id": "6814611680",
@@ -418,7 +418,7 @@
         "Music",
         "Techno"
       ],
-      "tagline": null
+      "tagline": "New DJ Mix"
     },
     {
       "id": "6823348658",
@@ -737,7 +737,7 @@
         "Singer/Songwriter",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New EP"
     },
     {
       "id": "6800734394",
@@ -1106,7 +1106,7 @@
         "Alternative",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6828651360",
@@ -1560,7 +1560,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Live Album"
     },
     {
       "id": "6807484192",
@@ -1744,7 +1744,7 @@
         "Music",
         "Christian"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6810378170",
@@ -1810,7 +1810,7 @@
         "Country",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Edition"
     },
     {
       "id": "6797545651",
@@ -1844,7 +1844,7 @@
         "Music",
         "Hip-Hop/Rap"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6826184160",
@@ -2828,7 +2828,7 @@
         "French Pop",
         "Music"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6818447050",
@@ -3030,6 +3030,24 @@
         "Hip-Hop/Rap"
       ],
       "tagline": null
+    },
+    {
+      "id": "6830737440",
+      "title": "M.I.L.S 4 (Deluxe Edition)",
+      "artist": "Ninho",
+      "url": "https://music.apple.com/jp/album/m-i-l-s-4-deluxe-edition/6830737440?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/93/f1/4993f1e8-a25a-24d4-2aea-c96084ef38da/1200220348640.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-19",
+      "trackCount": 25,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music",
+        "Worldwide",
+        "France"
+      ],
+      "tagline": "New Deluxe Album"
     },
     {
       "id": "6833581890",
@@ -4057,24 +4075,6 @@
         "Hip-Hop/Rap",
         "Music",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6829608729",
-      "title": "POWERFUL AND SUPPLE",
-      "artist": "Yoshiharu Yoshida",
-      "url": "https://music.apple.com/jp/album/powerful-and-supple/6829608729?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/f3/26/66f326fb-10cb-7ae7-533a-bbc548f83267/4500000099661.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-18",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic",
-        "Electronica"
       ],
       "tagline": null
     },
