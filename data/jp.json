@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:00:32.521Z",
+  "generatedAt": "2026-11-19T08:00:31.955Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -4712,167 +4712,258 @@
       "tagline": null
     },
     {
-      "id": "6819527207",
-      "title": "Metaphor: Refantazio Orchestral Album",
-      "artist": "ATLUS GAME MUSIC, ATLUS Sound Team & The Royal Symphony Orchestra of Euchronia",
-      "url": "https://music.apple.com/jp/album/metaphor-refantazio-orchestral-album/6819527207?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/82/dc/e282dce6-c4d0-729c-7a82-83e368baaa96/PA00229782_0_256206_jacket.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 26,
-      "kind": "album",
-      "genres": [
-        "Video Game",
-        "Music",
-        "Soundtrack"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827435151",
-      "title": "Earphones o Hazushite - EP",
-      "artist": "Glass Shoes Girls",
-      "url": "https://music.apple.com/jp/album/%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3%E3%82%92%E5%A4%96%E3%81%97%E3%81%A6-ep/6827435151?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/c5/05/d5c5053c-9e42-4230-cf1b-b806f6ff0cbc/4540774751075.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
+      "id": "6811093245",
+      "title": "FULL, FUL & KÄNSLIG - EP",
+      "artist": "the name Will",
+      "url": "https://music.apple.com/jp/album/full-ful-k%C3%A4nslig-ep/6811093245?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/5e/28/bf5e2847-b653-5376-8905-7fead7c63f87/7350126741268.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
       "trackCount": 5,
       "kind": "album",
       "genres": [
-        "Rock",
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811912384",
+      "title": "Mesdames, Messieurs !!",
+      "artist": "Sam Sauvage",
+      "url": "https://music.apple.com/jp/album/mesdames-messieurs/6811912384?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3c/b0/2f/3cb02f4f-2e98-6d2b-533c-4568d0600f2c/3596975184694_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 19,
+      "kind": "album",
+      "genres": [
+        "French Pop",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6831186026",
-      "title": "Infinite EP",
-      "artist": "Eminem",
-      "url": "https://music.apple.com/jp/album/infinite-ep/6831186026?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/b2/b4/dcb2b4e7-43f9-53bf-d68e-5656926c6ef3/70114.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 6,
+      "id": "6812308137",
+      "title": "Atrocity Exhibition (10 Year Anniversary Edition)",
+      "artist": "Danny Brown",
+      "url": "https://music.apple.com/jp/album/atrocity-exhibition-10-year-anniversary-edition/6812308137?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/ac/b5/c3acb547-3654-12d0-ee40-05c7489bf75f/5056818811753.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-13",
+      "trackCount": 30,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6825545886",
-      "title": "Un Oso en el Bosque (En Vivo)",
-      "artist": "Hans el Oso",
-      "url": "https://music.apple.com/jp/album/un-oso-en-el-bosque-en-vivo/6825545886?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/d0/ad/64d0ad7d-d9f5-fddd-eac9-936f3111f462/1963625111799_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Música Mexicana",
         "Music",
-        "Latin"
+        "Electronic"
       ],
-      "tagline": null
+      "tagline": "New Deluxe Edition"
     },
     {
-      "id": "6828924817",
-      "title": "Ochola",
-      "artist": "Helen Ochoa",
-      "url": "https://music.apple.com/jp/album/ochola/6828924817?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ec/72/90/ec7290f3-098d-5568-5f2d-b4646e2e8e10/095507395162.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Latin",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823788119",
-      "title": "Bienvenida de Soltera",
-      "artist": "Yami Safdie",
-      "url": "https://music.apple.com/jp/album/bienvenida-de-soltera/6823788119?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/bd/04/03bd0483-598a-1c5c-3840-825cdf4ed02c/1200220331246.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Pop in Spanish",
-        "Music",
-        "Latin"
-      ],
-      "tagline": "New EP"
-    },
-    {
-      "id": "6822349309",
-      "title": "En Evolución",
-      "artist": "La Original Banda El Limón de Salvador Lizárraga",
-      "url": "https://music.apple.com/jp/album/en-evoluci%C3%B3n/6822349309?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/db/c5/67dbc59c-47d7-f4f7-a132-87437824239a/cover.jpg/632x632bb.jpg",
+      "id": "6812683373",
+      "title": "Static Tears",
+      "artist": "Kovacs",
+      "url": "https://music.apple.com/jp/album/static-tears/6812683373?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/ff/d1/cdffd1eb-0903-5b50-e4a9-9b3223dffb37/1200220150199.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-11-12",
+      "releaseDate": "2026-11-13",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6813121911",
+      "title": "À l'angle de la rue - EP",
+      "artist": "Jozef De Schutter",
+      "url": "https://music.apple.com/jp/album/%C3%A0-langle-de-la-rue-ep/6813121911?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/40/09/104009b6-bd1a-a951-3be8-642309de98f6/3663729472632_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6813133523",
+      "title": "Le dernier concert d'Aznavour au piano",
+      "artist": "Erik Berchot",
+      "url": "https://music.apple.com/jp/album/le-dernier-concert-daznavour-au-piano/6813133523?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/45/fb/6945fb45-35f1-5371-b61e-a19d75160f9a/3560530880321_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 56,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6813534032",
+      "title": "Wszystkiego najgorszego - EP",
+      "artist": "Wilhelm",
+      "url": "https://music.apple.com/jp/album/wszystkiego-najgorszego-ep/6813534032?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/a9/32/86a93283-7d56-b82f-acfe-f953b59c8dc4/0001159142061.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Indie Pop",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6813557891",
+      "title": "UN RÍO DE ANGUSTIA DESBOCADA",
+      "artist": "Los Punsetes",
+      "url": "https://music.apple.com/jp/album/un-r%C3%ADo-de-angustia-desbocada/6813557891?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c9/1a/ac/c91aac37-f1d5-bda0-ed57-c79781383228/885288544558.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
       "trackCount": 12,
       "kind": "album",
       "genres": [
-        "Música Mexicana",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6821758530",
-      "title": "That's What I Call Heno. Volume 2",
-      "artist": "Heno.",
-      "url": "https://music.apple.com/jp/album/thats-what-i-call-heno-volume-2/6821758530?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f0/12/86/f01286b6-97f0-3d7d-b334-eeadeaa84cc3/888193949845-copy-f9d2899d.png/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-12",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
+        "Alternative",
         "Music"
       ],
       "tagline": null
     },
     {
-      "id": "6830374105",
-      "title": "CHEERS CLUB LISTENING SESSION Vol. 1 (LIVE FROM THE MERCER)",
-      "artist": "Saint Carty",
-      "url": "https://music.apple.com/jp/album/cheers-club-listening-session-vol-1-live-from-the-mercer/6830374105?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/e4/43/dfe4438d-b0b9-82af-e75c-e16ab14b301c/712132262521_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-12",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6807271919",
-      "title": "Solips",
-      "artist": "Asgrauw",
-      "url": "https://music.apple.com/jp/album/solips/6807271919?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/d3/9f/d1d39f94-8af0-fa0c-dd3b-b7b802e316c8/8447845084536.jpg/632x632bb.jpg",
+      "id": "6814746487",
+      "title": "Born in Ukraine – 150 Years of Ukrainian Music",
+      "artist": "Daniel Hope",
+      "url": "https://music.apple.com/jp/album/born-in-ukraine-150-years-of-ukrainian-music/6814746487?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ee/ee/bb/eeeebb5f-bde0-9101-74b3-16f33ff8b8e2/26UM1IM21150.rgb.jpg/632x632bb.jpg",
       "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 8,
+      "releaseDate": "2026-11-13",
+      "trackCount": 12,
       "kind": "album",
       "genres": [
-        "Death Metal/Black Metal",
+        "Classical",
         "Music",
-        "Rock"
+        "Chamber Music",
+        "Violin"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6814863227",
+      "title": "Lost Ballads Part I - EP",
+      "artist": "Asaf Avidan",
+      "url": "https://music.apple.com/jp/album/lost-ballads-part-i-ep/6814863227?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/5a/4a/d75a4a24-f583-da3f-4a7e-f6194980aa76/885288655735.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6815106604",
+      "title": "Stone Trail",
+      "artist": "Off the Beaten Path Ensemble",
+      "url": "https://music.apple.com/jp/album/stone-trail/6815106604?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/b4/bb45b48d-087b-dab2-6ab8-7909096eaccc/5023363029728.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Contemporary Era",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6815155842",
+      "title": "AIM THE CAMERA AT THE SUN",
+      "artist": "GIOIA",
+      "url": "https://music.apple.com/jp/album/aim-the-camera-at-the-sun/6815155842?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/46/4b/51/464b5155-ceff-1c12-2c9a-019d6af23f57/8059482269568.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6815276202",
+      "title": "VOCES8 at Christmas",
+      "artist": "VOCES8",
+      "url": "https://music.apple.com/jp/album/voces8-at-christmas/6815276202?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/4d/09/704d098a-72fe-d2e3-09b9-e30e9ab80a35/26UM1IM19256.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 22,
+      "kind": "album",
+      "genres": [
+        "Holiday",
+        "Music",
+        "Classical",
+        "Choral",
+        "Christmas: Classical"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6815337990",
+      "title": "Aether",
+      "artist": "Gorgon City",
+      "url": "https://music.apple.com/jp/album/aether/6815337990?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/df/c3/acdfc34d-2319-2aae-2801-a71046d0baed/1200220186594.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Dance",
+        "Music",
+        "House"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6815353226",
+      "title": "Sentimental Ultra",
+      "artist": "DJ HEARTSTRING",
+      "url": "https://music.apple.com/jp/album/sentimental-ultra/6815353226?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/14/3b/16143b25-2aab-d0ff-9e6c-c76947bf20c1/16804.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-13",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Dance"
       ],
       "tagline": null
     },
@@ -4892,91 +4983,6 @@
         "Breakbeat"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6818250992",
-      "title": "Shape The Future (Live Session)",
-      "artist": "Takuya Nakamura",
-      "url": "https://music.apple.com/jp/album/shape-the-future-live-session/6818250992?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/65/f1/1865f134-1a58-1eab-3d95-52f8c2280390/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Jungle/Drum'n'bass",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6830945395",
-      "title": "Echo",
-      "artist": "Ecco2k",
-      "url": "https://music.apple.com/jp/album/echo/6830945395?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/30/4f/e7304ff9-cd88-d9a4-20fc-18c6b88467a3/5158.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6803695005",
-      "title": "Boyhood",
-      "artist": "PARK RD",
-      "url": "https://music.apple.com/jp/album/boyhood/6803695005?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/5c/aa/505caa0e-b681-f1d4-df0b-06d19c9373cc/9421018246500.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6813307823",
-      "title": "this house is on fire - EP",
-      "artist": "Emma Yue",
-      "url": "https://music.apple.com/jp/album/this-house-is-on-fire-ep/6813307823?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/a3/c4/52a3c4c5-8436-a16a-bd61-9033ff8b3d56/5064089819927_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-12",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Folk",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823625036",
-      "title": "A Little Broken - EP",
-      "artist": "Jess Beck",
-      "url": "https://music.apple.com/jp/album/a-little-broken-ep/6823625036?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/b7/6f/16b76f61-177f-bd83-daee-8cab2e85bdd1/486349.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-12",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music",
-        "Country"
-      ],
-      "tagline": null
     },
     {
       "id": "6826495427",
