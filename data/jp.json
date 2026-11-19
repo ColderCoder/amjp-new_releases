@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:00:31.578Z",
+  "generatedAt": "2026-11-19T19:00:33.799Z",
   "source": "https://music.apple.com/jp/room/6834183980?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6834183980?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -721,6 +721,23 @@
         "Hip-Hop/Rap",
         "Music",
         "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6832975155",
+      "title": "Don't Try This At Home - EP",
+      "artist": "KR$NA & Seedhe Maut",
+      "url": "https://music.apple.com/jp/album/dont-try-this-at-home-ep/6832975155?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/7a/25/267a2572-0db1-bd70-e522-5a99eb937d6c/711641210054.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-20",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
       ],
       "tagline": null
     },
@@ -1868,7 +1885,7 @@
         "Music",
         "African"
       ],
-      "tagline": null
+      "tagline": "New Album"
     },
     {
       "id": "6825538133",
@@ -2955,22 +2972,6 @@
       "tagline": null
     },
     {
-      "id": "6805610367",
-      "title": "Reveal (25th Anniversary Edition)",
-      "artist": "R.E.M.",
-      "url": "https://music.apple.com/jp/album/reveal-25th-anniversary-edition/6805610367?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/7d/8e/557d8e86-6313-636e-8b10-4c62c17711b7/26CRGIM55779.rgb.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-20",
-      "trackCount": 29,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "New Deluxe Edition"
-    },
-    {
       "id": "6809912967",
       "title": "The Long Surrender and The Fellow Passengers of Pain",
       "artist": "NEEDTOBREATHE",
@@ -3166,6 +3167,22 @@
         "Indie Pop",
         "Music",
         "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6834208193",
+      "title": "You Are Now Heading: OutStation",
+      "artist": "Outstation",
+      "url": "https://music.apple.com/jp/album/you-are-now-heading-outstation/6834208193?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/89/54/1a8954ce-62e0-18d9-8d99-3789279f98ca/26UM1IM46375.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-19",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
       ],
       "tagline": null
     },
@@ -4230,22 +4247,6 @@
         "Rock",
         "Music",
         "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805646581",
-      "title": "Rehellisesti, Marko.",
-      "artist": "Läski Salonen",
-      "url": "https://music.apple.com/jp/album/rehellisesti-marko/6805646581?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/af/e1/74afe1b2-fa46-8e22-8136-287ef2b0b732/artwork.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-17",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
       ],
       "tagline": null
     },
