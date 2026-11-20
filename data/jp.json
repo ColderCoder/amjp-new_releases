@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:00:32.105Z",
+  "generatedAt": "2026-11-20T17:00:32.678Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -390,7 +390,7 @@
     },
     {
       "id": "6826458152",
-      "title": "OTIS",
+      "title": "Otis",
       "artist": "Conway the Machine",
       "url": "https://music.apple.com/jp/album/otis/6826458152?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/e7/f5/c8e7f5e2-600b-3568-7c6a-b7d74ae09f32/8721639421845.png/632x632bb.jpg",
@@ -673,7 +673,7 @@
       "title": "Club Kid: Night Shift (DJ Mix)",
       "artist": "DJ Night Shift (Arlo)",
       "url": "https://music.apple.com/jp/album/club-kid-night-shift-dj-mix/6835708386?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/db/5d/21db5d68-133b-8d8f-0aed-baf7956f5693/eb66fb6d-9add-4dee-b93d-2b8720cc76c6.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/17/b0/d717b004-183c-6e16-4ec1-c4d9b43db3aa/5acb5454-93f5-421b-8b18-a0428004b64b.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-11-20",
       "trackCount": 10,
