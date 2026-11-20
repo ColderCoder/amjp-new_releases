@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T03:00:31.881Z",
+  "generatedAt": "2026-11-20T05:00:31.656Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -10,6 +10,23 @@
   "requestedSectionTitle": "New This Week",
   "itemCount": 300,
   "items": [
+    {
+      "id": "6835360185",
+      "title": "THE SIN : PARALLEL WORLD - Single",
+      "artist": "ENHYPEN",
+      "url": "https://music.apple.com/jp/album/the-sin-parallel-world-single/6835360185?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/48/1b/7a481b8b-fa90-5a8f-0311-9f1059e8a340/26UM1IM47114.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 3,
+      "kind": "album",
+      "genres": [
+        "K-Pop",
+        "Music",
+        "Pop"
+      ],
+      "tagline": null
+    },
     {
       "id": "6812476961",
       "title": "Grand Theft Auto VI: The Album",
@@ -291,6 +308,22 @@
       "tagline": "New EP"
     },
     {
+      "id": "6834596383",
+      "title": "everything i said i am. / everything she said she is.",
+      "artist": "YFN Lucci",
+      "url": "https://music.apple.com/jp/album/everything-i-said-i-am-everything-she-said-she-is/6834596383?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/34/e2/4f/34e24f49-2675-8572-e1a9-4f982f2b2ca1/075679546210.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-20",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
+    },
+    {
       "id": "6808849195",
       "title": "If Ever You Would Leave Us (we play for Rollins) [feat. Christian McBride, Marcus Gilmore, Larry Grenadier, Cécile McLorin Salvant, Kevin Hays, Chris Potter, Peter Bernstein & Gabrielle Cavassa]",
       "artist": "Joshua Redman",
@@ -337,6 +370,23 @@
         "Music"
       ],
       "tagline": "New Deluxe Edition"
+    },
+    {
+      "id": "6822634780",
+      "title": "Cute & Anxiety - EP",
+      "artist": "Yves",
+      "url": "https://music.apple.com/jp/album/cute-anxiety-ep/6822634780?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/12/8c/0b128c80-4c17-940b-9f93-da1d733bfcab/1200220308125.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Pop"
+      ],
+      "tagline": "New EP"
     },
     {
       "id": "6826458152",
@@ -532,6 +582,23 @@
         "Music"
       ],
       "tagline": "New Album and Interview"
+    },
+    {
+      "id": "6828066867",
+      "title": "Confesiones",
+      "artist": "Joss Favela",
+      "url": "https://music.apple.com/jp/album/confesiones/6828066867?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/63/d3/1c63d351-244a-60d5-31dd-d885f1eab022/196874567470.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6797494016",
@@ -1978,6 +2045,22 @@
       "tagline": null
     },
     {
+      "id": "6832786843",
+      "title": "It Takes A Village",
+      "artist": "OTP.C4",
+      "url": "https://music.apple.com/jp/album/it-takes-a-village/6832786843?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/e2/04/98e204e4-0d3a-7a6c-f260-5db7152686c9/093624816089.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-20",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6822835212",
       "title": "Lost Hotel 20th Anniversary Edition",
       "artist": "Wade Bowen",
@@ -3215,72 +3298,6 @@
         "Music"
       ],
       "tagline": "New EP"
-    },
-    {
-      "id": "6826242064",
-      "title": "DADOI",
-      "artist": "Orange",
-      "url": "https://music.apple.com/jp/album/dadoi/6826242064?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/99/1b/2e991b5a-31c4-b0f4-9a86-bcbc079860af/823375556763_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-19",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6821942777",
-      "title": "Oduvil.",
-      "artist": "Pina Colada Blues",
-      "url": "https://music.apple.com/jp/album/oduvil/6821942777?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/75/d3/d375d3cb-5e9b-0460-7b78-e881892578f0/885288773453.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-19",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Indie Pop",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6834208193",
-      "title": "You Are Now Heading: OutStation",
-      "artist": "Outstation",
-      "url": "https://music.apple.com/jp/album/you-are-now-heading-outstation/6834208193?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/89/54/1a8954ce-62e0-18d9-8d99-3789279f98ca/26UM1IM46375.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-19",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6833446097",
-      "title": "Since 2003 - EP",
-      "artist": "Tarsem Jassar, Kulbir Jhinjer & Rass",
-      "url": "https://music.apple.com/jp/album/since-2003-ep/6833446097?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/ac/b2/c8acb2a3-2f70-f0c5-01de-6cd373c0fddb/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-19",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Regional Indian",
-        "Music",
-        "Indian"
-      ],
-      "tagline": null
     },
     {
       "id": "6815571780",
@@ -4623,23 +4640,6 @@
         "Music",
         "Dance",
         "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6833478624",
-      "title": "Book and Black",
-      "artist": "Polycat",
-      "url": "https://music.apple.com/jp/album/book-and-black/6833478624?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/cc/9e/c7cc9ea1-9d5a-7214-a414-e424a78aed28/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music",
-        "Thai Pop"
       ],
       "tagline": null
     },
