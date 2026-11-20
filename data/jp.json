@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:00:31.656Z",
+  "generatedAt": "2026-11-20T07:00:33.450Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -15,7 +15,7 @@
       "title": "THE SIN : PARALLEL WORLD - Single",
       "artist": "ENHYPEN",
       "url": "https://music.apple.com/jp/album/the-sin-parallel-world-single/6835360185?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/48/1b/7a481b8b-fa90-5a8f-0311-9f1059e8a340/26UM1IM47114.rgb.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/a3/1a/91a31a7e-3775-21c1-0e67-e980f944a0dd/26UM1IM47114.rgb.jpg/632x632bb.jpg",
       "explicit": false,
       "releaseDate": "2026-11-20",
       "trackCount": 3,
