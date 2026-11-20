@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:00:30.889Z",
+  "generatedAt": "2026-11-20T09:00:32.678Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -976,7 +976,7 @@
       "artist": "Philipp Kolbe",
       "url": "https://music.apple.com/jp/album/the-hill-ep-ep/6815290189?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/bb/09/b5bb09b7-7b7c-9407-88ea-fd1800a9cc51/4255940804157_cover.jpg/632x632bb.jpg",
-      "explicit": false,
+      "explicit": true,
       "releaseDate": "2026-11-20",
       "trackCount": 5,
       "kind": "album",
