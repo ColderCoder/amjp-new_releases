@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:00:32.678Z",
+  "generatedAt": "2026-11-20T18:00:32.623Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -673,7 +673,7 @@
       "title": "Club Kid: Night Shift (DJ Mix)",
       "artist": "DJ Night Shift (Arlo)",
       "url": "https://music.apple.com/jp/album/club-kid-night-shift-dj-mix/6835708386?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d7/17/b0/d717b004-183c-6e16-4ec1-c4d9b43db3aa/5acb5454-93f5-421b-8b18-a0428004b64b.jpg/632x632bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/bb/55/c7bb5521-4a75-90df-9b86-91ab384ca54f/0184a9ee-d5d5-4b88-a0ba-17a2e6de1929.jpg/632x632bb.jpg",
       "explicit": true,
       "releaseDate": "2026-11-20",
       "trackCount": 10,
