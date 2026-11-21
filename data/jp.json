@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:00:32.123Z",
+  "generatedAt": "2026-11-21T00:00:31.436Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2677,6 +2677,22 @@
       "tagline": null
     },
     {
+      "id": "6825614962",
+      "title": "Audio Secrecy (15th Anniversary Edition)",
+      "artist": "Stone Sour",
+      "url": "https://music.apple.com/jp/album/audio-secrecy-15th-anniversary-edition/6825614962?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/66/7f/84667fd3-9538-664f-76d9-4cd1a514b228/603497811137.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-20",
+      "trackCount": 50,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6793695090",
       "title": "Written in the Universe",
       "artist": "Nicole Mitchell & Joe Westerlund",
@@ -3210,25 +3226,6 @@
         "Alternative",
         "Music",
         "Electronic"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6800410034",
-      "title": "Song for Snow (A Cambridge Christmas)",
-      "artist": "The Choir of Trinity College Cambridge & Steven Grahl",
-      "url": "https://music.apple.com/jp/album/song-for-snow-a-cambridge-christmas/6800410034?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/5e/a5/525ea5aa-ed8f-245b-f171-ba13d6db9d83/26UMGIM70713.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 20,
-      "kind": "album",
-      "genres": [
-        "Holiday",
-        "Music",
-        "Christmas: Classical",
-        "Classical",
-        "Choral"
       ],
       "tagline": null
     },
