@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:00:31.598Z",
+  "generatedAt": "2026-11-22T08:00:32.810Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3246,6 +3246,41 @@
       "tagline": null
     },
     {
+      "id": "6800410034",
+      "title": "Song for Snow (A Cambridge Christmas)",
+      "artist": "The Choir of Trinity College Cambridge & Steven Grahl",
+      "url": "https://music.apple.com/jp/album/song-for-snow-a-cambridge-christmas/6800410034?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/5e/a5/525ea5aa-ed8f-245b-f171-ba13d6db9d83/26UMGIM70713.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 20,
+      "kind": "album",
+      "genres": [
+        "Holiday",
+        "Music",
+        "Christmas: Classical",
+        "Classical",
+        "Choral"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6800468572",
+      "title": "Panorama",
+      "artist": "Mika Noé",
+      "url": "https://music.apple.com/jp/album/panorama/6800468572?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/6a/87/b76a8716-bc6b-b3ba-eacf-88c90a1d534f/196874268377.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 14,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6809912967",
       "title": "The Long Surrender and The Fellow Passengers of Pain",
       "artist": "NEEDTOBREATHE",
@@ -4940,38 +4975,6 @@
         "Pop",
         "Music",
         "Thai Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6832799227",
-      "title": "My Happy Songs - EP",
-      "artist": "HIRAIDAI",
-      "url": "https://music.apple.com/jp/album/my-happy-songs-ep/6832799227?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/bc/8e/19bc8efc-f236-2bde-0947-f0b29bc89ed3/ANTCD-A0000021643.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-15",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6828270847",
-      "title": "VERTEX FORCE Original Soundtrack Vol.2",
-      "artist": "NOBUAKI NOBUSAWA",
-      "url": "https://music.apple.com/jp/album/%E3%83%90%E3%83%BC%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-vol-2/6828270847?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/df/83/b2df8380-d169-295d-1b53-a6ab784b7289/4534530167224.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-15",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
       ],
       "tagline": null
     },
