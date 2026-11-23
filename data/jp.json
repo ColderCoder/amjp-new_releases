@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:00:32.810Z",
+  "generatedAt": "2026-11-23T08:00:31.716Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3281,6 +3281,196 @@
       "tagline": null
     },
     {
+      "id": "6803124671",
+      "title": "capeesh?",
+      "artist": "BILLA JOE",
+      "url": "https://music.apple.com/jp/album/capeesh/6803124671?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/fc/66/71fc667e-8f74-cb23-3091-9e23a0010170/ticket.vwacykmz.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-20",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804660032",
+      "title": "7",
+      "artist": "Pharaoh Overlord",
+      "url": "https://music.apple.com/jp/album/7/6804660032?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/41/e1/3841e1aa-815b-8ef4-8f0a-3ea8301216c0/17151.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 5,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804835987",
+      "title": "Harmacy (30th Anniversary Expanded Edition)",
+      "artist": "Sebadoh",
+      "url": "https://music.apple.com/jp/album/harmacy-30th-anniversary-expanded-edition/6804835987?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/39/39/a13939f1-ef00-e5e1-2d4f-624193f6daa9/098787175066.png/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-20",
+      "trackCount": 35,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Rock"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804918376",
+      "title": "Beethoven: Quartets with Piano",
+      "artist": "Trio Goldberg & David Bismuth",
+      "url": "https://music.apple.com/jp/album/beethoven-quartets-with-piano/6804918376?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/c2/6c/cac26c95-5e68-abed-b717-268c21d3ef06/3701624510629.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Chamber Music",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6804932393",
+      "title": "Lutosławski: Cello Concerto - Elgar: Cello Concerto in E Minor",
+      "artist": "Hayoung Choi, Antwerp Symphony Orchestra & Tomáš Netopil",
+      "url": "https://music.apple.com/jp/album/lutos%C5%82awski-cello-concerto-elgar-cello-concerto-in-e-minor/6804932393?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/bc/f7/1dbcf764-8bc5-d7dd-4b12-eaafea661f7d/5400439008779.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Cello",
+        "Orchestral"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805306458",
+      "title": "Felix Mendelssohn: Hebrides Overture, Calm Sea and Prosperous Voyage & A Midsummer Night’s Dream",
+      "artist": "Maxim Emelyanychev & Scottish Chamber Orchestra",
+      "url": "https://music.apple.com/jp/album/felix-mendelssohn-hebrides-overture-calm-sea-and/6805306458?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/b4/a1/aab4a174-c616-3d88-1393-cdfda736ee22/691062079525.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Orchestral",
+        "Romantic Era"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805530382",
+      "title": "Full Circle",
+      "artist": "Fredrik Lundin, Bobo Stenson, Joel Illerhag & Peter Danemo",
+      "url": "https://music.apple.com/jp/album/full-circle/6805530382?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3a/d2/c2/3ad2c20e-af2e-a6ce-8356-d7eb3138d6fb/663993260822.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Contemporary Jazz",
+        "Music",
+        "Jazz"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6805594734",
+      "title": "The Legacy of the Ladies",
+      "artist": "Sisters of Jazz",
+      "url": "https://music.apple.com/jp/album/the-legacy-of-the-ladies/6805594734?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/4f/92/874f9223-4d69-3325-1e77-e791d31cd131/717101436422.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Swing",
+        "Music",
+        "Easy Listening"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6806112169",
+      "title": "Alessandro Stradella: San Giovanni Battista",
+      "artist": "Ensemble Mare Nostrum, Andrea De Carlo, Danilo Pastore, Dorota Szczepańska, Roberto Manuel Zangari, Masashi Tomosugi & Silvia Frigato",
+      "url": "https://music.apple.com/jp/album/alessandro-stradella-san-giovanni-battista/6806112169?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/3c/27/573c2795-d9a8-0225-f777-6ee88c33e424/3760195736074.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 39,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Baroque Era",
+        "Oratorio"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6807748558",
+      "title": "Tippett: Unaccompanied Choral Music",
+      "artist": "The Carice Singers & George Parris",
+      "url": "https://music.apple.com/jp/album/tippett-unaccompanied-choral-music/6807748558?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/a7/ba/a1a7ba74-669d-d0a6-a971-fc1ba546b19f/635212101926.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Choral"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6808340973",
+      "title": "Bright Folk",
+      "artist": "Shuteen Erdenebaatar",
+      "url": "https://music.apple.com/jp/album/bright-folk/6808340973?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/55/e0/1855e01a-14c7-8b3f-d0af-cca3adb8a297/0181212004786_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Jazz",
+        "Music",
+        "Instrumental"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6809912967",
       "title": "The Long Surrender and The Fellow Passengers of Pain",
       "artist": "NEEDTOBREATHE",
@@ -4613,6 +4803,24 @@
       "tagline": null
     },
     {
+      "id": "6805499754",
+      "title": "Sleep Dissolve - EP",
+      "artist": "Monty Hancock",
+      "url": "https://music.apple.com/jp/album/sleep-dissolve-ep/6805499754?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/3e/f6/953ef6c9-66f1-480e-2a28-82f8265b9fd2/5059449443331.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-18",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Classical Crossover",
+        "Music",
+        "Classical",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6832808258",
       "title": "PATHFINDER",
       "artist": "AMPERS&ONE",
@@ -4762,219 +4970,18 @@
       "tagline": null
     },
     {
-      "id": "6833387063",
-      "title": "PERFECT STORM - EP",
-      "artist": "TOMORROW X TOGETHER",
-      "url": "https://music.apple.com/jp/album/perfect-storm-ep/6833387063?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": "New Mini Album"
-    },
-    {
-      "id": "6825761902",
-      "title": "Aurora",
-      "artist": "STARGLOW",
-      "url": "https://music.apple.com/jp/album/aurora/6825761902?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e7/9b/65e79b76-5634-3cbb-5563-3f40184f47cf/ANTCD-A0000021490.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6824871164",
-      "title": "Smile",
-      "artist": "OCTPATH",
-      "url": "https://music.apple.com/jp/album/smile/6824871164?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/13/87/e913870a-5179-073f-efdf-280a52eda64c/26UM1IM33308.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
+      "id": "6805646581",
+      "title": "Rehellisesti, Marko.",
+      "artist": "Läski Salonen",
+      "url": "https://music.apple.com/jp/album/rehellisesti-marko/6805646581?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/af/e1/74afe1b2-fa46-8e22-8136-287ef2b0b732/artwork.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-17",
       "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6833635303",
-      "title": "Sessions",
-      "artist": "Death Cab for Cutie",
-      "url": "https://music.apple.com/jp/album/sessions/6833635303?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/87/1b/fd871baa-271c-92db-9ca0-5032a3d552f3/0045778819300.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Alternative",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6832831740",
-      "title": "Thank God It's Christmas... Again! - EP",
-      "artist": "Queen",
-      "url": "https://music.apple.com/jp/album/thank-god-its-christmas-again-ep/6832831740?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/78/d8/fb78d8ff-b5e2-158b-c199-e776f3bc82f2/196874921821.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Holiday",
-        "Music",
-        "Christmas: Rock"
-      ],
-      "tagline": "New Holiday EP"
-    },
-    {
-      "id": "6814506416",
-      "title": "Brush Stroke - EP",
-      "artist": "JR2k",
-      "url": "https://music.apple.com/jp/album/brush-stroke-ep/6814506416?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/df/f8/9a/dff89a90-c50b-9231-90ea-e9e4f1e9f262/8718723330763.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Techno"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6807386739",
-      "title": "ADSM - EP",
-      "artist": "Caleb Kunle",
-      "url": "https://music.apple.com/jp/album/adsm-ep/6807386739?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4f/25/7d/4f257d3d-1cd3-29e6-b56c-0776c91d58b3/5059449445908.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Soul",
-        "Music",
-        "R&B/Soul"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6830815162",
-      "title": "Trenches Callin",
-      "artist": "Dee9inee",
-      "url": "https://music.apple.com/jp/album/trenches-callin/6830815162?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8b/17/0b/8b170baa-f235-4205-a88c-17d46c1d23ab/808391414228.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-16",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6830764636",
-      "title": "Doberman",
-      "artist": "Yamain",
-      "url": "https://music.apple.com/jp/album/doberman/6830764636?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/80/cd/cd80cdd5-b808-659a-c365-9e68f2f26d6f/5064149049066_cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-16",
-      "trackCount": 8,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6828564604",
-      "title": "Reflection",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/reflection/6828564604?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/5f/00/555f00c1-31f1-c42d-1f60-ef3167e24794/0.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-16",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Modern Dancehall",
-        "Music",
-        "Reggae"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823812705",
-      "title": "Scattered, Smothered & Covered - EP",
-      "artist": "Charlie Reece",
-      "url": "https://music.apple.com/jp/album/scattered-smothered-covered-ep/6823812705?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c3/0a/42/c30a42dc-d82d-005c-a76e-c29a81140ba1/1200220289288.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Country",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6827341363",
-      "title": "Gimme (Remixes) - EP",
-      "artist": "Whitney Weiss",
-      "url": "https://music.apple.com/jp/album/gimme-remixes-ep/6827341363?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/99/8f/25998fe2-87c8-6d27-ac4d-b203e6ff4093/840200581301_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Dance",
-        "House"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6833478624",
-      "title": "Book and Black",
-      "artist": "Polycat",
-      "url": "https://music.apple.com/jp/album/book-and-black/6833478624?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/cc/9e/c7cc9ea1-9d5a-7214-a414-e424a78aed28/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-16",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Pop",
-        "Music",
-        "Thai Pop"
       ],
       "tagline": null
     },
