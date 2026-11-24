@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:00:31.879Z",
+  "generatedAt": "2026-11-24T08:00:32.736Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3471,6 +3471,156 @@
       "tagline": null
     },
     {
+      "id": "6809835194",
+      "title": "Minuit",
+      "artist": "Camille Lellouche",
+      "url": "https://music.apple.com/jp/album/minuit/6809835194?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/02/28/0d022883-f903-9555-2471-6ef917509fbf/3596975173025_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "French Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6810504144",
+      "title": "Joseph-Hector Fiocco: Petits motets, Vol. 3",
+      "artist": "Scherzi Musicali & Nicolas Achten",
+      "url": "https://music.apple.com/jp/album/joseph-hector-fiocco-petits-motets-vol-3/6810504144?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/85/43/378543ae-d968-5cc2-00ab-56a6fa2f655c/5425008326160.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 29,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Baroque Era"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6810686192",
+      "title": "Lux Natalis - Christmas with Dresdner Kreuzchor",
+      "artist": "Dresdner Kreuzchor",
+      "url": "https://music.apple.com/jp/album/lux-natalis-christmas-with-dresdner-kreuzchor/6810686192?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/a9/60/c0a9604f-aeb8-9a60-8483-fbfb1097b9fa/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 32,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Choral",
+        "Sacred",
+        "Holiday",
+        "Christmas"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6810800809",
+      "title": "Hör nie auf damit (Heimat Edition)",
+      "artist": "Beatrice Egli",
+      "url": "https://music.apple.com/jp/album/h%C3%B6r-nie-auf-damit-heimat-edition/6810800809?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/a9/70/62a9706a-797c-6149-02db-87a912b2b776/196874435632.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 27,
+      "kind": "album",
+      "genres": [
+        "German Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811049896",
+      "title": "Semele",
+      "artist": "Margarita Slepakova & Le Sommeil",
+      "url": "https://music.apple.com/jp/album/semele/6811049896?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/32/2a/cb/322acb97-3ea6-0ac0-4013-598a68b1f872/8720929575855_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 16,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811698157",
+      "title": "Riket",
+      "artist": "Leo Svensson Sander",
+      "url": "https://music.apple.com/jp/album/riket/6811698157?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/4d/e4/074de483-8d39-c011-a8ff-ead7d4eeefb1/129793.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Alternative",
+        "Music",
+        "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6811867580",
+      "title": "Blood On My Hands EP - EP",
+      "artist": "Gabriels",
+      "url": "https://music.apple.com/jp/album/blood-on-my-hands-ep-ep/6811867580?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/20/d7/d020d78e-a385-2a07-b200-7195f7e47f4c/885288431087.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812002848",
+      "title": "Paris ne meurt jamais",
+      "artist": "Dany Brillant",
+      "url": "https://music.apple.com/jp/album/paris-ne-meurt-jamais/6812002848?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/1b/b0/ae1bb054-9ff7-8e30-2911-154b2e5bf428/1200220130979.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "French Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812357020",
+      "title": "Alain Souchon : Accompagné par Ours et Pierre Souchon (Live 2026) [Live 2026]",
+      "artist": "Alain Souchon",
+      "url": "https://music.apple.com/jp/album/alain-souchon-accompagn%C3%A9-par-ours-et-pierre-souchon/6812357020?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/cf/79/b7cf79d2-dd41-a98c-6700-e0ca5e1d24cc/1200220138418.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-20",
+      "trackCount": 39,
+      "kind": "album",
+      "genres": [
+        "French Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6809912967",
       "title": "The Long Surrender and The Fellow Passengers of Pain",
       "artist": "NEEDTOBREATHE",
@@ -4822,163 +4972,14 @@
       "tagline": null
     },
     {
-      "id": "6832808258",
-      "title": "PATHFINDER",
-      "artist": "AMPERS&ONE",
-      "url": "https://music.apple.com/jp/album/pathfinder/6832808258?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/62/36/cc62368c-937b-cdeb-9ae3-4e76b0127c03/8800388628115_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-17",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "K-Pop",
-        "Music",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6831361446",
-      "title": "Sessions",
-      "artist": "Ecca Vandal",
-      "url": "https://music.apple.com/jp/album/sessions/6831361446?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/ff/60/82ff6037-fd7d-87dc-48da-8984e7d7dc11/26CRGIM57923.rgb.jpg/632x632bb.jpg",
+      "id": "6811015266",
+      "title": "Merci De rien 2 - EP",
+      "artist": "Antes & Madzes",
+      "url": "https://music.apple.com/jp/album/merci-de-rien-2-ep/6811015266?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/a5/06/f1a506b5-5766-4d66-511e-ce63b61d4e61/3663729471413_cover.jpg/632x632bb.jpg",
       "explicit": true,
-      "releaseDate": "2026-11-17",
-      "trackCount": 3,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": "Apple Music Sessions"
-    },
-    {
-      "id": "6829017225",
-      "title": "Antisocial Superheroes",
-      "artist": "Craig G & Jake Palumbo",
-      "url": "https://music.apple.com/jp/album/antisocial-superheroes/6829017225?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/3b/8d/193b8dba-b68b-8026-d5a6-931fb897b7ee/17662.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-17",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6830107765",
-      "title": "MOGAMBO",
-      "artist": "Nazz",
-      "url": "https://music.apple.com/jp/album/mogambo/6830107765?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/d4/d6/6bd4d650-9dc5-d075-48e3-5b4c9f6dfe3c/711641145950.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-17",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6831709514",
-      "title": "Even Jail Couldn't Stop Him",
-      "artist": "T.ofordawin",
-      "url": "https://music.apple.com/jp/album/even-jail-couldnt-stop-him/6831709514?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/51/25/cc/5125cc90-5653-ba36-06fd-ac12fb2ba51b/808391414594.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-17",
-      "trackCount": 12,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6814926118",
-      "title": "Duff & Zoe Goes To College",
-      "artist": "Zoelyfe Zoe & Baby Duff",
-      "url": "https://music.apple.com/jp/album/duff-zoe-goes-to-college/6814926118?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/eb/86/4ceb86e4-b50f-a8cf-e8d3-f236936b76b2/67519.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-17",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819769572",
-      "title": "###FREEM7",
-      "artist": "FBLMANNY & Fursace",
-      "url": "https://music.apple.com/jp/album/freem7/6819769572?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/82/b7/7382b7e7-2d26-ab76-2d30-8b192ae6cfaf/67709.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-17",
-      "trackCount": 15,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6819420333",
-      "title": "Castelos & Ruínas (Remix 10 Anos)",
-      "artist": "BK",
-      "url": "https://music.apple.com/jp/album/castelos-ru%C3%ADnas-remix-10-anos/6819420333?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/98/b2/5898b21a-85ba-745d-1bfa-8f1682b9c590/823375515142_Cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-17",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Urbano latino",
-        "Music",
-        "Latin"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6825632286",
-      "title": "ON . EE . EH . RUH - EP",
-      "artist": "ONIERA",
-      "url": "https://music.apple.com/jp/album/on-ee-eh-ruh-ep/6825632286?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/21/7d/07217d3e-90ca-d6ad-a916-09122204e327/5064158177965_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-17",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music",
-        "Alternative"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6805646581",
-      "title": "Rehellisesti, Marko.",
-      "artist": "Läski Salonen",
-      "url": "https://music.apple.com/jp/album/rehellisesti-marko/6805646581?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/af/e1/74afe1b2-fa46-8e22-8136-287ef2b0b732/artwork.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-17",
-      "trackCount": 12,
+      "releaseDate": "2026-11-18",
+      "trackCount": 6,
       "kind": "album",
       "genres": [
         "Hip-Hop/Rap",
