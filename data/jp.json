@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:00:30.885Z",
+  "generatedAt": "2026-11-25T18:00:32.018Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -271,6 +271,22 @@
         "Music"
       ],
       "tagline": null
+    },
+    {
+      "id": "6837567866",
+      "title": "Apple Music Live: Troye Sivan",
+      "artist": "Troye Sivan",
+      "url": "https://music.apple.com/jp/album/apple-music-live-troye-sivan/6837567866?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/8c/4f/9d8c4f37-4519-3256-e7f7-d273f683ed8c/26UM1IM47983.rgb.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-20",
+      "trackCount": 18,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": "Exclusive Album"
     },
     {
       "id": "6827357170",
@@ -4540,22 +4556,6 @@
         "Music"
       ],
       "tagline": null
-    },
-    {
-      "id": "6826171191",
-      "title": "The Holy Inadequate (Live)",
-      "artist": "Maruja",
-      "url": "https://music.apple.com/jp/album/the-holy-inadequate-live/6826171191?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/d1/d1/90d1d1f5-2c71-cf97-cbb0-8a46c17a52aa/196874172971.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-20",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6809912967",
