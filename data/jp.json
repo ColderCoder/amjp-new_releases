@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T20:00:30.716Z",
+  "generatedAt": "2026-11-26T23:00:31.647Z",
   "source": "https://music.apple.com/jp/room/6837016068?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6837016068?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -3115,57 +3115,6 @@
       "tagline": null
     },
     {
-      "id": "6828873847",
-      "title": "FTP, Vol. 1",
-      "artist": "Babz",
-      "url": "https://music.apple.com/jp/album/ftp-vol-1/6828873847?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/fe/4f/55fe4fca-c80a-7b1c-28e0-5758e16667a8/711641067382.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-27",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6829084278",
-      "title": "Raiz",
-      "artist": "RAY",
-      "url": "https://music.apple.com/jp/album/raiz/6829084278?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/21/f2/6921f2e3-f83a-0716-fcc3-4f8c77596d5e/0.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-27",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "MPB",
-        "Music",
-        "Brazilian",
-        "Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6829227418",
-      "title": "Był sobie chłopiec",
-      "artist": "Jędrzej Wise",
-      "url": "https://music.apple.com/jp/album/by%C5%82-sobie-ch%C5%82opiec/6829227418?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/e7/b3/f2e7b336-854c-c0b1-3d8c-9ec7ead492f3/5905802851452.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-27",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Rock",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6836946746",
       "title": "Vencedor (Remasterizado 2026)",
       "artist": "Valentín Elizalde",
@@ -3245,6 +3194,22 @@
         "Jazz",
         "Music",
         "Electronic"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6833669891",
+      "title": "Lo peor que te pasó en la vida - EP",
+      "artist": "Hana Fox",
+      "url": "https://music.apple.com/jp/album/lo-peor-que-te-pas%C3%B3-en-la-vida-ep/6833669891?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/eb/7f/bdeb7f71-f38c-bfdc-d73b-53f128248d40/850083983802_Cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-26",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Latin",
+        "Music"
       ],
       "tagline": null
     },
@@ -3396,6 +3361,38 @@
         "Hip-Hop",
         "Music",
         "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6812744463",
+      "title": "LAPSUS",
+      "artist": "Ultraligera",
+      "url": "https://music.apple.com/jp/album/lapsus/6812744463?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/1d/1b/2a1d1b93-f591-7a68-ab5e-55dbb4fedecb/1200214973834.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-26",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6825436929",
+      "title": "plusjamaisp0vre - EP",
+      "artist": "Keman",
+      "url": "https://music.apple.com/jp/album/plusjamaisp0vre-ep/6825436929?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/69/e1/d969e1da-a6fd-b759-6aa4-450d3976213a/26SYMIM36764.rgb.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-26",
+      "trackCount": 6,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
       ],
       "tagline": null
     },
