@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:00:31.305Z",
+  "generatedAt": "2026-11-27T05:00:30.413Z",
   "source": "https://music.apple.com/jp/room/6839813438?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6839813438?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1637,6 +1637,23 @@
       "tagline": null
     },
     {
+      "id": "6836103078",
+      "title": "Desde La Base 1 EUM",
+      "artist": "Uno En Un Millon",
+      "url": "https://music.apple.com/jp/album/desde-la-base-1-eum/6836103078?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/ac/df/3aacdfa5-9814-b403-5f81-ca48fdf0b46a/612735705374_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Música Mexicana",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6830284647",
       "title": "La Más Chula (Deluxe)",
       "artist": "Los Ejemplares del Rancho",
@@ -1686,6 +1703,22 @@
         "Holiday"
       ],
       "tagline": null
+    },
+    {
+      "id": "6837459760",
+      "title": "Black Punk",
+      "artist": "Molly Santana",
+      "url": "https://music.apple.com/jp/album/black-punk/6837459760?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/91/e8/8d91e8bd-5ed0-ae13-cc19-5c35a1d02676/196874977132.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-27",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": "New Album"
     },
     {
       "id": "6828758424",
@@ -2516,39 +2549,6 @@
       "genres": [
         "French Pop",
         "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6820010370",
-      "title": "Personale II",
-      "artist": "Bitza",
-      "url": "https://music.apple.com/jp/album/personale-ii/6820010370?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/39/a0/3139a064-1235-ab8e-f6cc-07d41c8bda46/cover.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-27",
-      "trackCount": 11,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6820591693",
-      "title": "Solèy Brut",
-      "artist": "Wild Classical Music Ensemble & Fournèz",
-      "url": "https://music.apple.com/jp/album/sol%C3%A8y-brut/6820591693?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/26/5c/96265c83-0feb-feb7-4744-c6508ecf7942/3516628532511_cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-27",
-      "trackCount": 9,
-      "kind": "album",
-      "genres": [
-        "Indie Rock",
-        "Music",
-        "Alternative"
       ],
       "tagline": null
     },
