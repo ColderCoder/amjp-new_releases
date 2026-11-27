@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:00:31.302Z",
+  "generatedAt": "2026-11-27T08:00:30.812Z",
   "source": "https://music.apple.com/jp/room/6839813438?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6839813438?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -1553,6 +1553,22 @@
       "tagline": null
     },
     {
+      "id": "6831538458",
+      "title": "Sum of Everything - EP",
+      "artist": "Bohm",
+      "url": "https://music.apple.com/jp/album/sum-of-everything-ep/6831538458?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/c4/16/52c4162c-b905-ec10-d7be-d5d8d8652c83/8721639627216.png/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 4,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6833492169",
       "title": "Kavanah Ep",
       "artist": "UVB",
@@ -2549,6 +2565,144 @@
       "genres": [
         "French Pop",
         "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6820010370",
+      "title": "Personale II",
+      "artist": "Bitza",
+      "url": "https://music.apple.com/jp/album/personale-ii/6820010370?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/31/39/a0/3139a064-1235-ab8e-f6cc-07d41c8bda46/cover.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-27",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop/Rap",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6820591693",
+      "title": "Solèy Brut",
+      "artist": "Wild Classical Music Ensemble & Fournèz",
+      "url": "https://music.apple.com/jp/album/sol%C3%A8y-brut/6820591693?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/26/5c/96265c83-0feb-feb7-4744-c6508ecf7942/3516628532511_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 9,
+      "kind": "album",
+      "genres": [
+        "Indie Rock",
+        "Music",
+        "Alternative"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6821105506",
+      "title": "Fauré: Violin Works",
+      "artist": "Gian Paolo Peloso & Bruno Canino",
+      "url": "https://music.apple.com/jp/album/faur%C3%A9-violin-works/6821105506?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/34/3b/39343b14-b835-7027-f16e-9f20b539575d/5060189569724_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 10,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Violin",
+        "Chamber Music"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822036265",
+      "title": "Beethoven Vol. 1 Pathetique",
+      "artist": "François Dumont",
+      "url": "https://music.apple.com/jp/album/beethoven-vol-1-pathetique/6822036265?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/e1/74/a8e174ae-8b9e-3395-c987-a6a787cbba70/5051083242233_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 11,
+      "kind": "album",
+      "genres": [
+        "Classical",
+        "Music",
+        "Solo Instrumental",
+        "Piano"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822320877",
+      "title": "KINDOKI",
+      "artist": "BabyDaiz",
+      "url": "https://music.apple.com/jp/album/kindoki/6822320877?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/6f/3d/cf6f3d41-a80f-87b0-28b1-9041905f2564/1200220300433.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-27",
+      "trackCount": 15,
+      "kind": "album",
+      "genres": [
+        "Afrobeats",
+        "Music",
+        "African"
+      ],
+      "tagline": "New Album"
+    },
+    {
+      "id": "6822387996",
+      "title": "Dance, Love & Rave",
+      "artist": "Lovince Mckenzie",
+      "url": "https://music.apple.com/jp/album/dance-love-rave/6822387996?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/59/db/12/59db12a3-8120-cfb3-a4c9-4eb6717d2997/199316800609_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "Afro House",
+        "Music",
+        "African"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822393134",
+      "title": "Araf",
+      "artist": "Afra",
+      "url": "https://music.apple.com/jp/album/araf/6822393134?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/0e/ad/740ead8b-46ea-a2a5-c9fe-29c4432058b2/0.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Turkish",
+        "Music",
+        "Pop",
+        "Turkish Pop"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822487100",
+      "title": "A La Altura: Visionary Mexican Music 1980-1997 - Volume 2",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/a-la-altura-visionary-mexican-music-1980-1997-volume-2/6822487100?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/54/ca/2754ca49-9d56-de52-9ef1-095c23a14fe2/453.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Latin"
       ],
       "tagline": null
     },
@@ -3990,6 +4144,22 @@
       "tagline": null
     },
     {
+      "id": "6821064436",
+      "title": "Do Me Wrong (Mixtape)",
+      "artist": "Bluestaeb",
+      "url": "https://music.apple.com/jp/album/do-me-wrong-mixtape/6821064436?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/75/d1/f875d189-c170-73a2-ca06-e256ac48c075/cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-25",
+      "trackCount": 7,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6830439064",
       "title": "Promise of Wizard the Stage Flowers for You, Magic for the Sky Part1",
       "artist": "Promise of wizard THE STAGE company",
@@ -4121,6 +4291,23 @@
         "Alternative Rap"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6822403020",
+      "title": "Lo & Behold",
+      "artist": "Dark Lo",
+      "url": "https://music.apple.com/jp/album/lo-behold/6822403020?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/dd/c7/02ddc70d-e15a-d991-ccf8-6c5abea994fb/885288820126.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-24",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
     },
     {
       "id": "6821928899",
@@ -4418,40 +4605,6 @@
       "tagline": null
     },
     {
-      "id": "6830140408",
-      "title": "They",
-      "artist": "Guiltera",
-      "url": "https://music.apple.com/jp/album/they/6830140408?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/cd/b7/0acdb770-47fc-e4f8-4940-36aa87e8814c/artwork.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Metal",
-        "Music",
-        "Rock"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6829739557",
-      "title": "Chromatic - EP",
-      "artist": "Arthi",
-      "url": "https://music.apple.com/jp/album/chromatic-ep/6829739557?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/da/fe/6f/dafe6f2e-0488-42c4-5db7-71bfd3b8a327/cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Garage",
-        "Music",
-        "Dance"
-      ],
-      "tagline": null
-    },
-    {
       "id": "6835708386",
       "title": "Club Kid: Night Shift (DJ Mix)",
       "artist": "Night Shift (Arlo)",
@@ -4571,156 +4724,6 @@
         "Dance"
       ],
       "tagline": "New DJ Mix"
-    },
-    {
-      "id": "6828442917",
-      "title": "NOTHING & EVERYTHING - EP",
-      "artist": "AWAY & Omri",
-      "url": "https://music.apple.com/jp/album/nothing-everything-ep/6828442917?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/4f/01/0d4f01c6-050e-7af7-405f-2b3379fae6e3/193436493031_AWAYxOmriNOTHINGEVERYTHINGEPCOVER.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 4,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6808779769",
-      "title": "Here, Forever",
-      "artist": "MPH",
-      "url": "https://music.apple.com/jp/album/here-forever/6808779769?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/45/56/de455616-cc31-3381-68d0-63ee50ac92ae/823375291725_Cover.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 14,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": "New Album"
-    },
-    {
-      "id": "6825039991",
-      "title": "On My Way",
-      "artist": "anamē",
-      "url": "https://music.apple.com/jp/album/on-my-way/6825039991?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/b2/e9/02b2e97b-418d-e1c3-7303-44d1c6949428/612891309119.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6823789222",
-      "title": "SKWISH",
-      "artist": "Dirt Monkey",
-      "url": "https://music.apple.com/jp/album/skwish/6823789222?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/40/b6/95/40b695ac-a66d-a456-0b54-e01176c69d08/612891304626.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-20",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Dance",
-        "Music",
-        "Electronic",
-        "Dubstep"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6825414820",
-      "title": "The Incarnation: A Christmas Worship Album",
-      "artist": "Jesus Image",
-      "url": "https://music.apple.com/jp/album/the-incarnation-a-christmas-worship-album/6825414820?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/dd/a4/76dda45a-9696-d9b3-a01d-1d883c606430/26SYMIM37333.rgb.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Christian",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826184160",
-      "title": "A Merry Little Christmas - EP",
-      "artist": "Seth Condrey",
-      "url": "https://music.apple.com/jp/album/a-merry-little-christmas-ep/6826184160?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/c4/49/a6c44997-910e-1b4b-eac7-ff786e65a965/0197907016095.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 5,
-      "kind": "album",
-      "genres": [
-        "Christian",
-        "Music",
-        "Holiday"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6826430319",
-      "title": "Integrity Music Presents: A Night of Christmas Worship with Paul Baloche",
-      "artist": "Paul Baloche",
-      "url": "https://music.apple.com/jp/album/integrity-music-presents-a-night-of-christmas/6826430319?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/1a/70/251a70f2-8962-57bd-eb4e-41631d87cc92/0197907015340.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Christian",
-        "Music",
-        "Holiday"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6798811091",
-      "title": "Christmas Worship",
-      "artist": "The Church Will Sing",
-      "url": "https://music.apple.com/jp/album/christmas-worship/6798811091?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/5f/15/bf5f1524-fc48-03ee-b979-9b9d84e52981/194646572660.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 7,
-      "kind": "album",
-      "genres": [
-        "Christmas",
-        "Music",
-        "Holiday"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6817937925",
-      "title": "Restoration",
-      "artist": "Marvin Sapp",
-      "url": "https://music.apple.com/jp/album/restoration/6817937925?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/16/b2/a516b29a-22e2-9165-58e1-9d03580dbec3/8721639142405.png/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-20",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "Gospel",
-        "Music",
-        "Christian"
-      ],
-      "tagline": "New Album"
     },
     {
       "id": "6829885058",
