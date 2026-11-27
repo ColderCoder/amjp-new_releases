@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:00:31.891Z",
+  "generatedAt": "2026-11-27T18:00:30.972Z",
   "source": "https://music.apple.com/jp/room/6839813438?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6839813438?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2636,6 +2636,23 @@
       "tagline": null
     },
     {
+      "id": "6821139732",
+      "title": "Sentimentos em Wav...",
+      "artist": "MC Caverinha",
+      "url": "https://music.apple.com/jp/album/sentimentos-em-wav/6821139732?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/4c/a9/4e4ca94b-0ba2-bb86-547f-455590828d03/196874673959.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Hip-Hop",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6822036265",
       "title": "Beethoven Vol. 1 Pathetique",
       "artist": "François Dumont",
@@ -4290,23 +4307,6 @@
         "Alternative Rap"
       ],
       "tagline": "New Album"
-    },
-    {
-      "id": "6822403020",
-      "title": "Lo & Behold",
-      "artist": "Dark Lo",
-      "url": "https://music.apple.com/jp/album/lo-behold/6822403020?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/dd/c7/02ddc70d-e15a-d991-ccf8-6c5abea994fb/885288820126.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-24",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Rap",
-        "Music",
-        "Hip-Hop/Rap"
-      ],
-      "tagline": null
     },
     {
       "id": "6821928899",
