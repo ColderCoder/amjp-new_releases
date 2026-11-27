@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:00:31.526Z",
+  "generatedAt": "2026-11-27T15:00:31.891Z",
   "source": "https://music.apple.com/jp/room/6839813438?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6839813438?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -78,7 +78,7 @@
     {
       "id": "6833766884",
       "title": "WANDANCE the Movie (Original Soundtrack)",
-      "artist": "Various Artists",
+      "artist": "Ovall, Shingo Suzuki, mabanua & Nenashi",
       "url": "https://music.apple.com/jp/album/wandance-the-movie-original-soundtrack/6833766884?l=en-US",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/76/ae/1d76ae97-1846-1935-e160-40e118c26a3c/WANDANCE_JKT.jpg/632x632bb.jpg",
       "explicit": false,
@@ -2553,6 +2553,22 @@
       "tagline": null
     },
     {
+      "id": "6818558361",
+      "title": "Impuls",
+      "artist": "nita",
+      "url": "https://music.apple.com/jp/album/impuls/6818558361?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/1d/fe/8e1dfeae-d92e-94c3-83d1-e34900bb8d56/0001161033746.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "Pop",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6819754748",
       "title": "Le feu, le brasier, le magma",
       "artist": "Marine",
@@ -2686,23 +2702,6 @@
         "Music",
         "Pop",
         "Turkish Pop"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6822487100",
-      "title": "A La Altura: Visionary Mexican Music 1980-1997 - Volume 2",
-      "artist": "Various Artists",
-      "url": "https://music.apple.com/jp/album/a-la-altura-visionary-mexican-music-1980-1997-volume-2/6822487100?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/54/ca/2754ca49-9d56-de52-9ef1-095c23a14fe2/453.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-27",
-      "trackCount": 13,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music",
-        "Latin"
       ],
       "tagline": null
     },
