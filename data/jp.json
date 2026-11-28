@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T19:00:30.530Z",
+  "generatedAt": "2026-11-28T08:00:30.769Z",
   "source": "https://music.apple.com/jp/room/6839813438?l=en-US",
   "apiSource": "https://amp-api.music.apple.com/v1/editorial/jp/rooms/6839813438?l=en-US&art%5Burl%5D=f&format%5Bresources%5D=map&limit%5Bcontents%5D=300&platform=web",
   "storefront": "jp",
@@ -2723,6 +2723,39 @@
       "tagline": null
     },
     {
+      "id": "6822487100",
+      "title": "A La Altura: Visionary Mexican Music 1980-1997 - Volume 2",
+      "artist": "Various Artists",
+      "url": "https://music.apple.com/jp/album/a-la-altura-visionary-mexican-music-1980-1997-volume-2/6822487100?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/54/ca/2754ca49-9d56-de52-9ef1-095c23a14fe2/453.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Electronic",
+        "Music",
+        "Latin"
+      ],
+      "tagline": null
+    },
+    {
+      "id": "6822698796",
+      "title": "Après Minuit",
+      "artist": "RnBoi",
+      "url": "https://music.apple.com/jp/album/apr%C3%A8s-minuit/6822698796?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/3a/d2/f33ad271-ce6d-2aaa-39bf-57e9bc8ea761/5056556187615_cover.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-27",
+      "trackCount": 12,
+      "kind": "album",
+      "genres": [
+        "R&B/Soul",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6836946746",
       "title": "Vencedor (Remasterizado 2026)",
       "artist": "Valentín Elizalde",
@@ -4176,6 +4209,22 @@
       "tagline": null
     },
     {
+      "id": "6822553728",
+      "title": "GOOD EVENING",
+      "artist": "Large House Satisfaction",
+      "url": "https://music.apple.com/jp/album/good-evening/6822553728?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/35/05/32350520-cffe-b3cf-76cb-3d3994dba93f/4525853895895.jpg/632x632bb.jpg",
+      "explicit": false,
+      "releaseDate": "2026-11-25",
+      "trackCount": 8,
+      "kind": "album",
+      "genres": [
+        "Rock",
+        "Music"
+      ],
+      "tagline": null
+    },
+    {
       "id": "6830439064",
       "title": "Promise of Wizard the Stage Flowers for You, Magic for the Sky Part1",
       "artist": "Promise of wizard THE STAGE company",
@@ -4307,6 +4356,23 @@
         "Alternative Rap"
       ],
       "tagline": "New Album"
+    },
+    {
+      "id": "6822403020",
+      "title": "Lo & Behold",
+      "artist": "Dark Lo",
+      "url": "https://music.apple.com/jp/album/lo-behold/6822403020?l=en-US",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/dd/c7/02ddc70d-e15a-d991-ccf8-6c5abea994fb/885288820126.jpg/632x632bb.jpg",
+      "explicit": true,
+      "releaseDate": "2026-11-24",
+      "trackCount": 13,
+      "kind": "album",
+      "genres": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+      ],
+      "tagline": null
     },
     {
       "id": "6821928899",
@@ -4535,70 +4601,6 @@
       "kind": "album",
       "genres": [
         "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6828699983",
-      "title": "ORCHESTRAL JEWELS",
-      "artist": "Hiroko Yakushimaru",
-      "url": "https://music.apple.com/jp/album/orchestral-jewels/6828699983?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/4f/5e/654f5e90-bf06-aa3e-d108-8b32fdaf711d/VICL-66188.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-21",
-      "trackCount": 10,
-      "kind": "album",
-      "genres": [
-        "J-Pop",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6830566491",
-      "title": "『装甲騎兵ボトムズ 灰色の魔女』オリジナルサウンドトラック",
-      "artist": "Kenji Kawai",
-      "url": "https://music.apple.com/jp/album/%E8%A3%85%E7%94%B2%E9%A8%8E%E5%85%B5%E3%83%9C%E3%83%88%E3%83%A0%E3%82%BA-%E7%81%B0%E8%89%B2%E3%81%AE%E9%AD%94%E5%A5%B3-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/6830566491?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/8f/d3/008fd37f-6d56-795d-25f7-b054ccc4882d/4540774751280.jpg/632x632bb.jpg",
-      "explicit": true,
-      "releaseDate": "2026-11-21",
-      "trackCount": 17,
-      "kind": "album",
-      "genres": [
-        "Anime",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6832930122",
-      "title": "Human..it Repeats.ep (feat. Otomachi Una) - EP",
-      "artist": "Adomiori",
-      "url": "https://music.apple.com/jp/album/human-%E3%81%9D%E3%81%AE%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97-ep-feat-otomachi-una-ep/6832930122?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/a7/34/53a734e6-ee66-83b4-325c-182e1a14365f/bigup14647639.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-21",
-      "trackCount": 6,
-      "kind": "album",
-      "genres": [
-        "Electronic",
-        "Music"
-      ],
-      "tagline": null
-    },
-    {
-      "id": "6832814116",
-      "title": "Walk Around New York 3",
-      "artist": "MUTA",
-      "url": "https://music.apple.com/jp/album/walk-around-new-york-3/6832814116?l=en-US",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/65/8f/4f658fd7-3f23-18fa-4565-d958dddff1d9/4500000099098.jpg/632x632bb.jpg",
-      "explicit": false,
-      "releaseDate": "2026-11-21",
-      "trackCount": 8,
-      "kind": "album",
-      "genres": [
-        "Hip-Hop/Rap",
         "Music"
       ],
       "tagline": null
